@@ -8,17 +8,17 @@ The following formatting can be achieved by using specific symbols around the te
 
 _Italics_ - \*italics\* or \_italics\_
 
-\<span style="text-decoration:underline"> _<mark style="color:yellow;">Underline italics</mark>_ \</span> - \_\_\*underline italics\*\_\_
+_Underline Italics_ - \_\_\*underline italics\*\_\_
 
 **Bold -** \*\*bold\*\*
 
-<mark style="color:yellow;">**Underline bold**</mark> - \_\_\*\*underline bold\*\*\_\_
+**Underline Bold** - \_\_\*\*underline bold\*\*\_\_
 
 _**Bold Italics**_ - \*\*\*bold italics\*\*\*
 
-_<mark style="color:yellow;">**underline bold italics**</mark>_ - \_\_\*\*\*underline bold italics\*\*\*\_\_
+_**Underline Bold Italics**_ - \_\_\*\*\*underline bold italics\*\*\*\_\_
 
-<mark style="color:yellow;">Underline</mark> - \_\_underline\_\_
+Underline - \_\_underline\_\_
 
 ~~Strikethrough~~ - \~\~Strikethrough\~\~
 
