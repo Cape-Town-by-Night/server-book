@@ -8,7 +8,7 @@ The following formatting can be achieved by using specific symbols around the te
 
 _Italics_ - \*italics\* or \_italics\_
 
-_Underline Italics_ - \_\_\*underline italics\*\_\_
+_Underline Italics_ - <ins>\_\_\*underline italics\*\_\_</ins>
 
 **Bold -** \*\*bold\*\*
 
