@@ -14,12 +14,10 @@
 * [Character Creation](getting-started/character-creation.md)
 * [Getting Approved](getting-started/getting-approved.md)
 * [Beginner's Guide](getting-started/beginners-guide/README.md)
+  * [Player Etiquette](getting-started/beginners-guide/player-etiquette.md)
   * [How to Format](getting-started/beginners-guide/how-to-format.md)
-  * [Narrative Aids](getting-started/beginners-guide/narrative-aids.md)
   * [Mechanical Aids](getting-started/beginners-guide/mechanical-aids.md)
   * [Server-Specific Information](getting-started/beginners-guide/server-specific-information.md)
-* [Power-gaming and Meta-gaming](getting-started/power-gaming-and-meta-gaming.md)
-* [Character Bleed](getting-started/character-bleed.md)
 
 ## Homebrew
 
