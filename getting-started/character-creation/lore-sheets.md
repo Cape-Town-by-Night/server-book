@@ -1,4 +1,4 @@
-# Lore Sheets
+# ❌ Lore Sheets
 
 Below is a list of all the lore sheets, sorted by book, with their listed availability and any homebrewed changes. "Banned" lore sheets are not allowed while "locked" lore sheets will often require an in-character arc. Any mentions of canon characters and locations need to be changed to be something less iconic and more fitting to the character and setting.
 

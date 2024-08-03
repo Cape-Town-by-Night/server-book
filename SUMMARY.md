@@ -11,30 +11,27 @@
 
 * [Do I Need the Book?](getting-started/do-i-need-the-book.md)
 * [PDF Best Practices](getting-started/pdf-best-practices.md)
-* [Character Creation](getting-started/character-creation.md)
+* [Character Creation](getting-started/character-creation/README.md)
+  * [❌ Convictions and Touchstones](getting-started/character-creation/convictions-and-touchstones.md)
+  * [❌ Lore Sheets](getting-started/character-creation/lore-sheets.md)
+  * [❌ Bloodlines](getting-started/character-creation/bloodlines.md)
 * [Getting Approved](getting-started/getting-approved.md)
 * [Beginner's Guide](getting-started/beginners-guide/README.md)
   * [Player Etiquette](getting-started/beginners-guide/player-etiquette.md)
   * [How to Format](getting-started/beginners-guide/how-to-format.md)
-  * [Mechanical Aids](getting-started/beginners-guide/mechanical-aids.md)
-  * [Server-Specific Information](getting-started/beginners-guide/server-specific-information.md)
-
-## Homebrew
-
-* [Animal Rules](homebrew/animal-rules/README.md)
-  * [Additional Stat Blocks](homebrew/animal-rules/additional-stat-blocks.md)
-* [Convictions and Touchstones](homebrew/convictions-and-touchstones.md)
-* [Lore Sheets](homebrew/lore-sheets.md)
-* [Bloodlines](homebrew/bloodlines.md)
+  * [❌ Common Mechanics](getting-started/beginners-guide/mechanical-aids.md)
+  * [❌ Server-Specific Information](getting-started/beginners-guide/server-specific-information.md)
+  * [❌ Frequently Asked Questions](getting-started/beginners-guide/frequently-asked-questions.md)
+  * [❌ Creating and Pursuing Plots](getting-started/beginners-guide/creating-and-pursuing-plots.md)
 
 ## Miscellaneous
 
-* [Creating and Pursuing Plots](miscellaneous/creating-and-pursuing-plots.md)
-* [Frequently Asked Questions](miscellaneous/frequently-asked-questions.md)
 * [Experience Spending and Timeskip](miscellaneous/experience-spending-and-timeskip.md)
 * [Rulings](miscellaneous/rulings.md)
 * [Sect War Rules](miscellaneous/sect-war-rules.md)
 * [Sports and Game Rules](miscellaneous/sports-and-game-rules.md)
+* [Animal Rules](miscellaneous/animal-rules/README.md)
+  * [Additional Stat Blocks](miscellaneous/animal-rules/additional-stat-blocks.md)
 
 ## Information on Each Source Book
 

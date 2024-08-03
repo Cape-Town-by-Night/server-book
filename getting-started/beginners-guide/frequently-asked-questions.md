@@ -1,11 +1,11 @@
-# Frequently Asked Questions
+# ❌ Frequently Asked Questions
 
-In addition to the questions and answers below, be sure to check the [rulings](rulings.md) page and the [Advantages and Flaws](broken-reference) page.
+In addition to the questions and answers below, be sure to check the [rulings](../../miscellaneous/rulings.md) page and the [Advantages and Flaws](broken-reference) page.
 
 ### How do I spend XP?
 
-{% content-ref url="experience-spending-and-timeskip.md" %}
-[experience-spending-and-timeskip.md](experience-spending-and-timeskip.md)
+{% content-ref url="../../miscellaneous/experience-spending-and-timeskip.md" %}
+[experience-spending-and-timeskip.md](../../miscellaneous/experience-spending-and-timeskip.md)
 {% endcontent-ref %}
 
 ### Scene Requests
@@ -121,7 +121,7 @@ We use the following guidlines:\
 
 #### _"Is X allowed?"_
 
-[players-guide-material](../information-on-each-source-book/players-guide-material/ "mention")
+[players-guide-material](../../information-on-each-source-book/players-guide-material/ "mention")
 
 #### _"Why is X banned?"_
 

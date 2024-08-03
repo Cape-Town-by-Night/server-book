@@ -13,39 +13,19 @@ description: >-
 * Thin-Bloods may not take the _Branded by the Camarilla_ flaw.
 * "Hopeless Addiction": For finding the correct addict, the roll is Resolve + Awareness, DC 4
 
-#### Sleeping with the enemy
-
-Characters entering a romantic relationship with a member of an opposing sect may face censure.
-
-| If one partner is ... | and the other is ... | then ...                     |
-| --------------------- | -------------------- | ---------------------------- |
-| Camarilla             | Anarch               | Both get Dark Secret •       |
-| Camarilla             | Autarkis             | Camarilla gets Dark Secret • |
-| Titled Anarch         | Autarkis             | Anarch gets Dark Secret •    |
-
-Other combinations face no mechanical penalties, though PCs may have their own opinions. The Dark Secret flaw is specifically called "Sleeping with the Enemy".
-
 ### Ceremonies and Rituals
 
 Ceremonies and rituals benefit from Rouse check re-rolls granted by Blood Potency.
 
 Caitiff who take Blood Sorcery or Oblivion, or characters who later learn either of those Disciplines out-of-clan, require a tutor to learn Rituals or Ceremonies.
 
-For this purpose, Necromancy Ceremonies are considered "in-clan" for Hecata, and Abbyssal Ceremonies are "in-clan" for Lasombra.
+### <mark style="color:yellow;">Diablerie</mark>
 
-### Contested Rolls
-
-Contested rolls use a DC of 0 and therefore result in a bestial failure _only if_ no successes are rolled (i.e. a total failure with one or more 1s on a Hunger die). On a tie, the initiator wins. The exception to this is insight checks, the person being lied to wins on ties.
-
-### Diablerie
-
-* You may not use banked XP on Disciplines.
-* Diablerie purchases do not count against your one purchase per chronicle.
-* Discipline purchases in diablerie _do_ reset your purchasing cooldown for that Discipline.
+* <mark style="color:yellow;">You may not use banked XP on Disciplines.</mark>
+* <mark style="color:yellow;">Diablerie purchases do not count against your one purchase per chronicle.</mark>
+* <mark style="color:yellow;">Discipline purchases in diablerie</mark> <mark style="color:yellow;"></mark>_<mark style="color:yellow;">do</mark>_ <mark style="color:yellow;"></mark><mark style="color:yellow;">reset your purchasing cooldown for that Discipline.</mark>
 
 #### Learning Out-of-Clan Disciplines
-
-In addition to drinking the blood of the appropriate clan, you must be taught the first level of an out-of-clan discipline by someone who knows it. After learning the first level, you merely need the correct resonance and appropriate RP, as defined in the [experience spending page](experience-spending-and-timeskip.md).
 
 Vitae retains its Discipline-unlocking properties for 15 minutes outside of the body.
 
@@ -53,15 +33,9 @@ Thin-Blood and Caitiff vitae may not be used to unlock out-of-clan Disciplines.
 
 #### Sharing Disciplines
 
-You may only share your in-clan disciplines when you share your vitae with another kindred. In addition, kindred count as "having" the resonance for their in-clan disciplines.
-
-**Clarification on P.158 (Spending Willpower)**
-
-Per RAW, you cannot spend a Willpower to ignore Dominate or Presence. You may only spend Willpower to ignore Dominate if your character is of lower generation than the user.
+You may only share your in-clan disciplines when you share your vitae with another kindred. In addition, <mark style="color:yellow;">kindred count as "having" the resonance for their in-clan disciplines.</mark>
 
 #### Auspex
-
-Sense the Unseen cannot detect Presence powers.
 
 **Share the Senses**
 
@@ -92,25 +66,7 @@ _Illuminate the Trail of Prey_
 * The caster must know the target's "permanent" face. Temporary appearances, such as those granted by Mask of a Thousand Faces, Protean shapeshifting, etc., are insufficient.
 * The trail immediately disappears if the target dies, or if their face is permanently changed, such as through Vicissitude.
 
-#### Dominate & Presence
-
-You _**may not**_ spend Willpower to blanket ignore Dominate or Presence for a turn unless the power explicitly says so.
-
-#### Fortitude
-
-_Unswayable Mind_
-
-This power applies to rolls to resist orders from a domitor/regnant.
-
-#### Necromancy
-
-Wraiths in necromancy: [See this page](broken-reference).
-
 ### Herd
-
-#### Gardener
-
-Provided they are Bahari, characters with Obvious Predator may still purchase the Gardener background.
 
 #### Organovore
 
@@ -118,13 +74,7 @@ Characters with Organovore may not maintain a herd.
 
 ### Hunting
 
-Hunting is generally considered to take an hour of in-character time. Players may not hunt more than three times a night, including failed hunts. When scoring a crit on a hunt, you may either find two victims _or_ increase the temperament of the blood by one level. If the random temperament was already acute, it becomes a dyscrasia that you may instantly tap without killing the vessel.
-
-You may aid another's hunt roll via the teamwork mechanism. Doing so consumes one of your three hunts for the night.
-
-#### Bagger
-
-* On a successful hunt, a Bagger can gain two Hunger's worth of blood, with the ability to gain a third on a crit.
+Hunting is generally considered to take an hour of in-character time.
 
 #### Harmful Drinks
 
@@ -138,10 +88,6 @@ You may aid another's hunt roll via the teamwork mechanism. Doing so consumes on
 * **Hallucinogens:** Unable to concentrate, the character's Wits, Resolve, and Manipulation pools are lowered by two dice. The difficulty to resist frenzy decreases by one.
 * **Heroin/Morphine/Oxy/Opiates:** Subtract two dice from all Physical dice pools. Reduce frenzy difficulties by one.
 * **Marijuana:** The mortal experiences a slightly altered perception of time, suffering a one-die reduction to Wits dice pools. Frenzy difficulties drop by one.
-
-### Explosives
-
-Player characters are not allowed to have explosives.
 
 ### Haven
 

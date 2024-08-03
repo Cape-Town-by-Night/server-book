@@ -1,4 +1,4 @@
-# Creating and Pursuing Plots
+# ❌ Creating and Pursuing Plots
 
 In a sandbox-style server, most plot points you pursue will be cemented in personal character arcs as opposed to those set up by Storytellers. Players are always free to pursue their arcs and assist in the resolution of others’ while staff offers guidance for the mechanical aspect of play. For example, you have complete control over characters in your PC’s backgrounds unless your character is gaining some benefit (mechanical or otherwise) from the interaction. At that point, you would ask staff for assistance and permission. A great place to ask for help with this is in your ticket or (if it is an arc with multiple characters involved) your coordination thread with your partners.
 
