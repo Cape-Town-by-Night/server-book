@@ -13,49 +13,6 @@ Convictions are placed into categories depending on their importance to the kind
 * **Minor:** +/- 1 stain
   * _Loosely established opinions, views, and codes of conduct. Things that they are inclined to believe, but that can quickly fall by the wayside when the going gets tough._
 
-<details>
-
-<summary>Examples of good Convictions</summary>
-
-* Always pursue pleasure, even when it's not convenient
-* Always treat others with kindness
-* Never disobey authority
-* Always punish disobedience
-* Protect the innocent from harm
-* Value courage above all else
-* Always keep your sworn word
-* The truth is sacred; thou shalt not lie
-* Slavery is evil
-* Never submit to another's wishes
-* The guilty must be punished
-* Reject wealth, for it corrupts
-* Never act against another (insert own group/faith/sect)
-* Always aid women in need
-* Stand up for the disenfranchised
-* Respect (insert religion here) as sacred and obey its moral laws
-* Don’t take from those in need
-* Always protect your comrades
-* People matter more than rules
-* Don’t stop until the job is done
-* Never break a deal
-* Love thy neighbor as thyself
-* Support those loyal to you
-
-</details>
-
-<details>
-
-<summary>Examples of bad Convictions</summary>
-
-These are convictions that you will be asked to tweak or swap with something completely different.
-
-* Do not torture- _Not allowed as this is already a chronicle tenet_
-* Do not harm children- _Not allowed as children are not allowed to be detailed in RP_
-* Survive at all costs/The ends justify the means- _Too broad_
-* Never expose children to violence- _Not allowed as children are not allowed to be detailed in RP_
-
-</details>
-
 ### Touchstone interactions
 
 Characters may heal Aggravated Willpower damage through a touchstone interaction vignette.

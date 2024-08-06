@@ -26,15 +26,14 @@
 
 ## Miscellaneous
 
-* [Experience Spending and Timeskip](miscellaneous/experience-spending-and-timeskip.md)
-* [Rulings](miscellaneous/rulings.md)
 * [Sect War Rules](miscellaneous/sect-war-rules.md)
-* [Sports and Game Rules](miscellaneous/sports-and-game-rules.md)
-* [Animal Rules](miscellaneous/animal-rules/README.md)
-  * [Additional Stat Blocks](miscellaneous/animal-rules/additional-stat-blocks.md)
+* [Experience Spending and Timeskip](miscellaneous/experience-spending-and-timeskip.md)
+* [Rulings and Clarifications](miscellaneous/rulings.md)
+* [❌ Animal Rule Clarification and Extra Stat Blocks](miscellaneous/animal-rules.md)
 
 ## Information on Each Source Book
 
+* [Don't See Your Book Here?](information-on-each-source-book/dont-see-your-book-here.md)
 * [Player's Guide Material](information-on-each-source-book/players-guide-material/README.md)
   * [Alternate Clan Banes](information-on-each-source-book/players-guide-material/alternate-clan-banes.md)
   * [Discipline Powers](information-on-each-source-book/players-guide-material/discipline-powers.md)
@@ -66,4 +65,3 @@
 * [Trail of Ash and Bone Material](information-on-each-source-book/trail-of-ash-and-bone-material.md)
 * [Forbidden Religions Material](information-on-each-source-book/forbidden-religions-material.md)
 * [Boston by Night Material](information-on-each-source-book/boston-by-night-material.md)
-* [Don't See Your Book Here?](information-on-each-source-book/dont-see-your-book-here.md)
