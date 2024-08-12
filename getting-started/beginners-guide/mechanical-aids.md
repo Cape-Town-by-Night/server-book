@@ -1,4 +1,4 @@
-# ❌ Common Mechanics
+# Common Mechanics
 
 ## Using the Dice Bot
 
@@ -37,24 +37,6 @@ A critical win on the hunt roll allows your character to get a resonance level o
 
 You will note in the [Server-Specific Information](server-specific-information.md) that hunting vignettes can earn you one experience per week. You must link this in your experience request to get credit for it.
 
-## Social Situations
+## Social Rolls
 
-
-
-<mark style="color:red;">The vast majority of interaction between characters is social interaction. While the rulebook describes a number of dice systems for handling social scenarios, players are encouraged to set the dice aside and rely on role-play instead. Not everything has to be a roll, and it's far more satisfying to write out a long con than roll and say it's done.</mark>
-
-<mark style="color:red;">That said, for times when players want to roll, or when rolls are necessary, the following guidelines are in effect.</mark>
-
-## <mark style="color:red;">Persuasion/Seduction</mark>
-
-<mark style="color:red;">No roll outcome can force a PC to act against their convictions or otherwise out of character. Dice rolls can only take you so far. The silver-tongued shyster you met on the street can't force you to give away your life savings just because he scored a critical. The seductive woman at the bar can't make a gay man sleep with her just because she rolled well. And so on.</mark>
-
-<mark style="color:red;">Your character should still react to the roll in some way, even if they don't go along with the proposal. Wow, this man is slick. I bet he's conned a lot of people is perfectly acceptable and still acknowledges the number of successes without violating player agency.</mark>
-
-## <mark style="color:red;">Social Combat</mark>
-
-<mark style="color:red;">We generally discourage using the social combat rules on p.304 in player-vs.-player situations. While it can work well in a table setting, there are many variables that affect damage modifiers, standing, social status, and whether or not social combat should even apply. If both characters are interested in engaging in it, please ping staff.</mark>
-
-
-
-\
+Players should take care to respect the builds and abilities of other characters. While you are not obligated to play out scenes that make you uncomfortable (and are encouraged to notify staff if you find yourself in this situation), you should always respect roll results from other players. Not everyone is a master manipulator or a charismatic ball of sunshine.

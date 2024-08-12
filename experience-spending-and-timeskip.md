@@ -1,4 +1,4 @@
-# Experience Spending and Timeskip
+# ❌ Experience Spending and Timeskip
 
 {% hint style="info" %}
 **The next timeskip** starts on September 11, 2024.

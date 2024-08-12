@@ -1,4 +1,4 @@
-# ❌ Lore Sheets
+# 🚧 Lore Sheets
 
 Below is a list of all the lore sheets, sorted by book, with their listed availability and any homebrewed changes. "Banned" lore sheets are not allowed while "locked" lore sheets will often require an in-character arc. Any mentions of canon characters and locations need to be changed to be something less iconic and more fitting to the character and setting.
 
@@ -20,10 +20,9 @@ To see the "Descendant of..." Loresheets, go to [Bloodlines](bloodlines.md).
 | [Forbidden Religions](lore-sheets.md#forbidden-religions)                    | pp. 88-93   |
 | [Boston by Night](lore-sheets.md#boston-by-night)                            | pp. 80-87   |
 | [Blood Sigils](lore-sheets.md#blood-sigils)                                  | pp. 178-180 |
-| [The Book of Nod Apocrypha](lore-sheets.md#the-book-of-nod-apocrypha)        | pp. 39      |
+| [The Book of Nod Apocrypha](lore-sheets.md#the-book-of-nod-apocrypha)        | p. 39       |
 | [Choice of Games Loresheets](lore-sheets.md#choice-of-games)                 |             |
 | [Miscellaneous Official Loresheets](lore-sheets.md#miscellaneous-loresheets) |             |
-| [Homebrew](lore-sheets.md#homebrew)                                          |             |
 
 ### Core
 
@@ -1414,39 +1413,5 @@ _You may not take the Conviction "Always seek to live, not to die"._\
 **••• Wayward Daughter:** Allowed\
 **•••• Songstress Supreme:** Locked\
 **••••• Rejuvenating Voice:** Locked
-
-</details>
-
-### Homebrew
-
-<details>
-
-<summary>Warrior's Code <em>(Salubri only)</em></summary>
-
-It seems the way of healing needed a counterpart as Saulot once sought a balance between the beast and man. Realizing that his healers out in the battle field fell faster without a guard against the Baali, Saulot embraced the warrior Samiel to provide a vanguard. Samiel’s Warriors developed their own “Warrior’s Code” to guide their actions both in combat and in life. Kept secret from the rest of the clan, the Code only became known after Samiel’s death in the Baali Wars.
-
-All who now follow the warrior path of the Saliubri can trace their lineage back to one of these five grandsires--- Uriel, Za’aphriel, Ezrael, Aariel and Gabriel. The Code is said to be an amalgamation of the teachings of the Brujah and Gangrel, which Samiel studied with Saulot’s permission. Why the pacifist allowed his childer to learn such violence is unknown, but you’ve come under such teachings and uphold the Code.
-
-Like moths to a flame, Warriors such as you find a cause to fight for. Without a cause or reason to fight for, a Warrior’s most dangerous adversary is having lost their conviction or motivation. Some warriors have gone so far as to renounce finding Golconda in their pursuit of revenge against the usurper Tremere, but none have gone so far as to renounce their Blooding, for your true enemies are that of the Infernal and the Demonic.
-
-#### • Enochian Tongue
-
-Your studies have taught you the ancient languages by which your clan communicates. You can speak both Hebrew and Enochian.
-
-#### •• Honor Bound
-
-You take no pleasure in killing. Once per session, slaughtering your enemy with mercy restores 1 point of superficial or aggravated Willpower damage.
-
-#### ••• Tracker
-
-You’ve trained to hunt down your enemies, both Infernal and Tremere alike. If you have the blood of your prey, you can taste it to learn one thing about them and hold their scent to recognize them again. Once per story, the player may roll Wits + Awareness vs. the target’s Wits + Survival. For each success on the margin, the Salubi gains knowledge of their last known whereabouts. At the storyteller’s discretion, enough successes could allow you to establish a movement pattern so you can track them down.
-
-#### •••• The Blooding
-
-You have gone through the ritual of the Blooding, spoken your vows, and taken your lashes for it. During this harrowing process, you heard the very voice of Saulot utter your angelic name. Once per session, you may call out your name and invoke your third eye to shine and create an illusion of radiance and holiness, striking fear in your enemies and requiring a terror frenzy check at DC 3. You also gain a 2-dot Mawla (your tutor in the Warrior’s Codex).
-
-#### ••••• Hunger Fueled
-
-With righteousness on their side, Salubri can take advantage of even the strongest bestial urges when the situation demands. Once per story, a Warrior may ignore hunger frenzy triggers upon reaching hunger 4 for the duration of a single combat encounter. During this time, the Salubri additionally augments their strength with the Beast’s, converting Melee damage to unhalved Superficial damage. Once the combat ends, the hunger frenzy resumes in full force.
 
 </details>

@@ -1,40 +1,30 @@
 # ❌ Frequently Asked Questions
 
-In addition to the questions and answers below, be sure to check the [rulings](../../miscellaneous/rulings.md) page and the [Advantages and Flaws](broken-reference) page.
+In addition to the questions and answers below, be sure to check the [rulings](miscellaneous/rulings.md) page and our [Advantages and Flaws](https://cape-town-by-night.gitbook.io/copy-ct-wiki/\~/changes/Zpb0Yfi4wmYUaSKQqNcs/getting-started/character-creation#advantage-restrictions-and-changes) changes.
 
-### How do I spend XP?
+_**How do I spend Experience?**_
 
-{% content-ref url="../../miscellaneous/experience-spending-and-timeskip.md" %}
-[experience-spending-and-timeskip.md](../../miscellaneous/experience-spending-and-timeskip.md)
-{% endcontent-ref %}
+There is a detailed experience spending guide [here](experience-spending.md).
 
-### Scene Requests
+_**"What kinds of things do I need to submit a scene request for?"**_ Any interaction with an SPC requires a scene request. The player can run touchstones and any background characters related to Advantages and Flaws as a vignette. Care should be taken not to treat these as tertiary characters. They should interact with other PCs as little as possible.
 
-_**"What kinds of things do I need to submit a scene request for?"**_ Any interaction with an SPC requires a scene request. Touchstones and any relationships gained through Backgrounds can be run by the player as a vignette. Care should be taken to not treat these relationships as tertiary characters. They should interact with other PCs as little as possible.
+_**"There are some areas with no hunting difficulty noted. What do I use?"**_
 
-### Feeding and Bonds
+The standard difficulty in V5 is three. Use that unless instructed otherwise.
 
-#### _**"There are some areas with no difficulty noted. What do I use?"**_
+#### _**"I got a messy critical/bestial failure on my roll. What do I do?"**_
 
-Standard difficulty in V5 is three. Use that unless instructed otherwise.
+Ping both the <mark style="color:purple;">@Storyteller</mark> and the <mark style="color:blue;">@Assistant Storyteller</mark> roles in the channel with your result and give context for what is happening in the scene. We'll tailor the results to the situation on a case-by-case scenario. Remember to try to reroll with Willpower using the "Avoid Messy" or "Reroll Failures" buttons before pinging, should you wish to do that.&#x20;
 
-#### _**"I got a messy critical/bestial failure on my hunting roll. What do I do?"**_
-
-Type up the scene to the point of the roll and ping the staff role. We'll help you work out the specifics and tailor the results to the situation on a case-by-case scenario. Remember to try to reroll with Willpower using the "Avoid Messy" or "Reroll Failures" buttons before pinging staff.&#x20;
-
-Keep in mind that there is a time-limit before the buttons get greyed out.
-
-#### _**"How long do blood bonds last?"**_
-
-Bonds last for one IC month per dot, up to a maximum of six. This is before taking any flaws or merits into account.
+Keep in mind that there is a ten-minute time limit before the re-roll buttons get greyed out.
 
 #### _**"Do Banu Haqim have to diablerize a kindred victim if they fail their Bane check?"**_
 
-No. They will simply feed until their victim reaches Hunger 5 or they reach Hunger 1. You may always choose to diablerize an SPC, but check in to make sure diablerie is alright with your scene partner if a PC is your victim.
+No. They will simply feed until their victim reaches Hunger 5 or they reach Hunger 1. You may always choose to diablerize, of course, but make sure you ping staff to oversee the situation.
 
-#### _**"How much can I feed from a mortal? What happens if I take more?"**_
+#### _**"How much can a Kindred feed from a mortal? What happens if they take more?"**_
 
-A kindred can slake a maximum of 2 Hunger from a single mortal before endangering them. Each slake requires 3 days of recovery time. \
+<mark style="color:yellow;">A kindred can slake a maximum of 2 Hunger from a single mortal before endangering them. Each slake requires 3 days of recovery time.</mark> \
 \
 Unless they receive adequate medical treatment, a mortal who has had 3 or more Hunger taken from them must make a Strength + Stamina roll (DC equals the amount of Hunger slaked) to stay alive.
 
@@ -121,7 +111,7 @@ We use the following guidlines:\
 
 #### _"Is X allowed?"_
 
-[players-guide-material](../../information-on-each-source-book/players-guide-material/ "mention")
+[players-guide-material](book-information/players-guide-material/ "mention")
 
 #### _"Why is X banned?"_
 

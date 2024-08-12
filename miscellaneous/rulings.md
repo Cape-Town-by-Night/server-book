@@ -2,7 +2,7 @@
 
 ## Advantages and Flaws
 
-* Cult-specific merits and rituals are only available to characters who are part of that cult.
+* Cult-specific merits and rituals are only available to characters that are part of said cult.
 * Mythic merits may only be taken at character creation.
 * Thin-Bloods may not take the _Branded by the Camarilla_ flaw.
 * "Hopeless Addiction": For finding the correct addict, the roll is Resolve + Awareness, DC 4
@@ -11,7 +11,7 @@
 
 ### Sharing Disciplines
 
-Vitae cannot transfer disciplines or be used to feed other kindred unless the vitae is taken directly from the vein (as filling a vessel takes more than “a few seconds”). Vitae still retains all ghoul-sustaining and mortal-healing properties for a few days.
+Vitae cannot transfer disciplines or be used to feed other kindred unless it is taken directly from the vein (as filling a vessel takes more than “a few seconds”). Vitae still retains all ghoul-sustaining and mortal-healing properties for a few days.
 
 ### Auspex - _**Share the Senses**_
 
@@ -59,16 +59,6 @@ Due to the non-linear nature of Resources, players may not gift Resources dots t
 According to **p. 180** of the core rulebook, characters may get back or replace lost Advantages purchased at character creation or with exp. This will be adjudicated on a case-by-case basis. However, please note that frivolously burning your Advantages to get something new is not allowed and _will_ result in a permanent loss.
 
 The same, of course, applies to Flaws. Kill your Enemy, and another may take their place. However, Flaws gained during RP may be permanently removed with appropriate in-character actions.
-
-### <mark style="color:red;">Slaking past 5</mark>
-
-<mark style="color:red;">Each turn you attempt to slake Hunger off a vampire already at Hunger 5, you deal one level of Aggravated Health damage instead (or two levels, if you are using Brutal Feed). The diablerie contest begins as normal if you continue after they have fallen into torpor.</mark>
-
-### <mark style="color:red;">Staking</mark>
-
-* <mark style="color:red;">If voluntarily staked in a controlled environment, the staker does not need to roll, and the staked character takes a flat three Superficial Health damage (unhalved).</mark>
-* <mark style="color:red;">A frenzied vampire must remain staked for an hour for the frenzy to pass, assuming the provocation is not removed.</mark>
-* <mark style="color:red;">To allow yourself to be staked while in a frenzy, you must spend one point of Willpower to gain control for one turn and pass a Resolve + Composure test, DC 3. If you pass, the staker does not need to roll, and you will take damage as described above. If you fail the test, the staker needs to make the Strength + Melee roll as normal.</mark>
 
 ### Status
 
