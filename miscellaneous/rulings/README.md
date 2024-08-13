@@ -36,6 +36,12 @@ If the target is a mortal, the user's blood follows the ghoul rules.
 * The caster must know the target's "permanent" face. Temporary appearances, such as those granted by Mask of a Thousand Faces, Protean shapeshifting, etc., are insufficient.
 * The trail immediately disappears if the target dies, or if their face is permanently changed, such as through Vicissitude.
 
+### Protean, Animalism, and Animal Stats
+
+Your character's physical pools are capped by the stats of the animal that they shift into or otherwise control, including their exceptional pools. Mental rolls use your character's pool. Social rolls are subject to the limitations of the form. For example, your character couldn't roll Manipulation + Persuasion if they couldn't talk, but if someone were to use Feral Whispers, your character could _then_ roll Social pools against them.&#x20;
+
+When shifted, your character uses the health levels of the animal they have turned into but has access to their full willpower pool.
+
 ### Drug Effects
 
 * **Alcohol:** Lower Dexterity and Intelligence dice pools by one die.

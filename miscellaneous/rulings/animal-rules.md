@@ -1,14 +1,14 @@
-# ❌ Animal Rule Clarification and Extra Stat Blocks
+# Extra Animal Stat Blocks
+
+## Protean and Animalism Clarification
+
+
 
 We’ve added these African-focused stat blocks to accompany the ones in the Core book (p. 373) If you need a different animal type, let Staff know and we can work something out with you.
 
 ## Special Animal Qualities
 
-Some animals have senses beyond our capabilities. A bat has sonar, this is represented mostly by the narrative quality of being able to see in complete darkness. Mechanically it’s represented by a high Awareness pool. A dog has a keen sense of smell, and are often used for tracking. The reason they have a low Awareness and no Survival is that despite that keen sense of smell they do not inherently use it to track specific targets for humans. This is best represented by using your own Animal Ken to direct them or your Survival and getting a +1 teamwork die from the dog. There’s a narrative power to most of these special qualities that exist beyond stats (a cheetah can run incredibly faster than a person, that’s just part of being a cheetah, it doesn’t need any special mechanic for it beyond the narrative implications).
-
-## Protean and Animalism Clarification
-
-Your physical pools are capped by the animals, including their exceptional pools. Mental rolls use your character's pool. Social rolls are a case-by-case situation, depending on the limitations of the form. For example, you can’t roll Manipulation + Persuasion because you can’t talk. If someone uses Feral Whispers though, you can roll your pool for it. You use the animal’s Health Pool but your own Willpower.
+Some animals have abilities beyond what a character can normally do - a bat's sonar, for example. While this is represented mostly by the narrative quality of being able to see in complete darkness, it is mechanically represented by a high Awareness pool. A dog has a keen sense of smell, and are often used for tracking. They have a low Awareness and no Survival because, despite that ability, they do not inherently use it to track specific targets for humans. This is best represented by using your character using their Animal Ken skill to direct them _or_ using their Survival skill and getting a teamwork die from the dog they are directing. There’s a narrative power to most of these special qualities that exist beyond stats; for instance, a cheetah can run incredibly fast compared to a person. That’s just part of being a cheetah, it doesn’t need any special mechanic for it beyond narrative implications.
 
 <details>
 

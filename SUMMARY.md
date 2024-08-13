@@ -26,15 +26,15 @@
 ## Miscellaneous
 
 * [Sect War Rules](miscellaneous/sect-war-rules.md)
-* [Rulings and Clarifications](miscellaneous/rulings.md)
+* [Rulings and Clarifications](miscellaneous/rulings/README.md)
+  * [Extra Animal Stat Blocks](miscellaneous/rulings/animal-rules.md)
 
 ***
 
 * [Convictions and Touchstones](convictions-and-touchstones.md)
 * [❌ Frequently Asked Questions](frequently-asked-questions.md)
 * [❌ Creating and Pursuing Plots](creating-and-pursuing-plots.md)
-* [❌ Experience Spending and Timeskip](experience-spending-and-timeskip.md)
-* [❌ Animal Rule Clarification and Extra Stat Blocks](animal-rules.md)
+* [❌ Timeskip](experience-spending-and-timeskip.md)
 
 ## Book Information
 

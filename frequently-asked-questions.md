@@ -1,6 +1,6 @@
 # ❌ Frequently Asked Questions
 
-In addition to the questions and answers below, be sure to check the [rulings](miscellaneous/rulings.md) page and our [Advantages and Flaws](https://cape-town-by-night.gitbook.io/copy-ct-wiki/\~/changes/Zpb0Yfi4wmYUaSKQqNcs/getting-started/character-creation#advantage-restrictions-and-changes) changes.
+In addition to the questions and answers below, be sure to check the [rulings](miscellaneous/rulings/) page and our [Advantages and Flaws](https://cape-town-by-night.gitbook.io/copy-ct-wiki/\~/changes/Zpb0Yfi4wmYUaSKQqNcs/getting-started/character-creation#advantage-restrictions-and-changes) changes.
 
 _**How do I spend Experience?**_
 
@@ -12,10 +12,10 @@ _**"There are some areas with no hunting difficulty noted. What do I use?"**_
 
 The standard difficulty in V5 is three. Use that unless instructed otherwise.
 
-#### _**"I got a messy critical/bestial failure on my roll. What do I do?"**_
-
-Ping both the <mark style="color:purple;">@Storyteller</mark> and the <mark style="color:blue;">@Assistant Storyteller</mark> roles in the channel with your result and give context for what is happening in the scene. We'll tailor the results to the situation on a case-by-case scenario. Remember to try to reroll with Willpower using the "Avoid Messy" or "Reroll Failures" buttons before pinging, should you wish to do that.&#x20;
-
+_**"I got a messy critical/bestial failure on my roll. What do I do?"**_ \
+\
+Ping both the <mark style="color:purple;">@Storyteller</mark> and the <mark style="color:blue;">@Assistant Storyteller</mark> roles in the channel with your result and give context for what is happening in the scene. We'll tailor the results to the situation on a case-by-case scenario. Remember to try to reroll with Willpower using the "Avoid Messy" or "Reroll Failures" buttons before pinging, should you wish to do that. \
+\
 Keep in mind that there is a ten-minute time limit before the re-roll buttons get greyed out.
 
 #### _**"Do Banu Haqim have to diablerize a kindred victim if they fail their Bane check?"**_
@@ -24,35 +24,27 @@ No. They will simply feed until their victim reaches Hunger 5 or they reach Hung
 
 #### _**"How much can a Kindred feed from a mortal? What happens if they take more?"**_
 
-<mark style="color:yellow;">A kindred can slake a maximum of 2 Hunger from a single mortal before endangering them. Each slake requires 3 days of recovery time.</mark> \
+A kindred can slake a maximum of 2 Hunger from a single mortal (and far, far less from animals) before endangering them. Each slake requires 2 stories to recover for a regular mortal and a single story per slake for a ghoul. \
 \
-Unless they receive adequate medical treatment, a mortal who has had 3 or more Hunger taken from them must make a Strength + Stamina roll (DC equals the amount of Hunger slaked) to stay alive.
+A mortal who has been fed on for 3 or more Hunger in a single feeding must make a Strength + Stamina roll (DC equals the amount of Hunger slaked) to stay alive. If they fail this roll, they die. If they succeed, they will survive the blood loss but will need to seek medical treatment.
 
-#### _**"How do PC mortals heal from feedings?"**_
+#### _<mark style="color:yellow;">**"How do PC mortals heal from feedings?"**</mark>_
 
-Every point of Hunger slaked _after_ 2 equals one point of Aggravated damage; Three slaked is considered a harmful drink and requires medical attention. Harmful drinks (Core p. 212) count as Aggravated damage for each Hunger slaked.
+<mark style="color:yellow;">Every point of Hunger slaked</mark> <mark style="color:yellow;"></mark>_<mark style="color:yellow;">after</mark>_ <mark style="color:yellow;"></mark><mark style="color:yellow;">2 equals one point of Aggravated damage; Three slaked is considered a harmful drink and requires medical attention. Harmful drinks (Core p. 212) count as Aggravated damage for each Hunger slaked.</mark>
 
-Mortals can convert Aggravated damage each sunrise with a successful Intelligence + Medicine test (DC equals the total amount of Aggravated damage). Add +1 to the Difficulty if they are making the check themselves. The maximum points of Aggravated damage that a character can convert is half that character’s Medicine rating, rounded up. This cannot be done if their Superficial tracker is full. Aggravated damage does not heal on its own.
+<mark style="color:yellow;">Mortals can convert Aggravated damage each sunrise with a successful Intelligence + Medicine test (DC equals the total amount of Aggravated damage). Add +1 to the Difficulty if they are making the check themselves. The maximum points of Aggravated damage that a character can convert is half that character’s Medicine rating, rounded up. This cannot be done if their Superficial tracker is full. Aggravated damage does not heal on its own.</mark>
 
-Mortals can remove a number of Superficial damage equal to their Stamina rating at sunrise.
+<mark style="color:yellow;">Mortals can remove a number of Superficial damage equal to their Stamina rating at sunrise.</mark>
 
-#### _**"Help! I took too much from a mortal and they are dying!"**_
+#### _**"Help! My character took too much from a mortal and they are dying!"**_
 
-For mortals, a character with Medicine can convert Aggravated damage to Superficial damage as above. Get them to a Hospital even if healed by Obeah or Vicissitude.
+Mortals are fragile creatures. They can be stabilized and hospitalized if they succeed on their Strength + Stamina roll.
 
 ### Weapons
 
 #### _**"How do I obtain a firearm?"**_
 
 Legally, you would need someone to go out during the day to file any paperwork and renew the license. The gun would not be in your character's name unless they were the one going out and doing those things themselves. A retainer can be used for this purpose. Resources are also required. Illegally, you would seek out appropriate criminal contacts and use them to get weapons. Resources would also be required for this method. The specific amount of dots needed depends on the weapon desired.
-
-### <mark style="color:yellow;">Kindred Intimacy</mark>
-
-#### _<mark style="color:yellow;">**"What is the pool I roll and what should the difficulty be?"**</mark>_
-
-<mark style="color:yellow;">You don't, and there isn't one. To protect player agency, blood bonds this way are done entirely via RP and without dice involvement. If you want your character to be bound, then you can make that decision for yourself.</mark>
-
-<mark style="color:yellow;">See the</mark> [<mark style="color:yellow;">blood bond homebrew</mark>](broken-reference) <mark style="color:yellow;">for more information on bonds. Kindred intimacy is all about applying the Kissing another to induce that euphoric pleasure (or not, if you're playing a Hecata). You can Kiss without drinking and it is up to the player what their character chooses to do. Some kindred can still have sex as normal, usually based on Humanity (Core p. 236-239) or specific Lore Sheets.</mark>
 
 ### Coteries and Domains
 
