@@ -22,7 +22,7 @@ layout:
 
 All character sheets can be found [here](https://drive.google.com/drive/folders/1Iw\_ghSLnJC00Hqyz16dvgUc68qrCQHa4?usp=sharing) and in the `#character-creation` channel on the server.
 
-Please use the character creation rules starting on **p. 136** of the V5 core book. For more realistic/coherent characters (and new players), we recommend using the guided character creation process starting on **p. 144** titled "Your Human Life". This method emphasizes character building by focusing on their lives as a whole and assigning stats accordingly.
+Please use the character creation rules starting on **p. 136** of the V5 core book. For more realistic/coherent characters (and new players), we recommend using the guided character creation process starting on **p. 144** titled "Your Human Life". This method emphasizes character building by focusing on their lives and assigning stats accordingly.
 
 <details>
 
@@ -36,13 +36,15 @@ If you are retiring a character, you may have a bank of retirement experience to
 
 <summary>Looking to play a second character?</summary>
 
-After playing your first character for at least three OoC weeks, you may submit a second character. This character may be a mortal, ghoul, full-blooded fledgling, or neonate. Thin-bloods and ancilla require 3 months of active play (non-consecutive but steady) and staff approval. Time played is _not_ the only thing we will look at when considering a request to play an ancilla!
+After playing your first character for at least three OoC weeks, you may submit a second character. This character may be a mortal, ghoul, full-blooded fledgling, or neonate.&#x20;
+
+Thin-bloods and ancilla require 3 months of active play (non-consecutive but steady) and staff approval. Time played is _not_ the only thing we will look at when considering a request to play either of these! There is additional mechanical complexity regarding both and a level of trust that their players need to earn among the community.
 
 </details>
 
 ## Core Concepts
 
-Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Are you making a ghoul, mortal, or vampire? Are they old or young? Experienced, brand new, or completely oblivious to the "nightlife"? Note that since vampires are the main focus of this setting, most of these questions will only apply to them. If a question doesn't make sense for the type of character you are playing, skip it.
+Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Are you making a ghoul, mortal, or vampire? Are they old or young? Are they experienced, brand new, or completely oblivious to the "nightlife"? Note that since vampires are the main focus of this setting, most of these questions will only apply to them. If a question doesn't make sense for the type of character you are playing, skip it.
 
 <details>
 
@@ -81,7 +83,7 @@ Desires are short-term, ever-changing goals that can easily act as a launching p
 
 ## Sect
 
-Your character's sect determines their social circles, the rules under which they have to live, and some of the challenges they might face. You are expected to understand the basics of your character's sect. We have a small write-up [here](../../setting-information/setting-guide/) that may help with the particulars of Cape Town's undead populace, but it is a supplement to a whole. More information can be found in the various sourcebooks.
+Your character's sect determines their social circles, the rules under which they have to live, and some of the challenges they might face. You are expected to understand the basics of your character's sect. We have a small write-up [here](../setting-information/setting-guide/) that may help with the particulars of Cape Town's undead populace, but it is a supplement to a whole. More information can be found in the various sourcebooks.
 
 You will see "sectless" mentioned, which is just that - a vampire who is completely divorced from any sect. These creatures are _incredibly_ uncommon. To showcase this rarity, all vampires must be of a sect, with two exceptions: the Hecata and ancilla of any clan may be sectless. Fledglings under one year after their Embrace may start without a tie to a sect, though this option is intended to be temporary; the player should work to figure out which side their character would join as time goes on.
 
