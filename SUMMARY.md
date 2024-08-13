@@ -21,6 +21,7 @@
 
 ***
 
+* [Progression Caps](progression-caps.md)
 * [❌ Experience Spending](experience-spending.md)
 
 ## Miscellaneous
