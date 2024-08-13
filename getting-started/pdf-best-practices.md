@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# PDF Best Practices
+# Character Sheet Best Practices
 
 {% hint style="danger" %}
 ### Don't use your browser!
@@ -37,7 +37,7 @@ If any of these links are incorrect or if you are having issues with your PDF, p
 ### Mac
 
 * [Foxit Reader](https://www.foxit.com/downloads/#Foxit-Reader/)
-* [PDF Viewer](https://apps.apple.com/us/app/pdf-viewer-annotation-expert/id1120099014) (recommended)
+* [PDF Viewer](https://apps.apple.com/us/app/pdf-viewer-annotation-expert/id1120099014)&#x20;
 * Preview (built-in; doesn't allow custom input in dropdowns)
 
 ### Android
@@ -47,5 +47,5 @@ If any of these links are incorrect or if you are having issues with your PDF, p
 
 ### iOS
 
-* [PDF Viewer](https://apps.apple.com/us/app/pdf-viewer-annotation-expert/id1120099014) (recommended)
+* [PDF Viewer](https://apps.apple.com/us/app/pdf-viewer-annotation-expert/id1120099014)&#x20;
 * [Xodo](https://apps.apple.com/us/app/xodo-pdf-reader-scanner/id805075929)

@@ -22,13 +22,13 @@ layout:
 
 All character sheets can be found [here](https://drive.google.com/drive/folders/1Iw\_ghSLnJC00Hqyz16dvgUc68qrCQHa4?usp=sharing) and in the `#character-creation` channel on the server.
 
-Please use the character creation rules starting on **p. 136** of the V5 core book. For more realistic/coherent characters (and new players), we recommend using the guided character creation process starting on **p. 144** titled "Your Human Life". This method emphasizes character building by focusing on their lives and assigning stats accordingly.
+Please use the character creation rules starting on **p. 136** of the V5 core book. For more realistic/coherent characters (and new players), we recommend using the guided character creation process starting on **p. 144**, titled "Your Human Life." This method emphasizes character building by focusing on characters' lives and assigning stats accordingly.
 
 <details>
 
 <summary>Retiring a character?</summary>
 
-If you are retiring a character, you may have a bank of retirement experience to apply to your new character. You gain 1 experience point for every 2 weeks (non-consecutive) of play, up to a maximum of 20 experience points. This retirement experience will count towards your new character's experience cap. Ask staff how much you have banked, as we keep a record!
+If you are retiring a character, you may have a bank of retirement experience to apply to your new character. You gain one experience point for every two weeks (non-consecutive) of play, up to a maximum of 20 experience points. This retirement experience will count towards your new character's <mark style="color:green;">experience cap</mark>. Ask staff how much you have banked, as we keep a record!
 
 </details>
 
@@ -38,13 +38,13 @@ If you are retiring a character, you may have a bank of retirement experience to
 
 After playing your first character for at least three OoC weeks, you may submit a second character. This character may be a mortal, ghoul, full-blooded fledgling, or neonate.&#x20;
 
-Thin-bloods and ancilla require 3 months of active play (non-consecutive but steady) and staff approval. Time played is _not_ the only thing we will look at when considering a request to play either of these! There is additional mechanical complexity regarding both and a level of trust that their players need to earn among the community.
+Thin-bloods and ancilla require three months of active play (non-consecutive but steady) and staff approval. Time played is _not_ the only thing we will consider when considering a request to play either of these! Both require additional mechanical knowledge and trust, which their players need to earn in the community.
 
 </details>
 
 ## Core Concepts
 
-Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Are you making a ghoul, mortal, or vampire? Are they old or young? Are they experienced, brand new, or completely oblivious to the "nightlife"? Note that since vampires are the main focus of this setting, most of these questions will only apply to them. If a question doesn't make sense for the type of character you are playing, skip it.
+Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Are you making a ghoul, mortal, or vampire? Are they old or young? Are they experienced, brand new, or oblivious to the "nightlife"? Note that since vampires are the main focus of this setting, most of these questions will only apply to them. If a question doesn't make sense for the type of character you are playing, skip it.
 
 <details>
 
@@ -77,7 +77,7 @@ Under no circumstances may you play the relative, friend, or acquaintance of a f
 
 Ambitions are long-term goals and should not change very often. Good questions to ask yourself while brainstorming are: "What does this character want to achieve this year? This decade? Their lifetime?" Many players choose Ambitions that game mechanics reflect; this is not required, but you need to define what achieving the Ambition would look like. Ambitions do not have to be attainable!
 
-Desires are short-term, ever-changing goals that can easily act as a launching point for that night's RP. Desires should not be repeated very often and should involve other player characters when possible. Log your desires in your ticket, either on the main channel or in a dedicated thread.
+Desires are short-term, ever-changing goals that can easily act as a launching point for that night's RP. Desires should not be repeated often and should involve other player characters when possible. Log your desires in your ticket, either on the main channel or in a dedicated thread.
 
 </details>
 

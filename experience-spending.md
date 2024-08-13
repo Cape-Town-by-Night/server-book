@@ -2,14 +2,18 @@
 
 Experience spending can only be done during [Time Skips](#user-content-fn-1)[^1]!
 
-Make sure that your character qualifies for the increases you'd like to spend experience on before submitting a sheet. If you have any questions, feel free to ask in your ticket.&#x20;
+Before submitting a sheet, make sure that your character qualifies for the increases you'd like to spend experience on. If you have any questions, feel free to ask them in your ticket.&#x20;
 
 * Increasing Disciplines (and, therefore, choosing new Powers) requires your character to have fed on the corresponding Resonance at some point during the Chronicle. These requirements are further detailed below.
-* Increasing Humanity requires a _lot_ of selfless sacrifice; either for the benefit of others or in favor of your character's convictions.
+* Increasing Humanity requires a _lot_ of selfless sacrifice, either for the benefit of others or in favor of your character's convictions.
 * Rituals, ceremonies, and formulae take the square of their rating in weeks to learn. Their requirements are further detailed below.
 * Advantages will require justification in the form of either roleplay (generally anything rated 2 dots or lower) or a project (generally anything rated 3 dots or higher).
 
 Please post links for all justifications when you submit your spending lists! Staff will only do one bulk list of purchases per character, so make sure you have everything you want before you submit.
+
+## Attributes and Skills
+
+Other than&#x20;
 
 ## Disciplines
 
@@ -86,5 +90,4 @@ In addition to requiring justification, raising Humanity above the character's s
 
 <mark style="color:yellow;">All events must take place during regular RP, not time skip, and must happen on consecutive nights. You can apply for a Blood Potency increase once per chronicle, and it does not use up your in-chronicle purchase. You cannot go up more than once per chronicle. You may only choose one method from the list above- they cannot be mixed and matched. Characters may only perform one "step" per night.</mark>
 
-[^1]: make link
-
+[^1]: 
