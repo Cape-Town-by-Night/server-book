@@ -13,7 +13,7 @@ Please post links for all justifications when you submit your spending lists! St
 
 ## Attributes and Skills
 
-Other than&#x20;
+Attributes and Skills increase slowly. You may buy the first and second dot of any Attribute or Skill at once.  After your character has gained their second dot, you may only increase that Attribute or Skill once per Chronicle.
 
 ## Disciplines
 

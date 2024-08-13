@@ -91,7 +91,7 @@ You will see "sectless" mentioned, which is just that - a vampire who is complet
 
 ### Who Embraced You?
 
-Your character's sire is an important facet of their being, regardless of whether they remained in their unlife or not. Even if your character doesn't know their sire, you, as the player, need to. You should be able to answer the following questions, as well as fill out all of the necessary information on your character sheet.
+Your character's sire is an important facet of their being, regardless of whether they remained in their unlife. Even if your character doesn't know their sire, you, as the player, need to. You should be able to answer the following questions and fill out all of the necessary information on your character sheet.
 
 * Who are they, and what is their general temperament?
 * Why did they embrace your character?
@@ -102,7 +102,7 @@ Your character's sire is an important facet of their being, regardless of whethe
 
 The clan you choose for your character determines a lot about them, from their bestial proclivities to their supernatural abilities. Whether you choose to build something stereotypical or buck tradition is up to you, but be aware that stereotypes exist for a reason in this setting!
 
-We do not use the original banes for all of our clans! The server character sheets have our choice of clan bane and compulsions written in. The Twice-Cursed flaw is available for those players who would like to interact with the other bane, as well.
+We do not use the original banes for all of our clans! The server character sheets have our choice of clan bane and compulsions written in. The Twice-Cursed flaw is also available for players who would like to interact with the other bane.
 
 <details>
 
@@ -110,53 +110,53 @@ We do not use the original banes for all of our clans! The server character shee
 
 **Core**
 
-* Brujah
-* Gangrel
-* Malkavian
-* Nosferatu
-* Toreador
-* Tremere
-* Ventrue
-* Caitiff
-* Thin-Blood (Restricted)
+* Brujah pp.65-67
+* Gangrel pp.69-73
+* Malkavian pp.75-79
+* Nosferatu pp.81-85
+* Toreador pp.87-91
+* Tremere pp.93-97
+* Ventrue pp.99-102
+* Caitiff pp.105-107
+* Thin-Blood (Restricted) pp. 109-113
 
 **Camarilla**
 
-* Banu Haqim
+* Banu Haqim pp. 158-167
 
 **Anarch**
 
-* The Ministry
+* The Ministry pp.176-185
 
 **Chicago by Night**
 
-* Lasombra
+* Lasombra pp.289-295
 
 **Cults of the Blood Gods**
 
-* Hecata
+* Hecata pp.199-216
 
 **Players Guide**
 
-* Ravnos
-* Salubri
-* Tzimisce
+* Ravnos pp.41-42
+* Salubri pp.46-48
+* Tzimisce pp.52-54
 
 </details>
 
 ## Deciding on Convictions
 
-Convictions are a set of beliefs that assist in defining a character’s worldview and morals. Each conviction must be linked to a living human, or “touchstone”, that exemplifies the belief itself. Touchstones must live in Cape Town and can be background characters gained from Advantages or Flaws (Contacts, Allies, Enemies, etc.).\
+Convictions are a set of beliefs that assist in defining a character’s worldview and morals. Each conviction must be linked to a living human, or “touchstone”, that exemplifies the belief. Touchstones must live in Cape Town and can be background characters gained from Advantages or Flaws (Contacts, Allies, Enemies, etc.).\
 \
 On Cape Town by Night, we rank our character's Convictions on a scale from 1 to 3, codified with the words defining, major, and minor. What these are narratively and mechanically is explained below.
 
-* **Defining:** This is the character's core belief, ethic, or perspective, something that the character carries close as often and consistently as possible. This Conviction will either mitigate or award 3 Stains
+* **Defining:** This is the character's core belief, ethic, or perspective, which the character carries close as often and consistently as possible. This Conviction will either mitigate or award 3 Stains.
 * **Major:** This is a strong outlook, moral, or principle, an ideal that the character sees as important and worth fighting for. This Conviction will either mitigate or award 2 Stains.
-* **Minor:** This is a loosely established opinion, view, or code of conduct, a thought process they are inclined to believe, but that can quickly fall by the wayside when the going gets tough. This Conviction will either mitigate or award 1 Stain.
+* **Minor:** This is a loosely established opinion, view, or code of conduct, a thought process they are inclined to believe but that can quickly fall by the wayside when the going gets tough. This Conviction will either mitigate or award 1 Stain.
 
 ## Chronicle Tenets
 
-These tenets are similar to convictions, but they apply to _all_ characters and are decided by staff. If your character wouldn't believe that one of these acts violates their personal code, you should write a Conviction that would mitigate Stains to shield them from said Stains. "My character doesn't think that" isn't a valid argument without a proper Conviction to back it up!
+These tenets are similar to convictions but apply to _all_ characters and are decided by staff. If your character wouldn't believe that one of these acts violates their personal code, you should write a Conviction that would mitigate Stains to shield them from said Stains. "My character doesn't think that" isn't a valid argument without a proper Conviction to back it up!
 
 The examples of staining behavior listed below are just that - examples. They are not the only things that can cause stains!
 
@@ -175,29 +175,31 @@ In addition to the universal tenets above, you have one final tenet based on you
 
 Changing sects after character creation will always result in at least one stain. Fledglings Embraced under a year ago may enter play without a sect tenet. They also do not take stains for joining their first sect if they do not enter play with a sect declared.
 
+The violations below are only examples. These are not exhaustive lists.
+
 {% tabs %}
 {% tab title="Anarch" %}
 **Never act against the Movement.**
 
-* _Mild:_ Giving information that could harm the barony
-* _Medium:_ Acting against a comrade
-* _Excessive:_ Actively helping the Camarilla in a way that harms the Anarch Movement
+* _Mild:_ Giving information that could harm the barony.
+* _Medium:_ Acting against a comrade.
+* _Excessive:_ Actively helping the Camarilla in a way that harms the Anarch Movement.
 {% endtab %}
 
 {% tab title="Camarilla" %}
 **Always uphold the Traditions.**
 
-* _Mild:_ Not announcing oneself to the Prince or her court via letter
-* _Medium:_ Breaching (The breacher has three days to cover the breach before the stains are applied.)
-* _Excessive:_ Embracing or killing a member of the Camarilla without permission
+* _Mild:_ Not announcing oneself to the Prince or her court via letter.
+* _Medium:_ Breaching (The breacher has three days to cover the breach before the stains are applied).
+* _Excessive:_ Embracing or killing a member of the Camarilla without permission.
 {% endtab %}
 
 {% tab title="Sectless" %}
 **Never allow the sects to control you.**
 
-* _Mild:_ Accepting constraints to operate in a sect’s territory
-* _Medium:_ Helping a sect exert control of their own
-* _Excessive:_ Joining a sect
+* _Mild:_ Accepting constraints to operate in a sect’s territory.
+* _Medium:_ Helping a sect exert control of their own.
+* _Excessive:_ Joining a sect.
 {% endtab %}
 {% endtabs %}
 
@@ -215,14 +217,14 @@ RAW predator types can be found in Core, Cults of the Blood Gods, Let the Street
 * Gain between 1 and 6 dots of Advantages.
   * Increasing Blood Potency costs 6 Advantage points.
   * Increasing Humanity costs 2 Advantage points.
-* Gain a number of Flaws equal to the number of Advantages taken, minus one.
+* Gain an amount of Flaws equal to the number of Advantages taken minus one.
   * Reducing Humanity is worth 1 Flaw point.
 * Decide on an appropriate hunting pool for the style. We recommend having 6 dice or more.
 
 When submitting a custom predator type, please use the following format:
 
 * **Predator Type Name**
-* _A short description of the predator type, either what you do or who you hunt._
+* _A short description of the predator type, either what your character does or who they hunt._
 * **Specialty:**
 * **Discipline Choice:**
 * **Merits:** One for each advantage type •
@@ -233,7 +235,7 @@ When submitting a custom predator type, please use the following format:
 
 ## Advantage Restrictions and Changes
 
-Unless otherwise specified, any character younger than ancilla is capped at 3 for all Backgrounds. Below are a few noted changes from RAW in addition to this restriction.
+Unless otherwise specified, any character younger than an ancilla is capped at 3 for all Backgrounds. Below are a few noted changes from RAW in addition to this restriction.
 
 ### Allies
 
