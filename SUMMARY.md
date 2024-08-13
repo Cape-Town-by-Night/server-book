@@ -10,7 +10,7 @@
 ## Getting Started
 
 * [Do I Need the Book?](getting-started/do-i-need-the-book.md)
-* [PDF Best Practices](getting-started/pdf-best-practices.md)
+* [Character Sheet Best Practices](getting-started/pdf-best-practices.md)
 * [Character Creation](getting-started/character-creation.md)
 * [Getting Approved](getting-started/getting-approved.md)
 * [Beginner's Guide](getting-started/beginners-guide/README.md)
