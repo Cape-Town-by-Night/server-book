@@ -77,7 +77,7 @@ Under no circumstances may you play the relative, friend, or acquaintance of a f
 
 Ambitions are long-term goals and should not change very often. Good questions to ask yourself while brainstorming are: "What does this character want to achieve this year? This decade? Their lifetime?" Many players choose Ambitions that game mechanics reflect; this is not required, but you need to define what achieving the Ambition would look like. Ambitions do not have to be attainable!
 
-Desires are short-term, ever-changing goals that can easily act as a launching point for that night's RP. Desires should not be repeated often and should involve other player characters when possible. Log your desires in your ticket, either on the main channel or in a dedicated thread.
+Desires are short-term, ever-changing goals that can easily act as a launching point for that night's RP. Desires should not be repeated often; other player characters must be involved when possible. Log your desires in your ticket, either on the main channel or in a dedicated thread.
 
 </details>
 
@@ -91,7 +91,7 @@ You will see "sectless" mentioned, which is just that - a vampire who is complet
 
 ### Who Embraced You?
 
-Your character's sire is an important facet of their being, regardless of whether they remained in their unlife. Even if your character doesn't know their sire, you, as the player, need to. You should be able to answer the following questions and fill out all of the necessary information on your character sheet.
+Your character's sire is an important facet of their being, regardless of whether they remained in their unlife. Even if your character doesn't know their sire, you, as the player, need to. You should be able to answer the following questions and fill out all the necessary information on your character sheet.
 
 * Who are they, and what is their general temperament?
 * Why did they embrace your character?
@@ -100,9 +100,9 @@ Your character's sire is an important facet of their being, regardless of whethe
 
 ### Choose Your Clan
 
-The clan you choose for your character determines a lot about them, from their bestial proclivities to their supernatural abilities. Whether you choose to build something stereotypical or buck tradition is up to you, but be aware that stereotypes exist for a reason in this setting!
+The clan you choose for your character determines a lot about them, from their bestial proclivities to their supernatural abilities. Whether you build something stereotypical or buck tradition is up to you, but be aware that stereotypes exist for a reason in this setting!
 
-We do not use the original banes for all of our clans! The server character sheets have our choice of clan bane and compulsions written in. The Twice-Cursed flaw is also available for players who would like to interact with the other bane.
+We do not use the original banes for all of our clans! The server character sheets have our choice of clan bane and compulsions written in. The Twice-Cursed flaw is also available for players who want to interact with the other bane.
 
 <details>
 
@@ -148,7 +148,7 @@ We do not use the original banes for all of our clans! The server character shee
 
 Convictions are a set of beliefs that assist in defining a character’s worldview and morals. Each conviction must be linked to a living human, or “touchstone”, that exemplifies the belief. Touchstones must live in Cape Town and can be background characters gained from Advantages or Flaws (Contacts, Allies, Enemies, etc.).\
 \
-On Cape Town by Night, we rank our character's Convictions on a scale from 1 to 3, codified with the words defining, major, and minor. What these are narratively and mechanically is explained below.
+On Cape Town by Night, we rank our character's Convictions on a scale from 1 to 3, codified with defining, major, and minor. What these are narratively and mechanically is explained below.
 
 * **Defining:** This is the character's core belief, ethic, or perspective, which the character carries close as often and consistently as possible. This Conviction will either mitigate or award 3 Stains.
 * **Major:** This is a strong outlook, moral, or principle, an ideal that the character sees as important and worth fighting for. This Conviction will either mitigate or award 2 Stains.
@@ -243,7 +243,7 @@ We have removed  Reliability from Allies. These background characters will simpl
 
 ### Haven: Warding
 
-Your haven possesses some kind of magical ward, barring supernatural forces. Whenever you select this merit, choose between Blood Sorcery and Oblivion. While within your haven, each dot of this Merit adds one to the dice pool or DC to resist supernatural scrying and to resist the chosen Discipline and effects related to it, such as a Gargoyle's abilities for Blood Sorcery or a Ghost for Oblivion. To buy this merit, you must possess Blood Sorcery, Oblivion, or Occult 3 or greater.
+Your haven possesses some kind of magical ward, barring supernatural forces. Whenever you select this merit, choose between Blood Sorcery and Oblivion. While within your haven, each dot of this Merit adds one to the dice pool or DC to resist supernatural scrying and to resist the chosen Discipline and effects related to it, such as a Gargoyle's abilities for Blood Sorcery or a Ghost for Oblivion. You must possess Blood Sorcery, Oblivion, or Occult 3 or greater to buy this merit.
 
 ### Mawla
 
@@ -255,17 +255,17 @@ This Background is capped at 2 dots at character creation.
 
 ### Status
 
-Anyone who has been a Kindred for less than 2 years is capped at 1 dot. Everyone else is capped at 2. You might be able to get a third dot with a really good in-character reason.
+Anyone who has been a Kindred for less than 2 years is capped at 1 dot. Everyone else is capped at 2. You might get a third dot with a really good in-character reason.
 
 ### Lore Sheets
 
-Every character may have one Lore Sheet and one Bloodline. Alternatively, if you do not take a Bloodline, you may take a second Lore Sheet.
+Every character may have one Lore Sheet and one Bloodline. Alternatively, you may take a second Lore Sheet if you do not take a Bloodline.
 
 ### Equipment and Resources
 
-_Vampire_ isn't an equipment-heavy game, so you don't need to list literally everything your character owns. Unless they have the Destitute flaw, characters are assumed to possess basic everyday items. If you want something a little more exotic, however, write it down so staff can assess whether it's reasonable.
+_Vampire_ isn't an equipment-heavy game, so you don't need to list everything your character owns. Unless they have the Destitute flaw, characters are assumed to possess basic everyday items. If you want something a little more exotic, however, write it down so staff can assess whether it's reasonable.
 
-Inevitably, players ask "Can I have X?" The answer is: make it reasonable. If you have one dot of Resources, then it isn't reasonable for you to have a Lamborghini.
+Inevitably, players ask, "Can I have X?" The answer is: make it reasonable. If you have one dot of Resources, then it isn't reasonable for you to have a Lamborghini.
 
 #### Firearms
 

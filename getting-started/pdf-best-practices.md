@@ -17,12 +17,12 @@ layout:
 {% hint style="danger" %}
 ### Don't use your browser!
 
-Editing a PDF in your browser may look okay on your end, but they frequently cause problems when our staff and sheet checkers try to view them. PDFs edited in Chromium browsers (Chrome, Edge, Opera, and others), for instance, often have "phantom dots" if you removed something from an earlier draft of your character. Firefox, on the other hand, causes lots of graphical and typeface glitches.
+Editing a PDF in your browser may look okay, but they frequently cause problems when our staff and sheet checkers try to view them. For instance, PDFs edited in Chromium browsers (Chrome, Edge, Opera, and others) often have "phantom dots" if you removed something from an earlier draft of your character. Firefox, on the other hand, causes lots of graphical and typeface glitches.
 {% endhint %}
 
 ## Recommended editors
 
-The following editors are all free. Very often, a paid option exists, but it is not necessary to purchase one. If a reader is marked as **recommended**, it has been tested with our custom PDFs and should not cause any issues.
+The following editors are all free. A paid option often exists, but it is not necessary to purchase one. If a reader is marked as **recommended**, it has been tested with our custom PDFs and should not cause any issues.
 
 {% hint style="warning" %}
 If any of these links are incorrect or if you are having issues with your PDF, please let us know!
