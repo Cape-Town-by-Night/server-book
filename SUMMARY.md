@@ -1,11 +1,8 @@
 # Table of contents
 
 * [Welcome to Cape Town!](README.md)
-
-## Setting Information
-
-* [Setting Guide](setting-information/setting-guide/README.md)
-  * [The Story So Far](setting-information/setting-guide/the-story-so-far.md)
+* [Setting Guide](setting-guide/README.md)
+  * [The Story So Far](setting-guide/the-story-so-far.md)
 
 ## Getting Started
 
@@ -22,7 +19,7 @@
 ***
 
 * [Progression Caps](progression-caps.md)
-* [❌ Experience Spending](experience-spending.md)
+* [Experience Spending](experience-spending.md)
 
 ## Miscellaneous
 

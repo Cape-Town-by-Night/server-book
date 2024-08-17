@@ -83,7 +83,7 @@ Desires are short-term, ever-changing goals that can easily act as a launching p
 
 ## Sect
 
-Your character's sect determines their social circles, the rules under which they have to live, and some of the challenges they might face. You are expected to understand the basics of your character's sect. We have a small write-up [here](../setting-information/setting-guide/) that may help with the particulars of Cape Town's undead populace, but it is a supplement to a whole. More information can be found in the various sourcebooks.
+Your character's sect determines their social circles, the rules under which they have to live, and some of the challenges they might face. You are expected to understand the basics of your character's sect. We have a small write-up [here](../setting-guide/) that may help with the particulars of Cape Town's undead populace, but it is a supplement to a whole. More information can be found in the various sourcebooks.
 
 You will see "sectless" mentioned, which is just that - a vampire who is completely divorced from any sect. These creatures are _incredibly_ uncommon. To showcase this rarity, all vampires must be of a sect, with two exceptions: the Hecata and ancilla of any clan may be sectless. Fledglings under one year after their Embrace may start without a tie to a sect, though this option is intended to be temporary; the player should work to figure out which side their character would join as time goes on.
 

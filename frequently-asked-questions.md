@@ -1,6 +1,6 @@
 # ❌ Frequently Asked Questions
 
-In addition to the questions and answers below, be sure to check the [rulings](miscellaneous/rulings/) page and our [Advantages and Flaws](https://cape-town-by-night.gitbook.io/copy-ct-wiki/\~/changes/Zpb0Yfi4wmYUaSKQqNcs/getting-started/character-creation#advantage-restrictions-and-changes) changes.
+In addition to the questions and answers below, check the [rulings](miscellaneous/rulings/) page,  [forum](https://discord.com/channels/676333549720174605/1237584988136804474), and this page on changes to [Advantages and Flaws](https://cape-town-by-night.gitbook.io/copy-ct-wiki/\~/changes/Zpb0Yfi4wmYUaSKQqNcs/getting-started/character-creation#advantage-restrictions-and-changes).
 
 _**How do I spend Experience?**_
 
@@ -30,7 +30,7 @@ A mortal who has been fed on for 3 or more Hunger in a single feeding must make 
 
 #### _<mark style="color:yellow;">**"How do PC mortals heal from feedings?"**</mark>_
 
-<mark style="color:yellow;">Every point of Hunger slaked</mark> <mark style="color:yellow;"></mark>_<mark style="color:yellow;">after</mark>_ <mark style="color:yellow;"></mark><mark style="color:yellow;">2 equals one point of Aggravated damage; Three slaked is considered a harmful drink and requires medical attention. Harmful drinks (Core p. 212) count as Aggravated damage for each Hunger slaked.</mark>
+<mark style="color:yellow;">Every point of Hunger slaked</mark> <mark style="color:yellow;"></mark>_<mark style="color:yellow;">after</mark>_ <mark style="color:yellow;"></mark><mark style="color:yellow;">2 equals one point of Aggravated damage; three slakes taken are considered a harmful drink and require medical attention.</mark>
 
 <mark style="color:yellow;">Mortals can convert Aggravated damage each sunrise with a successful Intelligence + Medicine test (DC equals the total amount of Aggravated damage). Add +1 to the Difficulty if they are making the check themselves. The maximum points of Aggravated damage that a character can convert is half that character’s Medicine rating, rounded up. This cannot be done if their Superficial tracker is full. Aggravated damage does not heal on its own.</mark>
 
@@ -44,7 +44,7 @@ Mortals are fragile creatures. They can be stabilized and hospitalized if they s
 
 #### _**"How do I obtain a firearm?"**_
 
-Legally, you would need someone to go out during the day to file any paperwork and renew the license. The gun would not be in your character's name unless they were the one going out and doing those things themselves. A retainer can be used for this purpose. Resources are also required. Illegally, you would seek out appropriate criminal contacts and use them to get weapons. Resources would also be required for this method. The specific amount of dots needed depends on the weapon desired.
+Legally, you would need someone to go out during the daytime to file paperwork and renew the license. The gun would not be in your character's name unless they were going out and doing those things themselves. A retainer can be used for this purpose. Resources are also required. Illegally, you would seek out appropriate criminal contacts and use them to get weapons. Resources would also be required for this method. The specific amount of dots needed depends on the weapon desired.
 
 ### Coteries and Domains
 

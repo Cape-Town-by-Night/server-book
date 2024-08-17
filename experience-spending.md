@@ -1,4 +1,4 @@
-# ❌ Experience Spending
+# Experience Spending
 
 Experience spending can only be done during [Time Skips](#user-content-fn-1)[^1]!
 
@@ -67,27 +67,25 @@ Players do not have to spend experience to raise their character's Humanity abov
 
 In addition to requiring justification, raising Humanity above the character's starting amount costs 10 experience points per level, per the suggestion in the Core book.
 
-### <mark style="color:yellow;">Blood Potency Increases</mark>
+### Blood Potency Increases
 
-<mark style="color:yellow;">Increasing Blood Potency can only be done during a chronicle where a character experiences events that would thicken their blood, such as killing to sate their Hunger, repeated exposure to vitae, allowing their Beast free reign through frenzy, or diablerie.</mark>
-
-<mark style="color:yellow;">Actively pursuing a Blood Potency increase requires the character to know that it is something they can do in the first place. Criteria and methods are listed below.</mark>
+Increasing Blood Potency can only be done during a chronicle where a character experiences events that would thicken their blood. Actively pursuing a Blood Potency increase requires the character to know that it is something they can do in the first place. The knowledge criteria and some sample methods are listed below.
 
 {% tabs %}
 {% tab title="Knowledge Criteria" %}
-* <mark style="color:yellow;">Ancilla: Your character may automatically know the methods for increasing Blood Potency.</mark>
-* <mark style="color:yellow;">Neonate: Your character needs 2 dots in Occult or a Mawla that is an Ancilla or older. Otherwise, make an Intelligence + Occult roll at DC 4.</mark>
-* <mark style="color:yellow;">Fledgling: Make an Intelligence + Occult roll at DC 4.</mark>
+* Ancilla: Your character may automatically know the methods for increasing Blood Potency.
+* Neonate: Your character needs 2 dots in Occult or a Mawla that is an Ancilla or older. Otherwise, make an Intelligence + Occult roll at DC 4.
+* Fledgling: Make an Intelligence + Occult roll at DC 4.
 {% endtab %}
 
 {% tab title="Methods" %}
-* <mark style="color:yellow;">**Killing:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">Drain a number of humans equal to twice the desired blood potency (once per night).</mark>
-* <mark style="color:yellow;">**Vitae exposure:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">Feed on higher-level vitae for a number of nights equal to twice the desired blood potency. This must be from the vein, creating a bond.</mark>
-* <mark style="color:yellow;">**Riding the wave:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">Give into frenzy a number of times equal to twice the desired blood potency (once per night).</mark>
-* <mark style="color:yellow;">**Diablerie**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">works the same as written in the core book.</mark>
+* **Killing:** Drain a number of humans equal to twice the desired blood potency (once per night).
+* **Vitae exposure:** Feed on higher-level vitae for a number of nights equal to twice the desired blood potency. This must be from the vein, creating a bond.
+* **Riding the wave:** Give into frenzy a number of times equal to twice the desired blood potency (once per night).
+* **Diablerie** works the same as written in the core book.
 {% endtab %}
 {% endtabs %}
 
-<mark style="color:yellow;">All events must take place during regular RP, not time skip, and must happen on consecutive nights. You can apply for a Blood Potency increase once per chronicle, and it does not use up your in-chronicle purchase. You cannot go up more than once per chronicle. You may only choose one method from the list above- they cannot be mixed and matched. Characters may only perform one "step" per night.</mark>
+All events must occur during regular play, not time skip, on consecutive nights. You can apply for a Blood Potency increase once per chronicle and do not need to wait for a time skip to apply this increase. You cannot go up more than once per chronicle. You may only choose one method from the list above- they cannot be mixed and matched. Characters may only perform one "step" per night.
 
 [^1]: 
