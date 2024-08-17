@@ -7,7 +7,7 @@ Before submitting a sheet, make sure that your character qualifies for the incre
 * Increasing Disciplines (and, therefore, choosing new Powers) requires your character to have fed on the corresponding Resonance at some point during the Chronicle. These requirements are further detailed below.
 * Increasing Humanity requires a _lot_ of selfless sacrifice, either for the benefit of others or in favor of your character's convictions.
 * Rituals, ceremonies, and formulae take the square of their rating in weeks to learn. Their requirements are further detailed below.
-* Advantages will require justification in the form of either roleplay (generally anything rated 2 dots or lower) or a project (generally anything rated 3 dots or higher).
+* Advantages will require justification in the form of a project roll.
 
 Please post links for all justifications when you submit your spending lists! Staff will only do one bulk list of purchases per character, so make sure you have everything you want before you submit.
 
