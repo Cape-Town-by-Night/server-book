@@ -30,17 +30,9 @@ You will precede each post by using the `/header` command. We use these headers 
 
 ## Posting Tips
 
-* Use third-person perspective. Past or present tense does not matter, but third-person creates a barrier between your character and yourself to help mitigate [character bleed](broken-reference).
+* Use third-person perspective. Past or present tense does not matter, but third-person creates a barrier between your character and yourself to help mitigate [character bleed](https://cape-town-by-night.gitbook.io/copy-ct-wiki/getting-started/beginners-guide/player-etiquette#character-bleed).
 * Enclose all spoken dialogue in "quotes". This helps to clarify exactly when your character is speaking out loud. Do not use quotes for thoughts.
 * _Italics_ are generally used for inner thoughts, though many players forgo writing said thoughts out.
 * You should note this in your post whenever you make a roll, fail a rouse check, or activate a discipline. You may use code blocks, spoiler tags, or whatever suits you. Ensure that it is readable and not disruptive.
 * When changing locations, make a note at the end of your post and tag the channel that the scene will be moving to before using the `!end` command.
   * A location change generally counts as a scene end for powers, abilities, and effects that last until the end of a scene.
-
-<details>
-
-<summary></summary>
-
-*
-
-</details>
