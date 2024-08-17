@@ -2,25 +2,29 @@
 
 ## Coordinating Scenes
 
-Use the [#rp-coordination](https://discord.com/channels/676333549720174605/880104561975631902) channel and search through to see if anyone has recently posted looking for a scene partner. If you can't find anyone, tag <mark style="color:blue;">@Looking for Roleplay</mark> (you can get this role in the [#role-selection](https://discord.com/channels/676333549720174605/926988136205123654) channel) and make a post of your own. Include which character you're looking to play in your scene along with any restrictions (No Camarilla, only other Brujah, etc) and other expectations you may have.&#x20;
+Use the [#rp-coordination](https://discord.com/channels/676333549720174605/880104561975631902) channel and search through to see if anyone has recently posted looking for a scene partner. If you can't find anyone, tag <mark style="color:blue;">@Looking for Roleplay</mark> (you can get this role in the [#role-selection](https://discord.com/channels/676333549720174605/926988136205123654) channel) and make your own post. Include which character you're looking to play in your scene along with any restrictions (No Camarilla, only other Brujah, etc) and other expectations you may have.&#x20;
 
-When you have found a scene partner, create a thread for the two (or more) of you to coordinate in. Anyone that you tag will be added to this thread.
+When you have found a scene partner, create a thread for the two (or more) of you to coordinate. Anyone that you tag will be added to this thread.
+
+## Knowing the Setting
+
+Before starting a scene, you should know where it will be set. Check the map and keep in mind what expected behavior should look like. You must have a location picked out, fictional or real. Locations that use "anywhere", "random bar", or "an alley" will be asked to change to something more specific.
 
 ## Setting Up the Scene
 
-Begin all scenes with `!start` so that people know not to use that channel, just in case you can't put up a post right away. You will close out all scenes with `!end`. This lets players know that the channel is open for a new scene. Do not use a channel if there is a scene in progress! Cape Town is a big city and there are many, many places where scenes can happen.
+Begin all scenes with `!start` so that people know not to use that channel, just in case you can't post immediately. You will close out all scenes with `!end`. This lets players know that the channel is open for a new scene. Do not use a channel if there is a scene in progress! Cape Town is a big city, and there are many places where scenes can happen.
 
-Try to get at least one post in a day. If you are unable to do so, communicate your situation with your partner(s) promptly. If you will be away for an extended period, cut them loose so that they can pursue other scenes.
+Try to get at least one post in a day. If you cannot do so, promptly communicate your situation with your partner(s). If you will be away for an extended period, cut them loose so they can pursue other scenes.
 
-If your partner hasn't responded for 12 hours, you may ping them again. If they do not respond for a total of 24 hours, you may close the scene. Do not spam ping people.
+You may ping them again if your partner hasn't responded for 12 hours. You may close the scene if they do not respond for 24 hours. Do not spam ping people.
 
-When doing a scene with multiple participants, only tag the next person in the turn order.
+Only tag the next person in the turn order when doing a scene with multiple participants.
 
 ## Storyteller Scenes
 
 To interact with SPCs, make a post in the [#scene-request](https://discord.com/channels/676333549720174605/884411816678137876) channel. A Storyteller will get to you when time is available.&#x20;
 
-If desired, players can run touchstones and any background characters related to Advantages and Flaws as a vignette. Care should be taken not to treat these as tertiary characters. They should interact with other PCs as little as possible.
+Players can run touchstones and any background characters related to Advantages and Flaws as a vignette if desired. Care should be taken not to treat these as tertiary characters. They should interact with other PCs as little as possible.
 
 ## Power-Gaming and Meta-Gaming
 
@@ -70,18 +74,14 @@ If you find yourself experiencing bleed, there are a few things that you can try
 
 #### Take a Break
 
-Mute the server entirely and do something else for a while. Once you’ve calmed down, sort through your feelings and try to find the root cause of your upset. If necessary, it’s okay to take even a few weeks to finish this process.
+Mute the server entirely and do something else for a while. Once you’ve calmed down, sort through your feelings and try to find the root cause of your upset. It’s okay to take even a few weeks to finish this process if necessary.
 
 #### Communicate Out of Character
 
-Talk with the player or players who were involved when you started to bleed. Explain the situation, how you feel, and why. Talking is grounding and can help you form the boundaries between player and character again. Seeking others’ honest perspectives can also help, even if they may not be what you want to hear. As a whole, players generally want to get along and have fun together—they are not the monsters that they portray.
+Talk with the player or players who were involved when you started to bleed. Explain the situation, how you feel, and why. Talking is grounding and can help you form the boundaries between player and character again. Seeking others’ honest perspectives can also help, even if they may not be what you want to hear. Overall, players generally want to get along and have fun together—they are not the monsters they portray.
 
 #### Take Time to Process
 
 Go over everything one last time. If you need to spend more time away, do so. Put together everything you’ve learned about your limitations and use that to form better boundaries for the future. You may not always be able to avoid them, but awareness can help tremendously.
 
 Should the feelings persist or arise frequently, it may be wise to seek professional help if possible. Bleed tends to be less common when you are in a healthier mental space and have the energy to process negative feelings better. Everyone is human, and there’s nothing to be ashamed of if burnt out. It is also worth noting that a player experiencing bleed isn’t inherently bad and shouldn’t be judged for having these feelings. We never know what’s going on in someone’s personal life as well as they do. If you see someone who seems to be struggling, it's important to reach out or alert staff/a moderator who can help de-escalate the situation.
-
-## Knowing the Setting
-
-Before starting a scene, you should know where it will be set. Check the map and keep in mind what expected behavior should look like. You must have a location picked out, fictional or real. Locations that use "anywhere", "random bar", or "an alley" will be asked to change to something more specific.
