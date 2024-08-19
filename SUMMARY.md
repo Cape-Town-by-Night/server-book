@@ -18,7 +18,7 @@
 
 ***
 
-* [❌ Project Rolls](project-rolls.md)
+* [Project Rolls](project-rolls.md)
 * [Progression Caps](progression-caps.md)
 * [Experience Spending](experience-spending.md)
 
