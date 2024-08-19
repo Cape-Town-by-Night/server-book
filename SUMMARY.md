@@ -32,7 +32,7 @@
 
 * [Convictions and Touchstones](convictions-and-touchstones.md)
 * [❌ Frequently Asked Questions](frequently-asked-questions.md)
-* [❌ Creating and Pursuing Plots](creating-and-pursuing-plots.md)
+* [Creating and Pursuing Plots](creating-and-pursuing-plots.md)
 * [❌ Time Skip](experience-spending-and-timeskip.md)
 
 ## Book Information

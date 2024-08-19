@@ -1,7 +1,7 @@
 ---
 description: >-
-  This page is not meant to replace the instructions in the Core, but to enhance
-  it. Please follow along with both of these resources for the best chance of a
+  This page is not meant to replace the instructions in the Core but to enhance
+  them. Please follow along with both of these resources for the best chance of
   expedient approval.
 layout:
   title:

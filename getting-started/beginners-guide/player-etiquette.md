@@ -8,11 +8,13 @@ When you have found a scene partner, create a thread for the two (or more) of yo
 
 ## Knowing the Setting
 
-Before starting a scene, you should know where it will be set. Check the map and keep in mind what expected behavior should look like. You must have a location picked out, fictional or real. Locations that use "anywhere", "random bar", or "an alley" will be asked to change to something more specific.
+Before starting a scene, you should know where it will be set. Check the map and keep in mind what expected behavior should look like. You must have a location picked out, fictional or real. Locations that use "anywhere", "random bar", or "an alley" will be asked to change to something more specific. Vampire is a game about tension and consequences, and a scene can go sideways in a single post. Knowing where things happen is very important.
 
 ## Setting Up the Scene
 
 Begin all scenes with `!start` so that people know not to use that channel, just in case you can't post immediately. You will close out all scenes with `!end`. This lets players know that the channel is open for a new scene. Do not use a channel if there is a scene in progress! Cape Town is a big city, and there are many places where scenes can happen.
+
+## Timing
 
 Try to get at least one post in a day. If you cannot do so, promptly communicate your situation with your partner(s). If you will be away for an extended period, cut them loose so they can pursue other scenes.
 
@@ -22,7 +24,7 @@ Only tag the next person in the turn order when doing a scene with multiple part
 
 ## Storyteller Scenes
 
-To interact with SPCs, make a post in the [#scene-request](https://discord.com/channels/676333549720174605/884411816678137876) channel. A Storyteller will get to you when time is available.&#x20;
+To interact with SPCs, post in the #scene-request channel. When time is available, a Storyteller or Assistant Storyteller will contact you.&#x20;
 
 Players can run touchstones and any background characters related to Advantages and Flaws as a vignette if desired. Care should be taken not to treat these as tertiary characters. They should interact with other PCs as little as possible.
 
