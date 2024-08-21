@@ -30,7 +30,7 @@ Kindred inflict harmful drinks on mortals when they either slake more than 3 hun
 
 ## **How do I form a coterie?**
 
-Gather the intended coterie members together, between 3-7 kindred. You may create a group ticket and add the other members for coordination. From there, use the coterie creation rules (Core p. 195)
+Gather the intended coterie members together, between 3-5 kindred. You may create a group ticket and add the other members for coordination. From there, use the coterie creation rules (Core p. 195)
 
 ## **How do I make a Mask?**
 
