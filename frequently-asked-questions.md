@@ -1,4 +1,4 @@
-# ❌ Frequently Asked Questions
+# Frequently Asked Questions
 
 In addition to the questions and answers below, please check our rulings [page](miscellaneous/rulings/),  [forum](https://discord.com/channels/676333549720174605/1237584988136804474), and section on changes to [Advantages and Flaws](https://cape-town-by-night.gitbook.io/copy-ct-wiki/\~/changes/Zpb0Yfi4wmYUaSKQqNcs/getting-started/character-creation#advantage-restrictions-and-changes).
 
@@ -26,7 +26,7 @@ A mortal who has been fed on for 3 or more Hunger in a single feeding must make 
 
 Kindred inflict harmful drinks on mortals when they either slake more than 3 hunger in a single feeding or feed while in frenzy. This inflicts a number of Aggravated damage equal to Hunger slaked. The mortal must then make a Strength + Stamina test at a Difficulty equal to the number of slakes taken. If they fail this roll, the mortal dies. If they pass, they can be safely transported to a medical facility where they can heal properly. Their wounds can be healed if they survive, per p.127 in the core book.
 
-<mark style="color:red;">add what happens when a kindred feeds more from a mortal at a later time here</mark>
+Mortals heal back slaked blood at a rate of 1 slake every 2 stories (8 in-character nights total). Ghouls, in line with their rapid recovery rates, heal back 1 slake every story (4 in-character nights). Should they be fed from and be missing at least 3 slakes at any time, they must make a Strength + Stamina roll equal to the number of slakes currently being taken. If they fail, they die. If they live, they take the number of slakes worth of Aggravated damage.
 
 ## **How do I form a coterie?**
 

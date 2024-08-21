@@ -8,7 +8,7 @@ The next time skip starts on September 11, 2024.
 
 At the end of every Chronicle (12 in-character Nights/Three out-of-character Months), the server undergoes a three-week time skip period.&#x20;
 
-Each character that joins a scene earns 9 experience. Every player has access to 10 free project rolls per character, which can be used to accrue the last remaining successes in a project or complete a new one. Unlike rolls during the chronicle, these rolls are made without Hunger dice, and you may surge and spend Willpower on each without cost (don't click the "Surge" and "Mark WP" buttons when they pop up).
+Each character that joins a scene earns 9 experience. Every player has access to 10 free project rolls per character, which can be used to secure justification for purchases. Unlike rolls during the chronicle, these rolls are made without Hunger dice, and you may surge and spend Willpower on each without cost (don't click the "Surge" and "Mark WP" buttons when they pop up).
 
 Scenes during this period are unlimited. You can be in as many as you like! Players are limited to opening 5 tickets at a time but may join other scenes if another player opens them instead. When the time skip ends, the in-game date advances to the day before the current out-of-character date.
 
@@ -20,73 +20,52 @@ Each scene begins with Hunger 1 (you may begin higher if you wish). All Superfic
 
 Unused successes fade at the end of time skip unless they are part of a project to obtain an Advantage, as do any “shadow” dots (Allies, Status, etc., gained through events and roleplay) that aren't locked in with experience. For your convenience, you may use this [Google Sheet](https://docs.google.com/spreadsheets/d/1DwYmWwWIQi6DHwjxgFfZaF-xBVeIRn5D\_XWOTj0k4ps/edit?usp=sharing) to track your successes, Resonances, and planned purchases, though you are not obligated to do so.
 
-### <mark style="color:green;">Disciplines</mark>
+### Disciplines
 
-You may increase a Discipline provided enough time has passed since the last time you upgraded that Discipline.
+Learning their in-clan Disciplines requires your character to hunt down the corresponding Resonance.&#x20;
 
-<table><thead><tr><th>Level</th><th width="288">In-clan</th><th>Out-of-clan</th></tr></thead><tbody><tr><td>1</td><td>No wait necessary</td><td>No wait necessary</td></tr><tr><td>2</td><td>1 chronicle</td><td>1 chronicle</td></tr><tr><td>3</td><td>1 chronicle</td><td>1 chronicle</td></tr><tr><td>4</td><td>1 chronicle</td><td>2 chronicles</td></tr><tr><td>5</td><td>2 chronicles + 2 significant uses</td><td>2 chronicles  + 4 significant uses</td></tr></tbody></table>
+Learning out-of-clan Disciplines works much the same way, except your character will first need to taste the Blood of another character who has access to that Discipline. This does require initiating a blood bond, as filling a vessel takes more than the few seconds deemed by the book.
 
-{% hint style="success" %}
-_**Example:** You purchased Potence 1, which is in-clan for you, in the third week of the chronicle. You may purchase Potence 2 starting week 2 of the next chronicle._
-{% endhint %}
+In addition, each character has a cooldown period to raise their Disciplines, depending on when they last purchased a power of the same Discipline. The exception to this is if you are playing a brand new character: your first purchase can be made whenever you'd like, so long as the power is level 3 or lower. This is a one-time option.
 
-#### <mark style="color:green;">Out-of-clan Disciplines</mark>
+| Resonance  | Disciplines             |
+| ---------- | ----------------------- |
+| Animal     | Animalism, Protean      |
+| Choleric   | Celerity, Potence       |
+| Empty      | Oblivion                |
+| Melancholy | Fortitude, Obfuscate    |
+| Phlegmatic | Auspex, Dominate        |
+| Sanguine   | Blood Sorcery, Presence |
 
-To learn the first dot of an out-of-clan Discipline requires drinking the blood of a character who has it in-clan. Vitae need only be drunk once; once the Discipline is unlocked, it is unlocked. It does not need to be taken "from the tap" and may be drank from a cup to avoid the bond; however 'from the vein' counts as the resonance required. Vitae retains its ability to unlock Disciplines for 15 minutes outside of the body. You must then receive training, though the training doesn't need to be from the blood donor.
+| Level | Minimum. temperament |
+| ----- | -------------------- |
+| 1     | Fleeting             |
+| 2     | Fleeting             |
+| 3     | Intense              |
+| 4     | Intense              |
+| 5     | Acute                |
 
-Subsequent purchases merely require appropriate resonance and temperament, as detailed below.
-
-| Resonance  | Disciplines                         |
-| ---------- | ----------------------------------- |
-| Choleric   | Celerity, Potence                   |
-| Melancholy | Fortitude, Obfuscate, Oblivion      |
-| Phlegmatic | Auspex, Dominate, Obeah             |
-| Sanguine   | Blood Sorcery, Presence, Chimerstry |
-| Animal     | Animalism, Protean, Vicissitude     |
-
-| Level | Min. temperament          |
-| ----- | ------------------------- |
-| 1     | In-clan vitae + training  |
-| 2     | Fleeting or in-clan vitae |
-| 3     | Fleeting or in-clan vitae |
-| 4     | Intense or in-clan vitae  |
-| 5     | Acute                     |
-
-{% hint style="info" %}
-The Bloodhound merit can help when hunting for Resonance. You may hunt up to 3 times per night, with the DC increasing each hunt if you hunt in the same area.
-{% endhint %}
+<table><thead><tr><th>Level</th><th width="288">In-clan</th><th>Out-of-Clan</th></tr></thead><tbody><tr><td>1</td><td>No wait necessary</td><td>No wait necessary</td></tr><tr><td>2</td><td>1 chronicle</td><td>1 chronicle</td></tr><tr><td>3</td><td>1 chronicle</td><td>1 chronicle</td></tr><tr><td>4</td><td>1 chronicle</td><td>2 chronicles</td></tr><tr><td>5</td><td>2 chronicles + 2 significant uses</td><td>2 chronicles  + 4 significant uses</td></tr></tbody></table>
 
 {% hint style="warning" %}
-Unused resonances are lost at the end of that chronicle's Timeskip. To keep track, you can do a thread or a list in your ticket.
+Unused resonances are lost at the end of that chronicle's Timeskip. You can keep track of it by making a pinned list (ask staff to pin it for you!) or by using a dedicated thread in your ticket.
 {% endhint %}
 
 {% hint style="success" %}
-_**Example:** You purchased out-of-clan Fortitude 3 during Timeskip. You may purchase Fortitude 4 starting the Timeskip of the chronicle after the next one. You'll also need either Intense Melancholy or the vitae from a character who has Fortitude in-clan (which risks a blood bond)._
+_**Example:** You purchased out-of-clan Fortitude 3 during Timeskip. You may purchase Fortitude 4 starting the time skip of the chronicle after the next one. You'll also need Intense Melancholy or the vitae from a character with Fortitude in-clan (which risks a blood bond)._
 {% endhint %}
 
 ### **Rituals, Ceremonies, and Formulae**
 
-Experience is to be spent after research is completed, but before the ability is used. The table below shows the necessary time to be spent studying the material to unlock the abilities with any modifiers noted below. Players are not required to have research scenes and they do not affect study time.
+Experience is to be spent after research is completed but before the ability is used. The table below shows the time spent studying the material to unlock the abilities with any modifiers noted below. Players are not required to have research scenes, and they do not affect study time.
 
-* <mark style="color:yellow;">Level 1: 1 IC week</mark>
-* <mark style="color:yellow;">Level 2: 2 IC weeks</mark>
-* <mark style="color:yellow;">Level 3: 5 IC weeks</mark>
-* <mark style="color:yellow;">Level 4: 10 IC weeks</mark>
-* <mark style="color:yellow;">Level 5: 14 IC weeks</mark>
+* Level 1: 1 IC week
+* Level 2: 4 IC weeks
+* Level 3: 9 IC weeks
+* Level 4: 16 IC weeks
+* Level 5: 25 IC weeks
 
-All relevant dots decrease the study time required by one night each. Suitable Library and Occult dots are used for Blood Sorcery and Oblivion while Lab and Science are used for Formulae. Appropriate Mawla and specialties apply to all three.
-
-Players can purchase as many rituals as they have time to study based on the chart above (ie: one level 4 and two level 2 abilities; 14 weeks IC). Time spent during time-skip _does_ count toward the required learning time. You must make note when you begin research on a new ritual, ceremony, or formula. If you do not declare when the research began, you cannot go back and claim lost time; you must start from the current date.
-
-Instructions for level 4 and 5 abilities can only be gained from events or through personal arcs or tasks that the player pursues.\
-\
-To learn a ritual or ceremony out-of-clan, you require a teacher with enough dots in the relevant Discipline to learn it themselves. The teacher does not need to know the exact ritual you want to learn, however, and this rule does not bypass the need for an arc for level 4/5 rituals.\
-\
-&#x20;Rituals do not use up your in-chronicle purchase.
-
-{% hint style="info" %}
-**Cult-specific** level 4 and 5 Ceremonies, Rituals, and powers require cult membership.
-{% endhint %}
+Players can purchase as many rituals as they have time to study based on the chart above (ie: one level 3 and three level 1 abilities; 12 weeks IC). Time spent during time skip may count toward the required learning time. You must note when your character begins researching a new ritual, ceremony, or formula. If you do not declare when the research began, you cannot go back and claim lost time; you must start from the current date. Your character must also have a reasonable source to study the desired ability (Mawla or otherwise). Player characters can only teach abilities that they know.
 
 ### Humanity Increases
 
