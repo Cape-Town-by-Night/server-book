@@ -20,8 +20,6 @@ Each scene begins with Hunger 1 (you may begin higher if you wish). All Superfic
 
 Unused successes fade at the end of time skip unless they are part of a project to obtain an Advantage, as do any “shadow” dots (Allies, Status, etc., gained through events and roleplay) that aren't locked in with experience. For your convenience, you may use this [Google Sheet](https://docs.google.com/spreadsheets/d/1DwYmWwWIQi6DHwjxgFfZaF-xBVeIRn5D\_XWOTj0k4ps/edit?usp=sharing) to track your successes, Resonances, and planned purchases, though you are not obligated to do so.
 
-###
-
 ### <mark style="color:green;">Disciplines</mark>
 
 You may increase a Discipline provided enough time has passed since the last time you upgraded that Discipline.
