@@ -69,12 +69,9 @@ Players can purchase as many rituals as they have time to study based on the cha
 
 ### Humanity Increases
 
-<mark style="color:yellow;">The cost of purchasing humanity is 2x the new humanity level. If you want to buy humanity you must meet the following requirements:</mark>
+Raising Humanity is a taxing ordeal. Qualifying for a Humanity raise requires massive effort and is subjective based on the character’s current Humanity level. Characters will often need to put themselves at risk to defend others or their convictions or otherwise do charitable deeds that negatively impact them (dedicating large amounts of project rolls to something that won't benefit them, dipping heavily into Backgrounds, etc).
 
-* <mark style="color:yellow;">You cannot have gained stains, succumbed to frenzy, or rolled bestial failures/messy criticals in the past two nights.</mark>
-* <mark style="color:yellow;">You must have acted selflessly and with compassion, showing you can be more humane. Touchstone scenes do not count for this purpose. Links must be provided to show an active effort being made.</mark>
-
-<mark style="color:yellow;">You can apply for a humanity increase once per chronicle and it does not use up your in chronicle purchase. You cannot go up more than one humanity per chronicle.</mark>
+Raising Humanity costs 10 x level sought, per the suggestion in the Core book. This experience requirement only applies to Humanity purchases that would put your character above the Humanity level they entered play with. For example, if they began at Humanity 7 and deteriorated to 6, you would not need to spend experience to return them to Humanity 7.
 
 ### Blood Potency Increases
 
