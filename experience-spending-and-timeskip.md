@@ -8,7 +8,7 @@ The next time skip starts on September 11, 2024.
 
 At the end of every Chronicle (12 in-character Nights/Three out-of-character Months), the server undergoes a three-week time skip period.&#x20;
 
-Each character that joins a scene earns 9 experience. Every player has access to 10 free project rolls per character, which can be used to secure justification for purchases. Unlike rolls during the chronicle, these rolls are made without Hunger dice, and you may surge and spend Willpower on each without cost (don't click the "Surge" and "Mark WP" buttons when they pop up).
+Each character that participates in a scene will earn 9 experience. Every player has access to 10 free project rolls per character, which can be used to secure justification for purchases. Unlike rolls during the chronicle, these rolls are made without Hunger dice, and you may surge and spend Willpower on each without cost (don't click the "Surge" and "Mark WP" buttons when they pop up).
 
 Scenes during this period are unlimited. You can be in as many as you like! Players are limited to opening 5 tickets at a time but may join other scenes if another player opens them instead. When the time skip ends, the in-game date advances to the day before the current out-of-character date.
 
@@ -78,23 +78,23 @@ Players can purchase as many rituals as they have time to study based on the cha
 
 ### Blood Potency Increases
 
-<mark style="color:yellow;">Increasing Blood Potency can only be done during a chronicle where a character experiences events that would thicken their blood, such as; killing to sate their beast, repeated exposure to vitae, allowing their Beast free reign by riding the wave, or dia</mark>blerie.
+<mark style="color:yellow;">Increasing Blood Potency can only be done during a chronicle where a character experiences events that would thicken their blood, such as; killing to sate their beast, repeated exposure to vitae, allowing their Beast free reign by riding the wave, or diablerie.</mark>
 
-Actively pursuing a Blood Potency increase requires the character to know that it is something they can do in the first place. Criteria and methods are listed below:
+<mark style="color:yellow;">Actively pursuing a Blood Potency increase requires the character to know that it is something they can do in the first place. Criteria and methods are listed below:</mark>
 
 {% tabs %}
 {% tab title="Knowledge Criteria" %}
-* Ancilla: Your character may automatically know the methods for increasing Blood Potency.
-* Neonate: Your character needs 2 dots in Occult or a Mawla that is an Ancilla or older. Otherwise, make an Intelligence + Occult roll at DC 4.
-* Fledgling: Make an Intelligence + Occult roll at DC 4.
+* <mark style="color:yellow;">Ancilla: Your character may automatically know the methods for increasing Blood Potency.</mark>
+* <mark style="color:yellow;">Neonate: Your character needs 2 dots in Occult or a Mawla that is an Ancilla or older. Otherwise, make an Intelligence + Occult roll at DC 4.</mark>
+* <mark style="color:yellow;">Fledgling: Make an Intelligence + Occult roll at DC 4.</mark>
 {% endtab %}
 
 {% tab title="Methods" %}
-* **Killing:** Drain a number of humans equal to twice the desired blood potency (once per night).
-* **Vitae exposure:** Feed on higher-level vitae for a number of nights equal to twice the desired blood potency. This must be from the vein, creating a bond.
-* **Riding the wave:** Give into frenzy a number of times equal to twice the desired blood potency (once per night).
-* **Diablerie** works the same as written in the core book.
+* <mark style="color:yellow;">**Killing:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">Drain a number of humans equal to twice the desired blood potency (once per night).</mark>
+* <mark style="color:yellow;">**Vitae exposure:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">Feed on higher-level vitae for a number of nights equal to twice the desired blood potency. This must be from the vein, creating a bond.</mark>
+* <mark style="color:yellow;">**Riding the wave:**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">Give into frenzy a number of times equal to twice the desired blood potency (once per night).</mark>
+* <mark style="color:yellow;">**Diablerie**</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">works the same as written in the core book.</mark>
 {% endtab %}
 {% endtabs %}
 
-All events must take place during regular RP, not time skip, and must happen on consecutive nights. You can apply for a Blood Potency increase once per chronicle, and it does not use up your in-chronicle purchase. You cannot go up more than once per chronicle. You may only choose one method from the list above- they cannot be mixed and matched. Characters may only perform one "step" per night.
+<mark style="color:yellow;">All events must take place during regular RP, not time skip, and must happen on consecutive nights. You can apply for a Blood Potency increase once per chronicle, and it does not use up your in-chronicle purchase. You cannot go up more than once per chronicle. You may only choose one method from the list above- they cannot be mixed and matched. Characters may only perform one "step" per night.</mark>
