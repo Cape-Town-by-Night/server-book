@@ -11,7 +11,7 @@ description: >-
 ### Animalism
 
 * Animal Messenger (Level 2)
-  * _This power cannot be used in combination with Subsume the Spirit._
+  * _This power does not use Resole+Streetwise/Survival, as most Famuli will not have these Skills. Instead, we allow players to roll Resolve+Awareness._
 * Messenger's Command (Level 3)
 * Plague of Beasts (Level 3)
 * Sway the Flock (Level 4)
