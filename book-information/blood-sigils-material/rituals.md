@@ -92,9 +92,7 @@ description: >-
 * Blue State (Level 2)&#x20;
 * Martian Purity (Level 3)
 
-## Koldunism
-
-To enable Koldunism while also keeping it distinct, we have created a [merit ](broken-reference)for these types of sorcerers. This is not an exhaustive list of the rituals that a Koldun may take and you are free to make your case for why a ritual should suit the power.
+## Koldunic Rituals
 
 ### Allowed
 
