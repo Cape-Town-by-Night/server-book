@@ -41,6 +41,6 @@ The following clains retain their original banes:
 * Lasombra
 * Malkavian
 * Nosferatu
-* [Ravnos](broken-reference)
-* [Tzimisce](broken-reference)
+* Ravnos
+* Tzimisce
 * Ventrue
