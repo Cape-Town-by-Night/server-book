@@ -11,4 +11,3 @@ description: >-
 ### Blood Sorcery
 
 * Koldunism (Level 1)
-  * _This power requires the_ [_Koldunic Initiation_](broken-reference) _merit._
