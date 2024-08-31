@@ -1,4 +1,4 @@
-# ❌ Time Skip
+# Time Skip
 
 {% hint style="info" %}
 The next time skip starts on September 11, 2024.
