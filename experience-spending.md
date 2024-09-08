@@ -63,7 +63,7 @@ To learn any ritual or ceremony, your character must have a mawla or other teach
 
 ### Humanity Increases
 
-Players do not have to spend experience to raise their character's Humanity above the level they entered play with. If the character's Humanity falls and a player would like to raise it again, they only need to play out the sacrifices that the character would make to return there. Humanity increases require a decent amount of effort and are subjective based on the character’s current Humanity level. Characters will often need to put themselves at risk to defend others or their convictions or do charitable deeds that negatively impact them (dedicating large amounts of time to something that won't benefit them, dipping heavily into backgrounds, etc).
+Players do not have to spend experience to raise their character's Humanity up to the level they entered play with. If the character's Humanity falls and a player would like to raise it again, they only need to play out the sacrifices that the character would make to return there. Humanity increases require a decent amount of effort and are subjective based on the character’s current Humanity level. Characters will often need to put themselves at risk to defend others or their convictions or do charitable deeds that negatively impact them (dedicating large amounts of time to something that won't benefit them, dipping heavily into backgrounds, etc).
 
 In addition to requiring justification, raising Humanity above the character's starting amount costs 10 experience points per level, per the suggestion in the Core book.
 
