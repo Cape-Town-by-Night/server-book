@@ -22,6 +22,8 @@ layout:
 
 All character sheets can be found [here](https://drive.google.com/drive/folders/1Iw\_ghSLnJC00Hqyz16dvgUc68qrCQHa4?usp=sharing) and in the `#character-creation` channel on the server.
 
+Thin-bloods and ancilla require three months of active play (non-consecutive but steady) with another character and staff approval. Time played is _not_ the only thing we will consider when considering a request to play either of these! Both require additional mechanical knowledge and trust, which their players need to earn in the community.
+
 Please use the character creation rules starting on **p. 136** of the V5 core book. For more realistic/coherent characters (and new players), we recommend using the guided character creation process starting on **p. 144**, titled "Your Human Life." This method emphasizes character building by focusing on characters' lives and assigning stats accordingly.
 
 <details>
@@ -37,8 +39,6 @@ If you are retiring a character, you may have a bank of retirement experience to
 <summary>Looking to play a second character?</summary>
 
 After playing your first character for at least three OoC weeks, you may submit a second character. This character may be a mortal, ghoul, full-blooded fledgling, or neonate.&#x20;
-
-Thin-bloods and ancilla require three months of active play (non-consecutive but steady) and staff approval. Time played is _not_ the only thing we will consider when considering a request to play either of these! Both require additional mechanical knowledge and trust, which their players need to earn in the community.
 
 </details>
 
