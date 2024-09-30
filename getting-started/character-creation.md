@@ -104,6 +104,8 @@ The clan you choose for your character determines a lot about them, from their b
 
 We do not use the original banes for all of our clans! The server character sheets have our choice of clan bane and compulsions written in. The Twice-Cursed flaw is also available for players who want to interact with the other bane.
 
+Note that if you are playing a character who is pretending to be a clan that they do not belong to, you must take the Dark Secret flaw. This applies to all characters, including Caitiff and Thin-Bloods.
+
 <details>
 
 <summary>What Clans Are Where?</summary>
