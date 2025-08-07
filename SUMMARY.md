@@ -29,7 +29,6 @@
 * [Fall of London](material-availability/fall-of-london.md)
 * [The Chicago Folios](material-availability/the-chicago-folios.md)
 * [Let the Streets Run Red](material-availability/let-the-streets-run-red.md)
-* [Cults of the Blood Gods](material-availability/cults-of-the-blood-gods.md)
 * [Children of the Blood](material-availability/children-of-the-blood.md)
 * [Trails of Ash and Bone](material-availability/trails-of-ash-and-bone.md)
 * [Winter's Teeth](material-availability/winters-teeth.md)
