@@ -2,17 +2,21 @@
 
 ## Coordinating Scenes
 
-Use the [#rp-coordination](https://discord.com/channels/676333549720174605/880104561975631902) channel and search through to see if anyone has recently posted looking for a scene partner. If you can't find anyone, tag <mark style="color:blue;">@Looking for Roleplay</mark> (you can get this role in the [#role-selection](https://discord.com/channels/676333549720174605/926988136205123654) channel) and make your own post. Include which character you're looking to play in your scene along with any restrictions (No Camarilla, only other Brujah, etc) and other expectations you may have.&#x20;
+Use the [<mark style="color:red;">#rp-coordination</mark>](https://discord.com/channels/1292865933525651466/1292865935362887793) channel and search through to see if anyone has recently posted looking for a scene partner. If you can't find anyone, tag <mark style="color:blue;">@LFRP</mark> (you can get this role in the [<mark style="color:red;">#role-selection</mark>](https://discord.com/channels/1292865933525651466/1292865933848743983) channel) and make your own post. Include which character you're looking to play in your scene along with any restrictions (No Camarilla, only other Brujah, etc) and other expectations you may have.&#x20;
 
 When you have found a scene partner, create a thread for the two (or more) of you to coordinate. Anyone that you tag will be added to this thread.
 
+There is nothing wrong with having players you prefer to write with, but please make an effort to extend a hand outside of those people. Remaining in a contained bubble comes across as cliquish and makes the environment unwelcoming to newcomers!
+
 ## Knowing the Setting
 
-Before starting a scene, you should know where it will be set. Check the map and keep in mind what expected behavior should look like. You must have a location picked out, fictional or real. Locations that use "anywhere", "random bar", or "an alley" will be asked to change to something more specific. Vampire is a game about tension and consequences, and a scene can go sideways in a single post. Knowing where things happen is very important.
+Before starting a scene, you should know where it will be set. Check the map and keep in mind what expected behavior should look like. You must have a location picked out. Scenes cannot use designations like "anywhere", "random bar", or "an alley". Vampire is a game about tension and consequences, and a scene can go sideways in a single post.; knowing where things happen is very important. We have a [<mark style="color:red;">server map</mark>](https://www.google.com/maps/d/edit?mid=11gaSFGWyAA_T8k2e3b05c87r65rOsbw\&usp=sharing) with a variety of location pins to help inspire you.
 
 ## Setting Up the Scene
 
-Begin all scenes with `!start` so that people know not to use that channel, just in case you can't post immediately. You will close out all scenes with `!end`. This lets players know that the channel is open for a new scene. Do not use a channel if there is a scene in progress! Cape Town is a big city, and there are many places where scenes can happen.
+Discuss with your scene partners your desired turn order. You will _only_ tag the person directly after you in the turn order unless that person has asked to be skipped.
+
+Begin all scenes with `!start` so that people know not to use that channel, just in case you can't post immediately. You will close out all scenes with `!end`. This lets players know that the channel is open for a new scene. Do not use a channel if there is a scene in progress! Cape Town is a big city, and there are many places where scenes can happen. Before your post, use the `/header`  command that you set up after character approval.
 
 ## Timing
 
@@ -24,7 +28,7 @@ Only tag the next person in the turn order when doing a scene with multiple part
 
 ## Storyteller Scenes
 
-To interact with SPCs, post in the #scene-request channel. When time is available, a Storyteller or Assistant Storyteller will contact you.&#x20;
+To interact with SPCs, post in the #scene-request channel. When time is available, a Storyteller will contact you.&#x20;
 
 Players can run touchstones and any background characters related to Advantages and Flaws as a vignette if desired. Care should be taken not to treat these as tertiary characters. They should interact with other PCs as little as possible.
 
@@ -56,7 +60,7 @@ When you are roleplaying, you are taking on a character of your own, dictating e
 
 Recognizing that a character’s actions, thoughts, and words do not represent the person playing them is important. This is one of the reasons why self-inserts are discouraged in RPG spaces; they make it harder for players to separate the character from the creation, including the person playing them. However, bleed can occur even if your character isn’t a self-insert.
 
-Bleed is a fluid thing, with in-character actions affecting out-of-character just as easily as the opposite (though the former is more common). An episode of bleed could be triggered by something as simple as having a bad day at work or another player character insulting your own in a scene. These situations may affect how you, the player, act and react to future scenes. Burnout and poor mental health (stress, depression, illness, anxiety) can become catalysts for episodes of bleed. Renegade Studios has a free guide to bleed on their [website](https://renegadegamestudios.com/vampire-the-masquerade-5th-edition-bleed-and-how-to-deal-with-it/).
+Bleed is a fluid thing, with in-character actions affecting out-of-character just as easily as the opposite (though the former is more common). An episode of bleed could be triggered by something as simple as having a bad day at work or another player character insulting your own in a scene. These situations may affect how you, the player, act and react to future scenes. Burnout and poor mental health (stress, depression, illness, anxiety) can become catalysts for episodes of bleed. Renegade Studios has a free guide to bleed on their [<mark style="color:red;">website</mark>](https://renegadegamestudios.com/vampire-the-masquerade-5th-edition-bleed-and-how-to-deal-with-it/).
 
 ### How to Avoid Bleed
 
@@ -64,26 +68,14 @@ The first line of defense against bleed is simply communication. Being open and 
 
 Taking time to decompress is another important tool and often the one most commonly suggested. Someone starting to get worked up may be told to take five, go for a walk, or have something to eat. If you get upset because of in-character events, the most effective method can sometimes be to log off to decompress and give yourself breathing room. If needed, you can ask staff for a timeout in Discord. The times available are 5 minutes, 10 minutes, 1 hour, 1 day, and 1 week. This status means you cannot type in any channel on the server, though you can still see things. Asking for a mute does not count as a mark against you.
 
-Another helpful practice is setting up boundaries between you and your character. Writing in first-person prose and using “I” to refer to your character can blur that line, making instances of bleed more harmful if you are already prone to those feelings. You are not your character, and your character is not you.
+Another helpful practice is setting up boundaries between you and your character. It is important to understand that everyone is separate from their characters, yourself included. Do not make a character too similar to yourself to aid in this distinction.
 
 ### How to Deal With Bleed After It's Started
 
-When a player has started bleeding, they can feel a whole range of emotions, from being so sad that it affects their out-of-character life to idolizing someone they don’t know to feeling hurt by people that they thought were their friends.
+No matter how many precautions you take, it is still possible to experience bleed. Your feelings are valid and it's understandable for anyone to have a small moment of weakness and get too invested in their character.
 
-However, bleed isn’t uncommon, and the things that lead to it can be addressed—so long as the person experiencing it is willing to open up.
+The first step for dealing with these feelings is asking yourself what caused this shift? Is it an in character issue or out of character? Is the person causing this usually someone you get along with or feel comfortable talking to?
 
-If you find yourself experiencing bleed, there are a few things that you can try:
+Second is getting up and taking a breather. Your emotions will even out if you make space from what's causing them. However long this takes is up to you and we don't need a heads up if you're taking a moment to recompose yourself. Prioritize your mental health above all else!
 
-#### Take a Break
-
-Mute the server entirely and do something else for a while. Once you’ve calmed down, sort through your feelings and try to find the root cause of your upset. It’s okay to take even a few weeks to finish this process if necessary.
-
-#### Communicate Out of Character
-
-Talk with the player or players who were involved when you started to bleed. Explain the situation, how you feel, and why. Talking is grounding and can help you form the boundaries between player and character again. Seeking others’ honest perspectives can also help, even if they may not be what you want to hear. Overall, players generally want to get along and have fun together—they are not the monsters they portray.
-
-#### Take Time to Process
-
-Go over everything one last time. If you need to spend more time away, do so. Put together everything you’ve learned about your limitations and use that to form better boundaries for the future. You may not always be able to avoid them, but awareness can help tremendously.
-
-Should the feelings persist or arise frequently, it may be wise to seek professional help if possible. Bleed tends to be less common when you are in a healthier mental space and have the energy to process negative feelings better. Everyone is human, and there’s nothing to be ashamed of if burnt out. It is also worth noting that a player experiencing bleed isn’t inherently bad and shouldn’t be judged for having these feelings. We never know what’s going on in someone’s personal life as well as they do. If you see someone who seems to be struggling, it's important to reach out or alert staff/a moderator who can help de-escalate the situation.
+Third is Communication: In this server we want people to feel comfortable talking through issues. If you need help broaching the topic please reach out to staff. We are here to help.

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # How to Format
 
 ## General Text Formatting
@@ -38,13 +24,13 @@ Don't want to use markdown? You can slap a backslash before your statement or pu
 
 ## Inconnu Headers
 
-We use a Discord bot called Inconnu to handle our dice rolls and create roleplay headers. You can use these headers to supply information that would be readily available to the other character(s) in your scene and denote your scene's location. People subscribed to Inconnu's Patreon page may use character images in their headers and the bot's `/post` command. More information can be found on Inconnu's [documentation page](https://docs.inconnu.app/).\
+We use a Discord bot called Inconnu to handle our dice rolls and create roleplay headers. You can use these headers to supply information that would be readily available to the other character(s) in your scene and denote your scene's location. People subscribed to Inconnu's Patreon page may use character images in their headers and the bot's `/post` command. More information can be found on Inconnu's [<mark style="color:red;">documentation page</mark>](https://docs.inconnu.app/).\
 \
 You will precede each post by using the `/header` command. We use these headers to calculate activity experience, so try not to forget!
 
 ## Posting Tips
 
-* Use third-person perspective. Past or present tense does not matter, but third-person creates a barrier between your character and yourself to help mitigate [character bleed](https://cape-town-by-night.gitbook.io/copy-ct-wiki/getting-started/beginners-guide/player-etiquette#character-bleed).
+* Use third-person perspective. Past or present tense does not matter, but third-person creates a barrier between your character and yourself to help mitigate [<mark style="color:red;">character bleed</mark>](https://cape-town-by-night.gitbook.io/copy-ct-wiki/getting-started/beginners-guide/player-etiquette#character-bleed).
 * Enclose all spoken dialogue in "quotes". This helps to clarify exactly when your character is speaking out loud. Do not use quotes for thoughts.
 * _Italics_ are generally used for inner thoughts, though many players forgo writing said thoughts out.
 * You should note this in your post whenever you make a roll, fail a rouse check, or activate a discipline. You may use code blocks, spoiler tags, or whatever suits you. Ensure that it is readable and not disruptive.
