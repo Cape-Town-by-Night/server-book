@@ -1602,3 +1602,115 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 ## Ceremonies
 
 ## Formulae
+
+<details>
+
+<summary><mark style="color:red;"><strong>Far Reach, Level 1 (Core pp.284-285)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, choleric human blood, melted nylon fibers or a grated refrigerator magnet or weird nootropics ordered off the internet
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Resolve + Alchemy vs Strength + Athletics
+
+**System:** The alchemist can lift, push, or pull a physical object or person under 100 kg, within their sight and closer than 10 meters. The object moves swiftly, but not rapidly enough to injure a person with the blow; the object may break if it is fragile. The exception: knives or other small metal tools, which the alchemist can wield with a Resolve + Alchemy test, at a two-dice penalty because of the need for precision. A knife used this way does only one point of extra damage.
+
+Trying to move someone actively resisting requires a contest of Resolve + Alchemy vs Strength + Athletics. On a win, the alchemist can pull the victim within grabbing or clawing range, or throw them one meter for each point of margin on the contest, doing an equal amount of Superficial damage. They land prone. Keeping someone or something floating in mid-air requires a Resolve + Thin-Blood Alchemy (Difficulty 3) roll every turn. Fine manipulation (such as pulling the pin of a grenade) requires a Wits + Alchemy roll at a suitable Difficulty, as determined by the Storyteller.
+
+&#x20;Duration: One turn unless held (see above).
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Haze, Level 2 (Core p.285)</strong></mark></summary>
+
+**Ingredients:** In addition to the alchemist’s Blood and phlegmatic human blood, dry ice or cigar smoke or auto exhaust
+
+**Activation Cost:** One Rouse Check
+
+**System:** Upon activation a cloud of mist-like vapor surrounds the alchemist, masking their features and obscuring their silhouette. Anyone attempting to identify the user or hit them with ranged weapons suffers a two-dice penalty to their pool. The user can extend the cloud to encompass a group of up to five people by making another Rouse check.
+
+**Duration:** One scene or until voluntarily ended.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Envelop, Level 2 (Core p.285)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, melancholic and phlegmatic human blood, potassium chlorate, smog or halon gas
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Wits + Alchemy vs Stamina + Survival
+
+**System:** The alchemist activates the power and chooses a target within sight. A swirling mist envelops the target, obscuring their sight and penalizing them three dice from all sight-based detection and ranged attack dice pools. In addition, the alchemist can make the mist suffocate a mortal with a contest of Wits + Alchemy vs. Stamina + Survival. On a win, the target can take no action except coughing and choking; on a critical win, the target loses consciousness. The alchemist can only employ Envelop on single targets, and only on one at a time.
+
+**Duration:** Until scene ends or the alchemist ends the effect voluntarily.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Defractionate, Level 3 (Core pp.285-286)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, sanguine and melancholic human blood, O-negative human blood (only a few ml), moldy spinach, hot black coffee, sodium octanoate
+
+**System:** The alchemist taps their vessel (Calcinatio), or their own vein (Athanor Corporis) to get the Defractionate elixir if they do not use Fixatio. For each success on the distillation roll, they get enough elixir to turn one blood bag (slakes 1 Hunger) from fractionated to unfractionated blood. Any vampire can consume this blood and slake Hunger with it.
+
+_**Athanor Corporis:**_ The alchemist can tap their own vein once per night for this elixir until their next feeding, or until they reach Hunger 5. They need not pay the distillation cost again.
+
+_**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them again in a week for more elixir. They need not pay the distillation cost again, but the vessel pays the Health cost (3 Aggravated damage) each time they are tapped.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Profane Hieros Gamos, Level 3 (Core pp.286-287)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, melancholic and phlegmatic human blood, entheogenic substances.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Stamina + Resolve
+
+**System:** Whoever imbibes the formula mixed with a Rouse Check worth of their own Blood instantly falls into a catatonic fever dream until the following night, the depths of their psyche plumbed for their personal idealized form, or a form strongly desired.
+
+The effects of Profane Hieros Gamos are limited to the external morphology of the human form, the body refusing transformations too outlandish and fantastical to be without the wondrous spectrum of human anatomy. The imbiber makes a Stamina + Resolve roll against a difficulty of 8 minus the successes on the distillation roll, adding their Bane Severity to the Difficulty of the test. On a win, the transformation process is successful and their physical body molds to the desired shape. A critical win can grant and remove Merits and Flaws of the Looks category, though like all Advantages they need to be paid for with Experience points (p. 180). A messy critical or a bestial failure might cause a new Flaw to manifest, ranging from Repulsive, Obvious Predator, Stigmata or even Organovore as the Beast interferes with the transformation.
+
+Not even the blood of the Duskborn can spare the Nosferatu from their Bane, the process incorporating the clan’s hideous affliction despite the user’s mental image.
+
+**Duration:** Permanent until performed again.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Airborne Momentum, Level 4 (Core p.287)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, choleric and sanguine human blood, champagne, bird blood, helium, scopolamine or belladonna extract
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Strength + Alchemy vs Strength+Athletics (if resisted)
+
+**System:** The potion enables the alchemist (and only them) to fly or hover at approximately running speed. The flier can carry a human-sized mass, though their speed drops to walking speed. Grabbing and carrying aloft an unwilling subject or pulling the flier to the ground both require a contest between the alchemist’s Strength + Alchemy and the other’s Strength + Athletics.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Awaken The Sleeper, Level 5 (Core p.287)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, choleric or sanguine human blood, adrenaline, ammonium carbonate, hartshorn, caffeine or benzedrine, melatonin
+
+**System:** The alchemist taps their vessel (Calcinatio), or their own vein (Athanor Corporis) to get the Awaken the Sleeper elixir if they do not use Fixatio. They then mix the elixir into human blood. For each success above 2 on the distillation roll, the elixir can awaken a vampire of that Blood Potency.
+
+_**Athanor Corporis:**_ The alchemist can tap their own vein once per night for this elixir until their next feeding, or until they reach Hunger 5. They need not pay the distillation cost again.
+
+_**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them again in a week for more elixir. They need not pay the distillation cost again, but the vessel pays the Health cost (5 Aggravated damage) each time they are tapped. The Alchemist can also simply feed the vessel’s blood to the sleeper directly.
+
+</details>
