@@ -111,7 +111,7 @@ This experience terrifies the animals the vampire harnesses, and their terror sc
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Awaken the Parasite, Animalism 3 (Tattered Facade p.90)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Awaken the Parasite, Animalism 3 (Tattered Facade p.90)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
@@ -119,9 +119,9 @@ This experience terrifies the animals the vampire harnesses, and their terror sc
 
 **System:** The vampire Rouses the Blood and spends their action concentrating before testing Resolve + Animalism against the Humanity of their target (mortal targets resist with Stamina + Wits). The victim must be within close proximity to the vampire. Results are based on the margin of the contest, while a critical win also increases a vampire target’s Hunger by one:
 
-_▪ Basic Win (Margin 0):_ The victim reduces Social and Mental dice pools by one die as maggots burrow and writhe beneath their flesh, causing confusion and headaches to the victim, and nausea among onlookers.\
-&#xNAN;_▪ Margin 1:_ The victim suffers a two-dice penalty on all pools as larvae burst from their flesh in significant numbers. In most cases, Social tests simply fail without needing to roll. At this stage, the Masquerade becomes severely strained, at best.\
-&#xNAN;_▪ Margin 2+:_ Eggs go from larvae to pupae in seconds, and pupating blowflies erupt in a shower of gore; killing mortal victims, while supernatural targets receive a two-dice penalty to pools, 2 unhalved Superficial damage, and find themselves unable to speak as their throats fill with squirming maggots.
+_**Basic Win (Margin 0):**_ The victim reduces Social and Mental dice pools by one die as maggots burrow and writhe beneath their flesh, causing confusion and headaches to the victim, and nausea among onlookers.\
+&#xNAN;_**Margin 1:**_ The victim suffers a two-dice penalty on all pools as larvae burst from their flesh in significant numbers. In most cases, Social tests simply fail without needing to roll. At this stage, the Masquerade becomes severely strained, at best.\
+&#xNAN;_**Margin 2+:**_ Eggs go from larvae to pupae in seconds, and pupating blowflies erupt in a shower of gore; killing mortal victims, while supernatural targets receive a two-dice penalty to pools, 2 unhalved Superficial damage, and find themselves unable to speak as their throats fill with squirming maggots.
 
 If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or disgust a foe, the vermin burst from their flesh and they suffer a two-dice penalty on any other pools this scene. The target resists with Composure + Resolve. If the vampire wins, the target cringes away, flees, or otherwise loses face; they also lose Willpower equal to the margin.
 
@@ -222,6 +222,20 @@ The user can also actively provoke a premonition by focusing on a subject, makin
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Haruspex, Auspex 3 + Oblivion 1 (Tattered Facade p.91)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Resolve + Auspex
+
+**System:** The vampire spends a turn examining the body of the recently dead or dying (they must have died within the scene), during which time they remove and scatter organs, stare into vacant eyes, and otherwise desecrate the corpse. Once complete, they Rouse the Blood and test Resolve + Auspex against Difficulty 3. Characters gain a one-die bonus if they killed the victim themselves, or two dice if they’re killed while undergoing the scrying process (such a torturous death likely grants Stains). If successful, the vampire can reroll every die in any single dice pool before the night’s end as the insight prepares them for such an eventuality. On a critical win, they may reroll up to three pools. When a pool is rerolled, the player may choose the most preferable result. This Power only works with mortal victims — vampires and animals provide no spark of insight.
+
+**Duration:** One night
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Scry The Soul, Auspex 3 (Core p.250)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -254,6 +268,28 @@ If scanning a crowd, roll versus a Difficulty determined by the size of the crow
 **System:** Roll Resolve + Auspex at Difficulty 3. This Difficulty can go up depending on distraction, distance, and other factors, such as the amount of the user’s Blood that remains in the target. The target usually remains unaware of the intrusion, but Sense the Unseen can allow the passenger to be noticed. To get rid of an unwanted rider, the victim must beat the intruder at a Wits + Resolve vs Wits + Resolve roll. An Auspex user thrown out this way cannot make another Sharing attempt until the next night.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Heart Laid Bare, Auspex 4 (Tattered Facade pp.91-92)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Intelligence + Auspex vs Composure + Subterfuge
+
+**System:** The user decides on whether they are looking for fears or desires and then engages the target in conversation for a few minutes before making the Power test. The test is made against Difficulty 0 on unsuspecting mortals, but mortals aware of vampiric abilities — as well as all supernatural creatures — can resist with Composure + Subterfuge. The margin on success determines how much information is gained:
+
+_**1–2:**_ The user gets a general notion of the victim’s fears or desires, such as: “wealth”, “bugs”, or “loneliness.”
+
+_**3–5:**_ The sense becomes more specific: “making it on the stock market”, “hornets”, or “losing my partner”
+
+_**6+:**_ The user receives a clear picture of the element sought, complete with context or history: “getting away with that NDX Insider deal”, “a threesome with Billy and Jeanette”, “hornets, ever since I whacked that nest on a dare in third grade”, or “Warren finding out I lied about Billy and Jeanette.”
+
+Add one success to the result if the object of desire or fear is present, and add another success if the conversation touches upon the topic. (Though the victim can catch on to the intent unless the user wins a Composure + Subterfuge vs Wits + Insight test.)
+
+**Duration:** N/A
 
 </details>
 
@@ -358,6 +394,18 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 **System:** Add the Celerity rating to user's dice pool for non-combat Dexterity tests. Once per turn the user may also do this when defending with Dexterity + Athletics.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>A Thousand Cuts, Celerity 3 (Tattered Facade pp.95-96)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** The vampire may add their Celerity rating to any single Brawl or Melee attack (not otherwise augmented by a Discipline) made with claws or an edged weapon. For mortal victims, the cuts and slices caused by this flurry of attacks only cause Superficial damage, but automatically inflict enough additional Superficial damage for the victim to be Impaired. (At the Storyteller’s discretion, victims are overcome with pain and effectively out of commission.) The attack also splashes blood far and wide, causing vampires at Hunger 3 or more to make Hunger Frenzy tests. Used against Kindred, the attack is relatively harmless, but the scores of vicious yet unbleeding wounds leave the victim a walking Masquerade violation, and might provoke a Fury Frenzy test at the Storyteller’s discretion.
+
+**Duration:** One action
 
 </details>
 
@@ -1167,6 +1215,20 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 
 <details>
 
+<summary><mark style="color:red;"><strong>A Taste For Blood, Blood Sorcery 1 (Core p.273)</strong></mark></summary>
+
+**Cost:** Free
+
+**Dice Pools:** Resolve + Blood Sorcery
+
+**System:** The user dabs the blood on their tongue and makes a Resolve + Blood Sorcery roll (Difficulty 3). With a win, the user can determine the resonance and intensity of the blood if human. They can also identify whether the blood belongs to a mortal, ghoul, vampire, or other supernatural creature (it may not necessarily be able to identify the supernatural creature if not Kindred or ghoul). Tasting vitae also determines the relative Blood Potency (and thus the likely generation band) of the vampire. A critical win also reveals whether the subject has ever committed diablerie, and the generation (within one) of the vampire. If the user knows of the supernatural creature in question, they can identify the specific supernatural creature on a critical win after tasting the blood.
+
+**Duration:** N/A
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Corrosive Vitae, Blood Sorcery 1 (Core p.273)</strong></mark></summary>
 
 **Cost:** One or more Rouse Checks
@@ -1179,15 +1241,15 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 
 <details>
 
-<summary><mark style="color:red;"><strong>A Taste For Blood, Blood Sorcery 1 (Core p.273)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Shape the Sanguine Sacrament, Blood Sorcery 1 (Tattered Facade p.92)</strong></mark></summary>
 
-**Cost:** Free
+**Cost:** Free (or one Rouse Check if using your own Blood)
 
-**Dice Pools:** Resolve + Blood Sorcery
+**Dice Pools:** Manipulation + Blood Sorcery
 
-**System:** The user dabs the blood on their tongue and makes a Resolve + Blood Sorcery roll (Difficulty 3). With a win, the user can determine the resonance and intensity of the blood if human. They can also identify whether the blood belongs to a mortal, ghoul, vampire, or other supernatural creature (it may not necessarily be able to identify the supernatural creature if not Kindred or ghoul). Tasting vitae also determines the relative Blood Potency (and thus the likely generation band) of the vampire. A critical win also reveals whether the subject has ever committed diablerie, and the generation (within one) of the vampire. If the user knows of the supernatural creature in question, they can identify the specific supernatural creature on a critical win after tasting the blood.
+**System:** The vampire makes a Manipulation + Blood Sorcery test and by concentrating on the image to be formed, sends the blood or vitae flowing into the prescribed pattern or shape. Difficulty varies with the pattern’s complexity: from a simple “SOS” (Difficulty 2), to a portrait (Difficulty 4), or topologically complex sorcerous sigil (Difficulty 6). Failure spatters the blood randomly; a critical win not only forms the desired image but also allows the vampire to change its shape freely during the scene.
 
-**Duration:** N/A
+**Duration:** For the remainder of the scene or until dispelled by user
 
 </details>
 
@@ -1232,6 +1294,42 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 If the poison hits, the user rolls a contest of Strength + Blood Sorcery vs Stamina + Occult. (Vampires with Fortitude may resist with Stamina + Fortitude.) If the user wins, the poison does the margin in Aggravated Health damage to mortals and in non-halved Superficial Health damage to vampires. A mortal who takes even one point of damage collapses unconscious.
 
 **Duration:** The poison remains potent for one scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Fulminating Vitae, Blood Sorcery 4 (Tattered Facade pp.92-93)</strong></mark></summary>
+
+**Cost:** Two Rouse Checks
+
+**Dice Pools:** Stamina + Blood Sorcery
+
+**System:** When the vial is broken — whether that’s by a cleverly timed explosive, a well-aimed throw, or an accident — the Fulminating Vitae explodes outward in a radius of approximately 20 feet. It deals Aggravated damage to any Kindred in its path equal to the margin on a Stamina + Blood Sorcery vs Wits + Athletics test. Mortals take only Superficial damage, in part due to the accelerated healing brought on by the Blood mixing with theirs. Inanimate objects are completely unaffected.
+
+Anyone taking damage from this Power also is affected by the vitae as though they tasted it for purposes of learning Disciplines and the Blood Bond.
+
+**Duration:** The vial remains “armed” until dawn
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Marionette, Blood Sorcery 4 (Tattered Facade p.93)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:red;">Shape the Sanguine Sacrament</mark>](https://wiki.capetownvtm.com/~/changes/150/material-availability/powers#shape-the-sanguine-sacrament-blood-sorcery-1-tattered-facade-p.92)
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Manipulation + Blood Sorcery
+
+**System:** The vampire concentrates for a turn, Rouses the Blood, and makes the activation test. Make tests against spilled blood (or dead bodies) at Difficulty 2, while living creatures can resist with Stamina + Occult (or Fortitude). For each point of margin, the vampire has full control over the blood for one turn and uses Manipulation + Blood Sorcery for all the marionette’s physical actions.
+
+Living targets maintain their faculties while being puppeteered and can still speak — although this rarely amounts to more than terrified screams once they realize their body moves seemingly of its own volition. Living targets can force control for a turn; however, the effort inflicts 1 point of Aggravated damage as their blood shreds their flesh from within. Blood without a body temporarily solidifies and sharpens, and inflicts +2 damage during combat.
+
+During the process, the sorcerer must maintain concentration — simple movement and conversation is fine, but most offensive actions requiring dice pools break the spell and end the power unless the user has a Critical Win on the offensive action’s test. Vampires and vitae cannot be puppeteered, only the blood of the living.
+
+**Duration:** One turn per point of margin
 
 </details>
 
@@ -1471,6 +1569,24 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
+<summary><mark style="color:red;"><strong>Grim Chrysalis, Level 3 (Tattered Facade pp.93-94)</strong></mark></summary>
+
+**Ingredients:** 200g of human hair, a moth or butterfly. Old-school sorcerers insist on death’s-head moths and hair from a corpse; younger licks suggest that a store-bought bottle of keratin supplements and any random caterpillar works just as well.
+
+**Process:** The vampire makes a Rouse Check, ingests and swallows the hair and the moth over a fifteen-minute period. It can form the Grim Chrysalis any time that night, and automatically begins forming it three minutes before sunrise unless it can vomit up the mass with a Resolve + Athletics test (Difficulty 3).
+
+**System:** The vampire begins drooling its keratin-laced saliva into the air, where it expands and hardens into the Grim Chrysalis. The Ritual test determines whether the cocoon forms entirely or remains incomplete. It only takes three turns to form the cocoon. Inside the cocoon, the vampire can mend all Superficial damage in one night, or 2 Aggravated Health damage; no Rouse Checks are needed for this mending. If the vampire has Vicissitude (Players Guide, p. 81), use of this Power within the cocoon requires no test but assumes a number of successes equal to the user’s Discipline pool.
+
+The shell of the cocoon is hard as nails yet pliant. It protects the user from sunlight, lets in no air or liquids, and protects the user from fall damage from less than a hundred meters. Breaking it open by force requires inflicting a total of 30 levels of damage with an appropriate tool or weapon, such as an axe. The cocoon also takes damage from fire and acid, smelling like burning hair and giving off a thick black smoke. It takes three turns to destroy a Grim Chrysalis in this way, and the vampire within, floating in a thick blood sludge, may emerge before the damage reaches them.
+
+The process of breaking out of the cocoon can be a disturbing sight. Vampires that have undergone extensive Vicissitude within emerge, shredding their previous form like a molting insect.
+
+**Duration:** At least one day unless the cocoon is broken earlier. Vampires that remain in the cocoon risk torpor according to the usual starvation rules.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Ward Against Lupines, Level 3 (Core p.279)</strong></mark></summary>
 
 **Ingredients:** A handful of silver dust mixed with the Blood.
@@ -1520,6 +1636,20 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 <summary><mark style="color:red;"><strong>Incorporeal Passage, Level 4 (Core p.280)</strong></mark></summary>
 
 
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>The Balm of Bathory, Level 4 (Tattered Facade p.94-95)</strong></mark></summary>
+
+**Ingredients:** One cup of vitae from the sorcerer, one pint of blood from a youthful victim (or victims) of clear complexion (the needed amount doubles per brewing, see below), chamomile flowers, and shea butter or sheep’s fat; optional essential oils for scent
+
+**Process:** The sorcerer collects their own Blood and that of their victim in a heat-resistant container, adding the other ingredients while stirring and heating up the mixture. While brewing the mixture, the sorcerer concentrates on how it will perfect their imperfections, making them young and beautiful. Some believe it strengthens the balm if the victim suffers as much as possible when their blood is drawn.
+
+**System:** Make the Ritual test before taking the mixture off the heat. On a win, the balm emulsifies into a smooth and fragrant blend that can be used directly on the skin or dissolved in bath water. It remains effective for a week past brewing, as long as it’s applied regularly. The user gains the temporary effect of the Stunning Advantage (Core, p. 179) This effect supersedes any innate Beautiful or Stunning Advantage possessed by the user and is not cumulative with these.
+
+However, the use of the Balm of Bathory can be highly addictive and the amount of mortal blood required doubles per brew. (The eighth brew requires 128 pints, enough blood to fill a small bathtub, but the amount does not increase afterward.) The first batch of the balm has no side effects, but after the second batch, the balm turns toxic on the user’s flesh past the first week. They suffer 1 Superficial damage worth of necrotic flesh wounds nightly, affecting any part of their body exposed to the balm, until they either brew another batch or until they go without the balm for one month per batch brewed.
 
 </details>
 
