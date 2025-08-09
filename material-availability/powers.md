@@ -2,7 +2,7 @@
 
 Here, you will find all Powers, Rituals, Ceremonies, and Formulae that are allowed in play! Regular powers are marked in <mark style="color:red;">**red**</mark> while amalgams will be marked in <mark style="color:yellow;">**yellow**</mark><mark style="color:$info;">.</mark>
 
-If we have missed any errata or if there are any errors, please let us know in our [Server Suggestions Forum](https://discord.com/channels/1292865933525651466/1324638230263369798)!
+If we have missed any errata or if there are any errors, please let us know in our [<mark style="color:red;">Server Suggestions Forum</mark>](https://discord.com/channels/1292865933525651466/1324638230263369798)!
 
 ## Animalism
 
@@ -79,20 +79,6 @@ Consuming one's famulus slakes 4 Hunger, regardless of animal size. This act can
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Unliving Hive, Animalism 3 + Obfuscate 2 (Core p.247)</strong></mark></summary>
-
-**Cost:** No additional cost
-
-**System:** This power extends all powers previously restricted to vertebrates to insect swarms, treating a swarm as a single creature. The vampire can bind the swarm as a famulus, and some even give it the ability to nest inside the cavities of their body. This hides the swarm from sight while allowing it to nurse the minute amounts of Blood needed to sustain it indefinitely. While nested, the swarm is undetectable by anything less than X-rays.
-
-Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to resist attacks. Swarms take Superficial damage from Brawl; flame and insecticide cause Aggravated damage. Vampires can use swarms for spying, as distractions (resulting in a two-dice penalty on any roll for a single swarmed individual), or to intimidate mortals (add between one and three dice to Intimidation pools, depending on the type of insect and the victim’s phobias). Players and Storytellers can doubtlessly come up with even more creative uses of this power.
-
-**Duration:** Passive
-
-</details>
-
-<details>
-
 <summary><mark style="color:yellow;"><strong>Augury,  Animalism 3 + Auspex 1 (Tattered Facade pp.89-90)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -126,6 +112,20 @@ _**Basic Win (Margin 0):**_ The victim reduces Social and Mental dice pools by o
 If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or disgust a foe, the vermin burst from their flesh and they suffer a two-dice penalty on any other pools this scene. The target resists with Composure + Resolve. If the vampire wins, the target cringes away, flees, or otherwise loses face; they also lose Willpower equal to the margin.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Unliving Hive, Animalism 3 + Obfuscate 2 (Core p.247)</strong></mark></summary>
+
+**Cost:** No additional cost
+
+**System:** This power extends all powers previously restricted to vertebrates to insect swarms, treating a swarm as a single creature. The vampire can bind the swarm as a famulus, and some even give it the ability to nest inside the cavities of their body. This hides the swarm from sight while allowing it to nurse the minute amounts of Blood needed to sustain it indefinitely. While nested, the swarm is undetectable by anything less than X-rays.
+
+Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to resist attacks. Swarms take Superficial damage from Brawl; flame and insecticide cause Aggravated damage. Vampires can use swarms for spying, as distractions (resulting in a two-dice penalty on any roll for a single swarmed individual), or to intimidate mortals (add between one and three dice to Intimidation pools, depending on the type of insect and the victim’s phobias). Players and Storytellers can doubtlessly come up with even more creative uses of this power.
+
+**Duration:** Passive
 
 </details>
 
@@ -517,6 +517,22 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Dementation, Dominate 2 + Obfuscate 2 (Core pp.256-257)</strong></mark></summary>
+
+**Cost:** One Rouse Check per scene
+
+**Dice Pools:** Manipulation + Dominate vs Composure + Intelligence
+
+**System:** After engaging in conversation with a victim, the user can activate this power. For the duration of the scene, the use may attack a single individual each turn in a Manipulation + Dominate vs Composure + Intelligence conflict, causing Superficial damage to Willpower. A mortal who becomes Impaired by this power experiences a nervous breakdown or psychotic break, the shape and nature of which depends on their personality (and perhaps their blood Resonance). A vampire that becomes Impaired by this power must immediately succumb to a Compulsion, as chosen by the power’s user.
+
+If the user wants to affect multiple victims, they need to make a separate Rouse Check for each one.
+
+**Duration:** One Scene.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Mesmerize, Dominate 2 (Core p.256)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -531,17 +547,15 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Dementation, Dominate 2 + Obfuscate 2 (Core pp.256-257)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>The Stolen Voice, Dominate 2  (Tattered Facade pp.96-97)</strong></mark></summary>
 
-**Cost:** One Rouse Check per scene
+**Cost:** One Rouse Check
 
-**Dice Pools:** Manipulation + Dominate vs Composure + Intelligence
+**Dice Pools:** Composure + Dominate vs. Resolve + Performance
 
-**System:** After engaging in conversation with a victim, the user can activate this power. For the duration of the scene, the use may attack a single individual each turn in a Manipulation + Dominate vs Composure + Intelligence conflict, causing Superficial damage to Willpower. A mortal who becomes Impaired by this power experiences a nervous breakdown or psychotic break, the shape and nature of which depends on their personality (and perhaps their blood Resonance). A vampire that becomes Impaired by this power must immediately succumb to a Compulsion, as chosen by the power’s user.
+**System:** The vampire must be able to make eye contact with the victim. They need no test to activate the Power against mortals; Kindred and other supernatural beings can resist with Resolve + Performance. Anyone affected by this Power finds it impossible to meaningfully communicate — their voice makes no sound, writing becomes illegible, their gestures or signs shudder spastically, and even banging against walls produces nothing but a dull thud as their limbs fail to exert force.
 
-If the user wants to affect multiple victims, they need to make a separate Rouse Check for each one.
-
-**Duration:** One Scene.
+**Duration:** One scene
 
 </details>
 
@@ -661,6 +675,20 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
+<summary><mark style="color:red;"><strong>Calloused Soul, Fortitude 3 (Tattered Facade pp.97-98)</strong></mark></summary>
+
+**Cost:** Two Stains
+
+**Dice Pools:** Varies with the atrocity
+
+**System:** The vampire must carry out a well-planned and premeditated atrocity, thereby suitably numbing their mind for what is to come. The nature of this act depends on the Chronicle Tenets, but must involve at least three mortal deaths; their revulsion to this horror is such that the vampire gains three Stains (one of which they can mitigate by a Conviction). For the rest of the night, they cannot gain Stains from any future trigger, no matter how severe, and even diablerie has its potential for Humanity loss limited to one point — although if the tests would have the victim assume control, this still happens despite this power.
+
+**Duration:** One night
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Defy Bane, Fortitude 3 (Core p.259)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -708,6 +736,20 @@ The user can renew this power once expired by making another Rouse Check. If end
 **System:** With this power active, the vampire ignores the first source of physical damage each turn, including fire but not sunlight. If confusion arises about which source is “first,” the Storyteller either decides based on the narrative, or the vampire ignores the most damaging single source that turn. A critical win on an attack roll bypasses this power.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Meat Shields, Fortitude 5 (Tattered Facade p.98)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** With this Power active, the vampire temporarily increases their Fortitude by a number of dots equal to half the weak mortals present (rounded down). They can gain up to five extra dots of Fortitude through this method. This increase does not provide any new Powers, but counts for the purpose of dice pools and other effects.
+
+The Storyteller counts all bystanders categorized as Weak Mortals (Vampire: The Masquerade, p. 185) toward this power, along with wounded or sick Average Mortals.
+
+**Duration:** One scene, or when the vampire leaves the presence of the affected mortals — whichever comes first.
 
 </details>
 
@@ -781,6 +823,22 @@ Note that the user cannot use this power to disappear while being actively obser
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Guise of the Departed, Obfuscate 3 + Oblivion 1 (Tattered Facade pp.98-99)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Wits + Obfuscate
+
+**System:** The user touches a mortal corpse that has been dead for less than a week. The Storyteller then makes a hidden test of Wits + Obfuscate at Difficulty 3. A failure means that the resemblance is less than convincing, and anyone close to the person copied notices something amiss automatically. A win creates a convincing disguise, but the user must win a Manipulation + Performance vs Wits + Insight contest against anyone close to the copied person or they will sense something is wrong.
+
+Sense the Unseen (Auspex 1) can pierce the mask as usual.
+
+**Duration:** Until dawn
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Mask Of A Thousand Faces, Obfuscate 3 (Core p.262)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -788,6 +846,20 @@ Note that the user cannot use this power to disappear while being actively obser
 **System:** No test is required. Anyone viewing the vampire sees a forgettable face of the same gender and approximate build and height as the user. Clothes take on the same kind of blandness, depending on the environment. At an office the user might appear as a nightwatchman, while they may seem to wear overalls at an assembly plant. Sense the Unseen (Auspex 1) can pierce the power as usual.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Seclusion, Obfuscate 4 + Dominate 1 (Tattered Facade p.99)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Manipulation + Obfuscate vs Resolve + Awareness
+
+**System:** The user catches the eye of the victim and must then succeed at a Manipulation + Obfuscate vs. Resolve + Awareness test. On a win, the user and everyone near appears to disappear to the victim, and the effect lasts for one scene (or night), plus one for each success in the margin. While under its effect, the victim is unable to perceive any living or unliving person. They will unconsciously avoid them and will be deaf to any sounds made by them. Only if someone attempts to do physical harm to the victim will they be momentarily perceived, as a person using Unseen Passage would. (See Vampire: The Masquerade, p. 261). Each time this happens, make another Discipline test. If the victim successfully resists, the power’s effect breaks prematurely.
+
+**Duration:** Margin number of scenes or nights, or until broken
 
 </details>
 
@@ -902,6 +974,18 @@ In combat, Brutal Feed comes immediately after a successful Brawl attack using f
 Storytellers may decide such mutilation-killing warrants Stains (p. 239).
 
 **Duration:** One feeding
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Exuberance, Potence 3 (Tattered Facade p.103)</strong></mark></summary>
+
+**Cost:** Free
+
+**System:** Whenever using Potence (including pools using half the Potence rating, such as Prowess), the vampire treats their Potence rating as if it were two levels higher — this can take the relative Discipline rating above the normal limit of 5. On any such test, if the vampire rolls a critical (messy or otherwise) or a failure (bestial or otherwise) they sustain 1 Aggravated damage as their own body tears itself apart from the strain.
+
+**Duration:** Passive
 
 </details>
 
@@ -1059,6 +1143,22 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Passion Leech, Presence 3 + Auspex 2 (Tattered Facade p.104)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Composure + Auspex
+
+**System:** The vampire must spend a scene in close proximity to a mortal target but needn’t directly engage them. (This Power has no effect on Kindred targets, even Humanity 10 Kindred.) After rousing, test Composure + Auspex against Difficulty 3 (Storytellers might lower this in situations where emotions are running high or are deliberately provoked). On a success, the vampire gains all the benefits of Humanity 10 until sunset (although they still gain Stains and roll Remorse at their current Humanity rating). On a critical win, they may also heal a Willpower damage of either type. On a bestial failure or Messy Critical, the surge of emotion is too much to bear, and the vampire suffers a Compulsion. Vampires can only benefit from this euphoric feeling once per night but can keep trying should they fail.
+
+Human targets of this Power lose all trace of Resonance in their blood for three nights, turning it to a fleeting Empty Resonance (p. 48–49) . While empty of Resonance, the target can freely indulge their basest desires, descending into psychopathy with no higher nature or positive emotion to push back on these impulses.
+
+**Duration:** Until sunset for the vampire, three nights for mortal victims
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Irresistible Voice, Presence 4 + Dominate 1 (Core p.268)</strong></mark></summary>
 
 **Cost:** No additional cost
@@ -1066,6 +1166,22 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 **System:** The user's voice alone is now enough to Dominate a target. This does not apply to voices transmitted through electronic media such as phones, television, or apartment door-buzzer speakers.
 
 **Duration:** Passive
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Inflame Desire, Presence 4  + Obfuscate 1 (Tattered Facade pp.104-105)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Manipulation + Presence vs Composure + Resolve
+
+**System:** The user must touch the subject and win a Manipulation + Presence vs Composure + Resolve test for the power to take effect. (At the Storyteller’s discretion, mortals are affected with no test necessary.) If affected, the victim is afflicted by the Need Compulsion (see below), directed at whatever the target wanted most in the current scene, excluding any desire provoked by supernatural means, such as through other Presence powers, as well as desires unattainable in the current scene. At the Storyteller’s discretion, a vampire with Hunger 3 or above gains the Hunger Compulsion instead.
+
+If the subject’s object of desire is up for bargaining, the user gains a four-dice bonus to any negotiation test.
+
+**Duration:** One scene
 
 </details>
 
@@ -1120,6 +1236,18 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 **System:** No roll is required to activate Eyes of the Beast. While active the user ignores any sight penalties imposed by darkness, including supernatural. While active, the inhuman appearance of the eyes confers two bonus dice to Intimidation pools against mortals.
 
 **Duration:** As long as desired
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Squirm, Protean 1 (Tattered Facade p.105)</strong></mark></summary>
+
+**Cost:** Free or 1 Rouse Check
+
+**System:** Add the user’s Protean rating to any dice pools to wriggle through tight spaces, escape a grapple, or escape any form of restraints. The user can squeeze into tight spaces so long as their head fits into the space as their other bones can dislocate and reconnect with ease.
+
+If the user has about five minutes, they can make a Rouse Check to force their body into an even more pliable state. Their flesh and bones spread and collapse to let them fit through impossibly tight spaces about two inches (or five centimeters) in diameter. If the user is interrupted or forcibly yanked out of such a tight space, they suffer one Aggravated damage to Health.
 
 </details>
 
@@ -1196,6 +1324,26 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 **System:** No roll is required. The transformation takes three turns, though it can be sped up with additional Rouse Checks on a one-for-one basis. While in mist form, the vampire moves at walking pace and perceives their surroundings through mystical means as if there as normal. A vampire in mist form cannot make eye contact or speak. They can use only those Disciplines requiring no physical form or presence, at the Storyteller’s discretion. While in mist form the vampire can only be damaged by sunlight, fire, and immaterial supernatural attacks (such as some Rituals).
 
 **Duration:** One scene unless ended voluntarily before that.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Swarm, Protean 5 (Tattered Facade p.106)</strong></mark></summary>
+
+**Prerequisite:** Shapechange
+
+**Cost:** Two Rouse Checks
+
+**System:** The vampire Rouses the Blood and spends a full turn, their body breaking down into a swarm of creatures. The vampire may choose the species, but the creatures must be small, barely bigger than a human hand. Typical choices include bats, crows, rats, mice, cockroaches, spiders, flies, locusts, snakes, and leeches. Once chosen, the species remains constant for all uses of Swarm.
+
+While transformed, the vampire gains all the features of the swarm, including speed and movement abilities, and perceives everything the swarm does (although the mass of input makes it hard to focus on detail without concentrating). Disciplines cannot be used, as the vampire’s consciousness is spread too thin.
+
+The swarm can attack a number of individuals equal to the vampire’s Blood Potency rating each turn. Swarmed targets receive a two-dice penalty to all tests and sustain 1 damage each turn (Aggravated for mortals, Superficial for supernatural creatures). Conventional attacks aren’t enough to meaningfully damage the swarm, but fire and sunlight are still just as deadly, as are area effects. If even a single member of the swarm survives, the vampire can fully regenerate with no ill effects; if none remain, they meet their final death.
+
+Many mortals must make Willpower tests or flee in terror when swarmed. Difficulties start at 3 but may be raised or lowered depending on potential phobias or mental conditioning.
+
+**Duration:** One scene, or until ended voluntarily
 
 </details>
 
@@ -1729,7 +1877,108 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 ## Oblivion
 
+<details>
+
+<summary><mark style="color:red;"><strong>Profane the Sanctified, Oblivion 4 (Tattered Facade p.100)</strong></mark></summary>
+
+**Prerequisite:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Resolve + Oblivion vs. Willpower
+
+**System:** The user must make a contest of Resolve + Oblivion vs. the True Faith holder’s Willpower. On a win, the user can direct this Power against their opponent or one of their holy symbols. Used on the symbol, it corrodes it and renders it inert. Used on a believer, it negates their True Faith rating for one turn and causes them to stagger, costing them an action. (The apparent rot and decay does no damage; the shades merely reveal what inevitably must occur.) The vampire can repeat this contest each subsequent turn, without the need for additional Rouse Checks; however, the opponent loses no more actions. Losing the contest ends this power.
+
+If the user has a religious Conviction with this attack, the use of this Power incurs a Stain.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>The Darkness Within, Oblivion 5 (Tattered Facade pp.100-101)</strong></mark></summary>
+
+**Cost:** Two Rouse Checks
+
+**Dice Pools:** Manipulation + Oblivion vs. Composure + Resolve
+
+**System:** The vampire makes a series of beckoning gestures toward their target as the two enter into a contest of Manipulation + Oblivion vs. Composure + Resolve. If the vampire wins, they summon a dark entity from the victim, inflicting one level of Aggravated damage as it separates itself from its host. The victim must be clearly visible to the vampire.
+
+The entity possesses the same Physical Attributes and Skills as its host, no Willpower, six Health levels, and takes damage as a vampire. If its host has supernatural powers that supplement their physical capabilities — such as Disciplines — the doppelganger possesses those (ratings are halved and rounded down, while activation costs consume Health instead). It has one goal — the destruction of its living host — and ignores all other distractions.
+
+**Duration:** One scene, or until either it or its host are destroyed
+
+</details>
+
 ## Ceremonies
+
+<details>
+
+<summary><mark style="color:red;"><strong>Craft Flesh Golem, Level 3 (Tattered Facade p.101)</strong></mark></summary>
+
+**Prerequisites:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Necrotic Plague</mark>
+
+**Ingredients:** At least three dismembered adult-sized corpses, embalmed or otherwise relatively free of decay; sea-bed clay and copper dissolved in nitric acid; a brass or platinum burin or other engraving tool
+
+**Process:** This Ceremony must be carried out in a location with a split or extraordinary thinning in the Veil. The vampire stitches the corpse parts into a single golem, pouring the acid into the golem’s body along the patterns of spine, viscera, and veins. The final step is engraving the word of Power tzel in the golem’s mouth with the burin, and dripping the vampire’s vitae onto the word to control and charge it. This act draws shadows from the Abyss into the golem’s body and animates it.
+
+**System:** The stitched corpse can be assembled manually (with a successful Difficulty 3 Resolve + Medicine or Difficulty 4 Resolve + Crafts test) or with the aid of a successful Difficulty 2 Fleshcrafting (Players Guide, p. 82) test while the bodies are alive and then turned into corpses. Make a Ceremony test once the prepared corpse is ready. A failure on either the preparation or ceremony test ruins the body parts and wastes the acid. On a total failure, the shadows break free from the golem and attack the vampire in a three-round contest of Intelligence + Oblivion (they have four dice in their pool), doing Aggravated Willpower damage with their wins. The flesh golem’s Strength equals the total margin of success on both the preparation and Ceremony tests. It obeys the orders of its creator until the word in its mouth is destroyed; if its creator enters torpor or otherwise becomes uncommunicative, it follows its last order.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Create Corpse Suit, Level 3 (Tattered Facade pp.101-102)</strong></mark></summary>
+
+**Prerequisite:** <mark style="color:purple;">Shadow Perspective</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
+
+**Ingredients:** Sufficient skin of a mortal with Melancholy Resonance, fat of a mortal with Phlegmatic Resonance, waxed thread, any decorative elements desired\
+Process: The vampire calls on the powers of Oblivion and their hands fill with shadows from the Abyss as they cut, treat, and sew their chosen garment. It’s considered best to do this work by candlelight. Once sewn, the vampire rubs the garment with the fat while speaking to it as a friend.
+
+**System:** The more successes the vampire has on the Ceremony test, the nicer the Corpse Suit will look. At the end of the Ceremony, the vampire must convince the now vaguely sentient Corpse Suit that it will be their new closest and most treasured companion, making a test of Manipulation + Persuasion or Subterfuge (depending on sincerity) at Difficulty 2. The Storyteller need not reveal whether the test has been successful. If the vampire fails to convince the suit, it waits for an opportunity to betray them. When the vampire dons the suit, they gain a Folkloric Bane and Folkloric Block flaw chosen by the Storyteller.
+
+A correctly functioning Corpse Suit attunes to subtle signs of danger and senses all types of curses, wards, and the presence of ill-willed monsters. Noticing when its maker is about to walk into danger, the suit makes their skin prickle as if stuck by many small needles — assuming they’re wearing it. A discontented suit occasionally times these warnings to put the wearer at risk. The suit never contains any money except what others place in it.
+
+**Duration:** The suit lasts forever, re-knitting any damage over the course of a night. It cannot be destroyed except with fire, Blood Sorcery, or Oblivion.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Bind to Mortal Form, Level 4 (Tattered Facade p.102)</strong></mark></summary>
+
+**Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Skuld Fulfilled</mark>
+
+**Ingredients:** The chosen mortal, an Oblivion-touched iron chain, a candle made with human tallow, dirt from a fresh grave, a thimble of blood or other body fluids from the mortal
+
+**Process:** The vampire must be in possession of an iron chain that has been marked by the shades of Oblivion. They can create this themselves using Touch of Oblivion (Players Guide, p. 89) on the chain, or use one prepared by someone else or which hails from the Abyss. They begin the Ceremony proper by lighting the candle, which sputters and casts a circle of warm light around the two. The mortal must then swallow the grave dirt. Using a blowtorch or a similar high-power heat source, the vampire proceeds to heat up the chain, using it to brand the mortal. This sucks all the light out of the room, extinguishing the candle. It also traps the spirit of the mortal within their decaying flesh. The vampire then has three nights to deliver the blood or fluids gathered from the mortal to the same grave where they got the dirt.
+
+System: The necromancer tests Resolve + Oblivion (Difficulty 5). Each rolled success adds a decade to the mortal’s natural lifespan, but if the test is not an overall win, or if the vampire fails to take the mortal’s blood to the grave within the deadline, the mortal ages at twice the speed they would have otherwise aged, as the shadows binding their spirit eat away at their life force.
+
+Bind to Mortal Form can be performed several times on the same mortal; however, the chain loses its power with use. The shadows binding the mortal’s lifeforce also grow stronger with each Ceremony. Thus, the Difficulty for the Resolve + Oblivion test increases by 1 with each subsequent casting. A mortal sustained by Oblivion shades eventually grows withdrawn, confused, and fearful of the light.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Gift of True Life, Level 5 (Tattered Facade pp.102-103)</strong></mark></summary>
+
+**Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Passion Feast</mark>&#x20;
+
+**Ingredients:** Two willing or unwilling mortals, a length of silk rope
+
+**Process:** Opening a vein on each mortal’s wrist, the vampire presses their wounds together, securing them with the rope. Holding on to each mortal, the vampire channels shadows from the Abyss to push vitality from one mortal into the other.
+
+**System:** The vampire makes their Rouse Check as they open the veins and a Ceremony contest of Resolve + Oblivion against the Stamina + Resolve of the mortal being drained as they start channeling the Abyss. A failed Ceremony contest forces the shadows to slink back to where they came from. A win starts the process of pushing vitality from one mortal to another. The results become apparent quickly. For every five minutes of siphoning, the targeted mortal loses 10 years’ worth of life they could have lived to the other. When the target has lost their ordained lifespan (traditionally 70 years), they start deteriorating quickly. The effect on the receiving mortal is more subtle. They become the image of health but aren’t otherwise immediately affected. Following the Ceremony, they age half as quickly as other mortals until the extra lifespan they have been granted has been spent (at which point, they once again age normally). Diseases develop at half the speed as well. They aren’t in any other ways protected from death.
+
+The conversion rate of vitality is 1:1 for mortals who are related or deeply emotionally bonded. Otherwise, the targeted mortal must give a decade for each three years of life received by the other.
+
+The vampire must make a Ceremony test of Resolve + Oblivion at Difficulty 6 to stop the process and cut the bond before the targeted mortal shrivels up like a dried prune and turns to dust. If the vampire cannot stop the Ceremony this way, simply killing the mortal works as well. Regardless of the outcome, the vampire performing this Ceremony most likely gains one or several Stains.
+
+Even more than most, this Ceremony is likely to attract attention from the other side of the Veil.
+
+</details>
 
 ## Formulae
 
@@ -1783,6 +2032,20 @@ Trying to move someone actively resisting requires a contest of Resolve + Alchem
 
 <details>
 
+<summary><mark style="color:red;"><strong>Bleed Out, Level 3 (Tattered Facade p.107)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, Melancholic human blood, diuretics, energy drinks, cornflower
+
+**Distillation Cost:** One Rouse Check
+
+**Activation Cost:** Free
+
+**System:** The alchemist vomits the formula into the victim’s mouth (Athanor Corporis), forces the victim to drink it from the vessel’s mouth (Calcinatio), or forces the victim to drink from the elixir container (Fixatio). Once the victim consumes the formula, the alchemist makes the activation test to determine the results. On a failure, the victim simply dies; their blood feeds one vampire as normal. On a total failure, their blood turns septic and can feed nobody. On a win, victims choke and drown on their own blood over an agonizing hour. This death provides enough blood to feed an entire coterie of Duskborn (and only Duskborn — true vampires can’t stomach the blood), reducing everyone’s Hunger to zero. Every participant gains at least one Stain from the act. The remains must be properly disposed of, as the resultant sack of skin and bones is bound to rouse suspicion.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Defractionate, Level 3 (Core pp.285-286)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, sanguine and melancholic human blood, O-negative human blood (only a few ml), moldy spinach, hot black coffee, sodium octanoate
@@ -1817,6 +2080,24 @@ Not even the blood of the Duskborn can spare the Nosferatu from their Bane, the 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Saraimu, Level 3 (Tattered Facade p.107)</strong></mark></summary>
+
+**Ingredients:** A cup of vitae each from three vampires including the alchemist, baking powder, crushed chalk (optional, for a soft voice), iron nails (for strength), battery acid (for oomph)
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Resolve + Alchemy
+
+**System:** The alchemist combines the ingredients by heating up the three cups of vitae in the athanor and adding baking powder and chalk. As the mixture bubbles, they stir in the nails, and when they add the battery acid and activate the mixture, it hisses aggressively and comes to something resembling life. The blob familiar is approximately the size of a football. Its personality takes a bit from each of the vampires whose Blood it was made from, and it can speak in simple, fragmented sentences. It probably calls the alchemist mommy or master.
+
+The blob is affectionate but slimy and inherently unstable. It can perform many simple tasks, including spying, fetching things, and tasks around the alchemist’s lab. It knows it’s incomplete and longs to be back inside the bodies where it came from. It never sleeps and tries to burrow inside its masters while they do, assuming it’s not currently out on a mission for them. It has many rows of short, sharp nail-teeth.
+
+**Duration:** The blob falls apart one to three weeks after it was created. The Storyteller may roll a die to determine the exact time. If its masters die before it does, the saraimu knows enough alchemy to prolong its existence until it can find — and burrow its way into — a new alchemist.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Airborne Momentum, Level 4 (Core p.287)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric and sanguine human blood, champagne, bird blood, helium, scopolamine or belladonna extract
@@ -1842,5 +2123,21 @@ Not even the blood of the Duskborn can spare the Nosferatu from their Bane, the 
 _**Athanor Corporis:**_ The alchemist can tap their own vein once per night for this elixir until their next feeding, or until they reach Hunger 5. They need not pay the distillation cost again.
 
 _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them again in a week for more elixir. They need not pay the distillation cost again, but the vessel pays the Health cost (5 Aggravated damage) each time they are tapped. The Alchemist can also simply feed the vessel’s blood to the sleeper directly.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Da Bomb, Level 5 (Tattered Facade p.108)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, Sanguine human blood, accelerants, matchstick heads, grains of sand from a sand timer
+
+**Cost:** One Rouse Check
+
+**System:** This Formula is very temperamental and only works when imbibed by mortals (or brewed directly in a mortal via calcinatio). Once consumed, the potion remains in the drinker’s system for a week, during which time the mortal feels nauseous and unwell. The alchemist can activate the Formula at any time by making a Rouse Check, but if not activated while still potent, it passes harmlessly from the drinker’s system.
+
+When activated, the victim experiences a turn of panicked awareness, before exploding in a torrent of gore. Those within close range take Aggravated damage equal to twice the victim’s Stamina, while those further away halve that. Any vampires caught in the blast must also test for Hunger Frenzy at Difficulty 3.
+
+**Duration:** One week
 
 </details>
