@@ -131,6 +131,18 @@ Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to re
 
 <details>
 
+<summary><mark style="color:red;"><strong>Spirit Walk, Animalism 5 (Gehenna War p.46)</strong></mark></summary>
+
+**Prerequisite:** Subsume the Spirit
+
+**Cost:** None, though the cost for Subsume the Spirit remains
+
+**System:** When using Subsume the Spirit, the duration is always indefinite as though a Critical result was obtained. Furthermore the Kindred can activate Subsume the Spirit even while inhabiting an animal’s form, transferring their consciousness to beast after beast.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Subsume The Spirit, Animalism 4 (Core p.247)</strong></mark></summary>
 
 **Cost:** One Rouse Check. Free if used on famulus.
@@ -375,6 +387,16 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Fluent Swiftness, Celerity 1  (Gehenna War p.46)</strong></mark></summary>
+
+**Cost:** None
+
+**System:** Whenever the vampire uses a Blood Surge to augment a Dexterity or Celerity test, they may reroll the Rouse Check.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Rapid Reflexes, Celerity 1 (Core p.253)</strong></mark></summary>
 
 **Cost:** Free
@@ -599,6 +621,24 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
+<summary><mark style="color:red;"><strong>Lethe’s Call, Dominate 5 (Gehenna War p.46)</strong></mark></summary>
+
+**Prerequisite:** Cloud Memory or The Forgetful Mind
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Manipulation + Dominate vs Intelligence + Resolve
+
+**System:** The user tests Manipulation + Dominate vs a target’s Intelligence + Resolve, though unprepared mortals cannot resist this power. Each success in the margin allows the user to wipe up to an entire week’s worth of memories from the target. This use of Dominate does not require any verbal instructions, but will in this case simply blank the remembered time from the victim indiscriminately. With the addition of a verbal command, the Kindred can instead simply erase all knowledge of one individual or event from the same time, including the user themself.
+
+The user may choose to simply leave the target’s memory blank or leave the victim with a generic sense of time having passed and the assumption that the time passed about as expected, though the latter quickly reveals inconsistencies if the victim is pressed for details later.
+
+**Duration:** Indefinitely
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Mass Manipulation, Dominate 5 (Core p.257)</strong></mark></summary>
 
 **Cost:** One Rouse Check in addition to the cost of the power amplified
@@ -622,6 +662,16 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 </details>
 
 ## Fortitude
+
+<details>
+
+<summary><mark style="color:red;"><strong>Fluent Endurance, Fortitude 1 (Gehenna War p.46)</strong></mark></summary>
+
+**Cost:** None
+
+**System:** Whenever the vampire uses a Blood Surge to augment a Stamina or Fortitude test, they may reroll the Rouse Check.
+
+</details>
 
 <details>
 
@@ -781,6 +831,18 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Vampire: The 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Ensconce, Obfuscate 1 (Gehenna War pp.46-47)</strong></mark></summary>
+
+**Cost:** None
+
+**System:** The Kindred can hide a number of small, hand-held objects in their hands or on their person equal to their Obfuscate rating. Mortals ignore dangerous or out-of-place objects that the user is enshrouding or miss them in a search. Kindred with Sense the Unseen or others with supernatural senses can attempt to notice them as usual. Objects in plain view cannot be hidden by this power, nor can animate creatures.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Silence Of Death, Obfuscate 1 (Core p.261)</strong></mark></summary>
 
 **Cost:** Free
@@ -790,6 +852,20 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Vampire: The 
 This power does not eliminate sounds the user makes outside their personal space (throwing or dropping objects, or slamming doors, for example). Failing that, only Sense of the Unseen (Auspex 1) can detect the user.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Cache, Obfuscate 2 (Gehenna War p.47)</strong></mark></summary>
+
+**Prerequisite:** Ensconce
+
+**Cost:** One Rouse Check
+
+**System:** Objects affected by Ensconce need merely be touched, not held or carried by the Kindred. Furthermore, the user need not maintain physical contact with the object. The effect lasts for a scene. The user may make an additional Rouse Check to extend the duration for the remainder of the night. In that case, the enshrouded object remains hidden until dawn.
+
+**Duration:** One scene or until dawn
 
 </details>
 
