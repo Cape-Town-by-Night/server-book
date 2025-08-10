@@ -131,18 +131,6 @@ Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to re
 
 <details>
 
-<summary><mark style="color:red;"><strong>Spirit Walk, Animalism 5 (Gehenna War p.46)</strong></mark></summary>
-
-**Prerequisite:** Subsume the Spirit
-
-**Cost:** None, though the cost for Subsume the Spirit remains
-
-**System:** When using Subsume the Spirit, the duration is always indefinite as though a Critical result was obtained. Furthermore the Kindred can activate Subsume the Spirit even while inhabiting an animal’s form, transferring their consciousness to beast after beast.
-
-</details>
-
-<details>
-
 <summary><mark style="color:red;"><strong>Subsume The Spirit, Animalism 4 (Core p.247)</strong></mark></summary>
 
 **Cost:** One Rouse Check. Free if used on famulus.
@@ -154,6 +142,18 @@ Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to re
 Extending this possession into the daylight hours requires the vampire to stay awake (p. 219); seeing the sun requires a test for fear frenzy though the sunlight does not damage the animal being ridden. The user remains oblivious to their original body, but harm to it pulls them out of the trance and releases the animal. Death of the possessed animal also ends the trance, and the vampire takes a point of Aggravated Willpower damage from the shock.
 
 **Duration:** A scene / indefinitely (see above)
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Spirit Walk, Animalism 5 (Gehenna War p.46)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Subsume the Spirit</mark>](https://wiki.capetownvtm.com/material-availability/powers#subsume-the-spirit-animalism-4-core-p.247)
+
+**Cost:** None, though the cost for Subsume the Spirit remains
+
+**System:** When using Subsume the Spirit, the duration is always indefinite as though a Critical result was obtained. Furthermore the Kindred can activate Subsume the Spirit even while inhabiting an animal’s form, transferring their consciousness to beast after beast.
 
 </details>
 
@@ -321,7 +321,7 @@ Add one success to the result if the object of desire or fear is present, and ad
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Clairvoyance, Auspex 5 + Dominate 3 (Core p.251)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Clairvoyance, Auspex 5 (Core p.251)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
@@ -623,7 +623,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <summary><mark style="color:red;"><strong>Lethe’s Call, Dominate 5 (Gehenna War p.46)</strong></mark></summary>
 
-**Prerequisite:** Cloud Memory or The Forgetful Mind
+**Prerequisite:** [<mark style="color:purple;">Cloud Memory</mark>](https://wiki.capetownvtm.com/material-availability/powers#cloud-memory-dominate-1-core-p.256) or [<mark style="color:purple;">The Forgetful Mind</mark>](https://wiki.capetownvtm.com/material-availability/powers#the-forgetful-mind-dominate-3-core-p.257)
 
 **Cost:** One Rouse Check
 
@@ -859,7 +859,7 @@ This power does not eliminate sounds the user makes outside their personal space
 
 <summary><mark style="color:red;"><strong>Cache, Obfuscate 2 (Gehenna War p.47)</strong></mark></summary>
 
-**Prerequisite:** Ensconce
+**Prerequisite:** [<mark style="color:purple;">Ensconce</mark>](https://wiki.capetownvtm.com/material-availability/powers#ensconce-obfuscate-1-gehenna-war-pp.46-47)
 
 **Cost:** One Rouse Check
 
@@ -882,6 +882,18 @@ Sense the Unseen (Auspex 1) can also detect the hidden vampire, as per the gener
 Note that the user cannot use this power to disappear while being actively observed; it automatically fails in such a case.
 
 **Duration:** One scene or until detection.
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Doubletalk, Obfuscate 2 + Auspex 1 (Blood-Stained Love p.152)</mark></summary>
+
+Cost: 1 Rouse Check
+
+System: The Kindred adds a secret message (up to one sentence) to their words that only a single intended listener can hear. Anyone else present only picks up the message if they can beat the user’s Composure + Obfuscate with their Wits + Auspex.
+
+Duration: One utterance.
 
 </details>
 
@@ -959,7 +971,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <summary><mark style="color:red;"><strong>Vanish, Obfuscate 4 (Core p.263)</strong></mark></summary>
 
-**Prerequisite:** Cloak of Shadows
+**Prerequisite:** [<mark style="color:purple;">Cloak of Shadows</mark>](https://wiki.capetownvtm.com/material-availability/powers#cloak-of-shadows-obfuscate-1-core-p.261)
 
 **Cost:** As per power augmented
 
@@ -987,7 +999,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <summary><mark style="color:red;"><strong>Impostor’s Guise, Obfuscate 5 (Core p.263)</strong></mark></summary>
 
-**Prerequisite:** Mask of a Thousand Faces
+**Prerequisite:** [<mark style="color:purple;">Mask of a Thousand Faces</mark>](https://wiki.capetownvtm.com/material-availability/powers#mask-of-a-thousand-faces-obfuscate-3-core-p.262)
 
 **Cost:** One Rouse Check
 
@@ -1067,6 +1079,18 @@ Storytellers may decide such mutilation-killing warrants Stains (p. 239).
 
 <details>
 
+<summary><mark style="color:red;"><strong>Draught Of Might, Potence 4 (Core pp.265-266)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** Drinking a Rouse Checks worth of Blood directly from the user gifts the drinker with temporary Potence equal to half the Potence dots (rounded down) of the donor. The drinker gains the same powers as the donor’s, up to that level.
+
+**Duration:** One night; for vampires, until the next feeding or the vampire reaches Hunger 5
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Spark Of Rage, Potence 4 + Presence 3 (Core p.265)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1090,18 +1114,6 @@ Storytellers may decide such mutilation-killing warrants Stains (p. 239).
 The climb or clinging leaves obvious tracks detectable by anyone with an Intelligence + Investigation test at Difficulty 2. Detecting Uncanny Grip tracks on glass doesn’t even require a roll.
 
 **Duration:** One scene
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Draught Of Might, Potence 4 (Core pp.265-266)</strong></mark></summary>
-
-**Cost:** One Rouse Check
-
-**System:** Drinking a Rouse Checks worth of Blood directly from the user gifts the drinker with temporary Potence equal to half the Potence dots (rounded down) of the donor. The drinker gains the same powers as the donor’s, up to that level.
-
-**Duration:** One night; for vampires, until the next feeding or the vampire reaches Hunger 5
 
 </details>
 
@@ -1235,18 +1247,6 @@ Human targets of this Power lose all trace of Resonance in their blood for three
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Irresistible Voice, Presence 4 + Dominate 1 (Core p.268)</strong></mark></summary>
-
-**Cost:** No additional cost
-
-**System:** The user's voice alone is now enough to Dominate a target. This does not apply to voices transmitted through electronic media such as phones, television, or apartment door-buzzer speakers.
-
-**Duration:** Passive
-
-</details>
-
-<details>
-
 <summary><mark style="color:yellow;"><strong>Inflame Desire, Presence 4  + Obfuscate 1 (Tattered Facade pp.104-105)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1263,6 +1263,18 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Irresistible Voice, Presence 4 + Dominate 1 (Core p.268)</strong></mark></summary>
+
+**Cost:** No additional cost
+
+**System:** The user's voice alone is now enough to Dominate a target. This does not apply to voices transmitted through electronic media such as phones, television, or apartment door-buzzer speakers.
+
+**Duration:** Passive
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Summon, Presence 4 (Core pp.268-269)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1272,6 +1284,20 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 **System:** The user needs to concentrate for five minutes and think of the person being summoned, then rolls Manipulation + Presence vs Composure + Intelligence. On a win, the target hears the summoning, but may or may not heed it. On a critical win, the target arrives as quickly as possible, barring immediate risk to their well-being.
 
 **Duration:** One night
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;">Wingman, Presence 4 (Blood-Stained Love p.152)</mark></summary>
+
+**Cost:** One Rouse Check in addition to power used
+
+**System:** As a full action and with an additional Rouse Check, the user can provide the benefits of one of their Presence powers to another willing vampire, using the Presence rating and Blood Potency bonus of the vampire using Wingman.
+
+If the subject also possesses Presence, use the higher of the bonuses but not both. The subject cannot gain the benefit of the same Presence power twice. The vampire using Wingman cannot use the same power on themselves while extending it to another subject. Both the user or the subject must be visible to anyone affected by the extended power.
+
+**Duration:** As power used.
 
 </details>
 
@@ -1350,6 +1376,32 @@ If the user has about five minutes, they can make a Rouse Check to force their b
 **System:** No skill roll is needed to activate this power. When activated, the vampire’s natural weapon of choice becomes a light piercing Brawl weapon with a +2 modifier to damage. Vampiric Bite Attacks still only deal two points of Aggravated damage despite the number of successes, but do not suffer the 1-Success penalty. Superficial damage inflicted by the user’s natural weapons is not halved while Feral Weapons is active.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary>Serpent’s Kiss, Protean 2 (Blood-Stained Love p.153)</summary>
+
+Cost: One Rouse Check
+
+System: When the Kindred bites or kisses another, they may make a Rouse check to force some of their own vitae into their victim. The victim of the bite or kiss is treated as though they tasted the Kindred’s Blood for purposes of the Blood Bond, learning a Discipline Power, becoming a Ghoul, or other effects of imbibing blood.
+
+If the Kindred’s Blood normally or temporarily has deleterious effects, those are passed on to the victim as well. Additionally, Blood Sorcerers can use powers such as Scorpion’s Touch or Baal’s Caress via their bite, much to the surprise of those they Kiss.
+
+Duration: One scene
+
+</details>
+
+<details>
+
+<summary>Protean ••, The False Sip + Fortitude • (Blood-Stained Love p.153)</summary>
+
+Cost: One Rouse Check
+
+System: The character must activate this power immediately upon consuming blood from any source. The user is able to keep the blood down, but it doesn’t enter their system nor slake any Hunger, though the user can taste it. No other blood or vitae can be consumed during this time. The Kindred has one scene to vomit the blood back up, otherwise it enters their system. The effect can be extended to another scene by a second Rouse Check.
+
+Duration: One scene or more
 
 </details>
 
@@ -1539,6 +1591,18 @@ Duration: Until dawn
 
 <details>
 
+<summary>Blood Sorcery ••, Scour Secrets (The Book of Nod Apocrypha p.34)</summary>
+
+Cost: One Rouse Check
+
+System: The user makes the Rouse Check and tests Intelligence + Blood Sorcery against a Difficulty set by the Storyteller: anything from 2 for a single letter in a regular office up to 5 for encrypted information hidden in a vast library. If the information has been supernaturally concealed the Difficulty increases further. The time spent depends on the size of the area to be searched: A single room might be scoured in minutes, while a library requires hours, if not the whole night. Additionally, the power does not impart the ability to parse the information if it comes in an unknown language or in a cipher. If the knowledge sought is stored in non-written formats, such as painting, music, or on old floppy disks, the power works at the Storyteller’s discretion, though the Difficulty is likely higher.
+
+Duration: One night or until the information is found or the search comes up short, whichever comes first.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Blood Of Potency, Blood Sorcery 3 (Core pp.273-274)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1548,6 +1612,18 @@ Duration: Until dawn
 **System:** The user makes a Resolve + Blood Sorcery roll against a Difficulty of 2 + their Blood Potency. A win increases their Blood Potency by one for that scene; a critical win increases it by two. The vampire can use this power to exceed their generation limit on Blood Potency during its duration.
 
 **Duration:** One scene or one night
+
+</details>
+
+<details>
+
+<summary>Blood Sorcery •••, Ripples of the Heart (Blood-Stained Love p.153)</summary>
+
+Cost: One Rouse Check
+
+System: The vampire chooses to affect their own Blood, or the blood of a mortal or Kindred from whom they are feeding. Choose any compulsion (including a clan compulsion). The next Kindred to drink the altered blood is affected by that compulsion. In a mortal, the blood remains altered for one month. In a vampire, the blood remains altered until they reach Hunger 5 or one month has passed, whichever happens first. The user of this power does not suffer its effects.
+
+Alternatively, the user may augment or reduce the target’s blood Resonance. The user may reduce the target’s blood Resonance from acute to intense, intense to fleeting, or fleeting to none. A Kindred may augment a Resonance only from fleeting to intense. The change is instantaneous, but not necessarily long-lasting as blood Resonance naturally changes and can be further influenced. Typically the Resonance of mortal blood has changed again after a few days, a week at the most.
 
 </details>
 
@@ -1665,6 +1741,22 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
+<summary>Blood Apocrypha • (The Book of Nod Apocrypha p.34)</summary>
+
+Ingredients: A drop of mercury and one rouse check’s worth of blood.
+
+Process: The Kindred whispers a message to the mercury, which carries it through the blood collected in a ceremonially prepared bowl.
+
+System: The Kindred encodes about one minute of speech into one Rouse Check worth of blood in a ritual bowl. The ritualist then designates one or more intended recipients of the message whose blood they have tasted. As part of the ritual, a Kindred, mortal, or beast messenger must consume the blood to transfer the message to their own body, otherwise the blood—and message—will rapidly sour.
+
+The first person to consume the ensorcelled blood from the messenger automatically receives the message mentally if they are the intended recipient or possess A Taste for Blood. Any other imbiber must succeed on a Wits + Occult roll (Difficulty 3) to understand the message.
+
+Duration: One month plus another month for each point of the margin of success
+
+</details>
+
+<details>
+
 <summary>Blood to Water, Level 1 (Gehenna War p.48)</summary>
 
 Ingredients: Pure water, whether from a natural spring or purified mechanically.
@@ -1770,6 +1862,20 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 **Process:** The performer of the ritual soaks the ribbon in their own Blood, setting it alight.
 
 **System:** If the Ritual roll is a win the ribbon catches fire despite being wet, burning fiercely like a fuse. Once consumed, the ritual takes effect. While the ritual remains active, the caster can follow faint traces of the target even in areas where they left no tracks, such as crowded cities. To follow the tracks, the caster makes an Intelligence + Survival roll against a Difficulty equal to 6 minus the margin on the ritual test. The target must be known by face by the caster, who sees the path travelled by the victim over the previous 24 hours. The path remains visible for the entire night; a critical win extends this to two nights.
+
+</details>
+
+<details>
+
+<summary>Le Sang de l’Amour •• (Blood-Stained Love p.154)</summary>
+
+Ingredients: Blood of the caster and their lover, two glass vials on chains.
+
+Process: The caster collects their own blood and their lover’s at the same time, careful to keep the two separate. They don’t need much blood—only a teaspoonful. The only requirement: both must desire the other at the time of the casting. The caster seals the two blood samples inside the vials, hanging each from a chain. As the lovers exchange vials and hang them around their necks, the caster sings a song in praise of their lover to Aphrodite, Ishtar or another love or lust deity.
+
+System: With a win on the Ritual test, le Sang de l’Amour allows both participants to concentrate (Resolve + Awareness) and know approximately where the other is on a success. They don’t get an exact location, but have a rough sense of distance — in the same city, the same state, across the ocean from each other. With more successes, they get more information, small details of the sensation of being in the other’s location: they feel a deck pitching up and down, the strain of climbing harsh terrain, or the vibration of loud noise. With a critical win, the ritual provides one automatic success on the lover’s perception roll. Any other successes let them actually see brief glimpses of their lover and their surroundings, and even hear snatches of conversation. On a total failure, the blood accidentally mixes in the vials and both participants get disoriented and confused if they try to concentrate on the other. Their Composure suffers, reducing by 1 until the end of the next scene even if they break both vials and end the ritual.
+
+The ritual only remains effective as long as both wear their partner’s vial and as long as the vials remain unbroken. If one of the participants does not actually desire the other during the ritual (if a player, they should state as much privately to the Storyteller), their vial dries and clots the first time they use it, becoming useless muck. This has no adverse effect on the two participants beyond the personal fallout.
 
 </details>
 
@@ -2105,6 +2211,40 @@ The entity possesses the same Physical Attributes and Skills as its host, no Wil
 
 <details>
 
+<summary>Ashen Relic •• (The Book of Nod Apocrypha p.35)</summary>
+
+Prerequisite Power: Ashes to Ashes or Oblivion’s Sight
+
+Ingredients: The decaying body of a vampire, plus
+
+salt and herbs associated with embalming.
+
+Process: The concoction is applied to the body or body part of the destroyed vampire. Since the decay of the remains — especially supernatural features such as fangs — only takes a few minutes at most, a swift performance is essential.
+
+System: The player makes their Ceremony test. A win preserves one small body part, such as a finger bone or a fang, while three successes in the margin can preserve a femur or skull.
+
+Once created, the relic (usually in the form of a mummified hand, skull, femur, or desiccated eye) persists until destroyed or exposed to sunlight. At the Storyteller’s discretion, a particularly high roll or a critical success may grant the relic the power to persist despite sunlight.
+
+</details>
+
+<details>
+
+<summary>Maw of Ahriman •• (Blood-Stained Love p.152)</summary>
+
+Ingredients: A room that no light enters and is quiet as the grave.
+
+Process: The vampire performing the Ceremony contemplates the darkness and the silence, then unleashes their voice as loudly as possible, casting it out to make room for the darkness of the Abyss.
+
+System: The vampire’s player makes a Ceremony roll. The character’s mouth or another orifice becomes a void of inky blackness, destroying inanimate objects placed within in a matter of seconds.
+
+For the duration of the Ceremony, the character cannot speak if the power was used on the mouth, as it most commonly is. A bite attack deals 1 aggravated point of Willpower damage in addition to the fang damage. The vampire is unable to slake Hunger while this Ceremony is in effect, though, as any blood swallowed is annihilated.
+
+The Ceremony lasts until sunrise or the vampire cancels it. Canceling the Ceremony requires the character to pay in flesh: they must stick a small portion of their body into an orifice, dealing 1 point of Superficial damage which cannot be reduced in any way as a bit of flesh is consumed by the Abyss. It can be mended normally.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Craft Flesh Golem, Level 3 (Tattered Facade p.101)</strong></mark></summary>
 
 **Prerequisites:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Necrotic Plague</mark>
@@ -2114,6 +2254,28 @@ The entity possesses the same Physical Attributes and Skills as its host, no Wil
 **Process:** This Ceremony must be carried out in a location with a split or extraordinary thinning in the Veil. The vampire stitches the corpse parts into a single golem, pouring the acid into the golem’s body along the patterns of spine, viscera, and veins. The final step is engraving the word of Power tzel in the golem’s mouth with the burin, and dripping the vampire’s vitae onto the word to control and charge it. This act draws shadows from the Abyss into the golem’s body and animates it.
 
 **System:** The stitched corpse can be assembled manually (with a successful Difficulty 3 Resolve + Medicine or Difficulty 4 Resolve + Crafts test) or with the aid of a successful Difficulty 2 Fleshcrafting (Players Guide, p. 82) test while the bodies are alive and then turned into corpses. Make a Ceremony test once the prepared corpse is ready. A failure on either the preparation or ceremony test ruins the body parts and wastes the acid. On a total failure, the shadows break free from the golem and attack the vampire in a three-round contest of Intelligence + Oblivion (they have four dice in their pool), doing Aggravated Willpower damage with their wins. The flesh golem’s Strength equals the total margin of success on both the preparation and Ceremony tests. It obeys the orders of its creator until the word in its mouth is destroyed; if its creator enters torpor or otherwise becomes uncommunicative, it follows its last order.
+
+</details>
+
+<details>
+
+<summary>Wisdom of the Dead ••• (The Book of Nod Apocrypha p.35)</summary>
+
+Prerequisite Power: Oblivion’s Sight or Where the Veil Thins
+
+Ingredients: The head or skull of the deceased,
+
+pure water and a small flame.
+
+Cost: One Rouse Check
+
+Dice Pools: Resolve + Oblivion
+
+System: The cermonist must possess a skull or head. After rolling Resolve + Oblivion (Difficulty 2 for a mostly intact head, or 3 for a skull), the Kindred begins to glean knowledge from the deceased. The Storyteller will name one skill the deceased was most knowledgeable about in life (or unlife if a Kindred skull) and an additional skill per point of the margin of success. For the rest of the night, the user may draw upon the deceased’s knowledge: each time the user rolls one of the deceased’s skills, so long as they are still carrying their skull or head, they may add 2 dice to your dice pool. This only applies if the deceased had a higher skill rating than the user.
+
+At dawn, roll one die for each skill roll boosted: a failure on any of these dice indicates the skull or head dissolves to ashes as the Ceremony ends and it cannot be reconstituted by any means.
+
+Duration: Until dawn or the head/skull is destroyed.
 
 </details>
 
@@ -2240,15 +2402,15 @@ Trying to move someone actively resisting requires a contest of Resolve + Alchem
 
 <details>
 
-<summary>Whiff-Its, Level 2 (Gehenna War pp.50-51)</summary>
+<summary><mark style="color:red;"><strong>Whiff-Its, Level 2 (Gehenna War pp.50-51)</strong></mark></summary>
 
-Ingredients: The alchemist’s vitae, phlegmatic or sanguine human blood, cologne or perfume, fresh compost, ammonia, crushed fingernails from an animal
+**Ingredients:** The alchemist’s vitae, phlegmatic or sanguine human blood, cologne or perfume, fresh compost, ammonia, crushed fingernails from an animal
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: When used, the potion grants the alchemist heightened olfactory abilities. For the next night, the alchemist can catch the scent of the Kindred with the highest Blood Potency in the area (as determined by the Storyteller). If there are multiple Kindred who share the same Blood Potency in the area, success on a subsequent Resolve + Awareness test at Difficulty 3 allows the alchemist to distinguish between individual Kindred and follow their trail. Kindred sealed in containers might likewise require a similar test to detect, with a Difficulty determined by the Storyteller.
+**System:** When used, the potion grants the alchemist heightened olfactory abilities. For the next night, the alchemist can catch the scent of the Kindred with the highest Blood Potency in the area (as determined by the Storyteller). If there are multiple Kindred who share the same Blood Potency in the area, success on a subsequent Resolve + Awareness test at Difficulty 3 allows the alchemist to distinguish between individual Kindred and follow their trail. Kindred sealed in containers might likewise require a similar test to detect, with a Difficulty determined by the Storyteller.
 
-Duration: Until dawn
+**Duration:** Until dawn
 
 </details>
 
