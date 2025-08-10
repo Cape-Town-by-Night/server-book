@@ -1393,6 +1393,38 @@ If the user has about five minutes, they can make a Rouse Check to force their b
 
 <details>
 
+<summary>Bloodform, Protean 5 + Blood Sorcery 2 (Gehenna War p.47)</summary>
+
+Cost: One Rouse Check
+
+System: The user transforms themselves into a liquid. In this form, they cannot be harmed by most conventional weapons (including stakes), though sunlight and fire still affect them as normal. The user can squeeze through small cracks, and even flow cleanly up walls or across ceilings. While in bloodform (or partially in bloodform), the user can perform general actions such as pushing and pulling, but the difficulty of fine manipulation of electronic devices or liquids increases by two if manipulating them as Blood.
+
+The user may use Disciplines as normal, provided they do not need to make eye contact or speak, though they can make a Rouse Check to partially reform eyes, a vocal tract, limbs, or head.&#x20;
+
+The Kindred can transform only part of the body, such as a finger or leg, as desired, though it still needs to remain in touch with the main body. If part of the mass is separated (or entirely consumed) the user’s consciousness goes with the largest portion of Blood and the user reforms with one additional level of Hunger for each limb (or equivalent body mass) lost. If a portion of the user is consumed, it creates Blood Bonds as normal but the user cannot control their Blood after its been ingested by another.
+
+Duration: One scene or until the user ends the transformation
+
+</details>
+
+<details>
+
+<summary>Master of Forms, Protean 5 (Gehenna War p.48)</summary>
+
+Prerequisite: Shapechange
+
+Cost: None
+
+System: The user is no longer limited to choosing one animal form when using Shapechange or Metamorphosis. Rather, they can take on the form of any creature that falls within the limits of those abilities, different each time if they so wish. Each time they choose a beast form, such as a wolf, owl, or bat, they assume the same specific form, which may be recognized by witnesses. Thus, if the character turns into a swan on multiple nights, it always looks like that specific swan.
+
+All other limitations of Shapechange and Metamorphosis still apply.
+
+Duration: As Shapechange or Metamorphosis
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Mist Form, Protean 5 (Core pp.271-272)</strong></mark></summary>
 
 **Cost:** One to three Rouse Checks
@@ -1474,6 +1506,20 @@ Many mortals must make Willpower tests or flee in terror when swarmed. Difficult
 **System:** The vampire makes a Manipulation + Blood Sorcery test and by concentrating on the image to be formed, sends the blood or vitae flowing into the prescribed pattern or shape. Difficulty varies with the pattern’s complexity: from a simple “SOS” (Difficulty 2), to a portrait (Difficulty 4), or topologically complex sorcerous sigil (Difficulty 6). Failure spatters the blood randomly; a critical win not only forms the desired image but also allows the vampire to change its shape freely during the scene.
 
 **Duration:** For the remainder of the scene or until dispelled by user
+
+</details>
+
+<details>
+
+<summary>Blood’s Curse, Blood Sorcery 2 (Gehenna War p.48)</summary>
+
+Cost: One Rouse Check
+
+Dice Pools: Intelligence + Blood Sorcery vs Stamina + Occult or Fortitude
+
+System: The user targets another vampire or ghoul. On a win, add two (or four on a critical win) to the victim’s Blood Potency for purposes of Bane severity and feeding penalty (for vampires) only. When targeting a ghoul, Caitiff, or thin-blood, the target gains a clan Bane based on the clan of the vampire they most recently fed from or their own ancestry, as determined by the Storyteller.
+
+Duration: Until dawn
 
 </details>
 
@@ -1619,6 +1665,18 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
+<summary>Blood to Water, Level 1 (Gehenna War p.48)</summary>
+
+Ingredients: Pure water, whether from a natural spring or purified mechanically.
+
+Process: The ritualist smears their own Blood on their hands, pours water through their fingers, and splatters it about the room.
+
+System: If the ritual is successful, blood (including the performer’s spilled Blood) exposed to the air is transmuted into water, leaving no traces behind. The ritual affects a space roughly the size of a living room. Larger spaces require repeated performances to cleanse.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Clinging Of The Insect, Level 1 (Core p.276)</strong></mark></summary>
 
 **Ingredients:** A living spider.
@@ -1638,6 +1696,18 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 **Process:** The user spills their Blood into the blood in the bowl and then recites a chant over it for an hour, repeating the chant over the next two nights. The pebble (or magnet) absorbs the blood over the three nights; upon successful completion, the liquid appears translucent.
 
 **System:** Make the Ritual roll at the end of the third night. On a win the caster attunes their mind to the Bloodstone. The caster can unerringly sense the direction and distance to the stone. This effect lasts until the Bloodstone is destroyed or a week has passed. A caster can have and keep track to a number of stones up to their Resolve.
+
+</details>
+
+<details>
+
+<summary>Revealing the Crimson Trail, Level 1 (Gehenna War p.48)</summary>
+
+Ingredients: A needle with an eye.
+
+Process: The Kindred ritually prepares the needle by stabbing themselves in one eye with it, and must then peer through its eye.
+
+System: If the ritual is successful, the vampire can clearly see any spilled blood, dried or not, as long as they keep looking through the eye of the needle. Exceptionally old or minute traces can require a Resolve + Awareness or Investigation test to spot, as determined by the Storyteller. The ritual lasts for the rest of the scene.
 
 </details>
 
@@ -1865,6 +1935,20 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
+<summary>Innocence’s Veil, Level 4 (Gehenna War pp.48-49)</summary>
+
+Ingredients: A silver knife, a white candle, a mortal victim
+
+Process: The ritualist stokes their Hunger (usually through fasting or bloodletting) until they are at the verge of frenzy (Hunger 5), then slakes their Hunger on a mortal, draining them completely.
+
+System: If the ritual is successful, signs of diablerie on the user cease to manifest. Powers such as A Taste for Blood or Scry the Soul do not detect any evidence the ritualist has committed diablerie in the past.
+
+Duration: Until the ritualist slakes their Hunger again.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>The Balm of Bathory, Level 4 (Tattered Facade p.94-95)</strong></mark></summary>
 
 **Ingredients:** One cup of vitae from the sorcerer, one pint of blood from a youthful victim (or victims) of clear complexion (the needed amount doubles per brewing, see below), chamomile flowers, and shea butter or sheep’s fat; optional essential oils for scent
@@ -1905,6 +1989,20 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
+<summary>Atrocity’s Release, Level 5 (Gehenna War p.49)</summary>
+
+Ingredients: Human reproductive organs thinly sliced, moss or a sea sponge, and scrapings of bezoar.
+
+Process: The performer must first create a number of poultices from the ingredients, something that takes at least one night to prepare, disregarding the time it takes to procure the components. Then, the sorcerer presses the ritually prepared poultices to a series of deep cuts on their target’s body, drawing out the stolen Blood. The Blood-soaked poultices are then burnt, their ashes left exposed to the sunrise.
+
+System: An unwilling target may resist with Resolve + Blood Potency, the Ritual’s Difficulty counting as the greater of the target’s successes or the standard difficulty. If successful, The Ritual reverses the most recent instance of diablerie that the target has committed, including changes to Blood Potency, Disciplines, or personality, though not Humanity.
+
+Even if the ritual is successful, the spirit of the previous victim of the diablerie remains destroyed. On a total failure, the target’s essence is destroyed instead, the victim becoming effectively possessed by their latest diablerie victim.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Escape To True Sanctuary, Level 5 (Core pp.279-280)</strong></mark></summary>
 
 **Ingredients:** Two charred circles of approximately a meter in diameter.
@@ -1924,6 +2022,22 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 **Process:** The caster lies on the stone slab with the candle on their chest letting it burn down to nothing over the course of a night. As the fire reaches their chest, it causes one point of Aggravated damage and forces a terror frenzy roll (Difficulty 3). If the caster fails the frenzy roll, the ritual ends. If the caster does not enter frenzy, they make the Ritual roll. On a win the ritual completes; a critical win heals the candle-fire damage. The effect persists indefinitely, and should the caster wish to reverse the process they must repeat the ritual.
 
 **System:** While under the effect of the ritual, the caster’s heart is literally made of stone. Stakes fail to penetrate it, breaking if forced. The caster also exhibits a complete emotional detachment, subtracting three dice from any Remorse rolls as well as active (not resisting) Social-related rolls, except for Intimidation and Dominate. The caster cannot employ Presence but gains three bonus dice to pools used to resist the effects of that Discipline.
+
+</details>
+
+<details>
+
+<summary>Reawakened Vigor, Level 5 (Gehenna War p.49)</summary>
+
+Ingredients: 5 or more Rouse Checks worth of the sorcerer’s vitae, a finely crafted ceramic receptacle, molten lead
+
+Process: The sorcerer pours their vitae into the receptacle, stoppers it with lead and bloody sigils, and buries it in a place of power.
+
+System: The Sorcerer places at least 5 Rouse Checks worth of Blood into the receptacle. They may stop to feed while enacting this Ritual, but the ritual fails if interrupted for more than an hour, meaning any vessels needed to slake Hunger must be kept close at hand. On completing the task, the vampire crafts a rust-colored orb containing a small amount of their concentrated vitae. If this vitae is consumed (and on a successful ritual test), it restores one point of Blood Potency lost due to Torpor. For each success in the margin, another lost point of Blood Potency can be restored. If no Blood Potence has been lost to torpor, the ritual has no effect on the user.
+
+Any vampire other than the ritualist drinking the essence must test Stamina + Blood Sorcery or Fortitude against a difficulty of 6. For each point of margin of failure, they suffer one Aggravated Health damage.
+
+A sorcerer can only have one active use of this ritual cast at a time, and it loses potency at dawn once unearthed.
 
 </details>
 
@@ -2022,6 +2136,24 @@ A correctly functioning Corpse Suit attunes to subtle signs of danger and senses
 
 <details>
 
+<summary>The Shallow Slumber, Level 3 (Gehenna War p.50)</summary>
+
+Prerequisite: Passion Feast or Touch of Oblivion
+
+Ingredients: Charcoal and one Rouse Check of the user’s vitae.
+
+Process: The performer carefully writes a series of sigils on themselves or another vampire, while cursing the names of various gods or saints responsible for good health.
+
+System: So long as the sigils remain on the target’s body, for each success in the margin on the ceremony test, their Blood Potency counts as one lower for the purpose of torpor duration and premature awakening. Likewise, their Humanity counts as a similar number of dots higher but only for purposes of torpor duration. A total failure on the Ritual test extends the torpor instead, as if the subject had another dot more in Blood Potence and a dot less in Humanity. Only one attempt per subject per torpor can be made.
+
+A vampire can use this ceremony on themselves or another vampire, even if the subject has not yet fallen into torpor. The sigils stay on the subject’s body until they are washed away, marred by injury, or intentionally defaced, though rarely longer than a week due to natural abrasion.
+
+Duration: Indefinite, so long as the sigils remain.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Bind to Mortal Form, Level 4 (Tattered Facade p.102)</strong></mark></summary>
 
 **Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Skuld Fulfilled</mark>
@@ -2103,6 +2235,20 @@ Trying to move someone actively resisting requires a contest of Resolve + Alchem
 **System:** The alchemist activates the power and chooses a target within sight. A swirling mist envelops the target, obscuring their sight and penalizing them three dice from all sight-based detection and ranged attack dice pools. In addition, the alchemist can make the mist suffocate a mortal with a contest of Wits + Alchemy vs. Stamina + Survival. On a win, the target can take no action except coughing and choking; on a critical win, the target loses consciousness. The alchemist can only employ Envelop on single targets, and only on one at a time.
 
 **Duration:** Until scene ends or the alchemist ends the effect voluntarily.
+
+</details>
+
+<details>
+
+<summary>Whiff-Its, Level 2 (Gehenna War pp.50-51)</summary>
+
+Ingredients: The alchemist’s vitae, phlegmatic or sanguine human blood, cologne or perfume, fresh compost, ammonia, crushed fingernails from an animal
+
+Activation Cost: One Rouse Check
+
+System: When used, the potion grants the alchemist heightened olfactory abilities. For the next night, the alchemist can catch the scent of the Kindred with the highest Blood Potency in the area (as determined by the Storyteller). If there are multiple Kindred who share the same Blood Potency in the area, success on a subsequent Resolve + Awareness test at Difficulty 3 allows the alchemist to distinguish between individual Kindred and follow their trail. Kindred sealed in containers might likewise require a similar test to detect, with a Difficulty determined by the Storyteller.
+
+Duration: Until dawn
 
 </details>
 
@@ -2190,6 +2336,20 @@ The blob is affectionate but slimy and inherently unstable. It can perform many 
 
 <details>
 
+<summary>Juice Box, Level 4 (Gehenna War p.51)</summary>
+
+Ingredients: The ingredients required for the original formula, methuselah vitae, and an empty juice box, complete with traces of concentrated fruit juice.
+
+Activation Cost: One Rouse Check
+
+System: The alchemist distills the target formula as normal, but includes methuselah vitae in the concoction before performing additional treatment to it. Once distilled, the brew must rest in the juice box for 24 hours before activation. The result allows any Duskborn or Kindred to benefit from the brew created by the alchemist. All activation costs, dice pools, and duration apply per the original blood alchemy formula.
+
+Duration: As target formula
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Awaken The Sleeper, Level 5 (Core p.287)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric or sanguine human blood, adrenaline, ammonium carbonate, hartshorn, caffeine or benzedrine, melatonin
@@ -2199,6 +2359,20 @@ The blob is affectionate but slimy and inherently unstable. It can perform many 
 _**Athanor Corporis:**_ The alchemist can tap their own vein once per night for this elixir until their next feeding, or until they reach Hunger 5. They need not pay the distillation cost again.
 
 _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them again in a week for more elixir. They need not pay the distillation cost again, but the vessel pays the Health cost (5 Aggravated damage) each time they are tapped. The Alchemist can also simply feed the vessel’s blood to the sleeper directly.
+
+</details>
+
+<details>
+
+<summary>Beast Mode, Level 5 (Gehenna War p.51)</summary>
+
+Ingredients: The alchemist’s vitae, choleric or sanguine human blood, vitae of Blood Potency 4+, phenylcyclohexyl piperidine, adrenaline injector, spoiled two percent milk, sodium bicarbonate
+
+Activation Cost: One Rouse Check
+
+System: Beast Mode imbues the alchemist with access to a single level 5 power from the Disciplines of Celerity, Fortitude, or Potence, counting that Discipline rating as 5 for the duration of the formula. When consumed, the alchemist must succeed on a Willpower test (Difficulty 2) to avoid frenzy. The Kindred whose vitae was used in the distillation must possess the power’s associated Discipline at level 5 or the brew fails.
+
+Duration: One scene
 
 </details>
 
