@@ -1758,13 +1758,13 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
-<summary><mark style="color:$info;"><strong>Bind the Accusing Tongue, Level 1 (Blood Sigils p.60-62)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Bind the Accusing Tongue, Level 1 (Blood Sigils p.60-62)</strong></mark></summary>
 
-Ingredients: A picture, effigy, or image of the target, a lock of the target’s hair, a black silken cord.
+**Ingredients:** A picture, effigy, or image of the target, a lock of the target’s hair, a black silken cord.
 
-Process: The caster winds the cord around the hair and image while intoning the ritual charm.
+**Process:** The caster winds the cord around the hair and image while intoning the ritual charm.
 
-System: A win on the Ritual roll prevents the target from saying, writing, or otherwise directly communicating anything negative or harmful — even, or rather especially, if it’s true — about the caster without a Composure + Resolve test (Difficulty equals the caster’s Blood Sorcery rating +2). On a critical win, the Difficulty of the test equals the caster’s Blood Sorcery rating +3. The ritual lasts until the target succeeds on their test, or until the cord unwinds, at which point the hair and image crumble into dust.
+**System:** A win on the Ritual roll prevents the target from saying, writing, or otherwise directly communicating anything negative or harmful — even, or rather especially, if it’s true — about the caster without a Composure + Resolve test (Difficulty equals the caster’s Blood Sorcery rating +2). On a critical win, the Difficulty of the test equals the caster’s Blood Sorcery rating +3. The ritual lasts until the target succeeds on their test, or until the cord unwinds, at which point the hair and image crumble into dust.
 
 </details>
 
@@ -1884,39 +1884,39 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
-<summary>Craftmaster, Level 2 (Blood Sigils p.62)</summary>
+<summary><mark style="color:red;"><strong>Craftmaster, Level 2 (Blood Sigils p.62)</strong></mark></summary>
 
-Ingredients: Blood of a gifted subject, representative craft object such as a needle, page of a book, playing card, chisel, etc., vulture bones.
+**Ingredients:** Blood of a gifted subject, representative craft object such as a needle, page of a book, playing card, chisel, etc., vulture bones.
 
-Process: The caster chars the vulture bones in a fire and places the representative object in a bowl over the flames. They pour the blood of the subject into the bowl, completely covering the object. As the last of the bones crack and burn, the vampire drinks the blood from the bowl, letting the object touch their lips as they drink.
+**Process:** The caster chars the vulture bones in a fire and places the representative object in a bowl over the flames. They pour the blood of the subject into the bowl, completely covering the object. As the last of the bones crack and burn, the vampire drinks the blood from the bowl, letting the object touch their lips as they drink.
 
-System: On a win, the caster gains the subject’s dots and specialty in Academics, Craft, Performance, or Science until sunrise. The dots replace, not add to, any already possessed by the caster. If the caster already has that specialty, they gain one extra die on top of the specialty die. On a critical win, the Ritual lasts for a week. On a total failure, the caster accidentally swallows the craft object and takes 2 Aggravated Health damage from it traveling through their body, the object spiritually furious at its skill being stolen.
-
-</details>
-
-<details>
-
-<summary>Depths of Nightmare, Level 2 (Blood Sigils p.62)</summary>
-
-Ingredients: Target’s hair; melted wax; natron (soda ash)
-
-Process: The caster mixes a Rouse Check’s worth of blood into the melted wax, then rolls their target’s hair in the mixture. The vampire shapes the bloody wax into a humanoid shape, as close to their target’s body shape as possible. After writing glyphs or curses in their native language, the sorcerer soaks the figurine in a bowl of water mixed with natron.
-
-System: On a win, the target receives a number of nightmare-filled days (or nights, for mortal targets) equal to the number of successes rolled. When they first awaken after each sleep, the target receives 1 Superficial Willpower damage. On a critical win, the damage is Aggravated instead. This damage cannot be healed normally until the spell has run its course: only magic or the like can remove the shock and horror of these dreams. On a total failure, the target not only has pleasant dreams, but dreams of an ibis-headed man who points the target in the caster’s direction. This occurs even if the caster used no Kemetic imagery on the figurine.
+**System:** On a win, the caster gains the subject’s dots and specialty in Academics, Craft, Performance, or Science until sunrise. The dots replace, not add to, any already possessed by the caster. If the caster already has that specialty, they gain one extra die on top of the specialty die. On a critical win, the Ritual lasts for a week. On a total failure, the caster accidentally swallows the craft object and takes 2 Aggravated Health damage from it traveling through their body, the object spiritually furious at its skill being stolen.
 
 </details>
 
 <details>
 
-<summary>Elemental Grasp, Level 2 (Blood Sigils p.62-63) *</summary>
+<summary><mark style="color:red;"><strong>Depths of Nightmare, Level 2 (Blood Sigils p.62)</strong></mark></summary>
 
-Prerequisite: Koldunic Sorcery
+**Ingredients:** Target’s hair; melted wax; natron (soda ash)
 
-Ingredients: A handful of the koldun’s element or a ritual representation of it, such as a wooden staff for earth, a knife or bunch of feathers for air, etc.
+**Process:** The caster mixes a Rouse Check’s worth of blood into the melted wax, then rolls their target’s hair in the mixture. The vampire shapes the bloody wax into a humanoid shape, as close to their target’s body shape as possible. After writing glyphs or curses in their native language, the sorcerer soaks the figurine in a bowl of water mixed with natron.
 
-Process: The koldun scratches open their initiation scar and makes a Rouse Check while commanding the element to hinder a target the koldun perceives. Magical perception counts for this purpose.
+**System:** On a win, the target receives a number of nightmare-filled days (or nights, for mortal targets) equal to the number of successes rolled. When they first awaken after each sleep, the target receives 1 Superficial Willpower damage. On a critical win, the damage is Aggravated instead. This damage cannot be healed normally until the spell has run its course: only magic or the like can remove the shock and horror of these dreams. On a total failure, the target not only has pleasant dreams, but dreams of an ibis-headed man who points the target in the caster’s direction. This occurs even if the caster used no Kemetic imagery on the figurine.
 
-System: On a win, the element rises against the target. If the element is already awake during the casting (commanding air during a thunderstorm, for instance), the koldun adds one die to their Ritual pool. The target takes one point of Superficial Health damage per success, and must make an appropriate skill roll (e.g., Toughness + Athletics, or Composure + Drive) to continue against the element against a Difficulty equal to 1 + the total successes on the Ritual roll. On a critical win, the element rises against every suitable target within sight of the main target. The effect continues until the koldun does anything else besides command the elements: fight, move, make any other skill roll, etc.
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Elemental Grasp, Level 2 (Blood Sigils p.62-63) *</strong></mark></summary>
+
+**Prerequisite:** Koldunic Sorcery
+
+**Ingredients:** A handful of the koldun’s element or a ritual representation of it, such as a wooden staff for earth, a knife or bunch of feathers for air, etc.
+
+**Process:** The koldun scratches open their initiation scar and makes a Rouse Check while commanding the element to hinder a target the koldun perceives. Magical perception counts for this purpose.
+
+**System:** On a win, the element rises against the target. If the element is already awake during the casting (commanding air during a thunderstorm, for instance), the koldun adds one die to their Ritual pool. The target takes one point of Superficial Health damage per success, and must make an appropriate skill roll (e.g., Toughness + Athletics, or Composure + Drive) to continue against the element against a Difficulty equal to 1 + the total successes on the Ritual roll. On a critical win, the element rises against every suitable target within sight of the main target. The effect continues until the koldun does anything else besides command the elements: fight, move, make any other skill roll, etc.
 
 </details>
 
@@ -1960,25 +1960,25 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary>Silentia Mortis, Level 2 (Blood Sigils p.64)</summary>
+<summary><mark style="color:red;"><strong>Silentia Mortis, Level 2 (Blood Sigils p.64)</strong></mark></summary>
 
-Ingredients: Paw of a cat or other silent desert predator, blood from caster (and from holder, if different), corpse-wax candle (p. 139), a white rose.
+**Ingredients:** Paw of a cat or other silent desert predator, blood from caster (and from holder, if different), corpse-wax candle (p. 139), a white rose.
 
-Process: The caster whispers the words of this ritual, cuts their palm, and clenches the paw in their fist, soaking it in a Rouse Check worth of their blood. If intended for a holder besides the caster, the holder also cuts their palm and holds the paw, making their own Rouse Check and mingling their blood. The holder remains completely silent during this ritual. After burning the rose in the candle, the caster quenches the candle flame with the bloody paw.
+**Process:** The caster whispers the words of this ritual, cuts their palm, and clenches the paw in their fist, soaking it in a Rouse Check worth of their blood. If intended for a holder besides the caster, the holder also cuts their palm and holds the paw, making their own Rouse Check and mingling their blood. The holder remains completely silent during this ritual. After burning the rose in the candle, the caster quenches the candle flame with the bloody paw.
 
-System: A win on the Ritual roll creates a 6-meter radius of magical silence around the holder once they activate the talisman by making a second Rouse Check. The talisman must touch the holder’s flesh, but they need not keep it in their hand. The silence ends when the holder loses the talisman or after one hour, and the talisman shrivels into nothingness. A critical win increases the radius to 12 meters.
+**System:** A win on the Ritual roll creates a 6-meter radius of magical silence around the holder once they activate the talisman by making a second Rouse Check. The talisman must touch the holder’s flesh, but they need not keep it in their hand. The silence ends when the holder loses the talisman or after one hour, and the talisman shrivels into nothingness. A critical win increases the radius to 12 meters.
 
 </details>
 
 <details>
 
-<summary>Tiamat Glistens, Level 2 (Blood Sigils pp.64-65)</summary>
+<summary><mark style="color:red;"><strong>Tiamat Glistens, Level 2 (Blood Sigils pp.64-65)</strong></mark></summary>
 
-Ingredients: A place of power such as a furcus, dust of a precious metal (which one depends on the magical valence of the site).
+**Ingredients:** A place of power such as a furcus, dust of a precious metal (which one depends on the magical valence of the site).
 
-Process: The caster mixes a Rouse Check’s worth of blood with the precious metal dust. At the site of a place of power, they shout praises to Tiamat, scattering the bloody metal dust mixture into the air and on the ground for at least fifteen minutes.
+**Process:** The caster mixes a Rouse Check’s worth of blood with the precious metal dust. At the site of a place of power, they shout praises to Tiamat, scattering the bloody metal dust mixture into the air and on the ground for at least fifteen minutes.
 
-System: On a win, the sorcerer primes the place of power for any ritual taking place there for a number of nights equal to the number of successes on the Ritual test. During this time, any ritual performed by the caster on this place of power gains the bonuses or other advantages associated with it — usually a dice bonus to Ritual pools (see Furcus, p. 35). On a critical win, the sorcerer also automatically succeeds on one die of their Ritual roll. Only one caster receives the benefits of Tiamat Glistens per place of power. If another caster successfully performs the Ritual during the time of another caster’s successful casting, the first caster immediately loses the dice bonus.
+**System:** On a win, the sorcerer primes the place of power for any ritual taking place there for a number of nights equal to the number of successes on the Ritual test. During this time, any ritual performed by the caster on this place of power gains the bonuses or other advantages associated with it — usually a dice bonus to Ritual pools (see Furcus, p. 35). On a critical win, the sorcerer also automatically succeeds on one die of their Ritual roll. Only one caster receives the benefits of Tiamat Glistens per place of power. If another caster successfully performs the Ritual during the time of another caster’s successful casting, the first caster immediately loses the dice bonus.
 
 </details>
 
@@ -1998,13 +1998,13 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary>Viscera Garden, Level 2 (Blood Sigils p.65)</summary>
+<summary><mark style="color:red;"><strong>Viscera Garden, Level 2 (Blood Sigils p.65)</strong></mark></summary>
 
-Ingredients: A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
+**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
 
-Process: The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
+**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
 
-System: A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
+**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
 
 </details>
 
@@ -2036,13 +2036,13 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
-<summary>Blood Sigil, Level 3 (Blood Sigils p.66)</summary>
+<summary><mark style="color:red;"><strong>Blood Sigil, Level 3 (Blood Sigils p.66)</strong></mark></summary>
 
-Ingredients: Tattoo ink or other substances that can stain skin, a written message on paper, a photograph, or a painting, a sharp object with a tip heated by candle flame.
+**Ingredients:** Tattoo ink or other substances that can stain skin, a written message on paper, a photograph, or a painting, a sharp object with a tip heated by candle flame.
 
-Process: The vampire to be tattooed opens a vein in their wrist with the sharp object — usually a scalpel, a knife, or the needle in a tattoo gun — and bleeds into containers with their chosen painting material. Then, the caster tears the paper or picture, mixing the remains into the paints while chanting for fifteen minutes. The caster applies the Blood Sigil on another vampire by heating the sharp object’s tip, dipping the sharp object into the paints, and carefully carving an image into the vampire’s skin. This image need not be relevant to its hidden information.
+**Process:** The vampire to be tattooed opens a vein in their wrist with the sharp object — usually a scalpel, a knife, or the needle in a tattoo gun — and bleeds into containers with their chosen painting material. Then, the caster tears the paper or picture, mixing the remains into the paints while chanting for fifteen minutes. The caster applies the Blood Sigil on another vampire by heating the sharp object’s tip, dipping the sharp object into the paints, and carefully carving an image into the vampire’s skin. This image need not be relevant to its hidden information.
 
-System: Make no Ritual roll until after applying the Blood Sigil. A win permanently seals the tattooed image into the vampire’s skin and perfectly preserves the message within. A failure creates a tattoo and preserved message that fades away upon the vampire’s next rising. Read the message within a Blood Sigil by viewing or touching the sigil for fifteen minutes and either winning a Resolve + Occult Test at Difficulty 5 (Difficulty 4 if touching the tattoo) or using Sense the Unseen (Auspex 1). The sorcerer who applied the Blood Sigil can erase the tattoo (and the message) by spending one Willpower and touching the tattoo for fifteen minutes.
+**System:** Make no Ritual roll until after applying the Blood Sigil. A win permanently seals the tattooed image into the vampire’s skin and perfectly preserves the message within. A failure creates a tattoo and preserved message that fades away upon the vampire’s next rising. Read the message within a Blood Sigil by viewing or touching the sigil for fifteen minutes and either winning a Resolve + Occult Test at Difficulty 5 (Difficulty 4 if touching the tattoo) or using Sense the Unseen (Auspex 1). The sorcerer who applied the Blood Sigil can erase the tattoo (and the message) by spending one Willpower and touching the tattoo for fifteen minutes.
 
 </details>
 
@@ -2072,15 +2072,15 @@ System: Make no Ritual roll until after applying the Blood Sigil. A win permanen
 
 <details>
 
-<summary>Elemental Shelter, Level 3 (Blood Sigils p.66) *</summary>
+<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66) *</strong></mark></summary>
 
-Prerequisite: Koldunic Sorcery
+**Prerequisite:** Koldunic Sorcery
 
-Ingredients: At least enough of the element in question to envelop the koldun’s body.
+**Ingredients:** At least enough of the element in question to envelop the koldun’s body.
 
-Process: The koldun scratches open their initiatory scar, bleeds into the element, commands it to receive them, and falls or dives into it.
+**Process:** The koldun scratches open their initiatory scar, bleeds into the element, commands it to receive them, and falls or dives into it.
 
-System: On a win, the koldun melds into the element. No physical attack can injure them, nor can sunlight or fire. While in the element, the koldun remains aware of their surroundings, except during day-sleep. At those times, disturbances such as digging or loud noises awaken them or not, as with all vampires (Vampire: The Masquerade, p. 219). The koldun’s form remains waveringly visible to Sense the Unseen (Auspex 1) or to normal sight (Wits + Awareness) with a Difficulty equal to the margin of the Ritual roll. On a critical win, the koldun completely merges with the element, becoming entirely invisible. The koldun can emerge from the element at will by night at the spot they entered it. If a fire-bonded koldun’s fire goes out (or less likely, if someone drains a water-bonded koldun’s aqueous shelter), the koldun enters torpor within or beneath the ashes and coals. They can make a Resolve + Awareness test (Difficulty 2) to awaken in the presence of potential prey just as if they had fallen into torpor from hunger.
+**System:** On a win, the koldun melds into the element. No physical attack can injure them, nor can sunlight or fire. While in the element, the koldun remains aware of their surroundings, except during day-sleep. At those times, disturbances such as digging or loud noises awaken them or not, as with all vampires (Vampire: The Masquerade, p. 219). The koldun’s form remains waveringly visible to Sense the Unseen (Auspex 1) or to normal sight (Wits + Awareness) with a Difficulty equal to the margin of the Ritual roll. On a critical win, the koldun completely merges with the element, becoming entirely invisible. The koldun can emerge from the element at will by night at the spot they entered it. If a fire-bonded koldun’s fire goes out (or less likely, if someone drains a water-bonded koldun’s aqueous shelter), the koldun enters torpor within or beneath the ashes and coals. They can make a Resolve + Awareness test (Difficulty 2) to awaken in the presence of potential prey just as if they had fallen into torpor from hunger.
 
 </details>
 
@@ -2128,85 +2128,85 @@ The process of breaking out of the cocoon can be a disturbing sight. Vampires th
 
 <details>
 
-<summary>Nepenthe, Level 3 (Blood Sigils pp.66-67)</summary>
+<summary><mark style="color:red;"><strong>Nepenthe, Level 3 (Blood Sigils pp.66-67)</strong></mark></summary>
 
-Ingredients: Poppy seeds, starflower, honey, the subject’s tears, the caster’s Blood.
+**Ingredients:** Poppy seeds, starflower, honey, the subject’s tears, the caster’s Blood.
 
-Process: The caster pulverizes the solid ingredients together in a bowl and mixes in the Blood and honey. The last ingredient added should be the tears of the ritual’s subject. The potion gives off a strong, sickly sweet smell. The subject must drink the entire draught in one go.
+**Process:** The caster pulverizes the solid ingredients together in a bowl and mixes in the Blood and honey. The last ingredient added should be the tears of the ritual’s subject. The potion gives off a strong, sickly sweet smell. The subject must drink the entire draught in one go.
 
-System: With a win on the Ritual roll, Nepenthe removes 1 Stain from the drinker’s tracker before a Remorse roll. On a critical win, Nepenthe removes 2 Stains before a Remorse roll at the end of the session. However, on a Total Failure, 1 Stain carries over to the next session, regardless of whether the Remorse roll succeeded or not. If a vampire uses Nepenthe more than two sessions in a row, their mind becomes dependent on it and one of their Stains becomes permanent. This is a cumulative effect—four sessions in a row results in two permanent Stains, etc.
-
-</details>
-
-<details>
-
-<summary>Seeing with the Sky’s Eyes, Level 3 (Blood Sigils p.67)</summary>
-
-Ingredients: Euphoric mortal blood (usually from someone high on cannabis), incense, brazier, an effigy or photo of a target.
-
-Process: The caster drinks the euphoric blood, lights a mixture of their own Blood (one Rouse Check worth) and incense in a brazier, inhales it and falls into an ecstatic trance while studying the target image.
-
-System: After a half-hour of the trance, make the Ritual roll. On a win, the caster may ask the Storyteller one question about the target’s location and surroundings for every success rolled. On a critical win, the caster receives an additional three questions, and may ask about the target’s Ambition, Desire, Convictions, and Humanity in addition to any questions about the target’s location and whereabouts.
+**System:** With a win on the Ritual roll, Nepenthe removes 1 Stain from the drinker’s tracker before a Remorse roll. On a critical win, Nepenthe removes 2 Stains before a Remorse roll at the end of the session. However, on a Total Failure, 1 Stain carries over to the next session, regardless of whether the Remorse roll succeeded or not. If a vampire uses Nepenthe more than two sessions in a row, their mind becomes dependent on it and one of their Stains becomes permanent. This is a cumulative effect—four sessions in a row results in two permanent Stains, etc.
 
 </details>
 
 <details>
 
-<summary>Seeking Tiamat, Level 3 (Blood Sigils p.68)</summary>
+<summary><mark style="color:red;"><strong>Seeing with the Sky’s Eyes, Level 3 (Blood Sigils p.67)</strong></mark></summary>
 
-Ingredients: A foot-long, sharpened piece of witch hazel or magnetized iron.
+**Ingredients:** Euphoric mortal blood (usually from someone high on cannabis), incense, brazier, an effigy or photo of a target.
 
-Process: The caster jams the wood or iron into their forearm along the ulnar vein, causing themselves 1 point of Aggravated damage, and makes a Rouse Check. Then they must walk around the city or region for at least fifteen minutes.
+**Process:** The caster drinks the euphoric blood, lights a mixture of their own Blood (one Rouse Check worth) and incense in a brazier, inhales it and falls into an ecstatic trance while studying the target image.
 
-System: On a win, their arm begins twitching and pointing toward the closest furcus in the area; by changing their direction, intelligent casters can triangulate a location within a few minutes. On a critical win, the tool discovers the closest vein of the Earth, and points toward two furcae on that vein.
-
-</details>
-
-<details>
-
-<summary>Soul of the Hemonculus, Level 3 (Blood Sigils p.68)</summary>
-
-Ingredients: Glass bottle blown on the night before the new moon, semen, chalk, graveyard dirt, the caster’s Blood, a dead man’s thumb, and a dead pig.
-
-Process: The caster puts the Blood and other ingredients in the glass bottle, corks it with the thumb, shakes well, and lets it sit in total darkness until the full moon. The bottle is then bathed in moonlight while the caster recites a short chant, before sewing it into the pig’s stomach. The caster buries the pig in consecrated ground, at least three feet deep, and makes the Ritual roll. If it succeeds, on the next new moon when the caster digs it up, the pig looks like a miniature version of them. The caster commands it to arise, and it must obey.
-
-System: Make the Ritual roll against the higher of 3 or the user’s Stamina: their very flesh resists this blasphemy. If the roll succeeds, the hemonculus quickens and births in a month. A hemonculus has its maker’s Attributes and the Skills from their mortal life, but each at one dot lower, to a minimum of 1, half the maker’s Health and one dot of Willpower. Hemonculi can’t become ghouls, be Embraced, or be Blood Bound, and any vampire who feeds on one gains no nourishment and finds the process repellent.
+**System:** After a half-hour of the trance, make the Ritual roll. On a win, the caster may ask the Storyteller one question about the target’s location and surroundings for every success rolled. On a critical win, the caster receives an additional three questions, and may ask about the target’s Ambition, Desire, Convictions, and Humanity in addition to any questions about the target’s location and whereabouts.
 
 </details>
 
 <details>
 
-<summary>Stone of the True Form, Level 3 (Blood Sigils p.68)</summary>
+<summary><mark style="color:red;"><strong>Seeking Tiamat, Level 3 (Blood Sigils p.68)</strong></mark></summary>
 
-Ingredients: A hunk of metamorphic rock, such as slate or marble.
+**Ingredients:** A foot-long, sharpened piece of witch hazel or magnetized iron.
 
-Process: The caster must smooth, carve, or tumble the rock into a sphere somewhere between the size of a marble and a baseball. If they have a relevant Craft specialty, or access to a geology lab, they can make a test to do it in an hour; otherwise it takes six hours. The caster then coats the sphere in a Rouse Check worth of their boiling Blood and commands it to reveal in the oldest language they know.
+**Process:** The caster jams the wood or iron into their forearm along the ulnar vein, causing themselves 1 point of Aggravated damage, and makes a Rouse Check. Then they must walk around the city or region for at least fifteen minutes.
 
-System: When the vampire throws the stone (Dexterity + Athletics) and hits something that is either an illusion, a being created by a Discipline or ritual (such as a Tzimisce’s vozhd or a hemonculus), or a shapeshifted being (either by Protean or by inherent means), the sorcerer rolls the Ritual roll versus the target’s Resolve + Occult. On a win, the illusion dispels in a spray of blood, the created being tears apart into its individual components, or the shapeshifter painfully shifts into its original form. This unveiling effect lasts for one round. Any margin equals the dice penalty to the illusion resuming, creation repair, or next shapeshifting attempt. On a failure, the caster may try again until sunrise, assuming they can recover the stone without being slaughtered. Once the ritual succeeds, the stone breaks in half and cannot be reused.
-
-</details>
-
-<details>
-
-<summary>Trespass, Level 3 (Blood Sigils p.69)</summary>
-
-Ingredients: Fragment of the desired location’s cornerstone or doorstep, the blood of a thief, thread.
-
-Process: The caster ties one end of the thread around the fragment of cornerstone and soaks both in the blood. They then chant an efficacious prayer to Hermes or Set — the traditional patrons of the Trespass ritual — or any other spirit or deity associated with trespass. The caster wraps the thread about the trespasser’s body, starting at the heel and ending around the forehead.
-
-System: The ritual lasts for as long as the thread remains wet with blood (one scene, or about 30 minutes). When the vampire attempts to actually enter the building, make the Ritual roll. On a win, the caster enters without problem. With a Willpower spend, they can flow through air vents, cracks under doors, or anywhere else liquid blood could flow. On a critical win, they don’t need to spend Willpower to flow through such cracks, and gain an intuitive knowledge of the structure’s layout. On a total failure, the building itself rejects the caster. Everyone passing by gains two dice to their pools to notice and suspect the trespasser, who takes Superficial Health damage equal to the number of failed dice in that pool every turn they remain in the building.
+**System:** On a win, their arm begins twitching and pointing toward the closest furcus in the area; by changing their direction, intelligent casters can triangulate a location within a few minutes. On a critical win, the tool discovers the closest vein of the Earth, and points toward two furcae on that vein.
 
 </details>
 
 <details>
 
-<summary>Viral Haruspex, Level 3 (Blood Sigils p.69)</summary>
+<summary><mark style="color:red;"><strong>Soul of the Hemonculus, Level 3 (Blood Sigils p.68)</strong></mark></summary>
 
-Ingredients: Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
+**Ingredients:** Glass bottle blown on the night before the new moon, semen, chalk, graveyard dirt, the caster’s Blood, a dead man’s thumb, and a dead pig.
 
-Process: The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
+**Process:** The caster puts the Blood and other ingredients in the glass bottle, corks it with the thumb, shakes well, and lets it sit in total darkness until the full moon. The bottle is then bathed in moonlight while the caster recites a short chant, before sewing it into the pig’s stomach. The caster buries the pig in consecrated ground, at least three feet deep, and makes the Ritual roll. If it succeeds, on the next new moon when the caster digs it up, the pig looks like a miniature version of them. The caster commands it to arise, and it must obey.
 
-System: A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
+**System:** Make the Ritual roll against the higher of 3 or the user’s Stamina: their very flesh resists this blasphemy. If the roll succeeds, the hemonculus quickens and births in a month. A hemonculus has its maker’s Attributes and the Skills from their mortal life, but each at one dot lower, to a minimum of 1, half the maker’s Health and one dot of Willpower. Hemonculi can’t become ghouls, be Embraced, or be Blood Bound, and any vampire who feeds on one gains no nourishment and finds the process repellent.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stone of the True Form, Level 3 (Blood Sigils p.68)</strong></mark></summary>
+
+**Ingredients:** A hunk of metamorphic rock, such as slate or marble.
+
+**Process:** The caster must smooth, carve, or tumble the rock into a sphere somewhere between the size of a marble and a baseball. If they have a relevant Craft specialty, or access to a geology lab, they can make a test to do it in an hour; otherwise it takes six hours. The caster then coats the sphere in a Rouse Check worth of their boiling Blood and commands it to reveal in the oldest language they know.
+
+**System:** When the vampire throws the stone (Dexterity + Athletics) and hits something that is either an illusion, a being created by a Discipline or ritual (such as a Tzimisce’s vozhd or a hemonculus), or a shapeshifted being (either by Protean or by inherent means), the sorcerer rolls the Ritual roll versus the target’s Resolve + Occult. On a win, the illusion dispels in a spray of blood, the created being tears apart into its individual components, or the shapeshifter painfully shifts into its original form. This unveiling effect lasts for one round. Any margin equals the dice penalty to the illusion resuming, creation repair, or next shapeshifting attempt. On a failure, the caster may try again until sunrise, assuming they can recover the stone without being slaughtered. Once the ritual succeeds, the stone breaks in half and cannot be reused.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Trespass, Level 3 (Blood Sigils p.69)</strong></mark></summary>
+
+**Ingredients:** Fragment of the desired location’s cornerstone or doorstep, the blood of a thief, thread.
+
+**Process:** The caster ties one end of the thread around the fragment of cornerstone and soaks both in the blood. They then chant an efficacious prayer to Hermes or Set — the traditional patrons of the Trespass ritual — or any other spirit or deity associated with trespass. The caster wraps the thread about the trespasser’s body, starting at the heel and ending around the forehead.
+
+**System:** The ritual lasts for as long as the thread remains wet with blood (one scene, or about 30 minutes). When the vampire attempts to actually enter the building, make the Ritual roll. On a win, the caster enters without problem. With a Willpower spend, they can flow through air vents, cracks under doors, or anywhere else liquid blood could flow. On a critical win, they don’t need to spend Willpower to flow through such cracks, and gain an intuitive knowledge of the structure’s layout. On a total failure, the building itself rejects the caster. Everyone passing by gains two dice to their pools to notice and suspect the trespasser, who takes Superficial Health damage equal to the number of failed dice in that pool every turn they remain in the building.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Viral Haruspex, Level 3 (Blood Sigils p.69)</strong></mark></summary>
+
+**Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
+
+**Process:** The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
+
+**System:** A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
 
 </details>
 
@@ -2238,13 +2238,13 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
-<summary>Compel the Inanimate, Level 4 (Blood Sigils pp.69-70)</summary>
+<summary><mark style="color:red;"><strong>Compel the Inanimate, Level 4 (Blood Sigils pp.69-70)</strong></mark></summary>
 
-Ingredients: Any inanimate object.
+**Ingredients:** Any inanimate object.
 
-Process: The caster smears a glyph on an inanimate object with one Rouse Check’s worth of their Blood and gives the object a quick order. After the caster’s Blood dries on its surface (about five minutes), the object carries out the order to its best ability.
+**Process:** The caster smears a glyph on an inanimate object with one Rouse Check’s worth of their Blood and gives the object a quick order. After the caster’s Blood dries on its surface (about five minutes), the object carries out the order to its best ability.
 
-System: A win on the Ritual roll allows the object to understand their order as the caster intended it. A critical win allows for one additional order, which does not have to be carried out at the exact same time as the first order but must be carried out before the night’s end.
+**System:** A win on the Ritual roll allows the object to understand their order as the caster intended it. A critical win allows for one additional order, which does not have to be carried out at the exact same time as the first order but must be carried out before the night’s end.
 
 Orders must be simple commands, not complex sentences: fall over, crash, or erase your databanks. Objects do not have concepts of time and cannot easily recognize individual people, so orders concerning a specific time or person cannot be carried out perfectly. The caster must be in the same relative environment as the object when the order is carried out, such as a caster ordering a lamppost in a park to shut off must still be in the park, a caster who commands a museum suit of armor to tumble must be in that museum, etc.
 
@@ -2262,13 +2262,13 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary>Egregore Consultation, Level 4 (Blood Sigils p.70)</summary>
+<summary><mark style="color:red;"><strong>Egregore Consultation, Level 4 (Blood Sigils p.70)</strong></mark></summary>
 
-Ingredients: Live influenza viruses in caster’s Blood,worms, flukes, or other parasites, a knife, a magnet.
+**Ingredients:** Live influenza viruses in caster’s Blood,worms, flukes, or other parasites, a knife, a magnet.
 
-Process: The caster chops up the worms with the knife and smears them on the magnet. Holding the magnet in their left hand and facing north, they intone the ritual chant.
+**Process:** The caster chops up the worms with the knife and smears them on the magnet. Holding the magnet in their left hand and facing north, they intone the ritual chant.
 
-System: The sorcerer picks a Skill they wish to enhance before making the Ritual roll. On a win, the next three times the plague oracle uses that Skill in a pool, they get a dice bonus equal to one plus their margin on the Ritual test. If the Storyteller decides the Skill is only somewhat uncommon, add a die to that bonus; if the skill is very common, add two dice. On a critical win, add a free Specialty or another bonus die if the caster already has the desired Specialty. For example, a Tremere in Cairo hunted by an Islamic anti-vampire society could use this to speed her research in this ancient center of learning. She rolls six successes: a margin of 1 plus 1 die, plus 1 more die for the numerous fluey scholars in the area. She gets three dice to add to her next three Academics rolls. She could similarly play the stock market with Finance in New York or Shanghai, or get off a crack shot or three in Dallas.
+**System:** The sorcerer picks a Skill they wish to enhance before making the Ritual roll. On a win, the next three times the plague oracle uses that Skill in a pool, they get a dice bonus equal to one plus their margin on the Ritual test. If the Storyteller decides the Skill is only somewhat uncommon, add a die to that bonus; if the skill is very common, add two dice. On a critical win, add a free Specialty or another bonus die if the caster already has the desired Specialty. For example, a Tremere in Cairo hunted by an Islamic anti-vampire society could use this to speed her research in this ancient center of learning. She rolls six successes: a margin of 1 plus 1 die, plus 1 more die for the numerous fluey scholars in the area. She gets three dice to add to her next three Academics rolls. She could similarly play the stock market with Finance in New York or Shanghai, or get off a crack shot or three in Dallas.
 
 </details>
 
@@ -2308,25 +2308,25 @@ System: The sorcerer picks a Skill they wish to enhance before making the Ritual
 
 <details>
 
-<summary>Land’s Sustenance, Level 4 (Blood Sigils pp.70-71)</summary>
+<summary><mark style="color:red;"><strong>Land’s Sustenance, Level 4 (Blood Sigils pp.70-71)</strong></mark></summary>
 
-Ingredients: A place of power such as a furcus, anything that demarcates a territory such as police tape, a sign post, an enclosed space, etc., a dagger.
+**Ingredients:** A place of power such as a furcus, anything that demarcates a territory such as police tape, a sign post, an enclosed space, etc., a dagger.
 
-Process: Over four nights, the caster uses a dagger to carve occult symbols into the corner of a plot of land or the corners of a wall within a place of power, one corner for each night. On the fifth night, the caster must stain all these symbols with half of a Rouse Check’s worth of blood, circumventing the entire location and staining them before the night ends. With the other half, the vampire stains something that demarcates the territory they’ve carved out and places it either around the area (if it’s something like police tape) or in a corner of the area (if it’s something like a sign).
+**Process:** Over four nights, the caster uses a dagger to carve occult symbols into the corner of a plot of land or the corners of a wall within a place of power, one corner for each night. On the fifth night, the caster must stain all these symbols with half of a Rouse Check’s worth of blood, circumventing the entire location and staining them before the night ends. With the other half, the vampire stains something that demarcates the territory they’ve carved out and places it either around the area (if it’s something like police tape) or in a corner of the area (if it’s something like a sign).
 
-System: On a win, the land the vampire marked off hungers. A simple cut turns into a laceration. An otherwise harmless fall breaks necks. In general, injuries and accidents become bloodier. As the land sups on the blood of innocents, the benefits mystically pass on to the caster. Once per session, the caster may choose to automatically pass a number of Rouse Checks equal to their margin on the Ritual test. This ritual lasts until the end of the story. After that, the caster must recoat the symbols with a Rouse Check and a Ritual roll.
+**System:** On a win, the land the vampire marked off hungers. A simple cut turns into a laceration. An otherwise harmless fall breaks necks. In general, injuries and accidents become bloodier. As the land sups on the blood of innocents, the benefits mystically pass on to the caster. Once per session, the caster may choose to automatically pass a number of Rouse Checks equal to their margin on the Ritual test. This ritual lasts until the end of the story. After that, the caster must recoat the symbols with a Rouse Check and a Ritual roll.
 
 </details>
 
 <details>
 
-<summary>Riding the Earth’s Veins, Level 4 (Blood Sigils p.71)</summary>
+<summary><mark style="color:red;"><strong>Riding the Earth’s Veins, Level 4 (Blood Sigils p.71)</strong></mark></summary>
 
-Ingredients: A furcus, a physical sign of entrance such as a ticket, key, or doorknob.
+**Ingredients:** A furcus, a physical sign of entrance such as a ticket, key, or doorknob.
 
-Process: At the furcus, the caster bathes the sign of entrance in a Rouse Check’s worth of Blood while singing praises to a deity or famous figure representing escape, travel, or the wind. Traditionally, this ritual calls upon the Mesopotamian god Enlil. After ten minutes, pour the Blood on the ground.
+**Process:** At the furcus, the caster bathes the sign of entrance in a Rouse Check’s worth of Blood while singing praises to a deity or famous figure representing escape, travel, or the wind. Traditionally, this ritual calls upon the Mesopotamian god Enlil. After ten minutes, pour the Blood on the ground.
 
-System: Make no Ritual roll until the vampire touches the soil (or floor) of their chosen furcus with their physical sign of entrance. On a win, the caster dissolves into a bloody mist, drawn into the Earth’s veins and reincorporated twenty minutes later at a furcus of the Storyteller’s choosing. On a critical win, they arrive at the nearest furcus to their Haven or to a place of power attuned to the caster by Tiamat Glistens (p. 64). This ritual is one-way, and only activates at the specific furcus where the sorcerer first cast it.
+**System:** Make no Ritual roll until the vampire touches the soil (or floor) of their chosen furcus with their physical sign of entrance. On a win, the caster dissolves into a bloody mist, drawn into the Earth’s veins and reincorporated twenty minutes later at a furcus of the Storyteller’s choosing. On a critical win, they arrive at the nearest furcus to their Haven or to a place of power attuned to the caster by Tiamat Glistens (p. 64). This ritual is one-way, and only activates at the specific furcus where the sorcerer first cast it.
 
 </details>
 
@@ -2386,17 +2386,17 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 <details>
 
-<summary>Elemental Attack, Level 5 (Blood Sigils pp.71-72) *</summary>
+<summary><mark style="color:red;"><strong>Elemental Attack, Level 5 (Blood Sigils pp.71-72) *</strong></mark></summary>
 
-Prerequisite: Koldunic Sorcery
+**Prerequisite:** Koldunic Sorcery
 
-Ingredients: A weapon representing or made from the element, such as a wooden club, an icicle, a meteoric iron knife, a torch, etc.
+**Ingredients:** A weapon representing or made from the element, such as a wooden club, an icicle, a meteoric iron knife, a torch, etc.
 
-Process: Wielding the weapon, the koldun opens their initiation scar and makes a Rouse Check while commanding the element to attack a target the koldun perceives. Magical perception counts for this purpose.
+**Process:** Wielding the weapon, the koldun opens their initiation scar and makes a Rouse Check while commanding the element to attack a target the koldun perceives. Magical perception counts for this purpose.
 
-System: On a win, the element attacks the target. If the element is already awake during the casting (commanding air during a thunderstorm, for instance), the koldun adds one die to their Ritual pool. The target takes one point of Aggravated Health damage per success, and the same damage again every round afterward until they win an appropriate escape contest (e.g., Dexterity + Athletics) vs. the koldun’s Resolve + Blood Sorcery. Excepting fire, the elements only do Superficial damage to vampires, but they may still bury them, carry them away in a flood or tornado, etc. On a critical win, the element attacks every suitable target at the caster’s discretion within sight of the main target. The effect continues until the koldun does anything else besides command the elements: fight, move, make any other skill roll, etc.
+**System:** On a win, the element attacks the target. If the element is already awake during the casting (commanding air during a thunderstorm, for instance), the koldun adds one die to their Ritual pool. The target takes one point of Aggravated Health damage per success, and the same damage again every round afterward until they win an appropriate escape contest (e.g., Dexterity + Athletics) vs. the koldun’s Resolve + Blood Sorcery. Excepting fire, the elements only do Superficial damage to vampires, but they may still bury them, carry them away in a flood or tornado, etc. On a critical win, the element attacks every suitable target at the caster’s discretion within sight of the main target. The effect continues until the koldun does anything else besides command the elements: fight, move, make any other skill roll, etc.
 
-Chain: When chained with Elemental Grasp (p. 62) and Tiamat Glistens (p. 64), this ritual unleashes a nigh-apocalyptic elemental effect: earthquake, tsunami, tornado, magma flow, etc. Damage doubles to the targets, but collateral damage gets wildly out of hand, and continues until the kolduny stop casting.
+**Chain:** When chained with Elemental Grasp (p. 62) and Tiamat Glistens (p. 64), this ritual unleashes a nigh-apocalyptic elemental effect: earthquake, tsunami, tornado, magma flow, etc. Damage doubles to the targets, but collateral damage gets wildly out of hand, and continues until the kolduny stop casting.
 
 </details>
 
@@ -2414,15 +2414,15 @@ Chain: When chained with Elemental Grasp (p. 62) and Tiamat Glistens (p. 64), th
 
 <details>
 
-<summary>Fisher King, Level 5 (Blood Sigils pp.72-73)</summary>
+<summary><mark style="color:red;"><strong>Fisher King, Level 5 (Blood Sigils pp.72-73)</strong></mark></summary>
 
-Ingredients: A landmark representing a region, dirt from the region, a horse-hair paintbrush
+**Ingredients:** A landmark representing a region, dirt from the region, a horse-hair paintbrush
 
-Process: The vampire blends a Rouse Check’s worth of blood with dirt from the region they wish to observe. With the blend, the sorcerer paints magical symbols on a landmark important to the land’s inhabitants.
+**Process:** The vampire blends a Rouse Check’s worth of blood with dirt from the region they wish to observe. With the blend, the sorcerer paints magical symbols on a landmark important to the land’s inhabitants.
 
-System: On a win, the caster develops a mental connection to the land. Once per session, the sorcerer may make a Wits + Streetwise (if urban or suburban) or Wits + Survival (if rural) test. For each success, the Storyteller truthfully answers one question the player has about the land: its greatest threat, does an enemy reside there, the Resonance of its inhabitants’ blood, etc. This ritual lasts until the end of the story, during which the caster may ask one more question per session. After that, the caster must replenish their symbols, making another Rouse Check and Ritual roll to renew it.
+**System:** On a win, the caster develops a mental connection to the land. Once per session, the sorcerer may make a Wits + Streetwise (if urban or suburban) or Wits + Survival (if rural) test. For each success, the Storyteller truthfully answers one question the player has about the land: its greatest threat, does an enemy reside there, the Resonance of its inhabitants’ blood, etc. This ritual lasts until the end of the story, during which the caster may ask one more question per session. After that, the caster must replenish their symbols, making another Rouse Check and Ritual roll to renew it.
 
-Chain: When chained with Land’s Sustenance (p. 64) and Compel the Inanimate (p. 69), the coterie has almost total control over the place of power and its surrounding area. They have near-omniscience over the land, with three free questions about it per session, per caster. The land’s structures or trees watch and warn the casters of hostile approach, unless magically disguised or shielded. While on the land, the casters can mend up to 5 points of Aggravated damage per night, total (split between the casters on a first-come, first-serve basis).
+**Chain:** When chained with Land’s Sustenance (p. 64) and Compel the Inanimate (p. 69), the coterie has almost total control over the place of power and its surrounding area. They have near-omniscience over the land, with three free questions about it per session, per caster. The land’s structures or trees watch and warn the casters of hostile approach, unless magically disguised or shielded. While on the land, the casters can mend up to 5 points of Aggravated damage per night, total (split between the casters on a first-come, first-serve basis).
 
 </details>
 
@@ -2657,6 +2657,54 @@ Even more than most, this Ceremony is likely to attract attention from the other
 
 <details>
 
+<summary><mark style="color:red;"><strong>Body Paint, Level 1 (Blood Sigils p.73)</strong></mark></summary>
+
+
+
+**Ingredients:** The alchemist’s Blood, choleric mortal blood, tattoo inks, henna, marker fluid, or any substance that stains skin.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Dexterity + Craft; Stamina + Resolve
+
+**System:** On Distillation rolls with 1–3 successes, the body paint dries faster, and the alchemist must Win a Dexterity + Craft test at Difficulty 3 to finish their work before drying. On Distillations with 6 or more successes, the target may reshape the tattoo any time after a week with a Stamina + Resolve Test at Difficulty 5. The alchemist may change the fluid’s colors at will while working, as can the target if they’re able to reshape their tattoo.
+
+**Duration:** Permanent, unless erased by flesh colored Body Paint.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Checkout Time, Level 1 (Blood Sigils p.74)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, phlegmatic mortal blood, embalming fluid, myrrh, a toad’s skull.
+
+**Activation Cost:** One Rouse Check
+
+**System:** The alchemist writes a span of times and dates on the subject’s left arm in Roman numerals. The subject can be the alchemist themself. At the starting time, the subject enters a deep torpor and cannot be awakened until either the ending time transpires, or someone rewrites the ending time. Coming out of this slumber does not require a Rouse Check. While in this state, the recipient is indistinguishable from a corpse. They have no aura, they don’t need to make nightly Rouse Checks, and they don’t take damage from any accidental exposure to sunlight or similar banes.
+
+**Duration:** The written time span determines the duration, but cannot exceed nine nights.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Elevate, Level 1 (Blood Sigils p.74)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, sanguine mortal blood, fermented chocolate, rice vinegar, black coffee, often some kind of fun street drug.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Stamina + Alchemy
+
+**System:** Whoever consumes the formula instantly feels a rush of warmth and pleasure flowing through them, relaxing their muscles and quickening their nerves. They get a +1 on any Dexterity dice that they roll during the scene. El also can act as a carrier for regular street drugs, although the effects shift unpredictably if usually toward ecstatic stimulation. Badly made El makes the user feel great, but actively degrades Dexterity with a −1 penalty.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Far Reach, Level 1 (Core pp.284-285)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric human blood, melted nylon fibers or a grated refrigerator magnet or weird nootropics ordered off the internet
@@ -2675,125 +2723,79 @@ Trying to move someone actively resisting requires a contest of Resolve + Alchem
 
 <details>
 
-<summary>Body Paint, Level 1 (Blood Sigils p.73)</summary>
+<summary><mark style="color:red;"><strong>Food Stain, Level 1 (Blood Sigils pp.74-75)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, choleric mortal blood, tattoo inks, henna, marker fluid, or any substance that stains skin.
+**Ingredients:** The alchemist’s Blood, melancholic mortal blood, some highly colored flavoring such as BBQ sauce, mustard, cheez-puff flavor dust, etc.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-Dice Pools: Dexterity + Craft; Stamina + Resolve
+**System:** If someone — mortal or Kindred — is marked by consuming or contacting this goo, the next individual who feeds from them becomes obvious to the alchemist who made it. Obvious means that if they see that person, hear them or smell them, they know. In the rare case that the alchemist has at least Auspex 2, they become aware the instant the feeding occurs. Moreover, for about an hour after, they know the direction toward the drinker, though not distance.
 
-System: On Distillation rolls with 1–3 successes, the body paint dries faster, and the alchemist must Win a Dexterity + Craft test at Difficulty 3 to finish their work before drying. On Distillations with 6 or more successes, the target may reshape the tattoo any time after a week with a Stamina + Resolve Test at Difficulty 5. The alchemist may change the fluid’s colors at will while working, as can the target if they’re able to reshape their tattoo.
-
-Duration: Permanent, unless erased by flesh colored Body Paint.
+**Duration:** Once created, the mystic potential of the substance persists until consumed or applied, but it starts to smell pretty bad after a week, even if refrigerated.
 
 </details>
 
 <details>
 
-<summary>Checkout Time, Level 1 (Blood Sigils p.74)</summary>
+<summary><mark style="color:red;"><strong>Speak From the Heart, Level 1 (Blood Sigils p.75)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, phlegmatic mortal blood, embalming fluid, myrrh, a toad’s skull.
+**Ingredients:** A soft drink, the alchemist’s Blood, melancholic human blood, mercury, ink or paint.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: The alchemist writes a span of times and dates on the subject’s left arm in Roman numerals. The subject can be the alchemist themself. At the starting time, the subject enters a deep torpor and cannot be awakened until either the ending time transpires, or someone rewrites the ending time. Coming out of this slumber does not require a Rouse Check. While in this state, the recipient is indistinguishable from a corpse. They have no aura, they don’t need to make nightly Rouse Checks, and they don’t take damage from any accidental exposure to sunlight or similar banes.
+**System:** The alchemist imprints the message while brewing the soda. Grape soda can carry seventy-one words or less. Orange reveals a sketched image in the drinker’s mind for about a minute. Lemon-lime conveys a brief but vivid emotional sensation. It’s possible that a mortal who drank the carrier’s blood would also get the effects, but no one’s run that experiment.
 
-Duration: The written time span determines the duration, but cannot exceed nine nights.
-
-</details>
-
-<details>
-
-<summary>Elevate, Level 1 (Blood Sigils p.74)</summary>
-
-Ingredients: The alchemist’s Blood, sanguine mortal blood, fermented chocolate, rice vinegar, black coffee, often some kind of fun street drug.
-
-Activation Cost: One Rouse Check
-
-Dice Pools: Stamina + Alchemy
-
-System: Whoever consumes the formula instantly feels a rush of warmth and pleasure flowing through them, relaxing their muscles and quickening their nerves. They get a +1 on any Dexterity dice that they roll during the scene. El also can act as a carrier for regular street drugs, although the effects shift unpredictably if usually toward ecstatic stimulation. Badly made El makes the user feel great, but actively degrades Dexterity with a −1 penalty.
-
-Duration: One scene
+**Duration:** The messages take about sixty seconds. They persist in the carrier until death, or until someone drinks their blood.
 
 </details>
 
 <details>
 
-<summary>Food Stain, Level 1 (Blood Sigils pp.74-75)</summary>
+<summary><mark style="color:red;"><strong>Advanced Torpor, Level 2 (Blood Sigils p.75)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, melancholic mortal blood, some highly colored flavoring such as BBQ sauce, mustard, cheez-puff flavor dust, etc.
+**Ingredients:** The alchemist’s Blood, choleric and phlegmatic mortal blood, neem extract, diazepam, diphenhydramine, chamomile flower.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: If someone — mortal or Kindred — is marked by consuming or contacting this goo, the next individual who feeds from them becomes obvious to the alchemist who made it. Obvious means that if they see that person, hear them or smell them, they know. In the rare case that the alchemist has at least Auspex 2, they become aware the instant the feeding occurs. Moreover, for about an hour after, they know the direction toward the drinker, though not distance.
-
-Duration: Once created, the mystic potential of the substance persists until consumed or applied, but it starts to smell pretty bad after a week, even if refrigerated.
-
-</details>
-
-<details>
-
-<summary>Speak From the Heart, Level 1 (Blood Sigils p.75)</summary>
-
-Ingredients: A soft drink, the alchemist’s Blood, melancholic human blood, mercury, ink or paint.
-
-Activation Cost: One Rouse Check
-
-System: The alchemist imprints the message while brewing the soda. Grape soda can carry seventy-one words or less. Orange reveals a sketched image in the drinker’s mind for about a minute. Lemon-lime conveys a brief but vivid emotional sensation. It’s possible that a mortal who drank the carrier’s blood would also get the effects, but no one’s run that experiment.
-
-Duration: The messages take about sixty seconds. They persist in the carrier until death, or until someone drinks their blood.
-
-</details>
-
-<details>
-
-<summary>Advanced Torpor, Level 2 (Blood Sigils p.75)</summary>
-
-Ingredients: The alchemist’s Blood, choleric and phlegmatic mortal blood, neem extract, diazepam, diphenhydramine, chamomile flower.
-
-Activation Cost: One Rouse Check
-
-System: The alchemist creates (or for other Distillations, they or their vessel bleeds) a bright pink, watery fluid. Mixing this substance with mortal blood creates an elixir that causes its imbiber to immediately fall into torpor. This torpor lasts as long as if they have entered it through ordinary means.
+**System:** The alchemist creates (or for other Distillations, they or their vessel bleeds) a bright pink, watery fluid. Mixing this substance with mortal blood creates an elixir that causes its imbiber to immediately fall into torpor. This torpor lasts as long as if they have entered it through ordinary means.
 
 Unlike regular torpor, a vampire in Advanced Torpor always has a Rouse Check re-roll while under its effects, whether it’s for the day passing or for mending any damage. Should the vampire end their Advanced Torpor not at Hunger 5, they may keep their current level of Hunger when they awaken. All vampires in Advanced Torpor mend as a vampire, even if a Thin-Blood Flaw otherwise makes that impossible.
 
 If the vampire’s Hunger rises above Hunger 5 while in Advanced Torpor, the vampire enters regular torpor for the remaining portion of their torpor, and standard rules apply.
 
-Athanor Corporis: The alchemist can tap their vein once per night until their next feeding or reach Hunger 5. There is no further Distillation cost.
+_**Athanor Corporis:**_ The alchemist can tap their vein once per night until their next feeding or reach Hunger 5. There is no further Distillation cost.
 
-Calcinatio: If the vessel survives the tap, the alchemist can tap them again in one week. The vessel takes 5 Aggravated Health damage per tap.
+_**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them again in one week. The vessel takes 5 Aggravated Health damage per tap.
 
-Duration: Until the target awakens from torpor.
-
-</details>
-
-<details>
-
-<summary>Blacklight Surprise, Level 2 (Blood Sigils pp.75-76)</summary>
-
-Ingredients: The alchemist’s Blood, sanguine and choleric mortal blood, sunflower seeds, hand sanitizer, Luminol.
-
-Activation Cost: One Rouse Check
-
-System: A UV source smeared with Blacklight Surprise does 1 point of Aggravated damage every turn its light hits a vampire. It provokes fear frenzy like sunlight does. Kindred who already take damage from UV take an extra point.
-
-Duration: At least one hour, plus an additional hour for every success the alchemist scores with the dice. If the light source breaks, the formula burns off.
+**Duration:** Until the target awakens from torpor.
 
 </details>
 
 <details>
 
-<summary>Blue State, Level 2 (Blood Sigils p.76)</summary>
+<summary><mark style="color:red;"><strong>Blacklight Surprise, Level 2 (Blood Sigils pp.75-76)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, melancholy and phlegmatic mortal blood, cobalt.
+**Ingredients:** The alchemist’s Blood, sanguine and choleric mortal blood, sunflower seeds, hand sanitizer, Luminol.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: Someone under the effects of Blue State cannot forgive. The next time a friend or ally violates the target’s Convictions, the target takes 1 Stain. A mortal target merely holds a seemingly unreasonable, intractable grudge.
+**System:** A UV source smeared with Blacklight Surprise does 1 point of Aggravated damage every turn its light hits a vampire. It provokes fear frenzy like sunlight does. Kindred who already take damage from UV take an extra point.
 
-Duration: The Stain remains until the characters have, at least, a very uncomfortable conversation.
+**Duration:** At least one hour, plus an additional hour for every success the alchemist scores with the dice. If the light source breaks, the formula burns off.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Blue State, Level 2 (Blood Sigils p.76)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, melancholy and phlegmatic mortal blood, cobalt.
+
+**Activation Cost:** One Rouse Check
+
+**System:** Someone under the effects of Blue State cannot forgive. The next time a friend or ally violates the target’s Convictions, the target takes 1 Stain. A mortal target merely holds a seemingly unreasonable, intractable grudge.
+
+**Duration:** The Stain remains until the characters have, at least, a very uncomfortable conversation.
 
 </details>
 
@@ -2871,79 +2873,77 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary>Diamond Skin, Level 3 (Blood Sigils p.76)</summary>
+<summary><mark style="color:red;"><strong>Diamond Skin, Level 3 (Blood Sigils p.76)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, melancholic human blood, ground up granite, diamonds, or ceramics, lotion or oil.
+**Ingredients:** The alchemist’s Blood, melancholic human blood, ground up granite, diamonds, or ceramics, lotion or oil.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: A number of Aggravated damage points equal to the alchemist’s successes on the Distillation roll become Superficial damage to the user. This only affects physical damage from slashes, punctures, or impact; it has no effect against fire, sunlight, sorcery, or acid.
+**System:** A number of Aggravated damage points equal to the alchemist’s successes on the Distillation roll become Superficial damage to the user. This only affects physical damage from slashes, punctures, or impact; it has no effect against fire, sunlight, sorcery, or acid.
 
-Duration: Until the margin is used up; on a critical win on the Distillation roll, the effect lasts for one scene.
-
-</details>
-
-<details>
-
-<summary>Fireskin, Level 3 (Blood Sigils p.76)</summary>
-
-Ingredients: The alchemist’s Blood, powdered elemental salamander bone, tobacco, sulfur.
-
-Activation Cost: One Rouse Check
-
-System: Whoever drinks the Fireskin formula feels like their skin and the air around them is strangely cold — at odds with the little flames that start to lick up and down their skin. The fire doesn’t spread from them, but their body is superheated and painful to the touch. They do +1 fire damage when they strike with their body (only the additional damage counts as fire), and can increase that to +2 if they manage to grapple someone. Fire does no damage to the user during this period, but cold damage is doubled.
-
-Duration: One scene
+**Duration:** Until the margin is used up; on a critical win on the Distillation roll, the effect lasts for one scene.
 
 </details>
 
 <details>
 
-<summary>Hospital Chains, Level 3 (Blood Sigils pp.76-77)</summary>
+<summary><mark style="color:red;"><strong>Fireskin, Level 3 (Blood Sigils p.76)</strong></mark></summary>
 
-#### Hospital Chains, Level 3 (Blood Sigils pp.76-77) <a href="#docs-internal-guid-248123dd-7fff-be95-1106-e11b47187db6" id="docs-internal-guid-248123dd-7fff-be95-1106-e11b47187db6"></a>
+**Ingredients:** The alchemist’s Blood, powdered elemental salamander bone, tobacco, sulfur.
 
-Ingredients: The alchemist’s Blood, phlegmatic mortal blood, a sample from a fatal carcinoma, hydrofluoric acid.
+**Activation Cost:** One Rouse Check
 
-Activation Cost: One Rouse Check
+**System:** Whoever drinks the Fireskin formula feels like their skin and the air around them is strangely cold — at odds with the little flames that start to lick up and down their skin. The fire doesn’t spread from them, but their body is superheated and painful to the touch. They do +1 fire damage when they strike with their body (only the additional damage counts as fire), and can increase that to +2 if they manage to grapple someone. Fire does no damage to the user during this period, but cold damage is doubled.
 
-Dice Pools: Distillation Roll vs. Stamina
-
-System: Once Hospital Chains touches an injured person, they cannot clear physical injury by any means. Blood is Roused in vain; hospital visits yield no improvement, only bills.
-
-Duration: The restriction on improvement lasts for 2 days per point of margin; on a critical win, it lasts 2 days for each success on the Distillation roll.
+**Duration:** One scene
 
 </details>
 
 <details>
 
-<summary>Martian Purity, Level 3 (Blood Sigils p.77)</summary>
+<summary><mark style="color:red;"><strong>Hospital Chains, Level 3 (Blood Sigils pp.76-77)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, choleric mortal blood, iron filings, gunpowder ash.
+**Ingredients:** The alchemist’s Blood, phlegmatic mortal blood, a sample from a fatal carcinoma, hydrofluoric acid.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: This only works on a mortal or Kindred carrying a blood-transmissible infection. When consumed, the elixir forces the impurity out through their skin, outgassing through the pores of the back. It ignites on contact with air, doing 2 points of Aggravated damage to the carrier. It is up to the Storyteller whether this works on individual supernatural infections.
+**Dice Pools:** Distillation Roll vs. Stamina
 
-Duration: Two rounds
+**System:** Once Hospital Chains touches an injured person, they cannot clear physical injury by any means. Blood is Roused in vain; hospital visits yield no improvement, only bills.
+
+**Duration:** The restriction on improvement lasts for 2 days per point of margin; on a critical win, it lasts 2 days for each success on the Distillation roll.
 
 </details>
 
 <details>
 
-<summary>Mask Off, Level 3 (Blood Sigils p.77)</summary>
+<summary><mark style="color:red;"><strong>Martian Purity, Level 3 (Blood Sigils p.77)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, choleric and melancholic mortal blood, ground mustard seed, lemon juice, amphetamines, ground match heads.
+**Ingredients:** The alchemist’s Blood, choleric mortal blood, iron filings, gunpowder ash.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-Dice Pools: Distillation roll vs target’s Stamina + Resolve
+**System:** This only works on a mortal or Kindred carrying a blood-transmissible infection. When consumed, the elixir forces the impurity out through their skin, outgassing through the pores of the back. It ignites on contact with air, doing 2 points of Aggravated damage to the carrier. It is up to the Storyteller whether this works on individual supernatural infections.
 
-System: The alchemist creates (or for other Distillations, they or their vessel bleed) a yellow-reddish paste. When loaded into an explosive and detonated, it creates an acrid gas that covers an area 3 by 6 meters, roughly the size of a large meeting room. The explosion and the gas inflict no damage, but any true vampires with the Blush of Life caught in the blast must make a contest of their Stamina + Resolve versus the alchemist’s Distillation roll. Any true vampires that lose the contest have their Blush of Life instantly, painfully come to an end for all to see. They also cannot use Blush of Life for the rest of the night.
+**Duration:** Two rounds
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mask Off, Level 3 (Blood Sigils p.77)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, choleric and melancholic mortal blood, ground mustard seed, lemon juice, amphetamines, ground match heads.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Distillation roll vs target’s Stamina + Resolve
+
+**System:** The alchemist creates (or for other Distillations, they or their vessel bleed) a yellow-reddish paste. When loaded into an explosive and detonated, it creates an acrid gas that covers an area 3 by 6 meters, roughly the size of a large meeting room. The explosion and the gas inflict no damage, but any true vampires with the Blush of Life caught in the blast must make a contest of their Stamina + Resolve versus the alchemist’s Distillation roll. Any true vampires that lose the contest have their Blush of Life instantly, painfully come to an end for all to see. They also cannot use Blush of Life for the rest of the night.
 
 On Distillation rolls between 1–3 successes, true vampires that lose the contest have a few moments to hide before the gas takes effect. On a critical win on the Distillation roll, true vampires that lose the contest must also make a Fury Frenzy check at Difficulty 2.
 
-Duration: One scene
+**Duration:** One scene
 
 </details>
 
@@ -2987,29 +2987,29 @@ The blob is affectionate but slimy and inherently unstable. It can perform many 
 
 <details>
 
-<summary>TLC, Level 3 (Blood Sigils pp.77-78)</summary>
+<summary><mark style="color:red;"><strong>TLC, Level 3 (Blood Sigils pp.77-78)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, animal blood, choleric mortal blood, nettles, iron pieces, meat glue.
+**Ingredients:** The alchemist’s Blood, animal blood, choleric mortal blood, nettles, iron pieces, meat glue.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: The alchemist creates (or for other Distillations, they or their vessel bleed and must sift out) a bluish-brown powder. Feeding the powder to an animal allows a vampire to feed on the animal as if it were a human. For every success on the Distillation roll, the alchemist can enrich enough animal blood to slake one point of Hunger, although only the largest dogs can slake more than 1 point of Hunger without dying. Horses, cattle, and other large mammals contain enough blood to slake 8–10 points of Hunger, if it’s dosed with TLC. Killing an animal under the effects of TLC cannot slake a vampire’s Hunger to 0.
+**System:** The alchemist creates (or for other Distillations, they or their vessel bleed and must sift out) a bluish-brown powder. Feeding the powder to an animal allows a vampire to feed on the animal as if it were a human. For every success on the Distillation roll, the alchemist can enrich enough animal blood to slake one point of Hunger, although only the largest dogs can slake more than 1 point of Hunger without dying. Horses, cattle, and other large mammals contain enough blood to slake 8–10 points of Hunger, if it’s dosed with TLC. Killing an animal under the effects of TLC cannot slake a vampire’s Hunger to 0.
 
 </details>
 
 <details>
 
-<summary>Troll the Pious, Level 3 (Blood Sigils p.78)</summary>
+<summary><mark style="color:red;"><strong>Troll the Pious, Level 3 (Blood Sigils p.78)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, melancholic mortal blood, used hot tub water, cornstarch, a body hair from a living green-eyed natural redhead.
+**Ingredients:** The alchemist’s Blood, melancholic mortal blood, used hot tub water, cornstarch, a body hair from a living green-eyed natural redhead.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: The procedure produces enough goo to wax about three square meters of floor — you can rub it into carpet, but it’s messy — or anoint one person all over, or smear a dozen books or about half the tools in a small workshop. Anyone who believes in a benign higher power, or whose profession involves religion, feels uneasy when in a waxed location, or when their attention is drawn to an anointed object. This is sufficient to give a one-die penalty to Social and Mental pools, and to Physical pools requiring close concentration. People with True Faith take a two-dice penalty and also have horrible hallucinations that feel like profound insights into the nature of evil but are actually expressions of their own fears and prejudices.
+**System:** The procedure produces enough goo to wax about three square meters of floor — you can rub it into carpet, but it’s messy — or anoint one person all over, or smear a dozen books or about half the tools in a small workshop. Anyone who believes in a benign higher power, or whose profession involves religion, feels uneasy when in a waxed location, or when their attention is drawn to an anointed object. This is sufficient to give a one-die penalty to Social and Mental pools, and to Physical pools requiring close concentration. People with True Faith take a two-dice penalty and also have horrible hallucinations that feel like profound insights into the nature of evil but are actually expressions of their own fears and prejudices.
 
 To be fair, it is possible the fears of the truly faithful really could provide insights into evil. This penalty does not affect any pool (such as resisting vampires) to which they would add their True Faith, however.
 
-Duration: On a location, one dose lasts a couple of months. On an object, two months if no one touches it, one month if it’s handled infrequently, a week if it’s handled often. On a person, a dose lasts three days, and on the first day their skin looks waxy and oily.
+**Duration:** On a location, one dose lasts a couple of months. On an object, two months if no one touches it, one month if it’s handled infrequently, a week if it’s handled often. On a person, a dose lasts three days, and on the first day their skin looks waxy and oily.
 
 </details>
 
@@ -3031,37 +3031,37 @@ Duration: On a location, one dose lasts a couple of months. On an object, two mo
 
 <details>
 
-<summary>Copycat, Level 4 (Blood Sigils p.79)</summary>
+<summary><mark style="color:red;"><strong>Copycat, Level 4 (Blood Sigils p.79)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, choleric and phlegmatic mortal blood, mirror glass, donor blood, Boquila trifoliolata leaves, chameleon skin.
+**Ingredients:** The alchemist’s Blood, choleric and phlegmatic mortal blood, mirror glass, donor blood, Boquila trifoliolata leaves, chameleon skin.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: Upon drinking, the user feels the unpleasant sensation of something wet and sticky oozing to cover their face. That feeling remains for the next twenty minutes, slightly itchy and tight as the Copycat brew slowly loses potency. When it’s finally through, a slightly itchy white residue like dry glue is left over the skin.
+**System:** Upon drinking, the user feels the unpleasant sensation of something wet and sticky oozing to cover their face. That feeling remains for the next twenty minutes, slightly itchy and tight as the Copycat brew slowly loses potency. When it’s finally through, a slightly itchy white residue like dry glue is left over the skin.
 
 For those who know the donor by sight, telling the drinker from the donor requires an Intelligence + Awareness test against a Difficulty equal to the Distillation roll’s successes.
 
-Duration: Twenty minutes (usually one scene if you’re smart).
+**Duration:** Twenty minutes (usually one scene if you’re smart).
 
 </details>
 
 <details>
 
-<summary>Half-Living Conductor, Level 4 (Blood Sigils p.79)</summary>
+<summary><mark style="color:red;"><strong>Half-Living Conductor, Level 4 (Blood Sigils p.79)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, choleric and sanguine mortal blood, molten conductive metal (gold, silver, copper, and aluminum are popular choices), ground rubber, rainwater from a thunderstorm.
+**Ingredients:** The alchemist’s Blood, choleric and sanguine mortal blood, molten conductive metal (gold, silver, copper, and aluminum are popular choices), ground rubber, rainwater from a thunderstorm.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-Dice Pools: Stamina + Alchemy
+**Dice Pools:** Stamina + Alchemy
 
-System: The alchemist is immune to all physical damage taken from any electrical source, be it lightning, tasers, live wires, or a supernatural ability. Upon exposure to an electrical current, the alchemist may choose to redirect the current. They amplify the incoming electricity in their body and shoot it out in an arc from their fingertips, mouth, or eyes.
+**System:** The alchemist is immune to all physical damage taken from any electrical source, be it lightning, tasers, live wires, or a supernatural ability. Upon exposure to an electrical current, the alchemist may choose to redirect the current. They amplify the incoming electricity in their body and shoot it out in an arc from their fingertips, mouth, or eyes.
 
 Using electrical redirection in a conflict is a ranged attack using Dexterity + Alchemy. It inflicts margin + 2 in Superficial Health damage for vampires and in Aggravated Health damage for mortals.
 
 On Distillation rolls with 1–3 successes, the alchemist is protected from electrical forces, but their redirected electrical attacks do no additional Health damage. On Distillation rolls with 6 or more successes, the alchemist’s body bursts with electrical power. Their attacks inflict Aggravated Health damage to mortals and supernaturals alike.
 
-Duration: One scene or until voluntarily ended.
+**Duration:** One scene or until voluntarily ended.
 
 </details>
 
@@ -3081,29 +3081,29 @@ Duration: One scene or until voluntarily ended.
 
 <details>
 
-<summary>Red State, Level 4 (Blood Sigils p.79)</summary>
+<summary><mark style="color:red;"><strong>Red State, Level 4 (Blood Sigils p.79)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, sanguine and phlegmatic mortal blood, iron oxide.
+**Ingredients:** The alchemist’s Blood, sanguine and phlegmatic mortal blood, iron oxide.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: When applied or consumed, this places the subject in a peculiar state of moral forgetfulness. The next time someone close and trusted violates the drugged person’s Convictions or commits an act against them, those memories simply do not take. It slips free of the mind like amnesia, and cannot be restored. Being told, “Saphir killed your sister, man! Why are you still friends with him?!?” sounds fake and makes no sense. The very notion that the crime might have occurred fades within moments.
+**System:** When applied or consumed, this places the subject in a peculiar state of moral forgetfulness. The next time someone close and trusted violates the drugged person’s Convictions or commits an act against them, those memories simply do not take. It slips free of the mind like amnesia, and cannot be restored. Being told, “Saphir killed your sister, man! Why are you still friends with him?!?” sounds fake and makes no sense. The very notion that the crime might have occurred fades within moments.
 
-Duration: Permanent until the target imbibes a choleric Dyscrasia.
+**Duration:** Permanent until the target imbibes a choleric Dyscrasia.
 
 </details>
 
 <details>
 
-<summary>Vitae MSG, Level 4 (Blood Sigils pp.79-80)</summary>
+<summary><mark style="color:red;"><strong>Vitae MSG, Level 4 (Blood Sigils pp.79-80)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, sanguine mortal blood, MSG, powdered sugar, knockoff (not genuine) Chanel No. 5.
+**Ingredients:** The alchemist’s Blood, sanguine mortal blood, MSG, powdered sugar, knockoff (not genuine) Chanel No. 5.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: The production process yields a clear, watery liquid that smells faintly of vanilla and jasmine. It does nothing until it is rubbed onto the skin of a person or animal, causing that being to inflame vampiric thirst. Any vampire who sees or smells anyone who has Vitae MSG on them feels an intense desire to feed on them. They can resist this urge with a point of Willpower, or by accepting an additional point of Hunger. If the vampire spends more than thirty minutes in the presence of the anointed one after that, they must feast — or else spend another Willpower, or accept more Hunger. The compulsion partially offsets the Ventrue Bane — blue bloods can feed from the person enhanced by Vitae MSG by spending 1 Willpower less if they aren’t in their preferred category.
+**System:** The production process yields a clear, watery liquid that smells faintly of vanilla and jasmine. It does nothing until it is rubbed onto the skin of a person or animal, causing that being to inflame vampiric thirst. Any vampire who sees or smells anyone who has Vitae MSG on them feels an intense desire to feed on them. They can resist this urge with a point of Willpower, or by accepting an additional point of Hunger. If the vampire spends more than thirty minutes in the presence of the anointed one after that, they must feast — or else spend another Willpower, or accept more Hunger. The compulsion partially offsets the Ventrue Bane — blue bloods can feed from the person enhanced by Vitae MSG by spending 1 Willpower less if they aren’t in their preferred category.
 
-Duration: Once someone is anointed, the desire lasts until the next dawn, if they survive.
+**Duration:** Once someone is anointed, the desire lasts until the next dawn, if they survive.
 
 </details>
 
@@ -3153,14 +3153,14 @@ When activated, the victim experiences a turn of panicked awareness, before expl
 
 <details>
 
-<summary>Saturn’s Flux, Level 5 (Blood Sigils p.80)</summary>
+<summary><mark style="color:red;"><strong>Saturn’s Flux, Level 5 (Blood Sigils p.80)</strong></mark></summary>
 
-Ingredients: The alchemist’s Blood, phlegmatic mortal blood, lead, laxative, horse hair.
+**Ingredients:** The alchemist’s Blood, phlegmatic mortal blood, lead, laxative, horse hair.
 
-Activation Cost: One Rouse Check
+**Activation Cost:** One Rouse Check
 
-System: The process yields a thumbnail sized pellet, crackly and gray. To gain the effect, smoke it in a steel pipe on a bed of ash, taking precautions as Kindred must for dealing with a small open flame. Within twenty-four hours of ingestion, the smoker literally shits out the Blood Bond — painful and bloody but not injurious for mortals. Kindred, with withered digestive tracts, take a point of Aggravated damage as the unwholesome influence resists expulsion.
+**System:** The process yields a thumbnail sized pellet, crackly and gray. To gain the effect, smoke it in a steel pipe on a bed of ash, taking precautions as Kindred must for dealing with a small open flame. Within twenty-four hours of ingestion, the smoker literally shits out the Blood Bond — painful and bloody but not injurious for mortals. Kindred, with withered digestive tracts, take a point of Aggravated damage as the unwholesome influence resists expulsion.
 
-Duration: As mentioned above, the effect kicks in within a day’s span of ingestion—sometimes waking Kindred from daysleep with agonizing cramps. Until used, the pellet seems to stay fresh indefinitely. Given that this stuff has only been around two years, it may just be that its shelf life has not yet been reached.
+**Duration:** As mentioned above, the effect kicks in within a day’s span of ingestion—sometimes waking Kindred from daysleep with agonizing cramps. Until used, the pellet seems to stay fresh indefinitely. Given that this stuff has only been around two years, it may just be that its shelf life has not yet been reached.
 
 </details>
