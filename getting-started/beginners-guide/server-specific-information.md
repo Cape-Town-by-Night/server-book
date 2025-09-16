@@ -25,7 +25,7 @@ You must post Desires in your ticket within 24 hours of your first post for the 
 
 ## Experience Caps
 
-To maintain fairness and consistency, all characters are subject to an experience cap. Once your character gains 180 experience, they will not gain any more. For players who are consistently getting 6 experience a reset, this will take a little over a year.
+To maintain fairness and consistency, all characters are subject to an experience cap. Once your character gains 240 experience, they will not gain any more. For players who are consistently getting 6 experience a reset, this will take a little over a year and a half.
 
 ## Time Frames
 
