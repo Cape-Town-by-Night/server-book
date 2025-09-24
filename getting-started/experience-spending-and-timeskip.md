@@ -1,7 +1,7 @@
 # Time Skip
 
 {% hint style="info" %}
-The next time skip happens on June 30, 2025.
+The next time skip happens on December 22, 2025.
 {% endhint %}
 
 ## Time Skip
