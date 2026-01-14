@@ -30,8 +30,7 @@ Superficial health damage can be relatively quickly healed at any time with the 
 
 ## Hunting
 
-Hunting and hunger management are central themes of V5. Each character gets three hunt attempts per night. They may use this either for themselves or to benefit another character.\
-
+Hunting and hunger management are central themes of V5. Each character gets three hunt attempts per night. They may use this either for themselves or to benefit another character.<br>
 
 For hunting rolls, we utilize a [<mark style="color:red;">forum</mark>](https://discord.com/channels/1292865933525651466/1299239959986831410). All location descriptions, hunting difficulty levels, and modifiers are noted in each of the pinned posts. Post tags are utilized to make finding a character's preferred hunting grounds easier.
 
