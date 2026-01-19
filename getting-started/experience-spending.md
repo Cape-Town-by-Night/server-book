@@ -21,22 +21,12 @@ Increasing your character's Discipline level requires them to have fed on the as
 
 If you wish to learn an out-of-clan Discipline, your character must first taste the Blood of another Kindred that possesses that Discipline (whether in- or out-of-clan). This taste must come directly from the vein, resulting in a Blood Bond.
 
-| Resonance Type |  Associated Disciplines |
-| :------------: | :---------------------: |
-|     Animal     |    Animalism, Protean   |
-|    Choleric    |    Celerity, Potence    |
-|      Empty     |         Oblivion        |
-|   Melancholy   |   Fortitude, Obfuscate  |
-|   Phlegmatic   |     Auspex, Dominate    |
-|    Sanguine    | Blood Sorcery, Presence |
-
-| Discipline Level Being Purchased | Minimum Temperament Required |
-| :------------------------------: | :--------------------------: |
-|                 1                |           Fleeting           |
-|                 2                |           Fleeting           |
-|                 3                |            Intense           |
-|                 4                |            Intense           |
-|                 5                |             Acute            |
+| Resonance Type |      Associated Disciplines      |
+| :------------: | :------------------------------: |
+|    Choleric    |   Animalism, Celerity, Potence   |
+|   Melancholy   |  Fortitude, Obfuscate, Oblivion  |
+|   Phlegmatic   |         Auspex, Dominate         |
+|    Sanguine    | Blood Sorcery, Presence, Protean |
 
 ### **Rituals, Ceremonies, and Formulae**
 
