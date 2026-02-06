@@ -22,6 +22,22 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Animal Messenger, Animalism 2 + Auspex 1 (Players Guide p.69) *</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Bond Famulus</mark>](https://wiki.capetownvtm.com/material-availability/powers#bond-famulus-animalism-1-core-p.245)
+
+**Dice Pools:** None, though the Famulus must test Resolve + Streetwise / Survival (or equivalent) if the target’s location is unknown.
+
+**Cost:**&#x4F;ne Rouse Check for each night.
+
+**System:** The vampire whispers a single sentence to the Famulus and states the target. If the location of the recipient is unknown the Famulus must track them down, making a tracking test (see above) at a Difficulty of 2, or resisted by the target’s Intelligence + Streetwise / Survival if they are actively trying to hide (from the famulus or from other perceived threats). The attempt can be made once per night. The message is delivered as soon as the Famulus makes eye contact with the target, at which point they return to their master.
+
+**Duration:** One or more nights depending in length of search
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Sense The Beast, Animalism 1 (Core p.245)</strong></mark></summary>
 
 **Cost:** Free
@@ -819,7 +835,7 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Vampire: The 
 
 <details>
 
-<summary><mark style="color:red;">Cloak Of Shadows, Obfuscate 1 (Core p.261)</mark></summary>
+<summary><mark style="color:red;"><strong>Cloak Of Shadows, Obfuscate 1 (Core p.261)</strong></mark></summary>
 
 **Cost:** Free
 
@@ -887,7 +903,7 @@ Note that the user cannot use this power to disappear while being actively obser
 
 <details>
 
-<summary><mark style="color:yellow;">Doubletalk, Obfuscate 2 + Auspex 1 (Blood-Stained Love p.152)</mark></summary>
+<summary><mark style="color:yellow;"><strong>Doubletalk, Obfuscate 2 + Auspex 1 (Blood-Stained Love p.152)</strong></mark></summary>
 
 Cost: One Rouse Check
 
@@ -1012,6 +1028,16 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 </details>
 
 ## Potence
+
+<details>
+
+<summary><mark style="color:red;"><strong>Fluent Strength, Protean 1 (Gehenna War p.47)</strong></mark></summary>
+
+**Cost:** None
+
+**System:** Whenever the vampire uses a Blood Surge to augment a Strength or Potence test, they may reroll the Rouse Check.
+
+</details>
 
 <details>
 
@@ -1289,7 +1315,7 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 
 <details>
 
-<summary><mark style="color:red;">Wingman, Presence 4 (Blood-Stained Love p.152)</mark></summary>
+<summary><mark style="color:red;"><strong>Wingman, Presence 4 (Blood-Stained Love p.152)</strong></mark></summary>
 
 **Cost:** One Rouse Check in addition to power used
 
@@ -1395,7 +1421,7 @@ If the Kindred’s Blood normally or temporarily has deleterious effects, those 
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Protean ••, The False Sip + Fortitude • (Blood-Stained Love p.153)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>The False Sip, Protean 2 + Fortitude 1 (Blood-Stained Love p.153)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
@@ -1910,7 +1936,7 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <summary><mark style="color:red;"><strong>Elemental Grasp, Level 2 (Blood Sigils p.62-63) *</strong></mark></summary>
 
-**Prerequisite:** Koldunic Sorcery
+**Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
 **Ingredients:** A handful of the koldun’s element or a ritual representation of it, such as a wooden staff for earth, a knife or bunch of feathers for air, etc.
 
@@ -2074,7 +2100,7 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66) *</strong></mark></summary>
 
-**Prerequisite:** Koldunic Sorcery
+**Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
 **Ingredients:** At least enough of the element in question to envelop the koldun’s body.
 
@@ -2388,7 +2414,7 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 <summary><mark style="color:red;"><strong>Elemental Attack, Level 5 (Blood Sigils pp.71-72) *</strong></mark></summary>
 
-**Prerequisite:** Koldunic Sorcery
+**Prerequisite:** <mark style="color:purple;">Koldunic Sorcery</mark>
 
 **Ingredients:** A weapon representing or made from the element, such as a wooden club, an icicle, a meteoric iron knife, a torch, etc.
 
@@ -2482,7 +2508,7 @@ A sorcerer can only have one active use of this ritual cast at a time, and it lo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Profane the Sanctified, Oblivion 4 (Tattered Facade p.100) *</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Profane the Sanctified, Oblivion 4 (Tattered Facade p.100)</strong></mark></summary>
 
 **Prerequisite:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
 
@@ -2500,7 +2526,7 @@ If the user has a religious Conviction with this attack, the use of this Power i
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Darkness Within, Oblivion 5 (Tattered Facade pp.100-101) *</strong></mark></summary>
+<summary><mark style="color:red;"><strong>The Darkness Within, Oblivion 5 (Tattered Facade pp.100-101)</strong></mark></summary>
 
 **Cost:** Two Rouse Checks
 
