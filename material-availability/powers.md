@@ -26,7 +26,7 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 **Prerequisite:** [<mark style="color:purple;">Bond Famulus</mark>](https://wiki.capetownvtm.com/material-availability/powers#bond-famulus-animalism-1-core-p.245)
 
-**Dice Pools:** None, though the Famulus must test Resolve + Streetwise / Survival (or equivalent) if the target’s location is unknown.
+**Dice Pools:** None, though the Famulus must test Resolve + Streetwise/Survival (or equivalent) if the target’s location is unknown.
 
 **Cost:**&#x4F;ne Rouse Check for each night.
 
