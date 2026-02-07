@@ -22,6 +22,20 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
+<summary><mark style="color:red;"><strong>Sense The Beast, Animalism 1 (Core p.245)</strong></mark></summary>
+
+**Cost:** Free
+
+**Dice Pools:** Resolve + Animalism vs Composure + Subterfuge
+
+**System:** Roll Resolve + Animalism vs Composure + Subterfuge. A win allows the user to sense the level of hostility in a target (whether the person is prepared to do harm or even determined to cause it) and determine whether they harbor a supernatural Beast, marking them as a vampire or werewolf. On a win, a critical gives the user information on the exact type of creature (for example, a werewolf), as well as their Hunger (or equivalent) level, and their Resonance. This power can be used both actively and passively, warning the user of aggressive intent in their immediate vicinity.
+
+**Duration:** Passive
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Animal Messenger, Animalism 2 + Auspex 1 (Players Guide p.69) *</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Bond Famulus</mark>](https://wiki.capetownvtm.com/material-availability/powers#bond-famulus-animalism-1-core-p.245)
@@ -33,20 +47,6 @@ If we have missed any errata or if there are any errors, please let us know in o
 **System:** The vampire whispers a single sentence to the Famulus and states the target. If the location of the recipient is unknown the Famulus must track them down, making a tracking test (see above) at a Difficulty of 2, or resisted by the target’s Intelligence + Streetwise / Survival if they are actively trying to hide (from the famulus or from other perceived threats). The attempt can be made once per night. The message is delivered as soon as the Famulus makes eye contact with the target, at which point they return to their master.
 
 **Duration:** One or more nights depending in length of search
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Sense The Beast, Animalism 1 (Core p.245)</strong></mark></summary>
-
-**Cost:** Free
-
-**Dice Pools:** Resolve + Animalism vs Composure + Subterfuge
-
-**System:** Roll Resolve + Animalism vs Composure + Subterfuge. A win allows the user to sense the level of hostility in a target (whether the person is prepared to do harm or even determined to cause it) and determine whether they harbor a supernatural Beast, marking them as a vampire or werewolf. On a win, a critical gives the user information on the exact type of creature (for example, a werewolf), as well as their Hunger (or equivalent) level, and their Resonance. This power can be used both actively and passively, warning the user of aggressive intent in their immediate vicinity.
-
-**Duration:** Passive
 
 </details>
 
@@ -76,20 +76,6 @@ Summoning animals uses a Charisma + Animalism roll; Difficulty depends on the sc
 Consuming one's famulus slakes 4 Hunger, regardless of animal size. This act can never remove the final Hunger die. In addition, consuming one's famulus increases the vampire’s Attribute most associated with that animal (as determined by the Storyteller) by two dots. Consuming a cat might raise Dexterity or Composure; consuming a dog might raise Charisma or Resolve. Storytellers may vary the reward from famulus consumption: draining an owl might raise the Attribute in any perception pool by two dots, or in pools involving wise decision making. The bonus lasts until the vampire’s next feeding or until their Hunger reaches 5.
 
 **Duration:** Passive
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Quell The Beast, Animalism 3 (Core p.246)</strong></mark></summary>
-
-**Cost:** One Rouse Check
-
-**Dice Pools:** Charisma + Animalism vs Stamina + Resolve
-
-**System:** Roll Charisma + Animalism vs Stamina + Resolve. A win against a mortal target incapacitates them for that scene, instilling severe lethargy. They act only to preserve themselves, not against the user or anyone else. A win against a vampire prevents the target from performing Blood Surges. While their Beast is quelled, vampires do not score messy criticals. Against vampires, this power lasts a turn plus a number of turns equal to the win margin on the contest. A critical win against a vampire target also ends their frenzy.
-
-**Duration:** One scene, or a number of turns equal to the test margin plus one.
 
 </details>
 
@@ -133,6 +119,34 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Plague of Beasts, Animalism 3 (Players Guide p.69)</strong></mark> </summary>
+
+**Dice Pools:** Manipulation + Animalism vs Composure + Animal Ken
+
+**Cost:** One Rouse Check
+
+**System:** The vampire picks a target within their line of sight and tests Manipulation + Animalism against the target’s Composure + Animal Ken. On a win the target becomes the focus of attention for all animals in their vicinity for the rest of the night, suffering a dice penalty to all Skill pools equal to the margin on the win unless they can physically isolate themselves from the local wildlife. The target also becomes easier to track, with any pursuer receiving a bonus equal to the same margin. The Skill penalty does not apply to physical conflicts, as the animals aren’t suicidal enough to stick around when fists and bullets start flying, though they return once the dust settles.
+
+**Duration:** One night
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Quell The Beast, Animalism 3 (Core p.246)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Charisma + Animalism vs Stamina + Resolve
+
+**System:** Roll Charisma + Animalism vs Stamina + Resolve. A win against a mortal target incapacitates them for that scene, instilling severe lethargy. They act only to preserve themselves, not against the user or anyone else. A win against a vampire prevents the target from performing Blood Surges. While their Beast is quelled, vampires do not score messy criticals. Against vampires, this power lasts a turn plus a number of turns equal to the win margin on the contest. A critical win against a vampire target also ends their frenzy.
+
+**Duration:** One scene, or a number of turns equal to the test margin plus one.
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Unliving Hive, Animalism 3 + Obfuscate 2 (Core p.247)</strong></mark></summary>
 
 **Cost:** No additional cost
@@ -142,6 +156,22 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to resist attacks. Swarms take Superficial damage from Brawl; flame and insecticide cause Aggravated damage. Vampires can use swarms for spying, as distractions (resulting in a two-dice penalty on any roll for a single swarmed individual), or to intimidate mortals (add between one and three dice to Intimidation pools, depending on the type of insect and the victim’s phobias). Players and Storytellers can doubtlessly come up with even more creative uses of this power.
 
 **Duration:** Passive
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Messenger's Command, Animalism 3 +Dominate 1 (Players Guide p.69) *</strong></mark></summary>
+
+**Prerequisite:** Animal Messenger, either Compel or Mesmerize
+
+**Dice Pools:** See Compel or Mesmerize, but the Dominate rating cannot exceed the user’s Animalism.
+
+**Cost:** None
+
+**System:** See Animal Messenger, above. Make the Compel or Mesmerize test as soon as the Famulus makes eye contact with the target.
+
+**Duration:** See Animal Messenger
 
 </details>
 
@@ -163,6 +193,20 @@ Extending this possession into the daylight hours requires the vampire to stay a
 
 <details>
 
+<summary><mark style="color:red;"><strong>Sway the Flock, Animalism 4 (Players Guide pp.69-70)</strong></mark> </summary>
+
+**Dice Pools:** Composure + Animalism
+
+**Cost:** One or more Rouse Checks
+
+**System:** The vampire decides on the behavior they want to encourage in the local animals and makes a Composure + Animalism test. The effect scales with the number of successes: At one success animals aren’t noticeably affected, while at five their behavior will be completely dominated by the desired impulse, with calmed animals falling asleep or riled ones attacking anyone or each other with no provocation. Any mundane attempt to control the animals increases in Difficulty equal to the number of successes on the test. The size of the area affected is roughly the size of a football field, though it can be extended with additional Rouse Checks, up to five for a small town.
+
+**Duration:** One night
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Spirit Walk, Animalism 5 (Gehenna War p.46)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Subsume the Spirit</mark>](https://wiki.capetownvtm.com/material-availability/powers#subsume-the-spirit-animalism-4-core-p.247)
@@ -170,6 +214,20 @@ Extending this possession into the daylight hours requires the vampire to stay a
 **Cost:** None, though the cost for Subsume the Spirit remains
 
 **System:** When using Subsume the Spirit, the duration is always indefinite as though a Critical result was obtained. Furthermore the Kindred can activate Subsume the Spirit even while inhabiting an animal’s form, transferring their consciousness to beast after beast.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Coax the Bestial Temper, Animalism 5 (Players Guide p.70</strong><strong>)</strong></mark></summary>
+
+**Dice Pools:** Manipulation + Animalism
+
+**Cost:** One Rouse Check
+
+**System:** The vampire decides whether they want to agitate or calm, hums a wordless melody or similar subtle sound, and makes a Manipulation + Animalism test at Difficulty 3. Each success in the margin raises or lowers the Difficulty to resist Frenzy by one for all other vampires within earshot. If the difficulty is lowered, all vampires already in Frenzy can make a new test to resist it, snapping out of their Frenzy if they succeed.
+
+**Duration:** As long as the user keeps humming
 
 </details>
 
@@ -250,6 +308,42 @@ The user can also actively provoke a premonition by focusing on a subject, makin
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Panacea, Auspex 2 + Fortitude 1 (Players Guide p.70)</strong></mark></summary>
+
+**Amalgam:** Fortitude 1
+
+**Dice Pools:** Composure + Auspex
+
+**Cost:** One Rouse Check and additional Willpower depending on circumstances.
+
+**System:** The vampire rolls Composure + Auspex against Difficulty 2 and restores a number of superficial Willpower damage levels equal to the margin on the roll. Alternatively, the user restores one Aggravated Willpower damage level for every three successes in the margin.&#x20;
+
+If successfully used on a mortal, Panacea similarly calms them if they’re in a turbulent emotional state, or puts them otherwise at ease.&#x20;
+
+Use of this power takes a whole turn. If the vampire spends an entire scene instead, reduce the Difficulty to 0. Panacea must be used on someone other than the vampire invoking the power. A subject can be affected by the power only once per night.&#x20;
+
+If the user soothes more than one subject per night, the user suffers superficial Willpower damage equal to half the number of successes in the margin for every additional subject, as they take on the burden of so many charges.
+
+**Duration:** N/A
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Reveal Temperament, Auspex 2 (Players Guide pp.70-71)</strong></mark></summary>
+
+**Dice Pools:** Intelligence + Auspex vs Composure + Subterfuge
+
+**Cost:** One Rouse Check
+
+**System:** When the power is active the user can test Intelligence + Auspex vs a target’s Composure + Subterfuge. A win reveals the Resonance of the mortal observed as well as any other particulars of their blood, such as Dyscrasias. On a critical win the user also gains a two-dice bonus to interaction with the target for the duration of the scene as they are able to adapt their approach to the emotional state of the mortal. Versus a vampire, a win reveals the Resonance of the last mortal they fed upon, and a critical win provides a more nuanced picture of the vessel at time of feeding, revealing the method and Predator Type of the vampire.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Haruspex, Auspex 3 + Oblivion 1 (Tattered Facade p.91)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -294,6 +388,20 @@ If scanning a crowd, roll versus a Difficulty determined by the size of the crow
 **Dice Pools:** Resolve + Auspex
 
 **System:** Roll Resolve + Auspex at Difficulty 3. This Difficulty can go up depending on distraction, distance, and other factors, such as the amount of the user’s Blood that remains in the target. The target usually remains unaware of the intrusion, but Sense the Unseen can allow the passenger to be noticed. To get rid of an unwanted rider, the victim must beat the intruder at a Wits + Resolve vs Wits + Resolve roll. An Auspex user thrown out this way cannot make another Sharing attempt until the next night.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Fatal Flaw, Auspex 3 + Oblivion 1 (Players Guide p.71)</strong></mark></summary>
+
+**Dice Pools:** Intelligence + Auspex vs Composure or Stamina + Subterfuge
+
+**Cost:** One Rouse Check
+
+**System:** The user spends a turn intently observing the target, looking for a flaw in their defenses, and tests Intelligence + Auspex against the target’s Composure (for mental weaknesses) or Stamina (for physical ones) + Subterfuge. A win shows how they best attack their target, revealing the lowest defense pool in either category, and provides a two-dice bonus to attacks against that pool. If the user informs anyone about said weakness they gain a one-die bonus.
 
 **Duration:** One scene
 
@@ -387,6 +495,26 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 </details>
 
+<details>
+
+<summary><mark style="color:yellow;"><strong>Unburdening the Bestial Soul, Auspex 5 + Dominate 3 (Players Guide p.71)*</strong></mark></summary>
+
+**Prerequisite:** Panacea
+
+**Dice Pools:** Composure + Auspex vs. Humanity
+
+**Cost:** Two Rouse Checks, gain one Stain
+
+**System:** The vampire spends a scene in seclusion with the subject and rolls Composure + Auspex vs. the Humanity of the subject. For every success in the margin, they can remove one Stain from the subject, or erect a psychological “shield” that protects the subject from future Stains on a one-for-one basis. For example, a margin of three applied to a subject with no Stains would effectively “cancel out” up to three Stains acquired later in the session.\
+On a critical win the user can choose to forgo the above benefits, instead restoring a single point of Humanity to the subject, but no vampire can gain that benefit more than once, ever.\
+Unburdening the Bestial Soul works only on vampires, and automatically fails if the subject has a higher Humanity than the user.\
+No matter the benefits received, for the rest of the session the subject is numbed, having part of their mind merged with the user, and any Dominate powers used on them by this power’s user succeed automatically with no eye contact necessary.\
+When the power expires, all psychological “shields” not used up are lost, though Stains removed or Humanity gained on initial application do not revert.
+
+**Duration:** One session
+
+</details>
+
 ## Celerity
 
 <details>
@@ -437,6 +565,20 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Rush Job, Celerity 2 (Players Guide p.72)</strong></mark></summary>
+
+**Dice Pools:** N/A
+
+**Cost:** One Rouse Check
+
+**System:** When active, this power lets the vampire complete Skill-related tasks that would otherwise take whole turns in the span of a few seconds, and can treat a full action as a minor action (Vampire: The Masquerade, p. 298). The power cannot be used to speed up attacks, defenses, or to perform any other actively resisted task but it does allow the vampire to, for example, jimmy a lock and fire a gun (the latter with a two-dice penalty, as per the minor action rules.)
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>A Thousand Cuts, Celerity 3 (Tattered Facade pp.95-96)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -444,6 +586,22 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 **System:** The vampire may add their Celerity rating to any single Brawl or Melee attack (not otherwise augmented by a Discipline) made with claws or an edged weapon. For mortal victims, the cuts and slices caused by this flurry of attacks only cause Superficial damage, but automatically inflict enough additional Superficial damage for the victim to be Impaired. (At the Storyteller’s discretion, victims are overcome with pain and effectively out of commission.) The attack also splashes blood far and wide, causing vampires at Hunger 3 or more to make Hunger Frenzy tests. Used against Kindred, the attack is relatively harmless, but the scores of vicious yet unbleeding wounds leave the victim a walking Masquerade violation, and might provoke a Fury Frenzy test at the Storyteller’s discretion.
 
 **Duration:** One action
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Weaving, Celerity 3 (Players Guide p.72)</strong></mark></summary>
+
+**Prerequisite:** Rapid Reflexes
+
+**Dice Pools:** N/A
+
+**Cost:** One Rouse Check
+
+**System:** The user does not suffer diminishing dice pools when defending against multiple ranged attacks using Dexterity + Athletics. They can also add their Celerity rating to all such attempts while this power is active.
+
+**Duration:** One scene
 
 </details>
 
@@ -484,6 +642,36 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 **System:** Drinking a Rouse Checks worth of Blood directly from the user gifts the drinker with temporary Celerity equal to half the Celerity dots (rounded down) of the donor. The drinker gains the same non-Amalgam powers as the donor’s, up to that level.
 
 **Duration:** One night; for vampires, until the next feeding or the vampire reaches Hunger 5
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Blurred Momentum, Celerity 4 (Players Guide p.72)</strong></mark></summary>
+
+**Dice Pools:** N/A
+
+**Cost:** One Rouse Check per turn
+
+**System:** Attacks that achieve fewer successes than the user’s Celerity rating always miss, no matter the result of a defense or dodge test (if any). This also works against surprise attacks or other attacks that disallow defense tests, such as Lightning Strike. Activating this power requires one Rouse Check and extending it requires an additional Check for each turn it is kept active.
+
+**Duration:** Until the user lets it lapse
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Unseen Strike, Celerity 4 + Obfuscate 4 (Players Guide p.73)*</strong></mark></summary>
+
+**Prerequisite:** Blink
+
+**Dice Pools:** Dexterity + Celerity vs Wits + Awareness
+
+**Cost:** Two Rouse Checks
+
+**System:** This power combines effects of Blink with elements of the Obfuscate power of Vanish. To onlookers the vampire appears to disappear and the target is caught unawares, becoming subject to surprise attack. Unless the victim can react by beating the user’s Dexterity + Celerity with their Wits + Awareness in a contest, they are unable to defend against the attack and it is made against a set Difficulty of 1. (See Surprise Attacks in Vampire: The Masquerade, p. 300). If the attacker fails this test they still perform a regular attack, as per Blink power (Vampire: The Masquerade, p. 253), and Unseen Strike is also subject to the same movement restrictions as Blink.
+
+**Duration:** One turn
 
 </details>
 
@@ -536,6 +724,14 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 **System:** No roll is required against an unprepared mortal victim. Clouding the memory of a resisting victim or another vampire requires a Charisma + Dominate vs Wits + Resolve roll.
 
 **Duration:** Indefinitely
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Slavish Devotion, Dominate 1 + Fortitude 1 (Players Guide pp.73-74)</strong></mark></summary>
+
+
 
 </details>
 
