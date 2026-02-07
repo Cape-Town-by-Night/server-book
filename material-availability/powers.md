@@ -219,7 +219,7 @@ Extending this possession into the daylight hours requires the vampire to stay a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Coax the Bestial Temper, Animalism 5 (Players Guide p.70</strong><strong>)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Coax the Bestial Temper, Animalism 5 (Players Guide p.70)</strong></mark></summary>
 
 **Dice Pools:** Manipulation + Animalism
 
@@ -729,9 +729,15 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Slavish Devotion, Dominate 1 + Fortitude 1 (Players Guide pp.73-74)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Slavish Devotion, Dominate 1 + Fortitude 1 (Players Guide p.73)</strong></mark></summary>
 
+**Dice Pools:** N/A
 
+**Cost:** No additional cost
+
+**System:** Any attempt by a third party to use Dominate on a character already under the influence of the vampire’s Dominate suffers a dice penalty equal to the Fortitude of the vampire.
+
+**Duration:** Passive
 
 </details>
 
@@ -762,6 +768,20 @@ When the power expires, all psychological “shields” not used up are lost, th
 If the user wants to affect multiple victims, they need to make a separate Rouse Check for each one.
 
 **Duration:** One Scene.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Domitor's Favor, Dominate 2 (Players Guide p.74)</strong></mark></summary>
+
+**Dice Pools:** N/A
+
+**Cost:** One Rouse Check
+
+**System:** Defiance rolls for willful thralls under the effects of Domitor’s Favor are made at a three-dice penalty and thralls may not spend Willpower on them. Additionally, total failure on a defiance roll means that the Blood Bond does not weaken that month. (See Vampire: The Masquerade, pp. 233–244.)
+
+**Duration:** One month
 
 </details>
 
@@ -828,6 +848,36 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 **System:** If pressed on their belief, the victim can make a Wits+Awareness test (Difficulty 5). A win makes them question their own statement, and possibly their sanity.
 
 **Duration:** Indefinitely
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Ancestral Dominion, Dominate 4 + Blood Sorcery 2</strong></mark> <mark style="color:yellow;"><strong>(Players Guide p.74)*</strong></mark></summary>
+
+**Prerequisite:** Mesmerize
+
+**Dice Pools:** Manipulation + Dominate vs. Resolve + Occult
+
+**Cost:** One Rouse Check
+
+**System:** On a successful test of Manipulation + Dominate against Resolve + Occult, the victim acts to fulfill the dominating ancestor’s request, provided it doesn’t entail harming themself. For every generation separating the user of this power from their target, the resisting vampire gains an additional die to their roll. For example, when a ninth generation vampire attempts to use this power on an eleventh generation descendant, the descendant gains two extra dice in defense. The power needs neither eye contact nor verbal command — the request is silently transmitted from Blood to Blood — but it is subject to all other Dominate limitations.
+
+**Duration:** Until the command is carried out or the scene ends, whichever comes first.
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Implant Suggestion, Dominate 4 + Presence 1 (Players Guide p.74)</strong></mark></summary>
+
+**Dice Pools:** Manipulation + Dominate vs Composure + Resolve
+
+**Cost:** One Rouse Check
+
+**System:** No test is required against an unprepared mortal victim, but a prepared mortal or another vampire requires a test of Manipulation + Dominate against Composure + Resolve. Radical changes to core beliefs – making a vegan crave a steak or making a pacifist violent, for example – also merit an attempt to resist, even by unprepared mortals. The suggestion remains in effect for a scene, at which point the victim snaps out of it.
+
+**Duration:** One scene
 
 </details>
 
@@ -923,6 +973,20 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
+<summary><mark style="color:red;"><strong>Earth's Perseverance, Fortitude 2</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.74-75)</strong></mark></summary>
+
+**Dice Pools:** N/A
+
+**Cost:** One Rouse check
+
+**System:** When this power is activated, the only way the vampire moves is if they choose to do so independently. This doesn’t make them resistant to damage, and a vampire can still be crushed, ripped apart, or torn to shreds, as can the floor they’re standing on.
+
+**Duration:** One scene or until lapsed by user
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Enduring Beasts, Fortitude 2 + Auspex 1 (Core p.259)</strong></mark></summary>
 
 **Cost:** Free (for famulus); One Rouse Check (for other animals)
@@ -937,6 +1001,20 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Invigorating Vitae,</strong></mark> <mark style="color:yellow;"><strong>Fortitude 2 + Auspex 1 (Players Guide p.75)</strong></mark></summary>
+
+**Dice Pools:** N/A
+
+**Cost:** None beyond Rouse Checks for giving Blood
+
+**System:** Using vitae to heal the living (see p. 139) heals three levels of Aggravated Damage per Rouse Check rather than just one. Other effects (becoming a ghoul, risking Blood Bond) remain unchanged.
+
+**Duration:** Passive
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Calloused Soul, Fortitude 3 (Tattered Facade pp.97-98)</strong></mark></summary>
 
 **Cost:** Two Stains
@@ -946,6 +1024,21 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 **System:** The vampire must carry out a well-planned and premeditated atrocity, thereby suitably numbing their mind for what is to come. The nature of this act depends on the Chronicle Tenets, but must involve at least three mortal deaths; their revulsion to this horror is such that the vampire gains three Stains (one of which they can mitigate by a Conviction). For the rest of the night, they cannot gain Stains from any future trigger, no matter how severe, and even diablerie has its potential for Humanity loss limited to one point — although if the tests would have the victim assume control, this still happens despite this power.
 
 **Duration:** One night
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Valeren, Fortitude 3 + Auspex 1 (Players Guide p.75)</strong></mark></summary>
+
+**Dice Pools:** Intelligence + Fortitude
+
+**Cost:** One Rouse Check and additional Health depending on circumstances
+
+**System:** The vampire rolls Intelligence + Fortitude against Difficulty 2 and mends a number of superficial Health damage levels equal to the margin on the roll. Alternatively, the user mends one Aggravated Health damage level for every three successes in the margin.\
+Use of this power takes a whole turn. If the vampire spends an entire scene instead, reduce the Difficulty to 0. Valeren must be used on someone other than the vampire invoking the power, and can be used only on vampires. A subject can be affected by the power only once per night. If the user mends more than one subject per night, the user suffers Superficial Health damage equal to half the number of successes in the margin for every additional subject, as they take on the burden of so many charges.
+
+**Duration:** N/A
 
 </details>
 
