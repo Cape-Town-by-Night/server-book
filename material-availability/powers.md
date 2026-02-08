@@ -1084,6 +1084,25 @@ The user can renew this power once expired by making another Rouse Check. If end
 
 <details>
 
+<summary><mark style="color:red;"><strong>Gorgon's Scales, Fortitude 4 (Players Guide pp.75-76)</strong></mark></summary>
+
+**Dice Pools:** N/A
+
+**Cost:** One Rouse Check
+
+**System:** On activation the vampire gains a set of immunities or resistances dependent on the Resonance of the blood they most recently fed upon.<br>
+
+* Choleric: A stake driven through the vampire’s heart is consumed with decay or turns to ash at the end of the scene, immediately freeing the vampire from paralysis. The Resonance is then lost.<br>
+* Melancholy: Aggravated Health damage caused by fire is reduced to Superficial. The Resonance is lost after reducing four levels of damage.<br>
+* Phlegmatic: The vampire gains a four-dice bonus to resist Auspex powers that would reveal anything about them or what they know. Once the power is activated it lasts for a scene, at which point the Resonance is lost.<br>
+* Sanguine: Aggravated Health damage caused by sunlight is reduced to Superficial. The Resonance is lost after reducing four levels of damage.
+
+**Duration:** Until the scene ends or the Resonance is lost, whichever comes first.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Flesh Of Marble, Fortitude 5 (Core p.260)</strong></mark></summary>
 
 **Cost:** Two Rouse Checks
@@ -1176,6 +1195,24 @@ This power does not eliminate sounds the user makes outside their personal space
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Chimerstry, Obfuscate 2 + Presence 1 (Players Guide pp.76-77)</strong></mark></summary>
+
+**Dice Pools:** Manipulation + Obfuscate vs Composure + Wits
+
+**Cost:** One Rouse Check
+
+**System:** The vampire rolls their Manipulation + Obfuscate. Anyone unprepared and within eyesight of the vampire and eligible to experience the hallucination (by being in line of sight of its projected appearance, or by being the target of a tactile sensation) is distracted, losing two dice on their next action. Additionally, those who fail to resist using their Composure + Wits lose their next active action if they fail. (However, they can still defend and resist as normal, with a two-dice penalty.) Unlike most Presence powers Chimerstry can be used during a stressful physical conflict such as combat, but targets can only be affected once per conflict.
+
+Other effects resulting from the hallucination are up to the Storyteller, but they are advised to err on the side of caution.
+
+These hallucinations can never be recorded or transmitted (such as by using Ghost in the Machine).
+
+**Duration:** One turn
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Unseen Passage, Obfuscate 2 (Core pp.261-262)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1216,6 +1253,22 @@ Duration: One utterance.
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Fata Morgana, Obfuscate 3 + Presence 2 (Players Guide p.77)</strong></mark></summary>
+
+**Cost:** One Rouse Check&#x20;
+
+**Dice Pool:** Manipulation + Obfuscate&#x20;
+
+**System:** The user makes a Manipulation + Obfuscate test against a Difficulty equal to one plus the number of senses the hallucination targets. (An audio-visual hallucination would thus be Difficulty 3, while a complete five-sensory experience would be Difficulty 6.) The easiest visual hallucinations to create are fairly small or discreet — increase the Difficulty by one for room-sized hallucinations, two for house-sized hallucinations, and so on. Further complications may add additional Difficulty at the Storyteller’s discretion. Any attempt to mimic the appearance of a specific individual or in other ways deceive can require additional Performance or Subterfuge tests as appropriate.&#x20;
+
+Vampires and other supernatural creatures have a chance to disbelieve the hallucination, but mortals can do this only if they have reason to suspect it to be fake. In both cases they roll Intelligence + Awareness against the user’s Manipulation + Presence. A success means that the individual in question is no longer affected by the hallucination, and it effectively disappears for them. Any attempt to interact with the hallucination also causes it to lapse entirely, as everyone present becomes aware of its unreal nature (as with the collapsing staircase example, if someone is using the staircase). Note that the use of this power is not overt, so even if the hallucination is revealed, it is not obvious from whom it originated.&#x20;
+
+These hallucinations can never be recorded or transmitted (such as by using Ghost in the Machine). If the hallucination could cause Frenzy or similar reactions in its targets, apply the same test at a Difficulty of one lower than the real thing. Duration: One scene, unless the vampire chooses to let it lapse before that.
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Guise of the Departed, Obfuscate 3 + Oblivion 1 (Tattered Facade pp.98-99)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1232,11 +1285,40 @@ Sense the Unseen (Auspex 1) can pierce the mask as usual.
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Mental Maze, Obfuscate 3 + Dominate 1 (Players Guide pp.77-78)</strong></mark></summary>
+
+**Cost:** One or Three Rouse Checks
+
+**Dice Pools:** Charisma + Obfuscate vs. Wits + Resolve
+
+**System:** The vampire makes eye contact with their victim and rolls Charisma + Obfuscate versus the target’s Wits + Resolve, with lower Generation vampires being able to negate the roll with a Willpower point as per Dominate’s characteristics (Vampire: The Masquerade, p. 255). On a win, the victim struggles to find their way out of the building they’re in. An additional two Rouse Checks allows this power to be used in a single room or a densely packed outdoor environment (such as a construction site or forest).
+
+Mortals cannot attempt to escape but supernatural creatures can make a Resolve + Awareness test each scene using the vampire’s initial successes as the Difficulty, suffering a point of Superficial Willpower damage for every missing success if they fail. This roll cannot benefit from Teamwork, as any guidance given does not match what the victim sees. This power ends if the environment becomes dangerous (e.g. the building catches fire), unless the vampire has Terminal Decree (Vampire: The Masquerade, p. 257).\
+**Duration:** One night
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Mask Of A Thousand Faces, Obfuscate 3 (Core p.262)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
 **System:** No test is required. Anyone viewing the vampire sees a forgettable face of the same gender and approximate build and height as the user. Clothes take on the same kind of blandness, depending on the environment. At an office the user might appear as a nightwatchman, while they may seem to wear overalls at an assembly plant. Sense the Unseen (Auspex 1) can pierce the power as usual.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Mind Masque, Obfuscate 3 + Dominate 2 (Players Guide pp.78-79)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Intelligence + Obfuscate
+
+**System:** The user rolls Intelligence + Obfuscate against a Difficulty of 1 to 3 (or more), depending on the sophistication of the ruse they want to enact, with 1 representing a simple masking of their emotional state to 3 and beyond for elaborate alternate personas complete with false thoughts and memories. The margin on the win is added as Difficulty to any attempt to “read” them. Failing to reach the added Difficulty lets the reader see only the false personality the user has crafted, without any hint that the reader is being misled. (Failing to reach even the standard Difficulty yields nothing, as normal, so as not to let on that a false personality is present.)
 
 **Duration:** One scene
 
@@ -1361,6 +1443,14 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 **System:** When activated, add the Potence rating of the user to their unarmed damage value as well as to feats of Strength, and add half their Potence rating (round up) to their Melee damage.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
 
 </details>
 
