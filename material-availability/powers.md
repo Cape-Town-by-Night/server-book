@@ -987,7 +987,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Enduring Beasts, Fortitude 2 + Auspex 1 (Core p.259)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Enduring Beasts, Fortitude 2 + Animalism 1 (Core p.259)</strong></mark></summary>
 
 **Cost:** Free (for famulus); One Rouse Check (for other animals)
 
