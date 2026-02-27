@@ -68,6 +68,20 @@ Summoning animals uses a Charisma + Animalism roll; Difficulty depends on the sc
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Leash the Beast,</strong></mark><strong> </strong><mark style="color:yellow;"><strong>Animalism 2 + Auspex 1 (Live From the Succubus Club p.27)</strong></mark></summary>
+
+**Cost:** One or Two Rouse Checks
+
+**System:** When you roll a 10 (potential Critical) on a normal die, you can turn that to a 9 (Success) by Rousing the Blood to activate this power. When you roll a 1 (potential Bestial Failure) on a Hunger die, you can turn that to a 2 (Failure) if you make two Rouse Checks to activate this power.\
+You can also use this power to turn a result of 1–5 (Failure) on a Normal die made during a test to resist Frenzy to a 6 (Success).\
+If the Rouse Checks made for this Power would drive you above 5 Hunger, you immediately enter a Hunger Frenzy.
+
+**Duration:** One Night
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Animal Succulence, Animalism 3 (Core p.246)</strong></mark></summary>
 
 **Cost:** Free
@@ -635,18 +649,6 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Draught Of Elegance, Celerity 4 (Core p.254)</strong></mark></summary>
-
-**Cost:** One Rouse Check
-
-**System:** Drinking a Rouse Checks worth of Blood directly from the user gifts the drinker with temporary Celerity equal to half the Celerity dots (rounded down) of the donor. The drinker gains the same non-Amalgam powers as the donor’s, up to that level.
-
-**Duration:** One night; for vampires, until the next feeding or the vampire reaches Hunger 5
-
-</details>
-
-<details>
-
 <summary><mark style="color:red;"><strong>Blurred Momentum, Celerity 4 (Players Guide p.72)</strong></mark></summary>
 
 **Dice Pools:** N/A
@@ -661,7 +663,33 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Unseen Strike, Celerity 4 + Obfuscate 4 (Players Guide p.73)*</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Draught Of Elegance, Celerity 4 (Core p.254)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** Drinking a Rouse Checks worth of Blood directly from the user gifts the drinker with temporary Celerity equal to half the Celerity dots (rounded down) of the donor. The drinker gains the same non-Amalgam powers as the donor’s, up to that level.
+
+**Duration:** One night; for vampires, until the next feeding or the vampire reaches Hunger 5
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Faster Than Light, Celerity 4</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club p.27)*</strong></mark></summary>
+
+**Prerequisite:** Blink
+
+**Cost:** One Rouse Check
+
+**System:** When using Blink, the vampire makes an additional Rouse check, enabling them to pass through patches of sunlight or flame without sustaining damage or feeling their effects. If they end their action within this dangerous patch or trip during the passage, damage is applied as normal. This doesn’t negate any other impacts from operating in daylight or fire, such as Frenzy Checks, awakening, or dice pools.
+
+**Duration:** One Action
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Unseen Strike, Celerity 4 + Obfuscate 4 (Players Guide p.73)*</strong></mark></summary>
 
 **Prerequisite:** Blink
 
@@ -1015,6 +1043,20 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Self-Assurance, Fortitude 2</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club pp.27-28)*</strong></mark></summary>
+
+**Prerequisite:** Unswayable Mind
+
+**Cost:** One Rouse Check
+
+**System:** If engaged in social combat, the character can activate this Power. Once activated, the character can absorb Superficial Willpower damage equal to their Fortitude rating without it affecting their actual Willpower reserves. If a Social Combat Action would inflict Aggravated damage, the character can expend any remaining benefit from this Power to negate that attack — in this case, the Power cannot be renewed during the same scene.
+
+**Duration:** One scene, until depleted, or the end of a social conflict.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Calloused Soul, Fortitude 3 (Tattered Facade pp.97-98)</strong></mark></summary>
 
 **Cost:** Two Stains
@@ -1162,6 +1204,18 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Vampire: The 
 **System:** The Kindred can hide a number of small, hand-held objects in their hands or on their person equal to their Obfuscate rating. Mortals ignore dangerous or out-of-place objects that the user is enshrouding or miss them in a search. Kindred with Sense the Unseen or others with supernatural senses can attempt to notice them as usual. Objects in plain view cannot be hidden by this power, nor can animate creatures.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mask of Ages, Obfuscate 1 (Live From the Succubus Club p.28)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** Upon activating this Power, the Kindred choses to project their appearance as older or younger than their apparent age, as long as they remain roughly the same size. (Generally, late teens tend to be the lower limit). The user also adds their Obfuscate rating to any tests to impersonate someone of their projected age (including themselves at that age) or when evading someone looking for them via photo or description. Storytellers may limit the bonus dice based on the number of decades the user appears different from their apparent age.
+
+**Duration:** Until sunrise or ended by the user.
 
 </details>
 
@@ -1448,14 +1502,6 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
 <summary><mark style="color:red;"><strong>Brutal Feed, Potence 3 (Core pp.264-265)</strong></mark></summary>
 
 **Cost:** Free
@@ -1631,6 +1677,24 @@ _Critical Win:_ Mortals freeze or crumple into a fetal position. Vampires must m
 After succeeding, the user adds dice equal to their Presence rating to any Social dice pool against the entranced subject. Requests resulting in obvious harm to the subject or their loved ones, or that oppose the subject’s Tenets, fail and require an immediate power contest roll as above, or the Entrancement immediately fails.
 
 **Duration:** One hour plus one per point of margin
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Invigorating Display, Presence 3 (Live From the Succubus Club p.28)*</strong></mark></summary>
+
+**Prerequisite:** Awe
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Composure + Presence
+
+**System:** The vampire spends a scene entertaining a crowd of mortals (a minimum of ten people are required), Rousing the Blood and making a Composure + Presence test against Difficulty 3 (Storytellers may raise or lower this depending on the quality of the performance). If successful, the crowd’s reaction is notable and the vampire absorbs a specific Resonance from the audience, leaving them drained.&#x20;
+
+The Resonance absorbed is usually intense, but may be accute (a Dyscrasia) on a critical win at the Storyteller’s discretion. Affected audience members are left with a fleeting Resonance at best. This power can be used once per scene.
+
+**Duration:** One scene
 
 </details>
 
@@ -1824,6 +1888,18 @@ If the Kindred’s Blood normally or temporarily has deleterious effects, those 
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Masque of Death, Protean 3 + Oblivion 2 (Live From the Succubus Club p.28)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** The Kindred assumes the appearance of a corpse, either freshly dead, mummified, rotting, or even a dried-up skeleton. While so transformed, the Kindred cannot move or physically communicate, but retains enough of their senses to understand what is happening around them. Disciplines can still be used at the Storyteller’s discretion. Only injuries that would cause Aggravated damage are applied to the vampire, and only once they return to their unliving state. A Kindred may also choose to enter Torpor voluntarily when activating this power, where the power’s duration extends until they wake from Torpor.
+
+**Duration:** Until ended by the user or the user wakes from Torpor, otherwise until sunset.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Shapechange, Protean 3 (Core p.271)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1861,6 +1937,20 @@ The user may use Disciplines as normal, provided they do not need to make eye co
 The Kindred can transform only part of the body, such as a finger or leg, as desired, though it still needs to remain in touch with the main body. If part of the mass is separated (or entirely consumed) the user’s consciousness goes with the largest portion of Blood and the user reforms with one additional level of Hunger for each limb (or equivalent body mass) lost. If a portion of the user is consumed, it creates Blood Bonds as normal but the user cannot control their Blood after its been ingested by another.
 
 **Duration:** One scene or until the user ends the transformation
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Face of the Victim,</strong></mark><strong> </strong><mark style="color:purple;"><strong>Protean 5</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club pp.28-29)*</strong></mark></summary>
+
+**Prerequisite:** Vicissitude
+
+**Cost:** One Rouse Check
+
+**System:** The Kindred must activate this power in the same scene after they’ve slaked one or more Hunger from a mortal or Kindred. The vampire assumes the physical appearance of the last mortal or Kindred they fed from, including their voice, but does not gain any clothing, artificial implants, knowledge, or items the vessel had. When attempting to pass as the person copied to somebody who knew them well, a Manipulation + Performance vs Wits + Insight test must be made to avoid suspicion.
+
+**Duration:** Until reaching Hunger 5, or using this power again.
 
 </details>
 
@@ -2170,6 +2260,18 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 **Process:** The caster winds the cord around the hair and image while intoning the ritual charm.
 
 **System:** A win on the Ritual roll prevents the target from saying, writing, or otherwise directly communicating anything negative or harmful — even, or rather especially, if it’s true — about the caster without a Composure + Resolve test (Difficulty equals the caster’s Blood Sorcery rating +2). On a critical win, the Difficulty of the test equals the caster’s Blood Sorcery rating +3. The ritual lasts until the target succeeds on their test, or until the cord unwinds, at which point the hair and image crumble into dust.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Blood Missive, Level 1</strong><strong> </strong><strong>(Live From the Succubus Club p.29)</strong></mark></summary>
+
+**Ingredients:** Mirror, sufficient human blood to write the message, lightless room.
+
+**Process:** The practitioner designates a type of individual in their mind — e.g., mortal, ghoul, vampire, male, a child, unemployed — and suspends a mirror in a lightless room. The sorcerer writes a message on the mirror with a fingertip, using human blood as the ink. The message appears on another reflective surface (a mirror, polished glass, water) the practitioner has seen before and can mentally recall, when the designated type of individual passes by.
+
+**System:** The sorcerer makes the Ritual test when enchanting the designated surface. For every success the practitioner rolls, the message will repeat for each new individual of the chosen type who passes the surface. The message clears itself from the surface as soon as it’s been read once. It appears in the handwriting and language in which the sorcerer wrote it.
 
 </details>
 
@@ -2732,6 +2834,19 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 **Process:** At the furcus, the caster bathes the sign of entrance in a Rouse Check’s worth of Blood while singing praises to a deity or famous figure representing escape, travel, or the wind. Traditionally, this ritual calls upon the Mesopotamian god Enlil. After ten minutes, pour the Blood on the ground.
 
 **System:** Make no Ritual roll until the vampire touches the soil (or floor) of their chosen furcus with their physical sign of entrance. On a win, the caster dissolves into a bloody mist, drawn into the Earth’s veins and reincorporated twenty minutes later at a furcus of the Storyteller’s choosing. On a critical win, they arrive at the nearest furcus to their Haven or to a place of power attuned to the caster by Tiamat Glistens (p. 64). This ritual is one-way, and only activates at the specific furcus where the sorcerer first cast it.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Seek the Gathered Vitae, Level 4 (Live From the Succubus Club p.29)</strong></mark></summary>
+
+**Ingredients:** A mixture of fine red ink and pomegranate juice, bright white paper or cloth, and a large top
+
+**Process:** The ritualist sets their mind to find a strong concentration of vitae, then sets the top to spin upon the white cloth or parchment before pouring the mix of ink and juice on the spinning top.
+
+**System:** The sorcerer makes the Ritual test and learns of any concentration of Kindred within a one-block radius that has a total Blood Potency of over 13 or higher (a large gathering of neonates, or a few elders) within 3 miles (5km), plus one mile (1.5km) per point of the margin. For the next hour, the successful ritualist has a sense of the location and distance to any such gathering of Kindred.\
+At the Storyteller’s discretion, ghouls count as a quarter point of Blood Potency, while Duskborn count as half a point.
 
 </details>
 
