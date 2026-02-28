@@ -36,7 +36,6 @@
 * [Players Guide](material-availability/players-guide.md)
 * [Blood Sigils](material-availability/blood-sigils.md)
 * [The Book of Nod Apocrypha](material-availability/the-book-of-nod-apocrypha.md)
-* [Blood-Stained Love](material-availability/blood-stained-love.md)
 * [Loresheets](material-availability/loresheets.md)
 * [Bloodlines](material-availability/bloodlines.md)
 * [UNDER CONSTRUCTION - NOT FOR PLAYER CONSUMPTION](material-availability/under-construction-not-for-player-consumption/README.md)
