@@ -49,5 +49,5 @@
 * [Advantages and Flaws](material-availability/advantages-and-flaws/README.md)
   * [Haven Advantages and Flaws](material-availability/advantages-and-flaws/haven-advantages-and-flaws.md)
 * [Coterie Advantages and Flaws](material-availability/coterie-advantages-and-flaws.md)
+* [Loresheets](material-availability/loresheets-1.md)
 * [Bloodlines](material-availability/bloodlines-1.md)
-* [Lore Sheets](material-availability/lore-sheets.md)
