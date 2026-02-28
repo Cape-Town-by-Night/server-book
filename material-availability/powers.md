@@ -3038,7 +3038,7 @@ The entity possesses the same Physical Attributes and Skills as its host, no Wil
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ashen Relic, Level 2 (The Book of Nod Apocrypha p.35) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Ashen Relic, Level 2 (The Book of Nod Apocrypha p.35) *</strong></mark></summary>
 
 **Prerequisite Power:** Ashes to Ashes or Oblivion’s Sight
 
@@ -3070,7 +3070,7 @@ The Ceremony lasts until sunrise or the vampire cancels it. Canceling the Ceremo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Craft Flesh Golem, Level 3 (Tattered Facade p.101) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Craft Flesh Golem, Level 3 (Tattered Facade p.101) *</strong></mark></summary>
 
 **Prerequisites:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Necrotic Plague</mark>
 
@@ -3084,7 +3084,7 @@ The Ceremony lasts until sunrise or the vampire cancels it. Canceling the Ceremo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Wisdom of the Dead, Level 3 (The Book of Nod Apocrypha p.35) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Wisdom of the Dead, Level 3 (The Book of Nod Apocrypha p.35) *</strong></mark></summary>
 
 **Prerequisite Power:** <mark style="color:purple;">Oblivion’s Sight</mark> or <mark style="color:purple;">Where the Veil Thins</mark>
 
@@ -3104,7 +3104,7 @@ At dawn, roll one die for each skill roll boosted: a failure on any of these dic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Create Corpse Suit, Level 3 (Tattered Facade pp.101-102) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Create Corpse Suit, Level 3 (Tattered Facade pp.101-102) *</strong></mark></summary>
 
 **Prerequisite:** <mark style="color:purple;">Shadow Perspective</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
 
@@ -3121,7 +3121,7 @@ A correctly functioning Corpse Suit attunes to subtle signs of danger and senses
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Shallow Slumber, Level 3 (Gehenna War p.50) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>The Shallow Slumber, Level 3 (Gehenna War p.50) *</strong></mark></summary>
 
 **Prerequisite:** <mark style="color:purple;">Passion Feast</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
 
@@ -3139,7 +3139,7 @@ A vampire can use this ceremony on themselves or another vampire, even if the su
 
 <details>
 
-<summary><mark style="color:red;"><strong>Bind to Mortal Form, Level 4 (Tattered Facade p.102) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Bind to Mortal Form, Level 4 (Tattered Facade p.102) *</strong></mark></summary>
 
 **Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Skuld Fulfilled</mark>
 
@@ -3155,7 +3155,7 @@ Bind to Mortal Form can be performed several times on the same mortal; however, 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Gift of True Life, Level 5 (Tattered Facade pp.102-103) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Gift of True Life, Level 5 (Tattered Facade pp.102-103) *</strong></mark></summary>
 
 **Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Passion Feast</mark>&#x20;
 

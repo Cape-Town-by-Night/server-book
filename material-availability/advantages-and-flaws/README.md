@@ -36,6 +36,32 @@ Every subculture has its trappings; you’re the unliving embodiment of its part
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>Up All Night ••, ••••</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
+
+Not all Kindred resemble walking corpses as they lose themselves to the Beast. For purposes of the Blush of Life, eating or drinking, and sexual intercourse, treat your Humanity score as one point higher than it is (maximum 10), or two points higher if this merit was purchased for 4 dots. Nosferatu cannot select this merit, and Hecata can only select it as a two-dot merit. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
+
+</details>
+
+### Psychological
+
+<details>
+
+<summary><mark style="color:red;"><strong>Soothed Beast •</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
+
+Choose a storyteller character as your obsession. Once per session when in the presence of your obsession, you can choose to ignore one Bestial Failure or Messy Critical. If this character dies you immediately gain three Stains, but can choose a new obsession at the beginning of the next session.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>False Love •</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
+
+Choose a storyteller character as your obsession. When in their presence, treat your Humanity as one dot higher (max 10) for purposes of the Blush of Life, eating or drinking, and sexual intercourse. If this character dies you immediately gain three Stains, but can choose a new obsession at the beginning of the next session. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
+
+</details>
+
 ### Substance Use
 
 <details>
@@ -461,6 +487,16 @@ Your body is truly and irrevocably dead, rendering you unable to use Blush of Li
 <summary><mark style="color:red;"><strong>Resistant Blush •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
 Your dead flesh accepts the Blood in every way save for the pretense of mortality. Blush of Life doesn’t come as naturally to you as your peers, and sometimes it won’t work without further effort. When you make a Rouse Check to activate the Blush of Life, roll twice and take the lowest result.
+
+</details>
+
+### Supernatural
+
+<details>
+
+<summary><mark style="color:red;"><strong>Two Masters •</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
+
+You can be Blood Bound to two individuals at the same time. This may cause no end of trouble if your character is prone to drinking the Blood of other Kindred for recreational reasons. The Storyteller should disallow this Flaw if Blood Bonds are unlikely to be an issue for the player character.
 
 </details>
 
