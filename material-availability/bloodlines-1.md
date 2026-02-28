@@ -6,17 +6,17 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 
 
-| Book                                                                                                                                           | Page Number |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [<mark style="color:red;">Core</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#core)                                     | pp. 390-406 |
-| [<mark style="color:red;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#chicago-by-night)             | pp. 273-274 |
-| [<mark style="color:red;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#the-chicago-folios)         | p.160       |
-| [<mark style="color:red;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#children-of-the-blood)   | pp. 101-102 |
-| [<mark style="color:red;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#trails-of-ash-and-bone) | pp. 171     |
-| [<mark style="color:red;">Players Guide</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#players-guide)                   | pp.223-229  |
-| [<mark style="color:red;">Blood Sigils</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#blood-sigils)                     | p. 177      |
-| <mark style="color:red;">Tattered Facade\*</mark>                                                                                              |             |
-| <mark style="color:red;">Live From the Succubus Club\*</mark>                                                                                  | pp.158-161  |
+| Book                                                                                                                                                       | Page Number |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [<mark style="color:red;">Core</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#core)                                                 | pp. 390-406 |
+| [<mark style="color:red;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#chicago-by-night)                         | pp. 273-274 |
+| [<mark style="color:red;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#the-chicago-folios)                     | p.160       |
+| [<mark style="color:red;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#children-of-the-blood)               | pp. 101-102 |
+| [<mark style="color:red;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#trails-of-ash-and-bone)             | pp. 171     |
+| [<mark style="color:red;">Players Guide</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#players-guide)                               | pp.223-229  |
+| [<mark style="color:red;">Blood Sigils</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#blood-sigils)                                 | p. 177      |
+| <mark style="color:red;">Tattered Facade\*</mark>                                                                                                          |             |
+| [<mark style="color:red;">Live From the Succubus Club</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines-1#live-from-the-succubus-club) | pp.158-161  |
 
 ## Core
 
@@ -289,7 +289,35 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 ## Tattered Facade
 
+<details>
 
+<summary><strong>Descendant of the Ankou, </strong><em><strong>Malkavian Only</strong></em><strong> (p.)</strong></summary>
+
+Tales of the Second City suggest that each clan resembled a Kindred family. Idder was rumored to be the first Kindred to break with his clan, leaving the city and striking out on his own. His descendants likewise wandered with the nomadic peoples of North and Sub-Saharan Africa, the Arabian Peninsula, and beyond. Sometimes called the Bedawi or Bedouin Banu Haqim, members of Idder’s line traveled with various nomadic groups and pilgrims, tending their Herds and keeping them safe from the predation of other Kindred.\
+For a time, most upheld Haqim’s code even if they rarely saw others of their clan, but after centuries of sail, steam, and into the new digital age, these traditions have broken down as some leave autarky behind to join the Anarchs, Camarilla, or lesser factions. A few of Idder’s descendants have begun to make a name for themselves in the Circulatory System or as couriers between Domains.
+
+**•** Animal Affinity: Allowed
+
+Idder’s descendants have a knack for animal ghouls. They may reroll any rouse checks to maintain animal ghouls.\
+If they possess the Bond Famulus power, they may have two Famuli.
+
+**••** Shepherd: Allowed
+
+Your sire passed down his collected wisdom related to maintaining a Herd. This wisdom allows you to slake one additional Hunger from your Herd per session.
+
+**•••** Never Unprepared: Allowed
+
+Your Blood tells you where mortals may be and when they are easy pickings. The first time you hunt mortals in a new city or environment, you gain a two-dice bonus to the attempt.
+
+**••••** Safe Haven: Allowed
+
+Fear of the Sun doesn’t drive you like it does other Kindred, as your Blood knows where to find shelter. If you ever need sanctuary from the sun, so long as you are not restrained and you have 30 minutes before sunrise, your Beast finds you shelter from the sun at the cost of gaining one Hunger.
+
+**•••••** Haqim’s Justice: Allowed
+
+Your Blood drives you to protect your own. Whenever your Herd, Contacts, Allies, Touchstones, or other close Relationship-Map connections are threatened, you gain a two-dice bonus to all actions in a scene to defend them or seek retribution for their harm. Once per story, you can declare a vendetta and gain a two-dice bonus against one specific target until justice or vengeance has been served.
+
+</details>
 
 ## Live From the Succubus Club
 
