@@ -1472,79 +1472,95 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary>Beckett</summary>
+<summary><mark style="color:red;"><strong>Beckett p.157</strong></mark></summary>
 
-• Bloody Ancestry: You trail a methuselah by tracking their descendants. You own and maintain notes on vampiric ancestry concerning vampires in your region in a physical or digital form. You receive a +2 dice bonus to all Occult tests when investigating the ancestry of any vampire.
+According to Kindred cultures that acknowledge the generation model, the fourth generation of vampires was a kind of Cambrian explosion, increasing and solidifying emerging vampiric strains in the previous generation. Sometimes nicknamed methuselah due to their age, most of the known Kindred of such low Generation have been Beckoned or chose to serve in the Gehenna War, but some lie dormant in domains outside its battlefields.
 
-•• Dream Interpreter: Sometimes, methuselahs and even older vampires communicate to their progeny through the daysleep. Once per story, when a character or Storyteller character tells you a dream, you may make an Intelligence + Occult test at Difficulty 2. On a win, you receive a number of actionable facts from your Storyteller equivalent to one plus the margin of win.
+One of the greatest seekers of Kindred lore, most knowledgeable about the resting places and graves of the ancient dead, is the Gangrel Cuthbert Beckett. Where some Kindred scholars are content to theorize from the comfort of their libraries, Beckett has always gone out to look for himself.
 
-••• Perks of Youth: From your contact with Beckett, you’ve learned that those with knowledge are targets for manipulation by older Kindred. You’ve developed hardiness to such supernatural manipulations. Once per session, when a vampire of a higher Blood Potency uses a supernatural coercive power on you, you have receive a two-dice bonus to resist it.
+As the Gehenna War intensifies, there’s a sudden demand for those with the specialized knowledge to know what the Kindred of various domains are really facing. Beckett is not the only Kindred archaeologist who has suddenly started to receive invitations to the courts of mighty vampire Princes.
 
-•••• Ancestor Cult’s Favor: You’ve entered the good graces of a cult worshiping a methuselah. Assign six dots in any way you like to the following Backgrounds to represent what they provide you: Influence, Haven, Herd, Resources, Retainers, or Status. You keep these benefits as long as you obey at least one of their requests once per story.
+**• Bloody Ancestry:** _Allowed_
 
-••••• Face to Face: If you seek out the Ancients, you risk finding them. Once per story, if facing a methuselah or an elder, you can make an Intelligence + Occult test at a Difficulty of 4. If you succeed, you manage to recollect a detail or an angle that prompts the vampire to answer a single question about their own past or the Kindred of bygone eras truthfully, at least from their own perspective, as long as it doesn’t significantly jeopardize them or their plans.
+You trail a methuselah by tracking their descendants. You own and maintain notes on vampiric ancestry concerning vampires in your region in a physical or digital form. You receive a +2 dice bonus to all Occult tests when investigating the ancestry of any vampire.
 
-</details>
+**•• Dream Interpreter:** _Allowed_
 
-<details>
+Sometimes, methuselahs and even older vampires communicate to their progeny through the daysleep. Once per story, when a character or Storyteller character tells you a dream, you may make an Intelligence + Occult test at Difficulty 2. On a win, you receive a number of actionable facts from your Storyteller equivalent to one plus the margin of win.
 
-<summary>The Eternal Arena</summary>
+**••• Perks of Youth:** _Allowed_
 
-• Champion’s Aura: You’ve bested all kinds of Kindred, and you’re not afraid to remind everyone around what you’re capable of should they choose to cross you. Once per story, you receive a two-dice bonus to Intimidation tests against vampires during a scene, as long as these vampires are aware of your reputation (or you make them aware of it).
+From your contact with Beckett, you’ve learned that those with knowledge are targets for manipulation by older Kindred. You’ve developed hardiness to such supernatural manipulations. Once per session, when a vampire of a higher Blood Potency uses a supernatural coercive power on you, you have receive a two-dice bonus to resist it.
 
-•• Bring It On: You’ve fought at the Eternal Arena or a similar Kindred blood tournament. Once per story, you can goad a target into a physical fight with you. For the rest of the scene, they’ll engage in combat with only you. Targets that would put themselves in lethal danger by doing this must first be bested in a Charisma + Brawl vs Composure + Insight test.
+**•••• Ancestor Cult’s Favor:** _Allowed_
 
-••• Combat Analysis: Blood sports require a tactical mind. You’ve followed the exploits of the best vampire fighters in your domain, learning from how they approach each match. You don’t see fights as desperate struggles, but as puzzles you can solve. Once per session during a physical conflict, you may make an Intelligence + Awareness test at Difficulty 3 before making an attack. On a win, you receive two additional dice on your next physical attack action.
+You’ve entered the good graces of a cult worshiping a methuselah. Assign six dots in any way you like to the following Backgrounds to represent what they provide you: Influence, Haven, Herd, Resources, Retainers, or Status. You keep these benefits as long as you obey at least one of their requests once per story.
 
-•••• Talented Manager: You’re an organizer or coach in an underground fight club or other gathering of like-minded Kindred pugilists. You pull the best out of them, and your talents extend to anyone who fights with you. Once per session, when you lead a group of people through a fight involving Brawl or Melee, you gain four bonus dice on any Leadership tests.
+**••••• Face to Face:** _Allowed_
 
-••••• Die Hard: In your time in the pit, you’ve brushed up against final death many times. One night, it’ll come for you, but when it does, you know how to get one more moment. Once per story, when you face final death due to a violent conflict or act, you survive, as long as you can describe how it happened. (The Storyteller must decide if this explanation is plausible, but if it isn’t, they should provide you with the opportunity to come up with a better idea.)This does not mend any more damage you suffered than is absolutely required to survive, nor does it guarantee that you won’t end up in the hands of those eager to make your extended unlife even worse.
-
-</details>
-
-<details>
-
-<summary>Tegyrius the Vizier</summary>
-
-• The Art of Negotiation: As a skilled diplomat, advisor, or negotiator, the legacy of Tegyrius is reflected in you. When you mediate between two opposing individuals or groups, you receive a two-dice bonus to Intimidation or Persuasion skill tests.
-
-•• The Pen is Mightier: Following in the footsteps of Tegyrius, you value knowledge and choose to hone your mental abilities just as much as you do your fighting skills. As a protégé of Tegyrius, you have access to a Banu Haqim library transplanted from Alamut during the Schism. The library counts as a two-dot Haven (••) with a two-dot Library (••), but its contents are being sought after by one of the Shepherds of Ur-Shulgi, counting as a two-dot Adversary.
-
-••• Hear My Words: You are a known ally of Tegyrius, and when you speak, others listen. As a source of wisdom and restraint, you get three additional dice for any social test against another Banu Haqim of the same sect, and two additional dice for any social test against a Banu Haqim of a different sect.
-
-•••• Perception is Power (Banu Haqim characters only): In the hallowed halls of Alamut, the Council of Scrolls dedicated their unlives to the pursuit of academic knowledge. But when Ur-Shulgi awoke and seized the Black Throne, the Council disbanded. You sat on the Council, and under Tegyrius’ guidance, learned that one cannot fight what one cannot see. You have access to the Auspex Discipline and may buy dots using experience points as if it was one of your clan Disciplines.
-
-••••• A Matter of Honor: Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himself owes you a debt of gratitude. Perhaps you assisted in his negotiations with the Camarilla, or maybe you saved his life several years ago. Once per chronicle, Tegyrius functions as a five-dot Mawla, and uses his lofty position to aid you as best he can (short of violating the alliance between the Camarilla and the Ashirra).
-
-</details>
-
-## Tattered Facade
-
-<details>
-
-<summary>Descendant of the Ankou <em>(Malkavian Characters Only) MOVE TO BLOODLINES</em></summary>
-
-• Bleed Them Dry: Banned
-
-•• Crimson Visionary: Banned
-
-••• Bloody Work: Banned
-
-•••• Focus of Clarity: Banned
-
-••••• The Prophet of Death Reborn: Banned
+If you seek out the Ancients, you risk finding them. Once per story, if facing a methuselah or an elder, you can make an Intelligence + Occult test at a Difficulty of 4. If you succeed, you manage to recollect a detail or an angle that prompts the vampire to answer a single question about their own past or the Kindred of bygone eras truthfully, at least from their own perspective, as long as it doesn’t significantly jeopardize them or their plans.
 
 </details>
 
 <details>
 
-<summary>Descendant of Baron Vollgirre <em>(Toreador Characters Only) MOVE TO BLOODLINES</em></summary>
+<summary><mark style="color:red;"><strong>The Eternal Arena p.158</strong></mark></summary>
 
-• The Seven Arts: Banned\
-•• Prodigy of Flesh: Banned\
-••• Sadistic Hunger: Banned\
-•••• Unusual Connections: Banned\
-••••• Voice of Treachery: Banned
+Kindred society needs activity and entertainment. It gets them in the lulls between hunts. Some take solace in accumulating knowledge; others try their hand at taking up art or engaging in indulgent social manipulation. Then there are the vampires that beat the shit out of each other. One venue for such things is the Eternal Arena in a small town in Greece, where a violent Kindred tournament has taken place for decades, perhaps centuries. (See p. 126.)
+
+Higher-minded Kindred may scoff, but they can’t deny the excitement of watching two or more vampires in a bare-knuckle brawl. Some domains sanction the activity, forming underground fight clubs where their opponents are their peers, unsuspecting mortals, or animals on vitae. Other places do it openly, like the Eternal Arena. Blood sports aren’t only fist-to-fist events, bladed weapons and firearms are sometimes used. Vampire blood sports require incredible resilience and push Hunger to the limit. At the Arena, the fighters agree beforehand on weapons but all Kindred powers are allowed. The only limit is that the fight has to take place within the Arena and can’t involve friends or allies unless it’s coterie versus coterie.
+
+You’re involved in these blood sports, either as a fighter or an organizer. You may even have had a connection to the Arena itself. You know the best techniques to shatter a vampire’s body. Should a mortal get on your bad side, you know how to rend them into bits.
+
+**• Champion’s Aura:** _Allowed_
+
+You’ve bested all kinds of Kindred, and you’re not afraid to remind everyone around what you’re capable of should they choose to cross you. Once per story, you receive a two-dice bonus to Intimidation tests against vampires during a scene, as long as these vampires are aware of your reputation (or you make them aware of it).
+
+**•• Bring It On:** _Allowed_
+
+You’ve fought at the Eternal Arena or a similar Kindred blood tournament. Once per story, you can goad a target into a physical fight with you. For the rest of the scene, they’ll engage in combat with only you. Targets that would put themselves in lethal danger by doing this must first be bested in a Charisma + Brawl vs Composure + Insight test.
+
+**••• Combat Analysis:** _Allowed_
+
+Blood sports require a tactical mind. You’ve followed the exploits of the best vampire fighters in your domain, learning from how they approach each match. You don’t see fights as desperate struggles, but as puzzles you can solve. Once per session during a physical conflict, you may make an Intelligence + Awareness test at Difficulty 3 before making an attack. On a win, you receive two additional dice on your next physical attack action.
+
+**•••• Talented Manager:** _Allowed_
+
+You’re an organizer or coach in an underground fight club or other gathering of like-minded Kindred pugilists. You pull the best out of them, and your talents extend to anyone who fights with you. Once per session, when you lead a group of people through a fight involving Brawl or Melee, you gain four bonus dice on any Leadership tests.
+
+**••••• Die Hard:** _Allowed_
+
+In your time in the pit, you’ve brushed up against final death many times. One night, it’ll come for you, but when it does, you know how to get one more moment. Once per story, when you face final death due to a violent conflict or act, you survive, as long as you can describe how it happened. (The Storyteller must decide if this explanation is plausible, but if it isn’t, they should provide you with the opportunity to come up with a better idea.)This does not mend any more damage you suffered than is absolutely required to survive, nor does it guarantee that you won’t end up in the hands of those eager to make your extended unlife even worse.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Tegyrius the Vizier p.159</strong></mark></summary>
+
+From his soldiering days on the battlefields with Alexander the Great to his time as Vizier of the Banu Haqim stronghold Alamut, Tegyrius has prioritized his ideals over personal self-interest. Instead of claiming the Black Throne for himself, he ceded the privilege to Jamal and used his wise counsel like a guiding hand to shape the destiny of the clan. And when Ur-Shulgi the Shepherd awoke and demanded the Banu Haqim abandon their mortal faiths, Tegyrius refused to take part in his violent tyranny. Alongside his friend and colleague, al-Ashrad, the pair abandoned Ur-Shulgi to safeguard their clanmates and led them out of Alamut.
+
+In the tumultuous years that followed, Tegyrius solidified his position within the Ashirra and opened negotiations with the Camarilla, culminating in the Vermillion Wedding to Victoria Ash. On the surface, it seemed the marriage was a purely political union. And at first, it was. Yet, what many failed to realize is that during their brief courtship, despite his best efforts, Tegyrius experienced something akin to love. Since the consummation of their mutual Blood Bond, those feelings have only intensified.
+
+**• The Art of Negotiation:** _Needs Context_
+
+As a skilled diplomat, advisor, or negotiator, the legacy of Tegyrius is reflected in you. When you mediate between two opposing individuals or groups, you receive a two-dice bonus to Intimidation or Persuasion skill tests.
+
+**•• The Pen is Mightier:** _Needs Context_
+
+Following in the footsteps of Tegyrius, you value knowledge and choose to hone your mental abilities just as much as you do your fighting skills. As a protégé of Tegyrius, you have access to a Banu Haqim library transplanted from Alamut during the Schism. The library counts as a two-dot Haven (••) with a two-dot Library (••), but its contents are being sought after by one of the Shepherds of Ur-Shulgi, counting as a two-dot Adversary.
+
+**••• Hear My Words:** _Needs Context_
+
+You are a known ally of Tegyrius, and when you speak, others listen. As a source of wisdom and restraint, you get three additional dice for any social test against another Banu Haqim of the same sect, and two additional dice for any social test against a Banu Haqim of a different sect.
+
+**•••• Perception is Power&#x20;**_**(Banu Haqim only)**_**:** _Needs Context_
+
+In the hallowed halls of Alamut, the Council of Scrolls dedicated their unlives to the pursuit of academic knowledge. But when Ur-Shulgi awoke and seized the Black Throne, the Council disbanded. You sat on the Council, and under Tegyrius’ guidance, learned that one cannot fight what one cannot see. You have access to the Auspex Discipline and may buy dots using experience points as if it was one of your clan Disciplines.
+
+**••••• A Matter of Honor:** _Needs Context_
+
+Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himself owes you a debt of gratitude. Perhaps you assisted in his negotiations with the Camarilla, or maybe you saved his life several years ago. Once per chronicle, Tegyrius functions as a five-dot Mawla, and uses his lofty position to aid you as best he can (short of violating the alliance between the Camarilla and the Ashirra).
 
 </details>
 
@@ -1552,7 +1568,7 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary><strong>Succubus Club Copycat p.162</strong></summary>
+<summary><mark style="color:red;"><strong>Succubus Club Copycat p.162</strong></mark></summary>
 
 The legendary Succubus Club of Chicago set the gold standard for hiding in plain sight, with kindred from all over the world going out of their way to visit when possible. Following a series of devastating attacks on the local Camarilla in the mid-nineties, the club shuttered its doors, and the never-ending beat that once drew thousands through its doors was finally silenced.\
 Nature abhors a vacuum, and it didn’t take long for a roaming iteration of the Succubus Club to surface. While it ultimately ended in a disaster of its own, it opened the floodgates for many other pale imitations, each hoping to cash in on the original’s reputation. While the OG Chicago version is back up and running, numerous competitors have sprung up, some even use the Succubus Club name feigning authenticity only Helena’s bloodline could provide.\
@@ -1582,7 +1598,7 @@ The reputation and mystique of the Succubus Club is legendary, so much so that e
 
 <details>
 
-<summary><strong>The Pony Express p.163</strong></summary>
+<summary><mark style="color:red;"><strong>The Pony Express p.163</strong></mark></summary>
 
 The Pony Express was founded by an enterprising group of Ventrue ancillae in response to the Camarilla’s abandonment of electronic communications in the aftermath of the Second Inquisition. Recognizing the need for a method of coordinating intercity communication across the sect, the group’s founder, Elliot Praxton, assembled a group of like-minded Ventrue to found what Praxton deemed “The Pony Express.”\
 The Express is a system of physical couriers that crisscross the nation using various modes of transportation ranging from muscle cars and unremarkable sedans, to boats, planes, and helicopters. Agents of the express in each city include Kindred and their ghouls who may be permanent fixtures of that domain, or move from city-to-city in a circuit. They operate a dizzying array of blind-letter drops, secret meets, and other anonymous forms of communication that they use to “collect the mail” in each domain. This mail ranges from heavily-encrypted flash drives to old-fashioned physical correspondence. Express drivers are culled from the ranks of Gangrel loyal to the Camarilla and an ever-increasing pool of young Ventrue and other ambitious Kindred.\
@@ -1612,7 +1628,7 @@ Always the innovator, Praxton operates a clandestine passenger service for “sp
 
 <details>
 
-<summary><strong>Road Courier p.164</strong></summary>
+<summary><mark style="color:red;"><strong>Road Courier p.164</strong></mark></summary>
 
 Camarilla domains learned the hard way that online communication is a death trap for Kindred. To escape the fires of the Second Inquisition, vampires have turned to physical couriers. Europe can sometimes rely on rooftop runners and the discretion of sewer-dwelling Nosferatu, but the vast empty spaces of the continents, especially the New World, require messengers to brave the open road. While ghoul couriers have the advantage of operating during the day, they can be vulnerable whenever they stop, so Princes and Barons are sometimes forced to employ discreet and loyal Kindred to transport vital documents and artifacts.\
 Whether you travel alone on a Yamaha cruiser or with a whole crew in an armored van, you know how to survive the roads, and how to get under cover with your precious cargo before the sun rises.
@@ -1642,7 +1658,7 @@ You know spotters, scouts, and fellow couriers across the country. They function
 
 <details>
 
-<summary><strong>Stories of the Daughters p.165</strong></summary>
+<summary><mark style="color:red;"><strong>Stories of the Daughters p.165</strong></mark></summary>
 
 Not many young Kindred have heard of the Daughters of Cacophony, but stories of undead singers extraordinaire are occasionally told in Elysia by those who claim to have met one. A rumored bloodline (although rumormongers cannot agree whether of clan Malkavian, Toreador, or another), the legendary sirens can allegedly sway and hurt using their voice alone, capable of shattering much more than glass. Any appearance of a particularly vocally talented Kindred (of any gender, as “Daughters” is but a title) in the domain may spark gossip, and a few Kindred fear the legends enough to act preemptively on such news, turning rumor into danger for the alleged Siren. Some do not believe in Daughters’ existence, while others successfully pretend to be one, despite their sires knowing nothing of such connection.
 
@@ -1671,7 +1687,7 @@ Your voice is almost supernaturally soothing. Gain two additional dice to your n
 
 <details>
 
-<summary><strong>Temple of Boom Contract p.166</strong></summary>
+<summary><mark style="color:red;"><strong>Temple of Boom Contract p.166</strong></mark></summary>
 
 Victor Temple is, in his own words, the “Undisputed Baron of the Valley.” This Ventrue controls the largest Anarch territories in Los Angeles, and perhaps in North America. Victor’s enterprises include several popular nightclubs and an expanding music label business that he promotes under the name Temple of Boom. He also uses this entertainment empire to conceal his unlife — hiding in plain sight, as he likes to say.\
 Victor may be based in L.A., but his influence is beginning to extend beyond his home domain: having a connection to the Baron can open up opportunities of wealth, power, and fame, as long as you maintain loyalty to Victor Temple himself, and don’t mistake his affability for complacency.

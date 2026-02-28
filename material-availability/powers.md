@@ -911,7 +911,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:red;"><strong>Lethe’s Call, Dominate 5 (Gehenna War p.46)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Lethe’s Call, Dominate 5 (Gehenna War p.46)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Cloud Memory</mark>](https://wiki.capetownvtm.com/material-availability/powers#cloud-memory-dominate-1-core-p.256) or [<mark style="color:purple;">The Forgetful Mind</mark>](https://wiki.capetownvtm.com/material-availability/powers#the-forgetful-mind-dominate-3-core-p.257)
 
@@ -1235,7 +1235,7 @@ This power does not eliminate sounds the user makes outside their personal space
 
 <details>
 
-<summary><mark style="color:red;"><strong>Cache, Obfuscate 2 (Gehenna War p.47)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Cache, Obfuscate 2 (Gehenna War p.47)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Ensconce</mark>](https://wiki.capetownvtm.com/material-availability/powers#ensconce-obfuscate-1-gehenna-war-pp.46-47)
 
@@ -1956,7 +1956,7 @@ The Kindred can transform only part of the body, such as a finger or leg, as des
 
 <details>
 
-<summary><mark style="color:red;"><strong>Master of Forms, Protean 5 (Gehenna War p.48)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Master of Forms, Protean 5 (Gehenna War p.48)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Shapechange</mark>](https://wiki.capetownvtm.com/material-availability/powers#shapechange-protean-3-core-p.271)
 
@@ -2265,7 +2265,7 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Missive, Level 1</strong><strong> </strong><strong>(Live From the Succubus Club p.29)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Blood Missive, Level 1 (Live From the Succubus Club p.29)</strong></mark></summary>
 
 **Ingredients:** Mirror, sufficient human blood to write the message, lightless room.
 

@@ -1537,36 +1537,6 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 </details>
 
-## Tattered Facade
-
-<details>
-
-<summary>Descendant of the Ankou <em>(Malkavian Characters Only)</em></summary>
-
-• Bleed Them Dry: Banned
-
-•• Crimson Visionary: Banned
-
-••• Bloody Work: Banned
-
-•••• Focus of Clarity: Banned
-
-••••• The Prophet of Death Reborn: Banned
-
-</details>
-
-<details>
-
-<summary>Descendant of Baron Vollgirre <em>(Toreador Characters Only)</em></summary>
-
-• The Seven Arts: Banned\
-•• Prodigy of Flesh: Banned\
-••• Sadistic Hunger: Banned\
-•••• Unusual Connections: Banned\
-••••• Voice of Treachery: Banned
-
-</details>
-
 ## Misc Official Loresheets
 
 <details>
