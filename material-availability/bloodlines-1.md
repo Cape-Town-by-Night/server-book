@@ -277,13 +277,33 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Al-Ashrad </strong><em><strong>(Banu Haqim Characters Only)</strong></em><strong> (p.177)</strong></summary>
+<summary><mark style="color:red;"><strong>Descendant of Al-Ashrad </strong></mark><em><mark style="color:red;"><strong>(Banu Haqim Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(p.177)</strong></mark></summary>
 
-**•** Stories of Old: Allowed\
-&#xNAN;**••** Sight Beyond Sight: Allowed \
-&#xNAN;**•••** Vengeful Sorcery: Allowed \
-&#xNAN;**••••** Banish the Intangible: Locked \
-&#xNAN;**•••••** Amr-in-Waiting: Banned
+When Haqim and ur-Shulgi walked the earth, al-Ashrad walked with them. Legends say he knew magic when he was mortal, but after a violent disagreement with Haqim, ur-Shulgi Embraced al-Ashrad. As a vampire, al-Ashrad led them from the clan’s home in Alamut as Amr, the most learned and respected of the clan’s sorcerers.
+
+When ur-Shulgi rose from torpor and demanded the clan follow the old ways, al-Ashrad helped lead a portion of the Lawmen into the Camarilla before going into hiding. Since the Schism, he only emerged as his true identity once, to attend the Vermillion Wedding where he and Tegyrius saw their great plan to join the Camarilla come to fruition.
+
+As a member of al-Ashrad’s line, you are the heir to an incredible legacy. Few can rival your potential for Blood Sorcery. Those who fled Alamut look to you with respect, or at least jealousy. Some even regard you with hope. Maybe you’ll be the one who outshines your ancestor, who puts an end to ur-Shulgi’s schism once and for all.
+
+**• Stories of Old:** _Allowed_
+
+You’ve learned from the stories you’ve heard from your sire, passed down from al-Ashrad, and you know how to apply those lessons in these nights. When you invoke the legacy of al-Ashrad and Haqim to motivate others, you receive a two-dice bonus to Leadership tests and contests.
+
+**•• Sight Beyond Sight:** _Allowed_&#x20;
+
+Before his Embrace, Haqim tore out al-Ashrad’s left eye. As a vampire, he replaced it with a diamond rumored to give him visions of worlds beyond ours. A fraction of this power passed to you. Once per session, you (or your Storyteller on your behalf) may use the Auspex power Sense the Unseen (Vampire: The Masquerade, p. 249) as if you had the Discipline, using your Blood Potency in place of Auspex when actively using the power. If you already possess this power, you receive a +2 dice bonus when actively using it.
+
+**••• Vengeful Sorcery:** _Allowed_&#x20;
+
+You’ve never forgiven your clanmates for the Schism, and you channel your rage into your sorcery. Once per session, in a violent conflict you may choose to take a two-dice bonus to use any Blood Sorcery power intended to harm another vampire.
+
+**•••• Banish the Intangible:** _Allowed_&#x20;
+
+Al-Ashrad’s hatred for malevolent spirits is legendary. Though incorporeal beings are not necessarily malevolent, they still cower when they realize whose blood you share. Any Blood Sorcery power or Ritual that brings harm to corporeal things also affects incorporeal creatures with the same effect.
+
+**••••• Amr-in-Waiting:** _Locked_
+
+Al-Ashrad has chosen you to succeed him as Amr, should he face final death before the schism is resolved and the sorcerers regain their place in the clan. Gain Status ••••• (Banu Haqim), and one free Ritual at your Blood Sorcery level or below. Gain Adversary ••• in the form of a leader of ur-Shulgi’s Blood sorcerers and your brother-in-blood.
 
 </details>
 

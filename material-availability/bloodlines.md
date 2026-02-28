@@ -14,7 +14,6 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 | [<mark style="color:red;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#children-of-the-blood)   | pp. 101-102 |
 | [<mark style="color:red;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#trails-of-ash-and-bone) | pp. 171     |
 | [<mark style="color:red;">Players Guide</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#players-guide)                   | pp.223-229  |
-| [<mark style="color:red;">Blood Sigils</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#blood-sigils)                     | p. 177      |
 
 ## Core
 
@@ -113,19 +112,6 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 &#xNAN;**••• Black Sheep of the Family:** Allowed\
 &#xNAN;**•••• Like Sire, Like Childe:** Allowed\
 &#xNAN;**••••• Long-Lost Relative:** Locked
-
-</details>
-
-<details>
-
-<summary><strong>Descendant of Montano</strong> <em>(Lasombra Characters Only)</em> (p.274)</summary>
-
-**• Deep Pockets:** Allowed\
-&#xNAN;**• The Shadow of Yesterday:** Allowed\
-&#xNAN;**•• Siblings in Darkness:** Allowed\
-&#xNAN;**••• Abyssal Apprentice:** Locked\
-&#xNAN;**•••• Word of Mouth:** Locked\
-&#xNAN;**••••• Purity of Remorse:** Locked
 
 </details>
 
@@ -268,19 +254,5 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 &#xNAN;**••• Treat Yourself:** Allowed\
 &#xNAN;**•••• My Setite Friend:** Allowed\
 &#xNAN;**••••• The Silk Hat:** Locked
-
-</details>
-
-## Blood Sigils
-
-<details>
-
-<summary>Descendant of Al-Ashrad <em>(Banu Haqim Characters Only)</em> (p.177)</summary>
-
-**•** Stories of Old: Allowed\
-&#xNAN;**••** Sight Beyond Sight: Allowed \
-&#xNAN;**•••** Vengeful Sorcery: Allowed \
-&#xNAN;**••••** Banish the Intangible: Locked \
-&#xNAN;**•••••** Amr-in-Waiting: Banned
 
 </details>

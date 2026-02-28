@@ -2579,7 +2579,7 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
-<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66) *</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
@@ -2906,7 +2906,7 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Elemental Attack, Level 5 (Blood Sigils pp.71-72) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Elemental Attack, Level 5 (Blood Sigils pp.71-72) *</strong></mark></summary>
 
 **Prerequisite:** <mark style="color:purple;">Koldunic Sorcery</mark>
 

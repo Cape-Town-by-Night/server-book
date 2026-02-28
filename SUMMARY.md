@@ -34,7 +34,6 @@
 * [Winter's Teeth](material-availability/winters-teeth.md)
 * [Forbidden Religions](material-availability/forbidden-religions.md)
 * [Players Guide](material-availability/players-guide.md)
-* [Blood Sigils](material-availability/blood-sigils.md)
 * [Loresheets](material-availability/loresheets.md)
 * [Bloodlines](material-availability/bloodlines.md)
 * [UNDER CONSTRUCTION - NOT FOR PLAYER CONSUMPTION](material-availability/under-construction-not-for-player-consumption/README.md)

@@ -909,18 +909,6 @@ The Wolf Pack roams far and wide in their role as roving Archons, but are short 
 
 <details>
 
-<summary><strong>Servitor of Irad</strong> (p.230)</summary>
-
-**• Shield of Irad:** Allowed\
-&#xNAN;**•• Sword of Irad:** Allowed\
-&#xNAN;**••• Know the Will of the Ancients:** Allowed\
-&#xNAN;**•••• Do the Will of the Ancients:** Locked\
-&#xNAN;**••••• Kill Thy Brother:** Locked
-
-</details>
-
-<details>
-
 <summary><strong>The Promise of 1528</strong> (p.231)</summary>
 
 **• Legal Scholar:** Allowed\
@@ -1432,108 +1420,6 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 &#xNAN;**••• Unification:** Locked\
 &#xNAN;**•••• Heart is Where the Home Is:** Locked\
 &#xNAN;**••••• Levers and Pulleys:** Locked
-
-</details>
-
-## Blood Sigils
-
-<details>
-
-<summary>Student of Kirin Tauk <em>(Thin-Blood Alchemists Only)</em></summary>
-
-**• Stunning Efficiency:** Allowed\
-&#xNAN;**•• Professional Mindset:** Allowed \
-&#xNAN;**••• A Taunk Formula:** Allowed \
-&#xNAN;**•••• Diplomatic Power:** Locked \
-&#xNAN;**••••• Taunk’s Patron:** Locked
-
-</details>
-
-<details>
-
-<summary>Veins of the Earth</summary>
-
-**• Seeking a Vein:** Allowed\
-&#xNAN;**•• Drawing the Flies:** Allowed \
-&#xNAN;**••• Revelations of the Earth:** Allowed \
-&#xNAN;**•••• Channeling the Earth:** Locked \
-&#xNAN;**••••• Tiamat’s Exchange:** Locked
-
-</details>
-
-<details>
-
-<summary>Vienna Zero <em>(Blood Sorcery Users Only)</em></summary>
-
-**• Inside Knowledge:** Banned\
-&#xNAN;**•• Off the Back of a Truck:** Banned\
-&#xNAN;**••• Instrument of Power:** Banned\
-&#xNAN;**•••• The Very Last Copy:** Banned\
-&#xNAN;**••••• Deep Clearance:** Banned
-
-</details>
-
-## The Book of Nod Apocrypha
-
-<details>
-
-<summary>Machinations of Saulot <em>(Tremere and Salubri only)</em></summary>
-
-**• Rumors and Signs:** Allowed\
-&#xNAN;**•• Prolonged Conflict:** Allowed \
-&#xNAN;**••• Saulot’s Smile:** Allowed \
-&#xNAN;**•••• The Madness of Blood:** Locked \
-&#xNAN;**••••• Ultimate Disguise:** Locked
-
-</details>
-
-## Gehenna War
-
-<details>
-
-<summary>Beckett</summary>
-
-• Bloody Ancestry: You trail a methuselah by tracking their descendants. You own and maintain notes on vampiric ancestry concerning vampires in your region in a physical or digital form. You receive a +2 dice bonus to all Occult tests when investigating the ancestry of any vampire.
-
-•• Dream Interpreter: Sometimes, methuselahs and even older vampires communicate to their progeny through the daysleep. Once per story, when a character or Storyteller character tells you a dream, you may make an Intelligence + Occult test at Difficulty 2. On a win, you receive a number of actionable facts from your Storyteller equivalent to one plus the margin of win.
-
-••• Perks of Youth: From your contact with Beckett, you’ve learned that those with knowledge are targets for manipulation by older Kindred. You’ve developed hardiness to such supernatural manipulations. Once per session, when a vampire of a higher Blood Potency uses a supernatural coercive power on you, you have receive a two-dice bonus to resist it.
-
-•••• Ancestor Cult’s Favor: You’ve entered the good graces of a cult worshiping a methuselah. Assign six dots in any way you like to the following Backgrounds to represent what they provide you: Influence, Haven, Herd, Resources, Retainers, or Status. You keep these benefits as long as you obey at least one of their requests once per story.
-
-••••• Face to Face: If you seek out the Ancients, you risk finding them. Once per story, if facing a methuselah or an elder, you can make an Intelligence + Occult test at a Difficulty of 4. If you succeed, you manage to recollect a detail or an angle that prompts the vampire to answer a single question about their own past or the Kindred of bygone eras truthfully, at least from their own perspective, as long as it doesn’t significantly jeopardize them or their plans.
-
-</details>
-
-<details>
-
-<summary>The Eternal Arena</summary>
-
-• Champion’s Aura: You’ve bested all kinds of Kindred, and you’re not afraid to remind everyone around what you’re capable of should they choose to cross you. Once per story, you receive a two-dice bonus to Intimidation tests against vampires during a scene, as long as these vampires are aware of your reputation (or you make them aware of it).
-
-•• Bring It On: You’ve fought at the Eternal Arena or a similar Kindred blood tournament. Once per story, you can goad a target into a physical fight with you. For the rest of the scene, they’ll engage in combat with only you. Targets that would put themselves in lethal danger by doing this must first be bested in a Charisma + Brawl vs Composure + Insight test.
-
-••• Combat Analysis: Blood sports require a tactical mind. You’ve followed the exploits of the best vampire fighters in your domain, learning from how they approach each match. You don’t see fights as desperate struggles, but as puzzles you can solve. Once per session during a physical conflict, you may make an Intelligence + Awareness test at Difficulty 3 before making an attack. On a win, you receive two additional dice on your next physical attack action.
-
-•••• Talented Manager: You’re an organizer or coach in an underground fight club or other gathering of like-minded Kindred pugilists. You pull the best out of them, and your talents extend to anyone who fights with you. Once per session, when you lead a group of people through a fight involving Brawl or Melee, you gain four bonus dice on any Leadership tests.
-
-••••• Die Hard: In your time in the pit, you’ve brushed up against final death many times. One night, it’ll come for you, but when it does, you know how to get one more moment. Once per story, when you face final death due to a violent conflict or act, you survive, as long as you can describe how it happened. (The Storyteller must decide if this explanation is plausible, but if it isn’t, they should provide you with the opportunity to come up with a better idea.)This does not mend any more damage you suffered than is absolutely required to survive, nor does it guarantee that you won’t end up in the hands of those eager to make your extended unlife even worse.
-
-</details>
-
-<details>
-
-<summary>Tegyrius the Vizier</summary>
-
-• The Art of Negotiation: As a skilled diplomat, advisor, or negotiator, the legacy of Tegyrius is reflected in you. When you mediate between two opposing individuals or groups, you receive a two-dice bonus to Intimidation or Persuasion skill tests.
-
-•• The Pen is Mightier: Following in the footsteps of Tegyrius, you value knowledge and choose to hone your mental abilities just as much as you do your fighting skills. As a protégé of Tegyrius, you have access to a Banu Haqim library transplanted from Alamut during the Schism. The library counts as a two-dot Haven (••) with a two-dot Library (••), but its contents are being sought after by one of the Shepherds of Ur-Shulgi, counting as a two-dot Adversary.
-
-••• Hear My Words: You are a known ally of Tegyrius, and when you speak, others listen. As a source of wisdom and restraint, you get three additional dice for any social test against another Banu Haqim of the same sect, and two additional dice for any social test against a Banu Haqim of a different sect.
-
-•••• Perception is Power (Banu Haqim characters only): In the hallowed halls of Alamut, the Council of Scrolls dedicated their unlives to the pursuit of academic knowledge. But when Ur-Shulgi awoke and seized the Black Throne, the Council disbanded. You sat on the Council, and under Tegyrius’ guidance, learned that one cannot fight what one cannot see. You have access to the Auspex Discipline and may buy dots using experience points as if it was one of your clan Disciplines.
-
-••••• A Matter of Honor: Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himself owes you a debt of gratitude. Perhaps you assisted in his negotiations with the Camarilla, or maybe you saved his life several years ago. Once per chronicle, Tegyrius functions as a five-dot Mawla, and uses his lofty position to aid you as best he can (short of violating the alliance between the Camarilla and the Ashirra).
 
 </details>
 

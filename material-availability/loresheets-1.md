@@ -890,18 +890,6 @@ The Wolf Pack roams far and wide in their role as roving Archons, but are short 
 
 <details>
 
-<summary><strong>Servitor of Irad</strong> (p.230)</summary>
-
-**• Shield of Irad:** Allowed\
-&#xNAN;**•• Sword of Irad:** Allowed\
-&#xNAN;**••• Know the Will of the Ancients:** Allowed\
-&#xNAN;**•••• Do the Will of the Ancients:** Locked\
-&#xNAN;**••••• Kill Thy Brother:** Locked
-
-</details>
-
-<details>
-
 <summary><strong>The Promise of 1528</strong> (p.231)</summary>
 
 **• Legal Scholar:** Allowed\
@@ -1420,37 +1408,95 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary>Student of Kirin Tauk <em>(Thin-Blood Alchemists Only)</em></summary>
+<summary><mark style="color:red;"><strong>Student of Kirin Tauk </strong></mark><em><mark style="color:red;"><strong>(Thin-Blood Alchemists Only) p.178</strong></mark></em></summary>
 
-**• Stunning Efficiency:** Allowed\
-&#xNAN;**•• Professional Mindset:** Allowed \
-&#xNAN;**••• A Taunk Formula:** Allowed \
-&#xNAN;**•••• Diplomatic Power:** Locked \
-&#xNAN;**••••• Taunk’s Patron:** Locked
+Get a group of old alchemists together, and the conversation inevitably turns towards Kirin Taunk (p. 140). These conversations are always the same: some speak of her with admiration, and others with barely hidden jealousy. One of the celebrated alchemists of the 1990s, Taunk pioneered formula techniques still used to this day. Untouched by alchemist purges in other Domains and the horrors of the North American theatre of the Sect War, Taunk’s work served as a source of stability for the bourgeoning thin-blooded community. Her guile made her a role model and a folk legend among those hiding from the local Scourge. Since her Final Death in 1998, her legacy continues through the many alchemical flocks (p. 111) founded by her apprentices.
+
+Her legacy continues through you as well. Whether you’ve discovered her works by chance on the internet, study in one of the alchemic flocks dedicated to continuing her approach to alchemy, or were one of the thin-blooded lucky enough to know her when she was still around, Kirin Taunk left a mark on your half-life. One day, it’ll be your formulae that alchemists will pay hand-over-fist to get a glimpse of. You’ll be the one to stand in a Prince’s court or hang with the local rabble and feel at home in both worlds.
+
+**• Stunning Efficiency:** _Allowed_
+
+Kirin Taunk’s brewing speed was legendary. You’ve matched it, and surpassing it is within sight. All distillation times for formulae are halved.
+
+**•• Professional Mindset:** _Allowed_&#x20;
+
+Studying Taunk’s life taught you that it’s best to let your work speak for itself. Once per session and at the Storyteller’s discretion, you may use your dot rating in Thin-Blood Alchemy in lieu of any Social skills at a lower rating.
+
+**••• A Taunk Formula:** _Allowed_&#x20;
+
+Through hard work or a great deal, you’ve obtained a sliver of Kirin Taunk’s alchemical notes. Choose one formula of any level. You may purchase it with no experience cost, though you cannot use it until your Thin-Blood Alchemy reaches its level. Add two dice to your Distillation roll for that formula.
+
+**•••• Diplomatic Power:** _Locked_&#x20;
+
+Kirin Taunk was a social force of nature, capable of fitting in amongst Camarilla and Anarch alike. Though recent events make the divisions between the two sects sharper, you carry yourself with enough grace and charm that these divisions mean little to you. You have Status •• (Camarilla) and Status •• (Anarch).
+
+**••••• Taunk’s Patron:** _Locked_
+
+Kirin’s mysterious benefactor took an interest in you, and still has it to this night. Gain Mawla ••••• (Taunk’s Patron). Every story, pick three formulae you know. If your Mawla is active and approves of your actions, they send a shipment of rare or magically potent ingredients that give each formulae a two-dice bonus to the Distillation roll. Your Storyteller creates or chooses a powerful Kindred (maybe one that’s already on the Relationship or Scene Map) as your patron’s identity and may reveal it (and the consequences it brings) at their leisure.
 
 </details>
 
 <details>
 
-<summary>Veins of the Earth</summary>
+<summary><mark style="color:red;"><strong>Veins of the Earth p.179</strong></mark></summary>
 
-**• Seeking a Vein:** Allowed\
-&#xNAN;**•• Drawing the Flies:** Allowed \
-&#xNAN;**••• Revelations of the Earth:** Allowed \
-&#xNAN;**•••• Channeling the Earth:** Locked \
-&#xNAN;**••••• Tiamat’s Exchange:** Locked
+The Earth lives. It vibrates on frequencies far beyond human senses. As everyone carries on their day, as plants grow and animals thrive, the Earth’s power ebbs and flows across the surface like water. It’s in the air the kine breathes, and it’s in the ground everyone walks on. The rise of Tiamat, the Blood Serpent (p. 150) only makes clear what many have known for years. The earth carves a web of energy patterns into its flesh. It waits for someone to take hold of it.
+
+That someone is you. Maybe you were always fascinated by ley lines. Perhaps being undead opened your mind to new possibilities. You could have tapped into the planet’s power accidentally, and you’re trying to recapture that energy.
+
+Your knowledge and passion make you a unique figure in the blood craft scene. You’ve established yourself as an expert, a pioneer in your field, or just a fanatic. When the scene needs someone who knows the city’s places of power, you’re the first on their list.
+
+**• Seeking a Vein:** _Allowed_
+
+You’ve developed a knack for finding weird things, and it’s only now that you’ve realized that it’s because you just know where the planet’s blood converges. Once per story at the Storyteller’s discretion, you may declare that the location you are on is a furcus (p. 35).
+
+**•• Drawing the Flies:** _Allowed_&#x20;
+
+Some kine are drawn to the venae terrae just like you are. You’ve gotten to know quite a few people seeking out the planet’s energies. They seek your knowledge, and you ask for a small price in return. Gain Herd ••• representing this group—but without new and interesting information about Tiamat’s coils, they could fall away.
+
+**••• Revelations of the Earth:** _Allowed_&#x20;
+
+You listen to the veins of the Earth, and hear who passes along them. Once per session, when you meditate for at least a half hour on a furcus, you may ask the Storyteller one question about one Kindred’s location, direction of movement, and speed at that moment. The Storyteller answers truthfully. The venae cannot locate a Kindred who is in the air at that moment.
+
+**•••• Channeling the Earth:** _Allowed_&#x20;
+
+While your ability to tap into the veins of the Earth may not be as powerful as Blood sorcerers or mystics, you know how to use the planet’s power for your own benefit. Once per session, when you meditate for at least a half hour on a furcus, add one die to a Discipline pool in addition to any provided by Blood Potency.
+
+**••••• Tiamat’s Exchange:** _Allowed_
+
+Your knowledge of the veins of the Earth is so great that it feels like the Blood Serpent itself blesses you if you pay the price. Once per story, if you provide a large (human-sized or larger) offering of flesh or blood to a furcus at the beginning of the story, you may automatically gain three additional successes on a test or contest of your choosing.
 
 </details>
 
 <details>
 
-<summary>Vienna Zero <em>(Blood Sorcery Users Only)</em></summary>
+<summary><mark style="color:red;"><strong>Vienna Zero </strong></mark><em><mark style="color:red;"><strong>(Blood Sorcery Users Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>p.180</strong></mark></summary>
 
-**• Inside Knowledge:** Banned\
-&#xNAN;**•• Off the Back of a Truck:** Banned\
-&#xNAN;**••• Instrument of Power:** Banned\
-&#xNAN;**•••• The Very Last Copy:** Banned\
-&#xNAN;**••••• Deep Clearance:** Banned
+Officially, it’s the United Nations Vienna Recovery Zone. The Magyar Arrow Brotherhood attack on the city was localized to three city blocks, but the damage was so devastating and thorough that since 2008, all that’s left is makeshift canvas buildings, light blue tarps, and disaster scene tape. Common theories on what occurred there include a missile strike, a dirty bomb, or a biological weapon.
+
+You know what happened. Hungarian fascists played no role, and the missile strikes were made in the U.S.A. with love from the Vatican. The IAO attacked the Tremere’s headquarters, the Vienna Prime Chantry. In the years since, the Leopoldites and the rest of the Coalition’s forces dig through the ruins as a major archeological project. Each new discovery teaches them more about the blankbody threat. They call it Vienna Zero.
+
+Perhaps you have direct clearance to the site through a compromised operative, or maybe you’re the compromised operative. Maybe you have a direct supply chain that brings you bits and pieces of what the investigation recovers. Either way, the artifacts and texts of the Tremere in their prime can be yours to access.
+
+**• Inside Knowledge:** _Allowed_
+
+The knowledge you picked up from when you scavenged Vienna Zero is invaluable, both in a practical and political sense. When rolling Occult for anything related to blood craft, or when rolling Politics for anything related to the Tremere, you always have a +2 dice bonus.
+
+**•• Off the Back of a Truck:** _Allowed_
+
+The Vatican officially destroys everything from Vienna Zero they deem too dangerous or useless to their investigation. Unofficially, some of it ends up in your hands. You gain a Contact ••• (The Slow Drip), a disgruntled contractor from Vienna Zero. If you’ve got something to offer, they can sometimes source the good stuff.
+
+**••• Instrument of Power:** _Allowed_
+
+Through a friend of a friend, you’ve gotten your hands on something special and to your delight, you’re very good at using it. Agree with the Storyteller on one Artifact (pp. 136–142), and add a one-die bonus to your pool for whatever tests it requires. However, every session you use it, you need to succeed on a Wits + Stealth (plus your Influence, if any, with the media) test against Difficulty 3 (or possibly more, for more powerful artifacts) to avoid attracting the attention of the Leopoldites, FIRSTLIGHT, or some other Coalition force.
+
+**•••• The Very Last Copy:** _Allowed_
+
+By chance or through an incredible heist on Vienna Zero, you own the last remaining copy of a Tremere grimoire. Name the grimoire, and name four rituals you do not yet know. These rituals may be at any level. You can learn these rituals without a teacher at half the learning time. Experience cost remains the same.
+
+**••••• Deep Clearance:** _Allowed_
+
+You’re not just read in on Vienna Zero, you’re a valued member of the team. Gain Mask ••• (Zeroed) and describe your place on the excavation project. Once per story, you may take one artifact (p. 136–142) from the Vienna Zero site and use it as you wish, though the team will notice it’s gone. You also have Enemy ••••, a FIRSTLIGHT or St. Leopold team member who suspects your true nature.
 
 </details>
 
@@ -1458,13 +1504,125 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary>Machinations of Saulot <em>(Tremere and Salubri only)</em></summary>
+<summary><mark style="color:red;"><strong>The Book of Nod p.37</strong></mark></summary>
 
-**• Rumors and Signs:** Allowed\
-&#xNAN;**•• Prolonged Conflict:** Allowed \
-&#xNAN;**••• Saulot’s Smile:** Allowed \
-&#xNAN;**•••• The Madness of Blood:** Locked \
-&#xNAN;**••••• Ultimate Disguise:** Locked
+The Book of Nod collects oral histories, text fragments, and other media detailing the history of Caine and his childer, with additional poems and prophecies regarding Gehenna and the Final Nights. Its author — or authors — are unknown, though many Kindred believe Caine, Malkav, and Saulot contributed significant portions of the text. The stories and fragments have been carefully passed down through the generations; those who own physical pieces of the book take great pains to ensure they don’t end up in non-Cainite hands. The Book of Nod also provides the theological basis for the Sabbat’s worship of Caine.
+
+The first and largest section of the book, the Chronicle of Caine, recounts the tale of the first vampire, his childer, and the rise and rebellion of the Antediluvians. The Chronicle of Shadows lays out a series of laws attributed to Caine, though some Kindred doubt its veracity and view it as the work of Carthaginian scholars. The Chronicle of Secrets is the shortest and most enigmatic section. Its highly symbolic passages describe the author’s visions of Gehenna. Some Noddists have dedicated their entire unlives to attempting to interpret the predictions and apply them to their modern nights. Additionally, some scholars view the Erciyes Fragments as another version of Caine’s story, while others dismiss the Fragments as apocryphal and relegate mention of them to a footnote in their dissertations, if they’re acknowledged at all.
+
+The Book of Nod’s collectors, translators, and editors have introduced myriad inconsistencies and contradictions over the millennia, and no two scholarly analyses ever completely agree on its true content. Many among the Camarilla denounce the book and ban, confiscate, or destroy any related texts they discover their fledglings passing around.
+
+**• Precis:** _Allowed_
+
+You are familiar with the broader concepts of the Book of Nod and some of the more commonly known prophecies. Once per story, add two dice to an Academics roll related to ancient Cainite history.
+
+**•• Well-versed:** _Allowed_
+
+Your sire or Mawla taught you certain passages from the book, and may even have physical fragments in their possession. Once per story, you may seek their input on a matter regarding Noddist lore, gaining a two-dice bonus to any Occult test related to the book.
+
+**••• Scholar:** _Allowed_
+
+You’ve dedicated significant time and study to the Book of Nod, and are familiar with at least one complete version of the text. You can support your theories with quotes from that version and are aware of counterarguments or alternative interpretations. Once per session, add three dice to a Persuasion roll when debating the Book of Nod’s finer points.
+
+**•••• Collector:** _Allowed_
+
+You own several fragments from the book or have memorized sections of Caine’s history. Noddists seek you out hoping to examine your copies or hear you recite the tales, and they’re willing to pay for it. This isn’t always a monetary trade; some offer favors, an exchange of information, or access to other resources your character finds valuable. Once per story, when you grant someone access to your collection, gain three temporary dots in Resources (or other appropriate Background as approved by your Storyteller) for the remainder of the story, or the ability to call in a future favor from the Noddist.
+
+**••••• Noddist Master:** _Allowed_
+
+Other Noddists look to you for insight and interpretation on the texts, and your theses on the subject are regarded as must-reads. You have exchanged correspondence with Noddist experts on finer points of lore. Once per story, you may derive a fact or prophecy from the Book of Nod that your character can apply to sway a decision, automatically succeeding at a Persuasion test at the Storyteller’s discretion.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Gehenna Cults p.38</strong></mark></summary>
+
+Depending on whom you ask, Gehenna will soon befall the Kindred, or it’s happening right now, or it’s happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers.
+
+The creeds of these new blood cults come in a dizzying variety of hatreds, anxieties and hungers. The most successful spread their black wings from one city to the next, forming something like a cohesive doctrine even as feuding Kindred splinter off new schisms and heresies. Charting out the spread of such subversive elements requires an agile mind to keep track of the shifting tapestry, not to mention a strong stomach even by vampire standards. All too many Gehenna cults delve into stomach-churning practices.
+
+**• Mark the Bloody Trail:** _Allowed_
+
+Once per session when you begin investigating or researching the presence of a blood cult you’ve not previously used this lore for, the Storyteller gives you one free clue to help locate the cult or to understand their current plans.
+
+**•• Faithful Bloodhound:** _Allowed_
+
+You’re a proven investigator; you’ve exposed and taken down at least one Gehenna cult already, and shown your mettle in the eyes of the sects. Either the Camarilla or the Anarchs trust you as an expert on Gehenna cults. You wield three dots of Status while taking action to investigate or persecute a cult on behalf of that sect.
+
+**••• Dogma:** _Allowed_
+
+You’re steeped in the lore of Gehenna, and you’ve learned many permutations of warped faiths that your fellow Kindred wrap themselves in. Once per session, when you discuss a vampire’s faith with them or observe them practicing their faith, you can extrapolate the rough nature of the doctrines, Convictions, or code that the religion focuses on. The Storyteller does not need to give you the exact wording, but must convey the primary themes, limitations, and beliefs, even those that are not evident in what the vampire has said or done.
+
+**•••• Cult Breaker:** _Allowed_
+
+The charlatans and demagogues of millenarian cults rely on charisma and their followers’ desperate need for someone else to provide answers, direction, and justification for their dark indulgences. Such self-deception is hard to overcome, but you know how to shatter their illusions and tear apart the foundations of their faith. Once per story for a scene, while socially interacting with you, cult members do not benefit from any dots in Status they may have within their own cult. If they are unable to overcome you in a conflict, they lose any such Status dots for the rest of the story as you shake the cult’s faith in them to the core.
+
+**••••• Red Truths:** _Allowed_
+
+Investigating the rising tide of blood cults and Gehenna worshipers has put you in a prime position to sift a few precious grains of truth from the bloated clot of lies that sits at the heart of most of these misbegotten faiths. Whether you want to believe it or not, you can’t deny the evidence you’ve gathered — and why not exploit it for yourself, rather than leaving it in the blood-stained hands of frothing zealots? Once you have studied the practices or texts of any blood cult, you are able to learn any Rituals or other unusual supernatural capabilities they possess without need of a teacher, although you must pay any experience point costs as normal.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Machinations of Saulot </strong></mark><em><mark style="color:red;"><strong>(Tremere and Salubri only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>p.39</strong></mark></summary>
+
+While some Noddists regard Saulot as a veritable saint, others who study the history of the Salubri and Saulot see him as a dangerous player in the eternal struggle: possibly the most sinister of all antediluvians. Clans Salubri and Tremere, among others, have studied the travels and words of Saulot, and fear the mastermind that may lurk behind the façade of saintliness.
+
+Saulot is rumored to have sired the Salubri as a means of testing his knowledge and creating goodwill towards his fellow antediluvians, with no qualms about discarding them as he vanished, a victim of diablerie by Tremere. Rumors spread among those in the know that Tremere may have lost the battle of wills when committing diablerie on Saulot and Saulot’s diablerie may have been simply another move in the Jyhad.
+
+If Saulot’s ultimate goal is mastery over his fellow Antediluvians and all Kindred, he would manipulate a small remnant of philosophers, healers, and warriors as well as a world-spanning authoritarian cabal of once blood-bound sorcerers. With the recent fractures in the Tremere clan’s pyramid structure, the Beckoning, and the Gehenna Crusade, Saulot’s ultimate plans seem increasingly inscrutable. This does not stop many from speculation, however.
+
+**• Rumors and Signs:** _Allowed_
+
+Those aware of the age-old conflicts of the Salubri are on the lookout for signs of their recurrence. You can ask the Storyteller if an event or location shows signs of Salubri or Tremere influence. You can ask this question once per session.
+
+**•• Prolonged Conflict:** _Allowed_&#x20;
+
+While Saulot’s words were gentle, his actions are said to have spurred on conflict between the Salubri and Tremere. You have learned to defend from these forces. Once per session gain two bonus dice when resisting Auspex, Blood Sorcery, Dominate, or Oblivion powers.
+
+**••• Saulot’s Smile:** _Allowed_&#x20;
+
+When Tremere committed diablerie on Saulot, the sire of all Salubri smiled. Once per story when witnessing another Kindred perform an action, you can ask the storyteller what their motivation was for doing so.
+
+**•••• The Madness of Blood:** _Allowed_
+
+When Saulot was destroyed, his childer supposedly went mad, slaying one another as they were drawn to the site of Saulot’s awakening. Once per story, you can summon your sire or one of your childer or someone who has tasted your Blood as per the Presence power Summon, using your Auspex or Dominate rating instead of Presence. You can also ignore such a summons yourself, once per story.&#x20;
+
+**••••• Ultimate Disguise:** _Allowed_
+
+Your expertise in Saulot’s ways gives you an advantage few others have. You possess traits of both Clans Salubri and Tremere. You may learn Blood Sorcery or Fortitude as if they were a Clan Discipline if they weren’t already, but suffer both Clan Banes and Compulsions.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Servitor of Irad p.40</strong></mark></summary>
+
+According to the Book of Nod, Irad the Strong was the third childe of Caine, and he served as his sire’s enforcer and military leader in the First City. The Kindred of the Servitors of Irad seek to emulate that mythological vampire, who is said to have pledged to serve the Antediluvians in all things before his kin or his childer destroyed him. They hope that, if they spend their existence showing they serve the Antediluvians, they will be spared when the ancients rise. Irad believed it, but received the revelation too late to preserve himself.
+
+The cult doesn’t actually have any contact with the Third Generation, but they assume that the Antediluvians would want the elders of Kindred society to be weak and divided. As such, they infiltrate any vampiric organization they can find — Camarilla cities, Anarch gatherings, and even other cults — to sow dissension and shatter fragile alliances. And now you’re one such deep cover member. You’re cut off from the other members of your cult, trying to enact a hazily understood plan set down by mythological figures with whom you have no direct contact, with the knowledge that if any other vampire ever found out, you’d be immediately and painfully killed. But you have faith, and that’s enough.
+
+**• Shield of Irad:** _Allowed_
+
+You can’t do the work of the Antediluvians if you get discovered by others. Luckily, you have a lot of experience shielding your true intentions from the gaze of outsiders. You gain an additional die on rolls involving lying to other Kindred.
+
+**•• Sword of Irad:** _Allowed_
+
+Sometimes you must act decisively in the name of the Third Generation, and that conviction adds additional strength to your act. Once per story, you can add three dice to a roll that is integral to your cult’s plans.
+
+**••• Know the Will of the Ancients:** _Allowed_
+
+You are firmly convinced you know the will of the Antediluvians. Perhaps you even hear their voices in your head, or gain prophetic dreams from them. As long as you are a member of the cult, you can take an additional Conviction that is directly related to the goals of your infiltration (your membership in the cult acts as your “touchstone” for the purposes of this Conviction). If you infiltrate a new group, you can change your Conviction to reflect the new assignment.
+
+**•••• Do the Will of the Ancients:** _Allowed_
+
+All actions are in service to the Third Generation, the thirteen vampires that will someday rise and destroy the world. There is nothing you won’t do to fulfill that goal, and you have devoted your entire existence to it. The blood you have inherited from your clan founder is secondary to this higher purpose. Your clan Bane can be ignored once per story while you are a Servitor of Irad.
+
+**••••• Kill Thy Brother:** _Allowed_
+
+When the Third Generation eventually rise, you know that most of Caine’s errant childer will be destroyed. So, killing another vampire in the name of the Antediluvians just makes their job a little easier. Once per story, when using a weapon or power that inflicts Aggravated Health damage on a vampire, your attack inflicts two additional damage, and you don’t need to roll to resist frenzy if that weapon or power involves fire.
 
 </details>
 
