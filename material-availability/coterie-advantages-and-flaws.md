@@ -1,2 +1,0 @@
-# Coterie Advantages and Flaws
-

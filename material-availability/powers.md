@@ -36,7 +36,7 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Animal Messenger, Animalism 2 + Auspex 1 (Players Guide p.69) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Animal Messenger, Animalism 2 + Auspex 1 (Players Guide p.69) *</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Bond Famulus</mark>](https://wiki.capetownvtm.com/material-availability/powers#bond-famulus-animalism-1-core-p.245)
 
@@ -133,6 +133,22 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Messenger's Command, Animalism 3 +Dominate 1 (Players Guide p.69) *</strong></mark></summary>
+
+**Prerequisite:** Animal Messenger, either Compel or Mesmerize
+
+**Dice Pools:** See Compel or Mesmerize, but the Dominate rating cannot exceed the user’s Animalism.
+
+**Cost:** None
+
+**System:** See Animal Messenger, above. Make the Compel or Mesmerize test as soon as the Famulus makes eye contact with the target.
+
+**Duration:** See Animal Messenger
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Plague of Beasts, Animalism 3 (Players Guide p.69)</strong></mark> </summary>
 
 **Dice Pools:** Manipulation + Animalism vs Composure + Animal Ken
@@ -170,22 +186,6 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to resist attacks. Swarms take Superficial damage from Brawl; flame and insecticide cause Aggravated damage. Vampires can use swarms for spying, as distractions (resulting in a two-dice penalty on any roll for a single swarmed individual), or to intimidate mortals (add between one and three dice to Intimidation pools, depending on the type of insect and the victim’s phobias). Players and Storytellers can doubtlessly come up with even more creative uses of this power.
 
 **Duration:** Passive
-
-</details>
-
-<details>
-
-<summary><mark style="color:yellow;"><strong>Messenger's Command, Animalism 3 +Dominate 1 (Players Guide p.69) *</strong></mark></summary>
-
-**Prerequisite:** Animal Messenger, either Compel or Mesmerize
-
-**Dice Pools:** See Compel or Mesmerize, but the Dominate rating cannot exceed the user’s Animalism.
-
-**Cost:** None
-
-**System:** See Animal Messenger, above. Make the Compel or Mesmerize test as soon as the Famulus makes eye contact with the target.
-
-**Duration:** See Animal Messenger
 
 </details>
 
@@ -1502,6 +1502,18 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
+<summary><mark style="color:red;"><strong>Relentless Grasp, Potence 2 (Players Guide p.79)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** The vampire adds their Potence rating as automatic successes to any attempt that involves holding on to something. This includes attempts to maintain a grapple, though the initial grapple test does not benefit from this bonus.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Brutal Feed, Potence 3 (Core pp.264-265)</strong></mark></summary>
 
 **Cost:** Free
@@ -1525,6 +1537,36 @@ Storytellers may decide such mutilation-killing warrants Stains (p. 239).
 **System:** Whenever using Potence (including pools using half the Potence rating, such as Prowess), the vampire treats their Potence rating as if it were two levels higher — this can take the relative Discipline rating above the normal limit of 5. On any such test, if the vampire rolls a critical (messy or otherwise) or a failure (bestial or otherwise) they sustain 1 Aggravated damage as their own body tears itself apart from the strain.
 
 **Duration:** Passive
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Wrecker, Potence 3 (Players Guide p.79)*</strong></mark></summary>
+
+**Prerequisite:** Prowess
+
+**Cost:** Free
+
+**System:** The user counts their Potence rating twice when using Prowess for feats of strength that involve damage or destruction of an inanimate object.
+
+**Duration:** As Prowess
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Crash Down, Potence 4 (Players Guide p.79)*</strong></mark></summary>
+
+**Prerequisite:** Soaring Leap
+
+**Dice Pools:** Strength + Potence
+
+**Cost:** One Rouse Check
+
+**System:** Upon using Soaring Leap, the vampire may activate Crash Down, and deal damage to a small area of effect. Anyone within a three-meter radius is subject to an attack roll of the user’s Strength + Potence against their Dexterity + Athletics, suffering Superficial Damage equal to the margin. Anyone suffering three or more levels of damage or a total failure on their defense test is knocked down (see Vampire: The Masquerade, p. 122).
+
+**Duration:** N/A
 
 </details>
 
@@ -1600,6 +1642,18 @@ This power causes significant collateral damage. If used on the ground, the eart
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>Subtle Hammer, Potence 5 (Players Guide pp.79-80)</strong></mark></summary>
+
+**Cost:** Free
+
+**System:** Performing unarmed melee attacks or feats of strength now counts as two-dice minor actions (see Minor Actions in Vampire: The Masquerade, p. 298). A character can perform only one Subtle Hammer minor action per turn, though, and cannot make other attacks in the same turn. The ability to concentrate one’s full strength into any part of the body also has other benefits, and any feat of strength where the user’s movement is limited (such as breaking out of bonds) receives a four-dice bonus or more, at the Storyteller’s discretion.
+
+**Duration:** Passive
+
+</details>
+
 ## Presence
 
 <details>
@@ -1627,6 +1681,22 @@ This power causes significant collateral damage. If used on the ground, the eart
 Vampires cannot use Awe and Daunt simultaneously.
 
 **Duration:** One scene or until intentionally ended
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Eyes of the Serpent, Presence 1 + Protean 1 (Players Guide p.80)</strong></mark></summary>
+
+**Cost:** Free
+
+**Dice Pools:** Charisma + Presence vs. Wits + Composure
+
+**System:** By catching the eye of a mortal (Vampire: The Masquerade, p. 255) the vampire can immobilize a victim, keeping them frozen in place as long as they themselves maintain eye contact. The effect can only be maintained on a single victim at a time, and ends if they suffer damage or are forcibly removed. The victim is still capable of speech, though not shouting.
+
+In order to paralyze a vampire in the same way, the user must win a contest of Charisma + Presence vs. Wits + Composure. The vampire victim can escape paralysis on any turn after the first by spending a point of Willpower.
+
+**Duration:** Until eye contact is broken or the scene ends
 
 </details>
 

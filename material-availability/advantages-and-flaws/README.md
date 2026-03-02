@@ -14,6 +14,22 @@ You add one extra die to all appropriate Social dice pools.
 
 <details>
 
+<summary><mark style="color:red;"><strong>Ingénue •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark></summary>
+
+You look completely innocent and blameless, making others believe in your good intentions much easier. Add two dice to any rolls related to avoiding suspicion or deflect blame, at the Storyteller’s discretion.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Remarkable Feature •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark> </summary>
+
+You possess a rare, memorable feature such as a striking eye color, atypical pupils, or an unusual complexion, providing a two-dice bonus to social interactions with strangers. (The novelty quickly wears off.) Take a one-die penalty to disguise yourself.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Famous Face •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
 You bear a passing or very close resemblance to someone very well known. Sometimes this works in your favor. Other times this results in “Charlize Theron bit that cop on the neck!” You gain two dice to social tests in circumstances where you can leverage your lookalike status, but suffer a two-dice penalty whenever you try to hide in a crowd or in other areas where you want to avoid recognition.
@@ -118,6 +134,16 @@ You cannot be Blood Bound. If you’re ever short of cash, you can probably sell
 
 <details>
 
+<summary><mark style="color:red;"><strong>Vessel Recognition •</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.118-119)</strong></mark> </summary>
+
+One easy way to piss off a Kindred is to feed off their kine. Kindred guard their herds jealously, and you’ve learned how to avoid them, being able to smell out which mortal belongs to a herd or is a particular Blood Doll.
+
+A win on a Resolve + Awareness test at Difficulty 2 lets you smell whether a mortal has been fed on recently. A critical win lets you sense if the feeding is recurring, likely making them part of someone’s herd.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Bloodhound •</strong></mark> <mark style="color:red;"><strong>(Core p.182)</strong></mark></summary>
 
 You can smell the Resonance of a human’s blood without tasting it. You still need to be within olfactory range of the person. Make a Resolve + Awareness test at Difficulty 3. Increase Difficulty for perfume or distance; lower it for more intimate contact.
@@ -170,6 +196,14 @@ After committing diablerie upon a direct descendant — or ancestor — you do n
 
 <details>
 
+<summary><mark style="color:red;"><strong>Nuit Mode ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.119)</strong></mark> </summary>
+
+Your body doesn’t automatically revert to the death-state each night, enabling you to keep things like new haircuts, tattoos, and other body modifications at your option. You are still able to return to your original death-state, though, and can mend any later modifications as if they were Aggravated damage. This Merit is available only to Kindred of Blood Potency 1 or lower. (If your Blood becomes more potent at any point, the Merit no longer grants any benefit, but if you drop back down to Blood Potency 1 it returns.)
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Eat Food •• (Core p.182)</strong></mark></summary>
 
 You can consume food without effort and might even enjoy it, though it gives no nourishment and must be expelled before resting for the day.
@@ -203,6 +237,44 @@ Your dead flesh is uniquely receptive to the Blood when it’s time to imitate l
 </details>
 
 ### Miscellaneous
+
+<details>
+
+<summary><mark style="color:red;"><strong>Side Hustler •••</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.119-120)</strong></mark> </summary>
+
+Folks on the fringes constantly have to grind to keep the little that they have. Juggling a million tasks, favors, and debts has become second nature to them.
+
+Once per session you can get your hands on an item, a piece of information, or access to an event as if you had two dots in the appropriate Resources, Contacts or Influence Background. (Items obtained with Resources likely have to be returned intact.) Often this requires you to spend part of the night calling in markers and pressing your informal network.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Check the Trunk •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.119)</strong></mark> </summary>
+
+Mercenaries and gig workers have to keep their tools of the trade close at hand. They never know what their next job might require, but they do their best to keep a supply of useful tools close at hand. Caitiff, Ravnos, Anarchs, and even some mortals especially benefit from this Merit.
+
+You have easy access to an armory or cache of tools and hardware. None of these items can exceed a value available to a character with Resources 2. Common items found in a cache could include a sawed-off shotgun, rusty bolt cutters, half a roll of duct tape, homemade stakes, half empty squeeze bottles of lighter fluid, and whatever else the Storyteller allows. Take an additional two dots in Preparedness pools (Vampire: The Masquerade, p. 410) for items within this Resource band. Losing your car, haven, or other storage space may interrupt this Merit until you build up a new stash.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Untouchable •••••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+The powers that be are very reluctant to punish you for even the most egregious crimes. Perhaps you’re the secret power behind the throne, or you hold some damning blackmail over the local Baron, or you’re the secret childe of a Justicar or other political potentate. Once per story you can escape all official punishment for a crime that would otherwise see you destroyed or cast out of your sect, though you may be privately reprimanded or face consequences through unofficial channels. The Court or Council often ignores your lesser crimes as well, but lower-level Kindred may take it upon themselves to step to you for your perceived transgressions and flaunted impunity.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Tempered Will •••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+Your stubborn spirit didn’t die during your Embrace, and you find yourself knowing when people are trying to force you to do something against your will.
+
+You are always aware of when someone is using Dominate and Presence against you. Once per session, when resisting Dominate or Presence, you may add two additional dice to your resistance pool. Only someone with no dots in either Dominate or Presence can take this Merit. (If you acquire the Disciplines afterward, or temporarily as with thin-bloods, the Merit no longer grants any benefit while you possess them.)
+
+</details>
 
 <details>
 
@@ -348,6 +420,20 @@ Influence applies most within one group or region of your city. Groups can be la
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>City Secrets •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark> </summary>
+
+You have somehow acquired a damning secret about the city’s Kindred power structure, perhaps specifically about someone in it. Decide the exact nature of the information with the Storyteller. If the secret refers only to mortal business (“the Mayor is secretly fucking a Russian Mafiya soldier”), it’s just a way to explain your Influence.
+
+A few power players in the city know you have this information, or strongly suspect it. Hopefully, you’ve made arrangements for the secret to get out upon your mysterious disappearance. You could sell this information for a high price, but its truest value is protection: those who want it to stay secret have some interest in keeping you happy. Of course, if you push your luck, they may decide keeping you quiet forever takes higher priority.
+
+This Background resembles Influence more than Status in some circumstances; the Storyteller should determine when or if it adds to a Social pool, or possibly a Research or Insight test.
+
+You can take this Background a maximum of three times, with a different secret each time.
+
+</details>
+
 ## Allowed Flaws
 
 ### Diablerie
@@ -375,6 +461,22 @@ You gain another clan’s bane in addition to your own. Tremere may select this 
 <summary><mark style="color:red;"><strong>Ugly •</strong></mark> <mark style="color:red;"><strong>(Core p.179)</strong></mark></summary>
 
 You lose one die from all relevant Social dice pools.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stench •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+Your breath and body odor are supernaturally foul, redolent of open graves and rotting flesh. Even Nosferatu object to your stink. You can take minor steps to minimize the stench, such as splashing on plenty of cologne, but that causes other problems. Lose one die from seduction and similar Social dice pools, and lose two dice from Stealth pools against opponents who can smell, unless you are upwind.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Transparent •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+Your breath and body odor are supernaturally foul, redolent of open graves and rotting flesh. Even Nosferatu object to your stink. You can take minor steps to minimize the stench, such as splashing on plenty of cologne, but that causes other problems. Lose one die from seduction and similar Social dice pools, and lose two dice from Stealth pools against opponents who can smell, unless you are upwind.
 
 </details>
 
@@ -442,6 +544,14 @@ Blood Bonds on you lose their Bond strength more slowly than normal, decreasing 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Vein Tapper •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+You find the act of feeding extremely personal and cannot take blood from mortals while being observed. This means you often feed from the unaware and go out of your way to find (or create) drugged or unconscious victims.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Methuselah's Thirst • (Core p.181)</strong></mark></summary>
 
 Your Hunger can only be fully slaked by the blood of supernatural creatures. (Alchemists may be able to thicken the Blood of thin-bloods enough to sate you.) Otherwise, it constantly remains at a minimum of 1. (Or higher, depending on Blood Potency (see p. 215).
@@ -476,6 +586,26 @@ Wherever you go, a telltale pattern of attacks follows, as your feeding style le
 
 <details>
 
+<summary><mark style="color:red;"><strong>Starving Decay ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+Your undead body is constantly on the verge of reverting to a corpse and only staving off Hunger keeps you from decaying.
+
+At any point in which your Hunger is 3 or higher your body shrivels and decays, incurring a two-dice penalty to physical tests as well as social interactions with mortals, not to mention risking the Masquerade.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Twice-Cursed ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
+
+You are cursed with additional Bane, making you labor under additional weight borne out of your clan founder’s flawed nature.
+
+Take your clan’s variant Bane (see p. 56) in addition to your regular Bane. The Storyteller can prohibit this Flaw if the second Bane would cause problems for, or lack impact in, the chronicle.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Corpse Flesh •••</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
 Your body is truly and irrevocably dead, rendering you unable to use Blush of Life.
@@ -500,7 +630,37 @@ You can be Blood Bound to two individuals at the same time. This may cause no en
 
 </details>
 
-### spacer
+### Miscellaneous
+
+<details>
+
+<summary><mark style="color:red;"><strong>Risk-Taker •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
+
+You’re one of those people who feel compelled to take every chance to experience life at its fullest.
+
+When confronted with a chance to indulge a risky temptation you haven’t done before (such as snorting a new drug, imbibing vampire blood, or taking a Kindred lover), you suffer a two-dice penalty to all actions until you either partake of the new experience or the scene ends. This Flaw doesn’t compel you to do something suicidal ... but you may not always accurately predict the full consequences of your actions.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Weak-Willed ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
+
+You struggle to assert your own personality when confronted with the will of another. You may not necessarily be submissive; perhaps you feel more confident when following another person’s lead. You might be part of a vampire’s entourage or Herd, but you aren’t necessarily loyal to that vampire.
+
+Take a one-die penalty to Social pools against your leader or superior. Even when you’re aware of an attempt to sway you mentally or emotionally (such as with Dominate or Presence), you may not use the active resistance systems to avoid those effects.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Knowledge Hungry •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
+
+You always feared that you wouldn’t have the time to learn everything you wanted about what’s truly important. Well, that’s one problem solved. The time to learn is not always now, though — you regretfully put a bookmark in your studies and attend to more life-threatening matters.
+
+At character creation, pick a topic that your character hungers to study. When your character comes across books, tutorial videos, college seminars, or other methods of learning about their chosen subject, make a Willpower roll at Difficulty 3 to resist chasing their obsession.
+
+</details>
 
 <details>
 
@@ -547,6 +707,18 @@ While all right-minded Kindred do their best to blend in with mankind, you go ab
 </details>
 
 ### Banned
+
+<details>
+
+<summary><mark style="color:red;"><strong>Prestation Debts •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
+
+You owe another Kindred (or two others) two minor boons. The debt-holder wields more power and influence than you within vampire society, though not necessarily within your sect. They receive a one-die bonus in Social combat against you while they hold your marker. They may call in either of these debts at any time, but practically they do so when you really really don’t want to (or absolutely can’t) pay them off. However, if you do manage to successfully pay off both debts, you don’t need to take another Flaw to “balance” your character. The creditor still likes to lord it over you, though, and retains the one-die bonus.
+
+You can absolutely take this Flaw alongside one or more Minor Boons (Vampire: The Masquerade, pp. 193 and 315) at character creation. You cannot take this Flaw owing another player’s character the boons in question.
+
+For more a more detailed breakdown of Prestation Debts and Boons as Backgrounds, see Boons and Debts, p. 115.
+
+</details>
 
 <details>
 
