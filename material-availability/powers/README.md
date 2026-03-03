@@ -1716,6 +1716,44 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 <details>
 
+<summary><mark style="color:red;"><strong>Melpominee, Presence 2 (Players Guide p.80)</strong></mark></summary>
+
+**Cost:** Free
+
+**System:** The vampire is able to use Awe, Daunt, Dread Gaze, Entrancement, and Majesty through their voice alone. They do not need to see the target, and the target does not have to be in their presence save to be close enough to hear their voice.
+
+**Duration:** N/A
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Thrown Voice, Presence 3 + Auspex 1 (Players Guide p.80)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** No roll is required, apart from the Rouse Check. If using this power in combination with Irresistible Voice, Melpominee, or similar powers, they must roll as usual.
+
+**Duration:** One Scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Suffuse the Edifice, Presence 4 (Players Guide pp.80-81)</strong></mark></summary>
+
+**Cost:** N/A
+
+**Dice Pools:** As power transmitted
+
+**System:** Anyone seeing the building from outside or who are present inside it needs to resist the power used as if the vampire was present, unless the vampire is within eyesight, at which point they themselves becomes the focus. As a building does not generally make Skill checks, apply the bonuses instead to any reaction the victim has to the place. A nightclub under the influence of Awe will have queues stretching around the block, while a haven under Daunt will turn away all but the most staunch investigators. Use of Majesty has to be done with extreme caution, as the results can be spectacular and volatile, far exceeding the effect of the more subtle powers.
+
+**Duration:** As power transmitted
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Dread Gaze, Presence 3 (Core p.268)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1915,6 +1953,88 @@ If the user has about five minutes, they can make a Rouse Check to force their b
 **System:** No skill roll is needed to activate this power. When activated, the vampire’s natural weapon of choice becomes a light piercing Brawl weapon with a +2 modifier to damage. Vampiric Bite Attacks still only deal two points of Aggravated damage despite the number of successes, but do not suffer the 1-Success penalty. Superficial damage inflicted by the user’s natural weapons is not halved while Feral Weapons is active.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Vicissitude, Protean 2 + Dominate 2 (Players Guide pp.81-82)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** Resolve + Protean
+
+**System:** Roll Resolve + Protean. Every success on the roll allows a single Vicissitude change to be made to the user, though the total number of changes cannot exceed the user’s Protean rating, no matter the number of applications or successes. Each change causes the loss of a single Physical Attribute dot of the user, as the body mass must come from somewhere. (No Attribute can be taken below 1.) Each use of the power takes one full turn to perform.
+
+Potential Vicissitude changes are listed below:
+
+&#x20;\+ Redistribution: Add a single dot to any of the user’s Physical Attributes. This cannot cause any Attribute to exceed 5 dots. These changes are visible, but not Masquerade-threatening. Note that player characters need to keep track of their original values as these are still used to calculate experience cost for Attributes.
+
+&#x20;\+ Weapons (Once per subject only): The user gains the equivalent of a light piercing or heavy impact weapon (+2 Damage) in the form of bone spurs or bludgeons of dense cartilage. (In contrast to Feral Weapons, the damage caused by these weapons is mundane, but Feral Weapons employed by a vampire proficient in Vicissitude often take the shape of similar osseous spikes and blades.)
+
+&#x20;\+ Armor: One Attribute point can be turned into two points of armor value (Vampire: The Masquerade, p. 304), with an upper limit of six points of armor. This often takes the form of reinforced sub-dermal reinforced bone or layers of fat and cartilage, and appears increasingly inhuman as the points so allocated increase. While vampires gain little benefit from this, apart from a disturbing appearance, it serves a purpose on mortal and ghoul retainers. (See Fleshcrafting, below.)
+
+&#x20;\+ Appearance: The user can change their appearance, either for the sake of hiding their identity, enhancing their Looks Merit, or to mimic someone else. This is a time-consuming affair, taking an entire scene to perform, and requires a Dexterity + Craft test in order to succeed. Difficulty is 3 to hide one’s identity, 4 to increase Looks (each level of the Merit counts as one change) and 5 to mimic a specific person. A failure on the test yields no result (but the Attribute dot is still lost) while a total failure causes the Looks Merit to drop one level, potentially turning into a Flaw if at baseline. Nosferatu are unable to use this aspect of the power for anything but hiding their identity.
+
+&#x20;\+ Other changes: More creative uses of this power, such as creating a secret pouch somewhere on the body or moving eyes around, are beyond the scope of these mechanics, and the Storyteller needs to decide on the number of changes (and Attribute points lost) required, and the Difficulty and time required for the operation. Dexterity + Craft or Intelligence + Medicine rolls may be required in these cases.
+
+Changes can be mended as Aggravated damage, with each change equivalent to a single level of damage (restoring lost Attribute points accordingly).
+
+**Duration:** Permanent
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Fleshcrafting, Protean 3 + Dominate 2 (Players Guide pp.82-83)*</strong></mark></summary>
+
+**Prerequisite:** Vicissitude
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** Resolve + Protean vs. Stamina + Resolve
+
+**System:** In order to use this power, the user must be able to work undisturbed on the subject, who thus either needs to be willing or restrained. For a willing subject, follow the same system as Vicissitude (above). An unwilling subject can resist with their Stamina + Resolve, with the user’s margin counting as Vicissitude successes. Each use of this power takes a full scene to perform. Again, the total number of changes cannot exceed the user’s Protean rating, no matter the number of applications or successes. In case of multiple users working on a single subject, only count the highest Protean rating.
+
+Changes can be mended as Aggravated damage, with each change equivalent to a single level of damage. (Mortals thus require extensive surgery.)
+
+**Duration:** Permanent
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Horrid Form, Protean 4 + Dominate 2 (Players Guide p.83)*</strong></mark></summary>
+
+**Prerequisite:** Vicissitude
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** Resolve + Protean vs. Stamina + Resolve
+
+**System:** Horrid Form takes a full turn to activate, during which time the vampire can only defend, using their pre-Horrid Form dice pools. It then grants the vampire a number of free Vicissitude changes (no Attribute dots are lost) equal to their Protean rating. These can be spent on Redistribution, Weapons, and Armor. Generous Storytellers can also consider other changes such as wing-like membranes allowing the vampire to glide, extended limbs for reach, or other creative (but fair) uses. However, with the Beast so close to the surface, any criticals rolled while using Horrid Form for any reason are considered messy criticals, and any Frenzy test taken is at +2 Difficulty. The vampire also assumes an unmistakably inhuman appearance and is unable to communicate in anything but grunts, hisses, and roars.
+
+**Duration:** One scene, unless voluntarily ended sooner
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>One With the Land, Protean 5 + Animalism 2 (Players Guide p.83)*</strong></mark></summary>
+
+**Prerequisite:** Earth Meld
+
+**Cost:** Two Rouse Checks
+
+**Dice Pool:** N/A
+
+**System:** As with Earth Meld (Vampire: The Masquerade, p. 270), except the vampire is not limited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.”
+
+Additionally, in a distance of roughly one kilometer in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required.
+
+Rising from this state before nightfall the day after it has been entered requires a Resolve + Protean test at Difficulty 4, and even then it can take up to an hour for the vampire to fully reemerge. A critical win allows them to rise instantly, however.
+
+**Duration:** One day or more, or until physically disturbed
 
 </details>
 
@@ -2120,7 +2240,7 @@ Many mortals must make Willpower tests or flee in terror when swarmed. Difficult
 
 **System:** After making the Rouse Check, the koldun opens the old cut of their initiation. They may inflict 1 point of Aggravated Health damage to themselves per dot of Blood Sorcery they possess. For each point of damage taken, the koldun extends their senses farther out.
 
-<table data-header-hidden><thead><tr><th width="230" align="center">Aggravated Damage Taken</th><th align="center">Perception Radius</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">15 meters</td></tr><tr><td align="center">2</td><td align="center">90 meters</td></tr><tr><td align="center">3</td><td align="center">500 meters</td></tr><tr><td align="center">4</td><td align="center">1.5 kilometers</td></tr><tr><td align="center">5</td><td align="center">8 kilometers</td></tr></tbody></table>
+<table><thead><tr><th width="230" align="center">Aggravated Damage Taken</th><th align="center">Perception Radius</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">15 meters</td></tr><tr><td align="center">2</td><td align="center">90 meters</td></tr><tr><td align="center">3</td><td align="center">500 meters</td></tr><tr><td align="center">4</td><td align="center">1.5 kilometers</td></tr><tr><td align="center">5</td><td align="center">8 kilometers</td></tr></tbody></table>
 
 \
 Their perceptions focus through their chosen element. For example, a fire-bonded koldun sees, smells, hears, and feels through flames, stoves, furnaces, heater coils, lit cigarettes, etc., within their radius of effect. Koldunic Sorcery can perceive mystically-hidden beings such as Obfuscated vampires with a successful contest of Resolve + Blood Sorcery against Wits or Resolve + Obfuscate (or other relevant supernatural Trait).
@@ -2238,6 +2358,18 @@ If the poison hits, the user rolls a contest of Strength + Blood Sorcery vs Stam
 Anyone taking damage from this Power also is affected by the vitae as though they tasted it for purposes of learning Disciplines and the Blood Bond.
 
 **Duration:** The vial remains “armed” until dawn
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Blood Aegis, Blood Sorcery 4 (Players Guide p.98)</strong></mark></summary>
+
+**Cost:** One or more Rouse Checks
+
+**System:** The user expends Blood equal to one or more Rouse Checks. For each Check the floating barrier can reduce damage from incoming ranged attacks by five. The effect is automatic as the vitae intercepts each incoming projectile in a shower of Blood, only to reform as long as the power remains active. Once the protection is spent the Blood turns inert as it lies splattered over the zone of conflict.
+
+**Duration:** One scene or until damage levels are spent, whichever comes first.
 
 </details>
 
@@ -2411,6 +2543,18 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
+<summary><mark style="color:red;"><strong>Douse the Fear, Level 1 (Players Guide p.99)</strong></mark></summary>
+
+**Ingredients:** A holy object such as a crucifix, Bible, or Qur’an.
+
+**Process:** The vampire must expose the holy symbol to a flame. The object does not need to be completely destroyed, just touched by the fire.
+
+**System:** A successful Ritual roll following the burning of the holy object grants the character two additional dice on all rolls relating to resisting Rötschreck. A critical win results in the character needing to make no Terror Frenzy rolls at all. The effect lasts for one night.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Revealing the Crimson Trail, Level 1 (Gehenna War p.48)</strong></mark></summary>
 
 **Ingredients:** A needle with an eye.
@@ -2418,6 +2562,18 @@ The first person to consume the ensorcelled blood from the messenger automatical
 **Process:** The Kindred ritually prepares the needle by stabbing themselves in one eye with it, and must then peer through its eye.
 
 **System:** If the ritual is successful, the vampire can clearly see any spilled blood, dried or not, as long as they keep looking through the eye of the needle. Exceptionally old or minute traces can require a Resolve + Awareness or Investigation test to spot, as determined by the Storyteller. The ritual lasts for the rest of the scene.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Seal the Brand, Level 1 (Players Guide p.99)</strong></mark></summary>
+
+**Ingredients:** Molten silver poured over a tattoo, brand, or other body modification.
+
+**Process:** The vampire casting the Ritual pours the molten silver over the target’s tattoo, brand, or body modification. The target suffers damage from the molten silver, but once mended, the affected modification remains permanent.
+
+**System:** A successful Ritual yields a permanent body modification for the target. This modification cannot be removed by any other means and is now considered part of the target’s undying body. Pouring the molten silver onto the body modification inflicts one point of Superficial damage, which may be mended as normal.
 
 </details>
 
@@ -2444,6 +2600,30 @@ The first person to consume the ensorcelled blood from the messenger automatical
 **System:** Do not make the Ritual roll until the first time the trespasser touches the Ward, triggering its effect. Gloves or other garments offer no protection. If the caster wins the Ritual test, the victim suffers one point of Aggravated Health damage. On a critical win, damage for this Ward is three points of Aggravated damage. The caster does not need to make the Ritual roll for each trespasser touching the Ward, only the first. Anyone affected who wants to touch the warded object again must spend a point of Willpower and then win a Stamina + Resolve test (Difficulty 4, or 7 for a critical-success Ward) to make the attempt.
 
 Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + Auspex vs the caster’s Intelligence + Blood Sorcery.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>As Fog on Water, Level 2 (Players Guide p.100)</strong></mark></summary>
+
+**Ingredients:** A piece of wood from a ship, and water
+
+**Process:** The vampire submerges a piece of wood in the body of water they want to cross while spilling their Blood into it.
+
+**System:** Upon a successful Ritual roll the vampire can walk across the surface of the water for the rest of the night. They can end this effect any time they wish but cannot walk on the surface again until they recast the Ritual.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Calix Secretus, Level 2 (Players Guide p.100)</strong></mark></summary>
+
+**Ingredients:** An object that fits in the caster’s hand, and Blood of the user.
+
+**Process:** The user drenches the object with their Blood and speaks the words of the Ritual. When complete, the object absorbs the Blood.
+
+**System:** The process takes an hour. Make a Ritual roll, and if successful, the vampire imbues the object with an amount of Blood from the caster. If the caster wishes to release their Blood from the object, they need to say the command word. The amount of Blood stored can sate one Hunger for every two Rouse Checks made when storing the Blood. (Storing a single Rouse Check’s worth of Blood allows for a ghoul to get their fix or for use in another Ritual requirement.)
 
 </details>
 
@@ -2544,6 +2724,18 @@ The ritual only remains effective as long as both wear their partner’s vial an
 **Process:** The caster whispers the words of this ritual, cuts their palm, and clenches the paw in their fist, soaking it in a Rouse Check worth of their blood. If intended for a holder besides the caster, the holder also cuts their palm and holds the paw, making their own Rouse Check and mingling their blood. The holder remains completely silent during this ritual. After burning the rose in the candle, the caster quenches the candle flame with the bloody paw.
 
 **System:** A win on the Ritual roll creates a 6-meter radius of magical silence around the holder once they activate the talisman by making a second Rouse Check. The talisman must touch the holder’s flesh, but they need not keep it in their hand. The silence ends when the holder loses the talisman or after one hour, and the talisman shrivels into nothingness. A critical win increases the radius to 12 meters.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Soporific Touch, Level 2 (Players Guide p.100)</strong></mark></summary>
+
+**Ingredients:** A small amount of hashish or other narcotic substance.
+
+**Process:** The chosen substance is mixed with the user’s Blood and rubbed between their fingers as the incantation is read (or whispered). The Ritual takes only a few minutes to prepare.
+
+**System:** Make a Ritual roll vs. the Stamina + Resolve of the target when they make contact with the affected vitae. For the remainder of the scene, the victim suffers a dice penalty equal to the margin of win on the Ritual roll on all resistance pools involving Composure or Resolve. (Apply the penalty only once if the pool involves both Attributes.) The narcotic vitae retains its potency until it is touched, up until the end of the scene.
 
 </details>
 
@@ -2682,6 +2874,32 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 **Process:** The vampire cuts one of their fingertips off and burns it together with their Blood in a golden chalice or bowl.
 
 **System:** Make a Stamina + Resolve test (Difficulty 3) to cut off a fingertip. On a winning Ritual roll, a bluish flame consumes the Blood and fingertip, signaling the completion of the ritual. For the rest of the night fire damage to the caster is halved. This ritual can be performed on others, but the fingertips sacrificed must all belong to the caster. The mutilation is not enough to count as damage to the caster; the fingertip regrows during day-sleep.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Fire in the Blood, Level 3 (Players Guide pp.100-101)</strong></mark></summary>
+
+**Ingredients:** A sample of the target’s blood, a visual depiction of the target such as a photo, painting, or video recording, and a candle made from red wax or a lighter made of iron.
+
+**Process:** The vampire concentrates on the visual depiction of their target (which can be the individual in person) and burns the target’s blood sample, usually held in a Petri dish, glass bottle, or vial, over the flame. The effect occurs almost immediately, as the victim’s blood heats up in their veins.
+
+**System:** Make a Ritual roll following the incantation versus the target’s Resolve + Occult (or Resolve + Fortitude, if the target is a creature with this Discipline). Each point of the caster’s margin is applied as Superficial Health damage that also inflicts wracking pain upon the victim, forcing them to incur a two-dice penalty to Physical pools for the remainder of the scene. On a critical win, the penalty increases to three dice. A Kindred target must make a Rouse Check due to the damage to their vitae. A victim can only be affected by this Ritual once per night.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>One With the Blade, Level 3 (Players Guide p.101)</strong></mark></summary>
+
+**Ingredients:** A melee weapon and enough of the caster’s vitae to fully immerse it.
+
+**Process:** The vampire submerges their chosen weapon in their own vitae and swears an oath dedicating their unlife to the weapon. The weapon must remain submerged without interruption until the following sunrise.
+
+**System:** Once the Blood is collected and the weapon is submerged, make a Ritual roll. On a win, the weapon becomes mystically dedicated to the user. It remains of immaculate quality unless subjected to intentional harm when outside the caster’s ownership. Additionally, if again anointed by the Blood of the user it gains a two-dice bonus when used in combat. The anointment takes a single turn, forces a Rouse check and lasts for a full scene. A vampire can never possess more than one weapon dedicated this way. In order to perform this Ritual on a new weapon, the previous dedicated weapon must first be destroyed.
+
+If used against its original owner it deals Aggravated damage but gains no additional dice.
 
 </details>
 
@@ -2831,6 +3049,75 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
+<summary><mark style="color:red;"><strong>Feast of Ashes, Level 4 (Players Guide p.101)</strong></mark></summary>
+
+**Ingredients:** A piece of parchment with the name of the target written on it and burned, and ashes from the burned scroll.
+
+**Process:** The caster writes the name of their target on a piece of parchment and burns it. They collect the ashes and use their own Blood mixed with the ashes to write the sigils required to perform the Ritual.
+
+**System:** Make a Ritual roll versus the target’s Resolve + Willpower. On a successful roll, the target cannot consume blood for one night, vomiting it up as if it were mortal food and drink. Only ashes sate their Hunger and cannot bring it lower than 3, though few victims think of eating ashes unless told of the spell.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Guided Memory, Level 4 (Players Guide p.102)</strong></mark></summary>
+
+**Ingredients:** The vitae of another vampire, dried rosemary, and fresh poppies or forget-me-nots.
+
+**Process:** The sorcerer burns the flowers and rosemary, blending the ashes with the donated vitae, then drinks the Blood.
+
+**System:** The sorcerer selects a Memoriam goal (Vampire: The Masquerade, p. 312), or one of the goals below:
+
+• A Level 1 Discipline power; a one-dot Merit\
+•• A Level 2 Discipline power; a two-dot Merit\
+••• A Level 3 Discipline power; a three-dot Merit
+
+The power may be encountered during the Memoriam, or the memory itself deals with the donor learning the power. The Merit may emerge from a similar circumstance, or result from the character unlocking some secret or potential in the past.
+
+While the player may pursue a specific power or Merit, the Storyteller is the final judge of which gift they gain.
+
+All gifts of guided Memoriam fade as new native memories overlay these resurfaced and imported ones. They last until the end of the session, or (if the guided Memoriam happened at the end of the session) until the end of the next one.
+
+**Powers**
+
+This power is independent of the sorcerer’s other powers and does not count against the limit of powers they can possess in a single Discipline, although they still need to fulfill the Discipline rating requirement. This power cannot be used as a requirement to learn another power, but a character could gain an Amalgam power temporarily if they already knew the other prerequisite power.
+
+**Merits**
+
+Merit dots cannot be spread among different Merits or added to existing Merits the player character may already have.
+
+**Entering the Guided Memoriam**
+
+A guided Memoriam follows all of the same rules as a standard Memoriam except the Kindred donating the Blood and memories rolls the required Rouse check. The donor remains present throughout the scene as a spiritual or disembodied presence or guide that only the Kindred experiencing the Memoriam can interact with. Everyone experiencing the guided Memoriam must partake of the offered Blood.
+
+Walking through another Kindred’s memories is a particularly unnatural experience and inflicts penalties based on how far back in time the journey delves. The Blood offered by the Kindred donor is always considered a deep drink (Vampire: The Masquerade, p. 312) and the bonuses supplied from that usually offset some of these penalties.
+
+**Additional Guided Memoriam Modifiers**
+
+* The scene takes place during or after your mortal life: lose one die
+* The scene takes place less than a century before your mortal life: lose two dice
+* The scene takes place one or two centuries before your mortal life: lose four dice
+* The scene takes place three or more centuries before your mortal life: lose six dice
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Invisible Chains of Binding, Level 4 (Players Guide pp.101-102)</strong></mark></summary>
+
+**Ingredients:** A link of chain
+
+**Process:** The sorcerer inscribes the sigils on the chain using their own Blood. The process takes an hour, at which point the chain link can be concealed on their person to be used on a target at a later time, at which point the chain is thrown at their feet.
+
+**System:** When throwing the prepared link at a target the user makes a Ritual roll against the target’s Strength + Resolve. The target is unable to move from the spot for one hour per success in the margin as long as the chain link remains intact and within three yards / meters of them. A bound target suffers a four-dice penalty to any physical defense tests as well as to brawl and melee actions.
+
+The chain link corrodes to dust at the end of the Ritual’s effect.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Defense Of The Sacred Haven, Level 4 (Core pp.279-280)</strong></mark></summary>
 
 
@@ -2962,6 +3249,30 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
+<summary><mark style="color:red;"><strong>Antebrachia Ignium, Level 5 (Players Guide pp.102-103)</strong></mark></summary>
+
+**Ingredients:** Sufficient vitae (from any vampire) to coat the caster’s arms up to the elbows, and a source of flame (such as a lighter).
+
+**Process:** The vampire immerses their arms in the blood and withstands the urge to feed or Frenzy. After extracting their arms, exposure to flame ignites the vitae rather than the vampire it coats. The vampire can then go on to set targets alight using the fire on their skin.
+
+**System:** If the user is at Hunger 4 or more, make a Hunger Frenzy test at Difficulty 3 to avoid draining the ingredients. At any point during the night they may expose the vitae to fire and make a Ritual roll. Any success ignites flames on the vampire’s hands and arms, a spectacular display provoking a Terror Frenzy test (Difficulty 2) in all nearby vampires except the caster. They may touch others with Dexterity + Brawl in physical combat to inflict two Aggravated Health damage. Entering a grapple ignites the both combatants’ clothes, continuing the damage each turn until they make a Composure + Survival roll (Difficulty 3) to smother the burn. The caster is only resistant to flame on their arms, and burns as usual elsewhere. The fiery arms extinguish when the caster wills it or when the scene ends.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Dominion, Level 5 (Players Guide p.103)</strong></mark></summary>
+
+**Ingredients:** Seal made of iron embedded over every doorway in the building.
+
+**Process:** The ritual takes three hours to cast. During this time, the caster must be embedding iron seals over every doorway, consecrating them with their own vitae, and carving sigils on the doors.
+
+**System:** Upon a successful Ritual roll, the Blood sorcerer stops any uses of Animalism, Auspex, Dominate, or Presence except by themselves. Any uses of the Disciplines within the building still cause any Rouse checks to occur, though the amount of Blood spent to perform the Ritual varies – from Rouse Check for an apartment up to five for a large manor. The Ritual lasts indefinitely but can be broken by the destruction of at least one seal.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Atrocity’s Release, Level 5 (Gehenna War p.49)</strong></mark></summary>
 
 **Ingredients:** Human reproductive organs thinly sliced, moss or a sea sponge, and scrapings of bezoar.
@@ -3072,6 +3383,240 @@ A sorcerer can only have one active use of this ritual cast at a time, and it lo
 
 <details>
 
+<summary><mark style="color:red;"><strong>Ashes to Ashes, Oblivion 1 (Players Guide p.85)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Stamina + Oblivion vs. Stamina + Medicine or Fortitude
+
+**System:** The vampire makes a Rouse Check to expend vitae, and introduces the vitae to the corpse. Unless the corpse is animated, the body disintegrates over three turns with no test necessary. If it is, the user rolls a contest of Stamina + Oblivion against Stamina. (Corpses with Fortitude may resist with Stamina + Fortitude.) If the user wins, the animated corpse dissolves in five turns, minus the margin (minimum one, and disintegrating corpses suffer physical Impairment). On a critical win, the corpse disintegrates immediately. On a total failure, the corpse is subsequently immune to this power from any user.
+
+**Duration:** Variable
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>The Binding Fetter, Oblivion 1 (Players Guide p.85)</strong></mark></summary>
+
+**Cost:** Free
+
+**Dice Pools:** Wits + Oblivion
+
+**System:** On activation, the user’s senses become supernaturally attuned to the energies of fetters, and they may identify these auras by sight, smell, and their other senses. While this power is in use, the vampire is distracted from other activity around them, conveying a −2 penalty to Dexterity and Wits rolls.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Oblivion's Sight, Oblivion 1 (Players Guide p.85)</strong></mark></summary>
+
+**Cost:** Free
+
+**Dice Pools:** Wits + Oblivion
+
+**System:** On activation, the user’s eyes become supernaturally attuned to darkness, allowing them to ignore all low-light penalties, including those of supernatural origin. They still need their eyes to see and are affected by blindfolds and the like as usual.
+
+If a ghost is present and not attempting stealth or using a power to conceal its presence, the spirit becomes visible to the vampire using Oblivion’s Sight. In such cases, ghosts appear as they wish to appear, whether as humans bearing the wounds that caused their death, as spectral monstrosities, or as perfectly immaculate corpses. Ghosts do not automatically realize when a vampire spots them, but if they do, many react with fear or anger rather than passivity.
+
+This power does not grant the ability to make physical contact with ghosts, and the pitch-black eyes incur a two-dice penalty to social interactions with mortals while active.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shadow Cloak, Oblivion 1 (Players Guide pp.85-86)</strong></mark></summary>
+
+**Cost:** Free
+
+**Dice Pools:** N/A
+
+**System:** The vampire gains a two-dice bonus to Stealth rolls, as well as on Intimidation versus mortals.
+
+**Duration:** Passive
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Arms of Oblivion, Oblivion 2 + Potence 2 (Players Guide pp.86-87)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Wits + Oblivion
+
+**System:** The user takes one turn and pays the cost, summoning the extensions. Using these, the vampire can perform bludgeoning and grappling attacks against distant targets every subsequent turn. Additional arms can be created by splitting the dice pool, enabling the user to engage multiple opponents. (Vampire: The Masquerade, p. 125). The shadows use the vampire’s Wits + Oblivion to attack and deal Superficial damage or grapple, adding half the user’s Potence rating (round up) as a damage bonus. The vampire can do nothing else except control the shadows while this power is active.
+
+They can also use the shadows to perform simple actions (such as opening doors and pulling levers) but nothing as advanced as typing or controlling vehicles. The extrusions have a length (in yards/ meters) equal to twice the Oblivion dots of the user. (Note that they, being shadows, move across surfaces, not air, and any distances must take this into account.)
+
+The shadow arms can only be banished by bright light, such as from a powerful torch or daylight, but a successful Wits + Oblivion roll against Difficulty 3 allows the shadows to avoid the light for a turn.
+
+**Duration:** One scene or until ended or destroyed
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Fatal Prediction, Oblivion 2 + Auspex 2 (Players Guide p.87)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Resolve + Oblivion vs Wits + Occult
+
+**System:** The vampire makes a Resolve + Oblivion test against the mortal target’s Wits + Occult. For every success in the margin, the target suffers one point of Aggravated damage at some point during the next 24 hours. The source can be anything from sudden illness to freak accidents, but at no point must the vampire interact, directly or indirectly, with the victim as doing so risks negating the power. (The Storyteller decides exactly where the line is drawn on “indirect” interaction, but things like sending flunkies to “hasten” the outcome is definitely on the list.) Use of this power is invisible, though an onlooker can detect some sense of foul play on a Wits + Occult test at Difficulty 3. Only mortals (including ghouls) can be affected by this power, as vampires are dead already and far more resistant to these kinds of entropy manipulations.
+
+**Duration:** A night and a day – 24 hours
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shadow Cast, Oblivion 2 (Players Guide p.87)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** Activating the power conjures a supernatural shadow from the vampire’s body. As long as the power is active, the user casts this shadow, which cannot be removed except by direct sunlight. Anyone witnessing the practitioner notices the shadow cast from no visible light source on a Wits + Awareness roll (Difficulty 3). The vampire can direct their shadow, elongating or distorting (but not detaching) it at will, though it can sometimes act on its own accord, at the Storyteller’s discretion. For the purposes of other powers such as Shadow Perspective, the practitioner can lengthen the shadow to up to twice the practitioner’s Oblivion rating in yards/meters. For anyone standing within the shadow’s reach, the Willpower damage from social conflict increases by 1 (after halving for Superficial damage). Standing in Oblivion’s shadow is a terrifying prospect.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Where the Veil Thins, Oblivion 2 (Players Guide pp.87-88)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** Intelligence + Oblivion&#x20;
+
+**System:** Following a Rouse Check, the player rolls Intelligence + Oblivion (Difficulty 3) and on a win may determine the density of the veil in their nearby area, as large as an entire building or landmark. On a critical win, this roll reveals whether the veil density recently changed. On a total failure, the power backfires and gives a false reading.
+
+<table><thead><tr><th width="149" align="center">Shroud Density</th><th align="center">Possible Cause</th><th width="333">Effect</th></tr></thead><tbody><tr><td align="center">Impenetrable</td><td align="center">No deaths took place here, sacred ground</td><td>Wraiths cannot cross the veil here</td></tr><tr><td align="center">Thick</td><td align="center"><p>Long ago a death took place here, a place</p><p>of joy</p></td><td>No effect</td></tr><tr><td align="center">Thin</td><td align="center">A death recently took place here,<br>melancholic mortals often pass through<br>this place</td><td>−1 Difficulty on Oblivion Ceremony rolls</td></tr><tr><td align="center">Frayed</td><td align="center">A series of deaths took place here,<br>Oblivion Ceremonies are often enacted<br>here</td><td>−2 Difficulty on Oblivion Ceremony rolls</td></tr><tr><td align="center">Absent</td><td align="center">Split the Veil (p. 96) was used here, wraiths<br>regularly pass through this part of the veil</td><td>−2 Difficulty on Oblivion Ceremony<br>rolls, wraiths can freely pass to and from<br>the lands of the dead, mortals suffer two<br>Superficial Health damage in this area that cannot be healed until they depart</td></tr></tbody></table>
+
+Without use of this power, Oblivion users cannot benefit from a thinning of the veil, though penalties apply at the Storyteller’s discretion.
+
+**Duration:** One turn
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Aura of Decay, Oblivion 3 (Players Guide p.88)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** Stamina + Oblivion vs. Stamina + Medicine or Fortitude
+
+**System:** The vampire makes a Rouse Check. Following a win on a Stamina + Oblivion roll (Difficulty 3), unintelligent organic and inorganic material within five yards/ meters of them suffers — plants turn black and die, food rots in its packaging, and even bricks start crumbling. Material affected in this way can become toxic to ingest, if for instance this power is used in a kitchen or a water supply. Such toxic food and drink, if consumed, can be expected to inflict two Superficial Health damage in the following scene to the individual who eats it, and for each scene thereafter until treated with an Intelligence + Medicine roll (Difficulty 3).
+
+If anything living is caught in the aura, it makes a Stamina + Medicine contest against the vampire’s activation roll. For every point of margin the vampire has, the victim suffers one point of unhalved Superficial Health damage. This damage is slowly applied throughout the scene. Repeated applications of the power in the same scene have no effect on the Health of mortals already affected.
+
+The power is an aura that lasts for an entire scene before it fades away. Anyone with a sense of smell can detect a rotting odor emanating from the vampire during the time the power is active, inflicting a two-dice penalty to any Social rolls the vampire makes.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Passion Feast, Oblivion 3 + Fortitude 2 (Players Guide pp.88-89)</strong></mark></summary>
+
+**Cost:** Free
+
+**Dice Pool:** Resolve + Oblivion vs. Resolve + Composure
+
+**System:** A vampire with this power can drain a wraith of their passion. While in close proximity (three yards/meters or closer) to the wraith, they may roll a contest of Resolve + Oblivion vs. the wraith’s Resolve + Composure. A win for the vampire inflicts one Aggravated Willpower damage to the wraith and reduces the vampire’s Hunger by one. Feeding from a wraith may merit a Stain at the Storyteller’s discretion, as the consumed passion dulls the wraith’s reason for being, likely sending them down a path to self-destructive acts. The Storyteller determines the number of passions a wraith possesses (though five or more is rare), and may deem that the wraith becomes an uncontrollable, murderous spectre once all passions have been consumed.
+
+**Duration:** Passive
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shadow Perspective, Oblivion 3 (Players Guide p.89)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** Resolve + Oblivion vs. Resolve + Composure
+
+**System:** Following a Rouse Check, the presence of the vampire’s senses in the shadow is undetectable by anything but supernatural means. (Sense the Unseen, for example). While this power is active the vampire perceives both their surroundings as well as what can be gleaned from the Shadow Perspective, as if looking through a screen or hole.
+
+**Duration:** Up to one scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shadow Servant, Oblivion 3 + Auspex 1 (Players Guide p.89)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** N/A
+
+**System:** The servant has no mind of its own, but follows its creator’s mental commands. The shadow travels at running speed and can effortlessly slip under doors, climb walls, or slip into or through the smallest cracks, although it cannot endure brightly lit areas. It can also cling to moving vehicles, and its range is limited only by how far it can travel in one night. It hears and sees everything in its vicinity and can convey the information as soon as it is reabsorbed into its creator’s shadow. The shadow servant can only be banished by bright light, such as from a powerful torch or daylight, but a successful Wits + Oblivion roll against Difficulty 3 allows the servant to avoid the light for a turn.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Touch of Oblivion, Oblivion 3 (Players Guide p.89)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** N/A
+
+**System:** Following a Rouse Check, the vampire grips their victim, requiring a Strength + Brawl roll if the victim is trying to avoid the vampire. Once gripped, the victim suffers two levels of Aggravated damage as well as a crippling injury.
+
+If this injury is inflicted to an arm or leg, the targeted limb is rendered crippled and in the case of mortals requires lengthy rehabilitation, while vampires can mend the damage as regular Aggravated damage. Likewise, Touch of Oblivion may render a target mute, deaf, or blind. See crippling injuries (Vampire: The Masquerade, p. 303) for mechanical details. Storytellers may decide that inflicting such mutilation warrants Stains.
+
+**Duration:** One turn
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Necrotic Plague, Oblivion 4 (Players Guide pp.89-90)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pool:** Intelligence + Oblivion vs. Stamina + Stamina or Fortitude
+
+**System:** The user makes a Rouse Check and then rolls Intelligence + Oblivion while touching their mortal victim. If the victim is weak (a baby, elderly, unwell, recovering from an illness, dying, or with 3 unmarked Health boxes or less), they are automatically infected. If the victim is healthy, they make a Stamina test (those with Fortitude may resist with Stamina + Fortitude), resisting the disease if they roll more successes than the vampire.
+
+Victims of the disease take one Aggravated Health damage at the start of every scene following their infection. The victim suffers from the disease for a number of scenes equal to the user’s Oblivion rating. This damage cannot be medically treated, as it is supernatural in origin, but it can be healed through drinking vitae.
+
+If the player rolls a critical win when activating this power, they can choose to make the disease communicable via touch, with subsequent recipients suffering the disease for one turn fewer than the victim by whom they were infected.
+
+Use of this power warrants Stains, at the Storyteller’s discretion.
+
+**Duration:** One turn to activate, variable length of condition
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stygian Shroud, Oblivion 4 (Players Guide p.90)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Manipulation + Oblivion vs. Composure + Resolve
+
+**System:** The user makes a Rouse Check and spends a turn concentrating, spreading the shadow over the desired surfaces. The effect covers a circular area with a radius equal to twice the user’s Oblivion rating in yards/meters. The area is centered on the user or a spot in their line of sight.
+
+Anyone caught in the Stygian Shroud receives a three-dice penalty to all rolls, unless they possess the ability to see through supernatural darkness. Any mortals caught in the Stygian Shroud suffer one level of Superficial damage for every turn they remain within it, due to the power’s suffocating effects.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Profane the Sanctified, Oblivion 4 (Tattered Facade p.100)</strong></mark></summary>
 
 **Prerequisite:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
@@ -3104,7 +3649,133 @@ The entity possesses the same Physical Attributes and Skills as its host, no Wil
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>Shadow Step, Oblivion 5 (Players Guide pp.90-91)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** The vampire must enter a shadow large enough to cover them, and emerge from another one turn later. The target shadow must be within sight, though it can be perceived by mystical means, such as Shadow Perspective, if desired.
+
+It is possible to bring another through the passage, but unless that person is willing, they must be held by a successful grapple. If a Stain is incurred as a result of using this power, the passenger also receives one.
+
+**Duration:** One turn
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Skuld Fulfilled, Oblivion 5 (Players Guide p.91)</strong></mark></summary>
+
+**Cost:** Two Rouse Checks
+
+**Dice Pool:** Stamina + Oblivion vs. Stamina + Stamina or Fortitude
+
+**System:** The vampire makes two Rouse Checks as they expend sufficient vitae to coat both their palms and their face with blood, recalling the faces of their targets. If the user succeeds in a contest of Stamina + Oblivion vs. the victim’s Stamina x 2 (those with Fortitude may resist with Stamina + Fortitude), the targeted individual is affected by a serious condition they’ve historically suffered and recovered from, such as treated cancer, a broken bone, or a disease — including one gained through Necrotic Plague (p. 90) — with any debilitating effects from this condition occurring immediately. The condition’s effects are for the Storyteller to determine, but they should be severe (See the Crippling Injuries table for inspiration, Vampire: The Masquerade, p. 303). If the victim is a ghoul, this power removes their immunity to aging and eliminates any vitae in their system, potentially resulting in older ghouls dying or even disintegrating where they stand. On a critical win, this power may kill the victim by stopping their heart completely if the user wishes. On a total failure, the vampire cannot use this power against that individual again.
+
+**Duration:** Variable, dependent on whether the condition is treatable
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Tenebrous Avatar, Oblivion 5 (Players Guide p.91)</strong></mark></summary>
+
+**Cost:** Two Rouse Checks
+
+**System:** The transformation takes one turn, during which the vampire is unable to do anything else. Once the transformation is complete the vampire can move at walking pace across the ground or along walls, hampered only by hermetically sealed barriers.
+
+Vampires using Tenebrous Avatar can envelop victims, causing the victim to reduce all their dice pools by three and suffocating mortals as with Stygian Shroud, above. If surrounding a mortal, the vampire can feed from them without penetrating the skin with fangs.
+
+Practitioners of this power take no damage from physical sources but can be harmed by fire and sunlight as normal. Mental Disciplines can still be used at the Storyteller’s discretion.
+
+**Duration:** One scene or until ended
+
+</details>
+
 ## Ceremonies
+
+<details>
+
+<summary><mark style="color:purple;"><strong>The Gift of False Life, Level 1 (Players Guide p.92) *</strong></mark></summary>
+
+**Prerequisite Power:** Ashes to Ashes
+
+**Ingredients:** A human body (or multiple bodies), a small concoction of blood, phlegm, and bile.
+
+**Process:** After applying the concoction to the corpse or corpses and performing the Ceremony, the affected bodies animate into a form of false life. They follow a single simple command from the vampire, providing the corpse is physically capable of performing it, such as “sweep the floor,” “hold this door shut,” or “walk around the house perimeter.” They have no ability to think or calculate, so conditional or complicated commands such as “attack the next person to walk through this archway,” “drive this car,” or “build a shack” do not work. They may be directed towards a specific target for attack or other action if the user points at the target.
+
+**System:** The vampire makes their Ceremony roll and upon a win they raise a number of corpses equal to their Oblivion rating, or the number of bodies they have prepared (whichever is lower). A critical win doubles their Oblivion rating for the purpose of determining corpses raised. The mindless corpse’s animation ends when it is destroyed or it concludes its task. These corpses do not defend themselves from attacks, and decay as normal; the Ceremony does not grant them any form of immunity to the elements or time.
+
+**Mindless Corpse Stat Block**
+
+**Standard Dice Pools:** Physical 2, Social 0, Mental 0\
+**Secondary Attributes:** Health 4, Willpower 0\
+**Exceptional Dice Pools:** Intimidation 4\
+**Special:** Mindless corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage, and rot at least one Superficial Health damage each day. They cannot be mentally dominated or influenced as they are bound to their master. They do not react to motion, words, or interference from anyone but their reanimator. Mindless corpses may always contribute to Teamwork (Vampire: The Masquerade, p. 122) for menial labor such as digging, lifting, or pushing even if they lack Skills.\
+**General Difficulties:** 2/1
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Summon Spirit, Level 1 (Players Guide pp.92-93) *</strong></mark></summary>
+
+**Prerequisite Power:** The Binding Fetter
+
+**Ingredients:** One of the targeted wraith’s fetters (see The Binding Fetter, p. 85), a photo or other visual depiction of the wraith or their signed name, and the caster’s vitae.
+
+**Process:** The necromancer pours their vitae over a wraith’s fetter, and studying the picture or signature, calls out the wraith’s name. The wraith feels their fetter’s call, and begins a journey from their location in the Underworld to that of the caster. Though geography has differing scales in the Underworld, a journey may still take several nights if the spirit is on the other side of the world. If the veil is thin enough in the summoning location, the wraith is pulled through the veil between worlds by the fetter’s strength. The summoned wraith is under no obligation to serve the vampire upon being called and may act with hostility if they feel the vampire is threatening their fetter. Alternatively, the wraith may be grateful for the summoning and the possibility of companionship.
+
+**System:** The caster daubs the fetter with their vitae and makes an Oblivion Ceremony roll. The wraith cannot pass through the veil if it’s impenetrable in the Ceremony location (see p. 88). Moving the fetter after the Ceremony doesn’t help, as the wraith’s ability to pass through the veil disappears if the fetter leaves the Ceremony site. The wraith disappears at the end of the scene unless a separate Ceremony is used to compel or bind them.
+
+Wraiths summoned in this way do not manifest physically, but as shadows on the walls, quavering silhouettes of their living selves, from which voices might emerge. Wraiths speak the same languages they did in life, unless they’ve gone to the trouble of learning new ones in the Underworld.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Awaken the Homuncular Servant, Level 2 (Players Guide p.93) *</strong></mark></summary>
+
+**Prerequisite Power:** Where the Veil Thins
+
+**Ingredients:** The required body part or animal carcass, the weapon used to sever/kill it, a small concoction of urine, fecal matter, and semen.
+
+**Process:** The caster coats a blade (or other device suited to the task) in a gross cocktail of bodily fluids, and uses it to cut the targeted appendage off its root limb or body, or kills the small animal (which cannot be larger than a small dog and cannot fly, regardless of whether it has wings). After massaging vitae into the target, it comes to life as a homuncular servant, unfailingly loyal to its master.
+
+**System:** The necromancer makes an Oblivion Ceremony roll and on a win gains a homuncular servant that spies, follows, or intimidates at the necromancer’s command. If it strays farther than 100 yards/meters from the vampire, it falls inert, only awakening again once the vampire enters that range. Otherwise, it remains active for a number of nights equal to the number of successes rolled. A critical win on the roll keeps the servant active forever, while a total failure destroys all components involved in the Ceremony.
+
+Most homunculi can scale walls, hop (even if it lacks the limbs to do so), and hide effectively, though individual variation is great and depends on the tasks it was created to perform. While it cannot speak or perform actions requiring deep thought, it can telepathically communicate single images, scents, or sounds to its creator.
+
+**Homuncular Servant Stat Block**
+
+**Standard Dice Pools:** Physical 1, Social 0, Mental 1\
+**Secondary Attributes:** Health 3, Willpower 1\
+**Exceptional Dice Pools:** Athletics 4, Stealth 6; Intimidation 4\
+**Special:** Homuncular servants take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. They can telepathically broadcast a single image per scene to their master.\
+**General Difficulties:** 3/1
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Compel Spirit, Level 2 (Players Guide p.94) *</strong></mark></summary>
+
+**Prerequisite Power:** Where the Veil Thins
+
+**Ingredients:** A wraith’s fetter, the caster’s vitae, and an item (or threat) sufficient to damage the fetter.
+
+**Process:** The vampire must be in close proximity to a wraith in order to use this Ceremony, typically through use of Summon Spirit (see p. 92). The necromancer casts a handful of their own vitae in the wraith’s direction as they hold a destructive item to the fetter (a knife, a hammer, a gun, or potentially holding the fetter over a fire) or speak threatening words that the wraith believes. The vampire and wraith engage in a contest of wills. If the vampire wins, the wraith must serve as the vampire decrees, at least temporarily. On a loss, the vampire is left mentally debilitated and the fetter disappears from their grasp.
+
+**System:** Make an Oblivion Ceremony roll vs. the wraith’s Resolve + Composure. If the vampire has no way of physically threatening the fetter, also make a Manipulation + Intimidation roll (Difficulty equal to the wraith’s Resolve + Composure).
+
+If the necromancer wins both rolls, they can command the wraith to perform a number of moderately difficult tasks (spying, research, answering questions truthfully, etc.) equal to the number of successes rolled on the Ceremony roll. For every two successes, the vampire can instead command the wraith to perform a difficult task (such as attacking someone, doing something repugnant to the wraith’s sensibilities, etc.). On a critical win, the vampire can demand any action from the wraith, and it tries its best to complete the task. The wraith remains in the vampire’s service until the end of the chronicle or until it has fulfilled its master’s commands, at which point it returns to the Underworld with an eternal enmity for the necromancer.
+
+If the wraith wins either contest, the vampire suffers the margin in Superficial Health damage, and the wraith then re-enters the Underworld.
+
+The compulsion placed on the wraith ends immediately if the vampire attacks it. If the vampire harms the threatened fetter, the wraith suffers between one and three Aggravated Willpower damage (depending on the importance of the fetter) and the wraith is sent back to the Underworld to be tormented by, and possibly converted into, a murderous spectre (Vampire: The Masquerade, p. 377).
+
+</details>
 
 <details>
 
@@ -3135,6 +3806,52 @@ Once created, the relic (usually in the form of a mummified hand, skull, femur, 
 For the duration of the Ceremony, the character cannot speak if the power was used on the mouth, as it most commonly is. A bite attack deals 1 aggravated point of Willpower damage in addition to the fang damage. The vampire is unable to slake Hunger while this Ceremony is in effect, though, as any blood swallowed is annihilated.
 
 The Ceremony lasts until sunrise or the vampire cancels it. Canceling the Ceremony requires the character to pay in flesh: they must stick a small portion of their body into an orifice, dealing 1 point of Superficial damage which cannot be reduced in any way as a bit of flesh is consumed by the Abyss. It can be mended normally.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Host Spirit, Level 3 (Players Guide pp.94-95) *</strong></mark></summary>
+
+**Prerequisite Power:** Aura of Decay
+
+**Ingredients:** A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth.
+
+**Process:** The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. 92). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body.
+
+The benefits of having a wraith ride one’s body include an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power.
+
+Allowing a wraith to control one’s actions for a night effectively subdues the Beast, as well as demonstrating physical prowess and knowledge the vampire may not usually possess.
+
+**System:** Make a successful Oblivion Ceremony roll. If the wraith agrees to the proposition, it then enters the vampire’s body and can remain for a number of scenes equal to the successes rolled on the Oblivion Ceremony roll. With the wraith inside them, the vampire gains two dice to all Physical Attribute rolls and +2 Health until the wraith departs. The vampire can hear the wraith in their head, offering advice, and they can substitute the wraith’s Skills for their own, at the Storyteller’s discretion.
+
+A wraith can choose to assert its possession instead of acting as a passenger. If the vampire resists, they make a Resolve + Composure roll vs. the wraith’s Resolve + Composure. If successful, they reject the wraith’s influence. If failed, the wraith steers the vampire until the end of the scene, though it can’t make the vampire do anything self-destructive.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Shambling Hordes, Level 3 (Players Guide pp.95-96) *</strong></mark></summary>
+
+**Prerequisite Power:** Aura of Decay
+
+**Ingredients:** A mortal corpse (or multiple corpses), and a fresh mortal sacrifice.
+
+**Process:** The vampire must have a separate corpse in addition to a mortal prepared for sacrifice. The vampire slays the sacrificial victim, spilling their blood on the corpse or corpses intended for animation. If the Ceremony is successful, the corpses stand (the recent sacrifice does not) and serve the vampire’s commands.
+
+**System:** Due to the amount of blood spilled in this Ceremony, the caster must first test to resist Hunger Frenzy (Difficulty 2). Make a Ceremony roll, possibly incurring Stains in the process depending on the chronicle Tenets and the Storyteller’s discretion. Upon a win a number of aggressive dead equal to the necromancer’s Oblivion rating or the number of prepared bodies (whichever is lower) receive the gift of animation. Corpses animated this way do not decay and only enter repose if commanded to by the vampire, if the vampire meets final death, or if destroyed.
+
+The animated corpses can parse moderately complex orders such as “kill everyone who enters,” “groan if you see anyone pass this way,” or “terrorize that neighborhood.” Unlike the corpses raised using the Gift of False Life (see p. 92), these animated dead do not sit idle if left without commands, instead attacking anyone around them except for their master.
+
+As per the rules for temporary Advantages like these (Vampire: The Masquerade, p. 180), their continued usefulness beyond the current story must be ensured with Experience — such as through the Retainers Background (Vampire: The Masquerade, p. 196; one dot per loyal corpse) — or the aggressive corpses may become unstable and unruly.
+
+**Aggressive Corpse Stat Block**
+
+**Standard Dice Pools:** Physical 4, Social 0, Mental 0\
+**Secondary Attributes:** Health 6, Willpower 0\
+**Exceptional Dice Pools:** Brawl 6; Intimidation 5\
+**Special:** Aggressive corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. Bites from the aggressive dead inflict +2 Health damage which is Aggravated to mortals.\
+**General Difficulties:** 3/2
 
 </details>
 
@@ -3209,6 +3926,40 @@ A vampire can use this ceremony on themselves or another vampire, even if the su
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Bind the Spirit, Level 4 (Players Guide p.96) *</strong></mark></summary>
+
+**Prerequisite Power:** Necrotic Plague
+
+**Ingredients:** A wraith’s fetter, the sacrifice of an innocent mortal, and sufficient salt to surround a property or individual. If the target for haunting is an individual, the necromancer must possess something of their body, such as fingernails, hair, blood, or skin.
+
+**Process:** The vampire must already have a wraith under their control using Compel Spirit (see p. 93). The vampire kills an innocent mortal (though innocence is subjective, this tends to apply to the young, caregivers, and genuinely pious individuals) in or close to a location or person they want their wraith to haunt. Subsequently, they mix their vitae with sufficient salt to surround the target for haunting, and paint a circle with the mixture. They place the wraith’s fetter somewhere within the location, or in the target’s possession.
+
+**System:** Following the steps of the Ceremony, the vampire may incur Stains from the murder depending on the Chronicle Tenets and the Storyteller’s discretion. They make an Oblivion Ceremony roll that cannot be resisted, as the wraith must already be compelled for this power to work.
+
+The wraith is bound to the location or individual targeted, with no duration applied to this Ceremony’s effects. Any emotion the wraith feels intensely during its binding affects the inhabitants of the location or the individual to whom it’s bound, with each person affected suffering a two-dice penalty to all rolls made to resist acting or feeling the way the wraith feels. Therefore, an angry wraith may make vampires more inclined to Frenzy, while a depressed wraith might make a mortal more likely to stop self-care. Bound wraiths have the same powers as spectres (Vampire: The Masquerade, p. 377).
+
+The wraith is forever bound to the target, unless the vampire cancels the Ceremony, the fetter ever moves from the location or individual’s possession, or the wraith is destroyed. Binding also ends if the necromancer attacks the wraith. Most wraiths bound in this way are furious or melancholic about their plight, and their mood affects the area around them. Many necromancers use this method to defend their havens or haunt their enemies.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Split the Veil, Level 4 (Players Guide pp.96-97) *</strong></mark></summary>
+
+**Prerequisite Power:** Necrotic Plague
+
+**Ingredients:** A blade that’s been used to cut into someone living, chalk or charcoal, a silk sheet, and a human sacrifice.
+
+**Process:** The vampire hangs a silk sheet over a wall in a place where the veil density (see p. 88) is standard, thin, or frayed. They then perform a human sacrifice against the sheet, and as blood coats the sheet, cut it open with a blade. The Ceremony widens the portal between the world of the living and the world of the dead.
+
+**System:** The caster performs the sacrifice, which may result in Stains depending on the chronicle Tenets and the Storyteller’s discretion. When cutting the silk sheet, their player makes the Ceremony roll). Due to the amount of blood spilled in this Ceremony, the caster must roll to resist Hunger Frenzy (Difficulty 2). For every success on the Ceremony roll, the veil’s density reduces by one level, down to being absent (see Where the Veil Thins on p. 87).
+
+Importantly, if the veil rating is reduced to absent, wraiths can spill into the physical world for the remainder of the session (or night). Once that period concludes, a veil density of absent increases to frayed and the gateway for wraiths closes.
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;"><strong>Bind to Mortal Form, Level 4 (Tattered Facade p.102) *</strong></mark></summary>
 
 **Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Skuld Fulfilled</mark>
@@ -3240,6 +3991,24 @@ The conversion rate of vitality is 1:1 for mortals who are related or deeply emo
 The vampire must make a Ceremony test of Resolve + Oblivion at Difficulty 6 to stop the process and cut the bond before the targeted mortal shrivels up like a dried prune and turns to dust. If the vampire cannot stop the Ceremony this way, simply killing the mortal works as well. Regardless of the outcome, the vampire performing this Ceremony most likely gains one or several Stains.
 
 Even more than most, this Ceremony is likely to attract attention from the other side of the Veil.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Lazarene Blessing, Level 5 (Players Guide pp.97-98) *</strong></mark></summary>
+
+**Prerequisite Power:** Skuld Fulfilled
+
+**Ingredients:** One mortal sacrifice, incense, the heart of any mammal, and powdered silver.
+
+**Process:** The necromancer burns incense to perfume the air before performing an act of sacrifice, cutting the heart of the victim out and replacing it with the heart of another mammal, though it doesn’t need to be stitched in and working for the Ceremony to function. After pouring a bag of powdered silver over the open eyes of the dying or dead mortal, the vampire invites a wraith to take the deceased mortal as a host. Wraiths cannot be forced to possess a body, but few refuse the opportunity to walk around in semi-living shoes again.
+
+**System:** Killing a mortal for this Ceremony may incur Stains, depending on the chronicle Tenets. If the replacement heart was likewise taken from someone the vampire murdered, that murder might also incur Stains. Following a successful Ceremony roll, a wraith can enter the freshly-dead body and live in it as if it were their own. The wraith must be present during the act of sacrifice.
+
+The possessed corpse wakes bearing the wounds that killed it, though the replacement heart is functional (no matter its origin or placement) and the body heals one point of Health damage upon possession. The remaining Health damage recovers with time (as vampiric healing). The body gains no special resistances to harm beyond Disciplines it might have possessed in life. The body possesses the same Physical Attributes, Disciplines (if a ghoul), and Advantages it had in life. Social and Mental Attributes, Skills, and any form of morality rating match those of the wraith.
+
+This possession lasts indefinitely, or until the possessed body dies again or the wraith is exorcized from the host.
 
 </details>
 

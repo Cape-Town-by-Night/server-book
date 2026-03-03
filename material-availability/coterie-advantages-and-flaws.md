@@ -184,6 +184,138 @@ Phlegmatic Resonance is available here.
 
 </details>
 
+### Clan Coterie Merits
+
+<details>
+
+<summary><mark style="color:red;"><strong>Call to Purpose: Banu Haqim ••• (Players Guide pp.179-180)</strong></mark></summary>
+
+Once per session, the Banu Haqim motivates a coterie-mate they can see with a rousing statement reminding her of her Convictions or even an intense stare that calls her to action. The coterie-mate gains the effects of a Willpower point that must be used immediately, such as to reroll three dice or to briefly master a Frenzy. This “Willpower point” isn’t taken from the Banu Haqim, and must be given to a coterie-mate. The Banu Haqim cannot use it on themselves.
+
+See Vampire: The Masquerade, p. 158, for more information on using Willpower.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Boot and Rally: Brujah • (Players Guide p.180)</strong></mark></summary>
+
+Sometimes the best way out of a bad situation is to try again, harder, while a Frenzy-prone coterie-mate impresses upon you the error of your ways. Once per session, the Brujah inspires a flagging coterie-mate, who may then reroll all regular dice on a failed Physical Skill test.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Pack Tactics: Gangrel ••• (Players Guide p.181)</strong></mark></summary>
+
+A lone wolf against an enemy risks much, but a pack of wolves working together can take down even the largest and most dangerous prey. When in combat, so long as you have another member of your coterie alongside you, you more effectively harry your common foe: Anyone attacking the same enemy as you adds a single die to their dice pools for Brawl or Melee attacks. This Merit is non-cumulative; no matter how many Gangrel with it gang up on some poor fool, it offers only a single additional die to each of them.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Ars Moriendi: Hecata •• (Players Guide p.182)</strong></mark></summary>
+
+Almost all members of the Hecata clan are at least cursorily familiar with death and the dead. Once per session, the Necromancer is able to mask the corpse of someone killed by a member of the coterie. They can disguise foul play in the case of a mortal corpse, or protect the Masquerade by making the remains of a destroyed vampire (usually a brittle skeleton unless the vampire was very young) draw less attention, usually by efficiently disposing of it. These are quick-and-dirty fixes, though, and will not divert someone already on their tail, but they can provide some proverbial breathing space to the coterie.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>At Any Cost: Lasombra •• (Players Guide p.182)</strong></mark></summary>
+
+The Magister sets a ruthlessly effective example for their coterie-mates. Once per session, a member of the Lasombra’s coterie can choose to add two successes to a test made. The test is then considered a messy critical, including appropriate negative consequences.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Everything is Connected: Malkavian ••• (Players Guide p.183)</strong></mark></summary>
+
+The Malkavian is able to extract secrets from the most unlikely sources, such as discerning the location of an elder’s vault from someone’s casual exchange about the weather or unearthing an adversary’s deepest fears from the way they take a right at an intersection. Once per session, the Malkavian has the ability to let another member of their coterie substitute one Skill pool for another of their choice (that they possess) in a test involving the gathering of information. The Oracle is then able to interpret the results, gaining the same information as the original pool would have yielded, depending on the margin of success as usual.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Discerning: The Ministry • (Players Guide p.184)</strong></mark></summary>
+
+Once per session, the Ministry Kindred may discover something superficial a Storyteller character wants, so long as any member of the coterie has spoken to that character during the session, even if the Setite wasn’t present. This may relate to the individual’s Desire or Ambition or it could relate to a specific course of action they were undertaking (but should not expose any deep schemes or mysteries, especially if the coterie is unaware of them). The character who interacted with the Storyteller character in question describes the encounter.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Contextual Contact: Nosferatu •• (Players Guide p.185)</strong></mark></summary>
+
+Nosferatu Kindred often know more about their contacts than the contacts themselves, being able to leverage niche skills and hidden talents of their associates and others’. Once per session, a member of a coterie that has a Nosferatu with this Merit can add the highest single Contacts rating of another member of the coterie to any one test to recover or acquire information (e.g., recovering deleted data, using social engineering to acquire a login password, or rifling a physical file cabinet). The contact needs to be involved in some way, but the test is allowed to fall outside their usual area of expertise for this test only. A Contact can only be used once per story for this purpose.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Cryptolect: Ravnos ••• (Players Guide pp.185-186)</strong></mark></summary>
+
+Being forever on the move means having to find new ways to communicate with allies. Using coded language, onomatopoeia, and gestures, this Merit provides the Ravnos and their coterie with their own pidgin for the express purposes of communicating with each other — practically no one outside the coterie understands it, short of expert long term surveillance. The coterie’s cryptolect is not eloquent or robust, but can be used to convey high-level concepts quickly and securely, and isn’t identifiable as any other language. It also requires face-to-face presence to function, as its gestures and signs diminish when observed over phone or video calls. Leaving the coterie or losing its Ravnos member means the Kindred are no longer up-to-date on the cryptolect and can’t use it to communicate subsequently.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Restraint: Salubri ••• (Players Guide p.187)</strong></mark></summary>
+
+Whether from dire need to keep a low profile, or true moral conviction, Salubri are often paragons of self-control, a trait that can rub off on others. Once per session the Cyclops can restrain the Beast of another coterie member in their presence, enabling them to reroll all (and only all) of their Hunger dice in a test for free.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>All Access: Toreador • (Players Guide pp.187-188)</strong></mark></summary>
+
+Whether it’s the premiere of a film by a budding auteur, a fundraising gala for an aspiring politico, or the dive bar that suddenly has a dress code because it doesn’t like the looks of you, you know how to get yourself in — even without an actual invitation. Once per game session, when a coterie is faced with a barrier to enter a mortal event or facility, they can get past the bouncers or security guards by being on the guest list or having a connection to whatever passes for owner or patron. This applies only to situations with some kind of door staff or guest list; it doesn’t circumvent security systems, mystical wards, or the like, and the Storyteller is of course free to block entry if this would somehow short-circuit a story (but should then provide the players with a juicy clue instead).
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Multi-Level Lorekeeping: Tremere •• (Players Guide p.188)</strong></mark></summary>
+
+Despite the Tremere reputation for jealously hoarding occult knowledge, many vestiges of the notorious Pyramid actually facilitate the sharing of such among scholars of the forbidden. Once per game session, a single Kindred in a coterie with a Tremere who has this Merit can use a Loresheet Advantage (or a lower-dot Advantage from that same Loresheet) that someone else in the coterie possesses, including clan-specific Loresheets, at the Storyteller’s discretion. This additional Loresheet Advantage is usable only for the game session, and any knowledge supposed by the Loresheet Advantage is not retained thereafter by the borrower. All other limitations on the Advantage remain: for example, a “one use per story” Advantage is expended for the remainder of the story no matter who uses it.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Old-World Hospitality: Tzimisce •• (Players Guide p.189)</strong></mark></summary>
+
+Enter freely and of your own will. At the beginning of a session, any members of the coterie who stayed at the Tzimisce’s haven when the previous session concluded restore an additional level of Superficial Willpower damage. This includes shared coterie havens.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Kindred Legacies: Ventrue •• (Players Guide p.189)</strong></mark></summary>
+
+The Ventrue understand that a vampire’s legacy carries with it an accounting of the deeds of their progenitors. For some Blue Bloods, this emerges via written histories while others may have certain sires or scholars among their acquaintances. However it manifests, once per session, a member of the coterie with a Ventrue who has this Merit may ask the Storyteller to reveal a piece of relevant information about the history of a single vampire with whom they’ve come in contact. This could be something specific, such as “the Ministry club owner smuggled fugitive Anarchs out of town after an uprising in LA,” or more mysterious such as “the allegations levied against that Kindred’s great-grandsire having committed diablerie were untrue, but his childe still carries the shame to this night.”
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Versatile Vitae: Caitiff •• (Players Guide p.190)</strong></mark></summary>
+
+A walking example of unshackled Blood, the Caitiff’s versatility is almost contagious. Once per session the Caitiff can influence a coterie member with their malleability, enabling them to use a Discipline power they do not possess (as long as they have the Discipline levels and other prerequisites for it) for the duration of the scene.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mortal Heart: Thin-Blood •• (Players Guide p.191)</strong></mark></summary>
+
+By simply existing, thin-bloods prove that a bridge is possible between mortal and undead, between Humanity and the Beast. Once per session the thin-blood can remind their coterie of what it means to be alive, allowing them to count their Humanity as one dot higher for a scene.
+
+</details>
+
 ### Miscellaneous
 
 <details>
