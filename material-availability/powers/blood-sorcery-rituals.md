@@ -30,30 +30,6 @@ Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Missive (Live From the Succubus Club p.29)</strong></mark></summary>
-
-**Ingredients:** Mirror, sufficient human blood to write the message, lightless room.
-
-**Process:** The practitioner designates a type of individual in their mind — e.g., mortal, ghoul, vampire, male, a child, unemployed — and suspends a mirror in a lightless room. The sorcerer writes a message on the mirror with a fingertip, using human blood as the ink. The message appears on another reflective surface (a mirror, polished glass, water) the practitioner has seen before and can mentally recall, when the designated type of individual passes by.
-
-**System:** The sorcerer makes the Ritual test when enchanting the designated surface. For every success the practitioner rolls, the message will repeat for each new individual of the chosen type who passes the surface. The message clears itself from the surface as soon as it’s been read once. It appears in the handwriting and language in which the sorcerer wrote it.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Blood Walk (Core p.276)</strong></mark></summary>
-
-**IIngredients:** A silver cup filled with Blood from the subject. (One Rouse Check’s worth).
-
-**Process:** The user mixes their Blood with the subject’s and repeats an incantation over the cup, spending an roughly an hour.
-
-**System:** A win on the Ritual roll (see General Systems) allows the user to learn the generation and name of the subject as well as the subject’s sire. A Critical Win also informs the user of any Blood Bonds active on the subject, as regnant or thrall.
-
-</details>
-
-<details>
-
 <summary><mark style="color:red;"><strong>Blood Apocrypha (The Book of Nod Apocrypha p.34)</strong></mark></summary>
 
 **Ingredients:** A drop of mercury and one rouse check’s worth of blood.
@@ -65,6 +41,18 @@ Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes
 The first person to consume the ensorcelled blood from the messenger automatically receives the message mentally if they are the intended recipient or possess A Taste for Blood. Any other imbiber must succeed on a Wits + Occult roll (Difficulty 3) to understand the message.
 
 **Duration:** One month plus another month for each point of the margin of success
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Blood Missive (Live From the Succubus Club p.29)</strong></mark></summary>
+
+**Ingredients:** Mirror, sufficient human blood to write the message, lightless room.
+
+**Process:** The practitioner designates a type of individual in their mind — e.g., mortal, ghoul, vampire, male, a child, unemployed — and suspends a mirror in a lightless room. The sorcerer writes a message on the mirror with a fingertip, using human blood as the ink. The message appears on another reflective surface (a mirror, polished glass, water) the practitioner has seen before and can mentally recall, when the designated type of individual passes by.
+
+**System:** The sorcerer makes the Ritual test when enchanting the designated surface. For every success the practitioner rolls, the message will repeat for each new individual of the chosen type who passes the surface. The message clears itself from the surface as soon as it’s been read once. It appears in the handwriting and language in which the sorcerer wrote it.
 
 </details>
 
@@ -82,7 +70,19 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Clinging Of The Insect, Level 1 (Core p.276)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Blood Walk (Core p.276)</strong></mark></summary>
+
+**IIngredients:** A silver cup filled with Blood from the subject. (One Rouse Check’s worth).
+
+**Process:** The user mixes their Blood with the subject’s and repeats an incantation over the cup, spending an roughly an hour.
+
+**System:** A win on the Ritual roll (see General Systems) allows the user to learn the generation and name of the subject as well as the subject’s sire. A Critical Win also informs the user of any Blood Bonds active on the subject, as regnant or thrall.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Clinging Of The Insect (Core p.276)</strong></mark></summary>
 
 **Ingredients:** A living spider.
 
@@ -94,7 +94,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Craft Bloodstone, Level 1 (Core pp.276-277)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Craft Bloodstone (Core pp.276-277)</strong></mark></summary>
 
 **Ingredients:** A pebble of iron ore or a small magnet and a liter of blood from any source in a silver bowl.
 
@@ -106,7 +106,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Douse the Fear, Level 1 (Players Guide p.99)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Douse the Fear (Players Guide p.99)</strong></mark></summary>
 
 **Ingredients:** A holy object such as a crucifix, Bible, or Qur’an.
 
@@ -118,7 +118,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Revealing the Crimson Trail, Level 1 (Gehenna War p.48)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Revealing the Crimson Trail (Gehenna War p.48)</strong></mark></summary>
 
 **Ingredients:** A needle with an eye.
 
@@ -130,7 +130,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seal the Brand, Level 1 (Players Guide p.99)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Seal the Brand (Players Guide p.99)</strong></mark></summary>
 
 **Ingredients:** Molten silver poured over a tattoo, brand, or other body modification.
 
@@ -142,7 +142,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness, Level 1 (Core p.277)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
 
 **Ingredients:** The burnt bones and feathers of a rooster.
 
@@ -174,6 +174,48 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>Ward Against Spirits, Level 2 (Core p.278)</strong></mark></summary>
+
+**Ingredients:** A handful of salt (in some versions, a handful of brick dust) mixed with the Blood.
+
+**Process:** The caster mixes the salt or dust with their Blood and pours it on the object to be warded, tracing the glyph in it with their bare finger. Once the caster wipes the Blood off, the ward becomes invisible. The Ward lasts until the warded object is physically destroyed or broken; the trespasser cannot do this.
+
+**System:** Do not make the Ritual roll until the first time the trespasser touches the Ward, triggering its effect. Gloves or other garments offer no protection. If the caster wins the Ritual test, the victim suffers one point of Aggravated Health damage. On a critical win, damage for this Ward is three points of Aggravated damage. The caster does not need to make the Ritual roll for each trespasser touching the Ward, only the first. Anyone affected who wants to touch the warded object again must spend a point of Willpower and then win a Stamina + Resolve test (Difficulty 4, or 7 for a critical-success Ward) to make the attempt.
+
+Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + Auspex vs the caster’s Intelligence + Blood Sorcery.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Ward Against Lupines, Level 3 (Core p.279)</strong></mark></summary>
+
+**Ingredients:** A handful of silver dust mixed with the Blood.
+
+**Process:** The caster mixes their Blood with the silver powder and pours their Blood on the object to be warded, tracing the glyph in it with their bare finger. Once the caster wipes the Blood off, the ward becomes invisible. The Ward lasts until the warded object is physically destroyed or broken; the trespasser cannot do this.
+
+**System:** Do not make the Ritual roll until the first time the trespasser touches the Ward, triggering its effect. Gloves or other garments offer no protection. If the caster wins the Ritual test, the victim suffers one point of Aggravated Health damage. On a critical win, damage for this Ward is three points of Aggravated damage. The caster does not need to make the Ritual roll for each trespasser touching the Ward, only the first. Anyone affected who wants to touch the warded object again must spend a point of Willpower and then win a Stamina + Resolve test (Difficulty 4, or 7 for a critical-success Ward) to make the attempt.
+
+Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + Auspex vs the caster’s Intelligence + Blood Sorcery.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Ward Against Cainites, Level 4 (Core p.280)</strong></mark></summary>
+
+**Ingredients:** Ash warm from a still-burning fire; casters risk terror frenzy, and cannot inscribe this Ward that night if they succumb to it.
+
+**Process:** The caster mixes their Blood with the hot ashes (Getting the ashes requires a frenzy check at Difficulty 2) and pours their Blood on the object to be warded, tracing the glyph in it with their bare finger. Once the caster wipes the Blood off, the ward becomes invisible. The Ward lasts until the warded object is physically destroyed or broken; the trespasser cannot do this.
+
+**System:** Do not make the Ritual roll until the first time the trespasser touches the Ward, triggering its effect. Gloves or other garments offer no protection. If the caster wins the Ritual test, the victim suffers one point of Aggravated Health damage. On a critical win, damage for this Ward is three points of Aggravated damage. The caster does not need to make the Ritual roll for each trespasser touching the Ward, only the first. Anyone affected who wants to touch the warded object again must spend a point of Willpower and then win a Stamina + Resolve test (Difficulty 4, or 7 for a critical-success Ward) to make the attempt.
+
+Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + Auspex vs the caster’s Intelligence + Blood Sorcery.
+
+</details>
+
 ## Warding Circles
 
 A Warding circle resembles a regular Ward, painted on the ground or floor. It requires three times the ritual ingredients of a regular Ward of the same type. Knowledge of one Ward does not convey knowledge of its corresponding Warding circle, or vice versa. Trespassers who attempt to cross a Warding circle suffer its effect. Unless the caster inscribes the Warding circle “pointing inward” around the trespasser in the first place, it does not block attempts to leave the circle.
@@ -181,3 +223,51 @@ A Warding circle resembles a regular Ward, painted on the ground or floor. It re
 Its rules differ from regular Wards in a few respects: It costs three Rouse Checks worth of Blood to paint the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
 
 When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
+
+<details>
+
+<summary><mark style="color:red;"><strong>Warding Circle Against Ghouls, Level 2 (Core p.278)</strong></mark></summary>
+
+**Ingredients:** The caster draws the Warding circle with a human bone dipped in three Rouse Checks worth of Blood.
+
+**Process:** The caster paints the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
+
+**System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Warding Circle Against Spirits, Level 3 (Core p.279)</strong></mark></summary>
+
+**Ingredients:** The caster draws the Warding circle with an iron knife dipped in salt and Blood.
+
+**Process:** The caster paints the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
+
+**System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Warding Circle Against Lupines, Level 4 (Core p.280)</strong></mark></summary>
+
+**Ingredients:** The caster draws the Warding circle with a silver knife dipped in wolfsbane and Blood.
+
+**Process:** The caster paints the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
+
+**System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Warding Circle Against Cainites, Level 5 (Core p.282)</strong></mark></summary>
+
+**Ingredients:** The caster draws the Warding Circle with a rowan wand dipped in the mixture of ash from a still-burning fire and Blood.
+
+**Process:** The caster paints the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
+
+**System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
+
+</details>
