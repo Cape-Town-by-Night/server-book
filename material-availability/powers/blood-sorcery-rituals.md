@@ -152,6 +152,176 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 </details>
 
+## Level 2
+
+<details>
+
+<summary><mark style="color:red;"><strong>As Fog on Water, Level 2 (Players Guide p.100)</strong></mark></summary>
+
+**Ingredients:** A piece of wood from a ship, and water
+
+**Process:** The vampire submerges a piece of wood in the body of water they want to cross while spilling their Blood into it.
+
+**System:** Upon a successful Ritual roll the vampire can walk across the surface of the water for the rest of the night. They can end this effect any time they wish but cannot walk on the surface again until they recast the Ritual.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Calix Secretus, Level 2 (Players Guide p.100)</strong></mark></summary>
+
+**Ingredients:** An object that fits in the caster’s hand, and Blood of the user.
+
+**Process:** The user drenches the object with their Blood and speaks the words of the Ritual. When complete, the object absorbs the Blood.
+
+**System:** The process takes an hour. Make a Ritual roll, and if successful, the vampire imbues the object with an amount of Blood from the caster. If the caster wishes to release their Blood from the object, they need to say the command word. The amount of Blood stored can sate one Hunger for every two Rouse Checks made when storing the Blood. (Storing a single Rouse Check’s worth of Blood allows for a ghoul to get their fix or for use in another Ritual requirement.)
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Communicate With Kindred Sire, Level 2 (Core p.277)</strong></mark></summary>
+
+**Ingredients:** An object previously possessed by the sire and a silver bowl filled with clear water.
+
+**Process:** The caster submerges the object in water and lets their Blood drip into the bowl, concentrating upon the last memory of their sire for up to 30 minutes.
+
+**System:** Make the ritual roll after 15 minutes have passed. A win allows for ten minutes of two-way silent mental communication once 15 more minutes have passed. A critical win allows immediate communication. Any major disturbance on either end breaks the connection.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Craftmaster, Level 2 (Blood Sigils p.62)</strong></mark></summary>
+
+**Ingredients:** Blood of a gifted subject, representative craft object such as a needle, page of a book, playing card, chisel, etc., vulture bones.
+
+**Process:** The caster chars the vulture bones in a fire and places the representative object in a bowl over the flames. They pour the blood of the subject into the bowl, completely covering the object. As the last of the bones crack and burn, the vampire drinks the blood from the bowl, letting the object touch their lips as they drink.
+
+**System:** On a win, the caster gains the subject’s dots and specialty in Academics, Craft, Performance, or Science until sunrise. The dots replace, not add to, any already possessed by the caster. If the caster already has that specialty, they gain one extra die on top of the specialty die. On a critical win, the Ritual lasts for a week. On a total failure, the caster accidentally swallows the craft object and takes 2 Aggravated Health damage from it traveling through their body, the object spiritually furious at its skill being stolen.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Depths of Nightmare, Level 2 (Blood Sigils p.62)</strong></mark></summary>
+
+**Ingredients:** Target’s hair; melted wax; natron (soda ash)
+
+**Process:** The caster mixes a Rouse Check’s worth of blood into the melted wax, then rolls their target’s hair in the mixture. The vampire shapes the bloody wax into a humanoid shape, as close to their target’s body shape as possible. After writing glyphs or curses in their native language, the sorcerer soaks the figurine in a bowl of water mixed with natron.
+
+**System:** On a win, the target receives a number of nightmare-filled days (or nights, for mortal targets) equal to the number of successes rolled. When they first awaken after each sleep, the target receives 1 Superficial Willpower damage. On a critical win, the damage is Aggravated instead. This damage cannot be healed normally until the spell has run its course: only magic or the like can remove the shock and horror of these dreams. On a total failure, the target not only has pleasant dreams, but dreams of an ibis-headed man who points the target in the caster’s direction. This occurs even if the caster used no Kemetic imagery on the figurine.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Elemental Grasp, Level 2 (Blood Sigils p.62-63)</strong></mark><strong> </strong><mark style="color:red;"><strong>✦</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
 ## Wards
 
 The Tremere employ Wards extensively, basing them on their Hermetic traditional sigils. Banu Haqim Wards usually involve gematriac or abjadic writing, rather than occult symbols, but the methodology remains the same in both cases. Wards consist of a glyph or line of script keyed to repel a single type of supernatural, called “the trespasser” in these rules. When touched, they cause something like an electric shock to the trespasser’s mind and body, imparting both physical burns and a sudden bout of sheer terror. The ward does not work on forced contact - a warded sword will not trigger the ward when striking a trespasser, but it will if a trespasser tries to pick it up.
