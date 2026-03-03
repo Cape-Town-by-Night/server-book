@@ -1,2 +1,19 @@
 # Blood Sorcery Rituals
 
+Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usu- ally require additional ingredi- ents, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
+
+### Wards
+
+The Tremere employ Wards extensively, basing them on their Hermetic traditional sigils. Banu Haqim Wards usually involve gematriac or abjadic writing, rather than occult symbols, but the methodology remains the same in both cases. Wards consist of a glyph or line of script keyed to repel a single type of supernatural, called “the trespasser” in these rules. When touched, they cause something like an electric shock to the trespasser’s mind and body, imparting both physical burns and a sudden bout of sheer terror. The ward does not work on forced contact - a warded sword will not trigger the ward when striking a trespasser, but it will if a trespasser tries to pick it up.
+
+Wards can only cover a space about a meter across: for example, a caster cannot ward a whole car, but they can ward a steering wheel. The caster pours their Blood on the object to be warded, tracing the glyph in it with their bare finger. Once the caster wipes the Blood off, the ward becomes invisible. The Ward lasts until the warded object is physically destroyed or broken; the trespasser cannot do this.
+
+Do not make the Ritual roll until the first time the trespasser touches the Ward, triggering its effect. Gloves or other garments offer no protection. If the caster wins the Ritual test, the victim suffers one point of Aggravated Health damage. On a critical win, damage for this Ward is three points of Aggravated damage. The caster does not need to make the Ritual roll for each trespasser touching the Ward, only the first. Anyone affected who wants to touch the warded object again must spend a point of Willpower and then win a Stamina + Resolve test (Difficulty 4, or 7 for a critical-success Ward) to make the attempt.
+
+### Warding Circles
+
+A Warding circle resembles a regular Ward, painted on the ground or floor. It requires three times the ritual ingredients of a regular Ward of the same type. Knowledge of one Ward does not convey knowledge of its corresponding Warding circle, or vice versa. Trespassers who attempt to cross a Warding circle suffer its effect. Unless the caster inscribes the Warding circle “pointing inward” around the trespasser in the first place, it does not block attempts to leave the circle.
+
+Its rules differ from regular Wards in a few respects: It costs three Rouse Checks worth of Blood to paint the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
+
+When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.

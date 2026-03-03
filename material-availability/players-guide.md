@@ -57,13 +57,3 @@ Flowering Amaranth ••••• (p.106)
 Moment of Clarity ••••• (p.106)
 
 </details>
-
-## Banned
-
-<details>
-
-<summary>Merits</summary>
-
-Mythic, Luck of the Devil •••• (p.119)
-
-</details>

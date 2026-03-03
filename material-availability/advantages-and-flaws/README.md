@@ -706,7 +706,21 @@ While all right-minded Kindred do their best to blend in with mankind, you go ab
 
 </details>
 
-### Banned
+## Banned Merits
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mythic, Luck of the Devil ••••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.119)</strong></mark> </summary>
+
+You owe another Kindred (or two others) two minor boons. The debt-holder wields more power and influence than you within vampire society, though not necessarily within your sect. They receive a one-die bonus in Social combat against you while they hold your marker. They may call in either of these debts at any time, but practically they do so when you really really don’t want to (or absolutely can’t) pay them off. However, if you do manage to successfully pay off both debts, you don’t need to take another Flaw to “balance” your character. The creditor still likes to lord it over you, though, and retains the one-die bonus.
+
+You can absolutely take this Flaw alongside one or more Minor Boons (Vampire: The Masquerade, pp. 193 and 315) at character creation. You cannot take this Flaw owing another player’s character the boons in question.
+
+For more a more detailed breakdown of Prestation Debts and Boons as Backgrounds, see Boons and Debts, p. 115.
+
+</details>
+
+## Banned Flaws
 
 <details>
 
