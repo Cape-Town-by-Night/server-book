@@ -3,6 +3,24 @@ description: >-
   This page is not meant to replace the instructions in the Core book, but to
   enhance them. Please follow along with both of these resources for the best
   chance of an expedient approval.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Character Creation
@@ -29,7 +47,7 @@ If you are retiring a character, you may have a bank of retirement experience to
 
 ## Core Concepts
 
-Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Are you making a ghoul, mortal, or vampire? Are they old or young? Are they experienced, brand new, or oblivious to the "nightlife"? Note that since vampires are the main focus of this setting, most of these questions will only apply to them. If a question doesn't make sense for the type of character you are playing, skip it.
+Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Are you making a ghoul, mortal, or vampire? Are they old or young? Are they experienced, brand new, or oblivious to the "nightlife"? Note that since vampires are the main focus of this setting, most of these questions will only apply to them. If a question doesn't make sense for the type of character you are playing, skip it. Player characters must be local.
 
 Your characters should also be _yours_. It's okay to use a character from popular media as a face claim (a reference image for what your character looks like), but it is not okay to make that character into a vampire so that you can play them. This isn't that kind of server.
 
@@ -98,18 +116,17 @@ We do not use the original banes for all of our clans. The server character shee
 * **Gangrel** - Gangrel relate to their Beast much as other Kindred relate to the Gangrel: suspicious partnership. In frenzy, Gangrel gain one or more animal features: a physical trait, a smell, or a behavioral tic. These features last for one more night afterward, lingering like a hango- ver following debauchery. Each feature reduces one Attribute by 1 point – the Storyteller may decide that a forked tongue or bearlike musk reduces Charisma, while batlike ears reduce Resolve (“all those distracting sounds”). If nothing immediately occurs to you, the feature reduces Intelligence or Manipulation. \
   \
   The number of features a Gangrel manifests equals their Bane Severity. If your character Rides the Wave of their frenzy (see p. 219) you can choose only one feature to manifest, thus taking only one penalty to their Attributes. _(Core p.73)_
-
-- **Hecata** - The Hecata inflict a notoriously painful Kiss. The fangs of the Lazarenes bring not bliss, but agony. Victims caught unawares will violently resist unless restrained, and few people submit willingly to the torture that is the Hecata Kiss. When drinking directly from a victim, Hecata may only take harmful drinks, resulting in blood loss (Vampire: The Masquerade, p. 212). Unwilling mortals not restrained will try to escape, and even those coerced or willing must succeed in a Stamina + Resolve test against Difficulty 2 + Bane Severity in order not to strain against the pain. Coerced or willing vampire victims of the Hecata bite must make a Frenzy test against Difficulty 3 to avoid falling into a Terror Frenzy. _(PG p.23)_
-- **Lasombra** - When making a Remorse roll, deduct a number of dice equal to the Bane Severity of the Lasombra vampire. This cannot reduce the dice pool below one die. _(PG p.57)_
-- **Malkavian** - Whenever a Malkavian uses a Discipline power, mortals in close proximity (roughly in the same room or equivalent) are spooked and any social interaction with them apart from intimidation suffers a dice penalty equal to the Malkavian’s Bane Severity. This sensation isn’t Masquerade-breaking, but the mortal is struck by a sudden fear or dislike of the vampire, lasting one scene. Other vampires experience a similar sensation, instantly recognizing the Malkavian as a vampire, though no penalties apply to interactions with them. _(PG p.57)_
-- **Ministry** - A vampire of the Ministry can only use Blush of Life if they have recently fed from a living vessel (in the same scene or up to roughly an hour ago, at the storyteller’s discretion), and when they do it requires a number of Rouse Checks equal to their Bane Severity rather than just one. _(PG p.58)_
-- **Nosferatu** - Hideous and vile, all Nosferatu count as having the Repulsive Flaw (-2) and can never increase their rating in the Looks Merit. In addition, any attempt to disguise themselves as non-deformed incur a penalty to your dice pool equal to your character’s Bane Severity (this includes the Obfuscate powers Mask of a Thousand Faces and Impostor’s Guise). Note that most Nosferatu do not breach the Masquerade by just being seen. They are perceived by mortals to be grotesque and often terrifying, but not supernaturally so. _(Core p.85)_
-- **Ravnos** - The Ravnos are doomed. The sun’s fire that incinerated their founder rages through the Blood of the clan, erupting from their very flesh if they ever settle down for long. If they slumber in the same place more than once in seven nights, roll a number _(PG p.42)_
-- **Salubri** - When their Hunger is below three, Salubri vampires suffer a penalty equal to their Bane Severity to any Discipline dice pools. This is in addition to the third eye, described on p. 47. _(PG p.58)_
-- **Toreador** - When a Toreador vampire feeding causes damage to a mortal, the vampire suffers similar (usually Aggravated) damage in return, though a single feeding cannot cause more damage than their Bane Severity. The damage takes the form of involuntary internal bleeding, the vampire exhibiting vivid bruising in whatever spot matches the bite location on the victim. _(PG p.59)_
-- **Tremere** - When a Tremere vampire performs a Blood Surge (Vampire: The Masquerade, p. 218) they need to make Rouse Checks equal to their Bane Severity. If these Rouse Checks raise the vampire’s Hunger to 5 or higher, they can choose whether to back off their Blood Surge or to perform it and then immediately hit Hunger 5 afterward. _(PG p.59)_
-- **Tzimisce** - The Tzimisce are grounded: Each Tzimisce must choose a specific charge — a physical domain, a group of people, an organization, or even something more esoteric — but clearly defined and limited. The Kindred must spend their daysleep surrounded by their chosen charge. Historically this has often meant slumbering in the soil of their land, but it can also mean being surrounded by that which they tonight rule: a certain kind of people, a building deeply tied to their obsession, a local counterculture faction, or other, more outlandish elements. If they do not, they sustain aggravated Willpower damage equal to their Bane Severity upon waking the following night. _(PG p.54)_
-- **Ventrue** - A Ventrue vampire suffers a penalty to their Discipline dice pools equal to their Bane Severity when attempting to use their powers on a vampire of \*higher Status. They must also spend Willpower equal to their Bane Severity if they wish to directly attack a vampire of \*higher Status. _(PG p.59, adjusted for server play)_
+* **Hecata** - The Hecata inflict a notoriously painful Kiss. The fangs of the Lazarenes bring not bliss, but agony. Victims caught unawares will violently resist unless restrained, and few people submit willingly to the torture that is the Hecata Kiss. When drinking directly from a victim, Hecata may only take harmful drinks, resulting in blood loss (Vampire: The Masquerade, p. 212). Unwilling mortals not restrained will try to escape, and even those coerced or willing must succeed in a Stamina + Resolve test against Difficulty 2 + Bane Severity in order not to strain against the pain. Coerced or willing vampire victims of the Hecata bite must make a Frenzy test against Difficulty 3 to avoid falling into a Terror Frenzy. _(PG p.23)_
+* **Lasombra** - When making a Remorse roll, deduct a number of dice equal to the Bane Severity of the Lasombra vampire. This cannot reduce the dice pool below one die. _(PG p.57)_
+* **Malkavian** - Whenever a Malkavian uses a Discipline power, mortals in close proximity (roughly in the same room or equivalent) are spooked and any social interaction with them apart from intimidation suffers a dice penalty equal to the Malkavian’s Bane Severity. This sensation isn’t Masquerade-breaking, but the mortal is struck by a sudden fear or dislike of the vampire, lasting one scene. Other vampires experience a similar sensation, instantly recognizing the Malkavian as a vampire, though no penalties apply to interactions with them. _(PG p.57)_
+* **Ministry** - A vampire of the Ministry can only use Blush of Life if they have recently fed from a living vessel (in the same scene or up to roughly an hour ago, at the storyteller’s discretion), and when they do it requires a number of Rouse Checks equal to their Bane Severity rather than just one. _(PG p.58)_
+* **Nosferatu** - Hideous and vile, all Nosferatu count as having the Repulsive Flaw (-2) and can never increase their rating in the Looks Merit. In addition, any attempt to disguise themselves as non-deformed incur a penalty to your dice pool equal to your character’s Bane Severity (this includes the Obfuscate powers Mask of a Thousand Faces and Impostor’s Guise). Note that most Nosferatu do not breach the Masquerade by just being seen. They are perceived by mortals to be grotesque and often terrifying, but not supernaturally so. _(Core p.85)_
+* **Ravnos** - The Ravnos are doomed. The sun’s fire that incinerated their founder rages through the Blood of the clan, erupting from their very flesh if they ever settle down for long. If they slumber in the same place more than once in seven nights, roll a number _(PG p.42)_
+* **Salubri** - When their Hunger is below three, Salubri vampires suffer a penalty equal to their Bane Severity to any Discipline dice pools. This is in addition to the third eye, described on p. 47. _(PG p.58)_
+* **Toreador** - When a Toreador vampire feeding causes damage to a mortal, the vampire suffers similar (usually Aggravated) damage in return, though a single feeding cannot cause more damage than their Bane Severity. The damage takes the form of involuntary internal bleeding, the vampire exhibiting vivid bruising in whatever spot matches the bite location on the victim. _(PG p.59)_
+* **Tremere** - When a Tremere vampire performs a Blood Surge (Vampire: The Masquerade, p. 218) they need to make Rouse Checks equal to their Bane Severity. If these Rouse Checks raise the vampire’s Hunger to 5 or higher, they can choose whether to back off their Blood Surge or to perform it and then immediately hit Hunger 5 afterward. _(PG p.59)_
+* **Tzimisce** - The Tzimisce are grounded: Each Tzimisce must choose a specific charge — a physical domain, a group of people, an organization, or even something more esoteric — but clearly defined and limited. The Kindred must spend their daysleep surrounded by their chosen charge. Historically this has often meant slumbering in the soil of their land, but it can also mean being surrounded by that which they tonight rule: a certain kind of people, a building deeply tied to their obsession, a local counterculture faction, or other, more outlandish elements. If they do not, they sustain aggravated Willpower damage equal to their Bane Severity upon waking the following night. _(PG p.54)_
+* **Ventrue** - A Ventrue vampire suffers a penalty to their Discipline dice pools equal to their Bane Severity when attempting to use their powers on a vampire of \*higher Status. They must also spend Willpower equal to their Bane Severity if they wish to directly attack a vampire of \*higher Status. _(PG p.59, adjusted for server play)_
 
 </details>
 
