@@ -1,6 +1,6 @@
 # Powers
 
-Here, you will find all Powers, Rituals, Ceremonies, and Formulae that are allowed in play! Regular powers are marked in <mark style="color:red;">**red**</mark> while amalgams will be marked in <mark style="color:yellow;">**yellow**</mark><mark style="color:$info;">.</mark>
+Here, you will find all Powers, Rituals, Ceremonies, and Formulae that are allowed in play! Regular powers are marked in <mark style="color:red;">**red**</mark> while amalgams will be marked in <mark style="color:yellow;">**yellow**</mark>. Powers that have prerequisites will be marked in <mark style="color:purple;">purple</mark>.
 
 If we have missed any errata or if there are any errors, please let us know in our [<mark style="color:red;">Server Suggestions Forum</mark>](https://discord.com/channels/1292865933525651466/1324638230263369798)!
 
@@ -36,9 +36,9 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Animal Messenger, Animalism 2 + Auspex 1 (Players Guide p.69) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Animal Messenger, Animalism 2 + Auspex 1 (Players Guide p.69)</strong></mark></summary>
 
-**Prerequisite:** [<mark style="color:purple;">Bond Famulus</mark>](https://wiki.capetownvtm.com/material-availability/powers#bond-famulus-animalism-1-core-p.245)
+**Prerequisite:** [Bond Famulus](./#bond-famulus-animalism-1-core-p.245)
 
 **Dice Pools:** None, though the Famulus must test Resolve + Streetwise/Survival (or equivalent) if the target’s location is unknown.
 
@@ -133,9 +133,9 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Messenger's Command, Animalism 3 +Dominate 1 (Players Guide p.69) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Messenger's Command, Animalism 3 +Dominate 1 (Players Guide p.69)</strong></mark></summary>
 
-**Prerequisite:** Animal Messenger, either Compel or Mesmerize
+**Prerequisite:** [<mark style="color:purple;">Animal Messenger</mark>](./#animal-messenger-animalism-2--auspex-1-players-guide-p.69), either [<mark style="color:purple;">Compel</mark>](./#compel-dominate-1-core-p.256) or [<mark style="color:purple;">Mesmerize</mark>](./#mesmerize-dominate-2-core-p.256)
 
 **Dice Pools:** See Compel or Mesmerize, but the Dominate rating cannot exceed the user’s Animalism.
 
@@ -511,9 +511,9 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Unburdening the Bestial Soul, Auspex 5 + Dominate 3 (Players Guide p.71)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Unburdening the Bestial Soul, Auspex 5 + Dominate 3 (Players Guide p.71)</strong></mark></summary>
 
-**Prerequisite:** Panacea
+**Prerequisite:** [<mark style="color:purple;">Panacea</mark>](./#panacea-auspex-2--fortitude-1-players-guide-p.70)
 
 **Dice Pools:** Composure + Auspex vs. Humanity
 
@@ -675,9 +675,9 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Faster Than Light, Celerity 4</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club p.27)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Faster Than Light, Celerity 4</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club p.27)</strong></mark></summary>
 
-**Prerequisite:** Blink
+**Prerequisite:** [<mark style="color:purple;">Blink</mark>](./#blink-celerity-3-core-pp.253-254)
 
 **Cost:** One Rouse Check
 
@@ -689,9 +689,9 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Unseen Strike, Celerity 4 + Obfuscate 4 (Players Guide p.73)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Unseen Strike, Celerity 4 + Obfuscate 4 (Players Guide p.73)</strong></mark></summary>
 
-**Prerequisite:** Blink
+**Prerequisite:** [<mark style="color:purple;">Blink</mark>](./#blink-celerity-3-core-pp.253-254)
 
 **Dice Pools:** Dexterity + Celerity vs Wits + Awareness
 
@@ -881,9 +881,9 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Ancestral Dominion, Dominate 4 + Blood Sorcery 2</strong></mark> <mark style="color:yellow;"><strong>(Players Guide p.74)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Ancestral Dominion, Dominate 4 + Blood Sorcery 2</strong></mark> <mark style="color:purple;"><strong>(Players Guide p.74)</strong></mark></summary>
 
-**Prerequisite:** Mesmerize
+**Prerequisite:** [<mark style="color:purple;">Mesmerize</mark>](./#mesmerize-dominate-2-core-p.256)
 
 **Dice Pools:** Manipulation + Dominate vs. Resolve + Occult
 
@@ -913,7 +913,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <summary><mark style="color:purple;"><strong>Lethe’s Call, Dominate 5 (Gehenna War p.46)</strong></mark></summary>
 
-**Prerequisite:** [<mark style="color:purple;">Cloud Memory</mark>](https://wiki.capetownvtm.com/material-availability/powers#cloud-memory-dominate-1-core-p.256) or [<mark style="color:purple;">The Forgetful Mind</mark>](https://wiki.capetownvtm.com/material-availability/powers#the-forgetful-mind-dominate-3-core-p.257)
+**Prerequisite:** [<mark style="color:purple;">Cloud Memory</mark>](./#cloud-memory-dominate-1-core-p.256) or [<mark style="color:purple;">The Forgetful Mind</mark>](./#the-forgetful-mind-dominate-3-core-p.257)
 
 **Cost:** One Rouse Check
 
@@ -1043,9 +1043,9 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Self-Assurance, Fortitude 2</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club pp.27-28)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Self-Assurance, Fortitude 2 (Live From the Succubus Club pp.27-28)</strong></mark></summary>
 
-**Prerequisite:** Unswayable Mind
+**Prerequisite:** [<mark style="color:purple;">Unswayable Mind</mark>](./#unswayable-mind-fortitude-1-core-p.258)
 
 **Cost:** One Rouse Check
 
@@ -1237,7 +1237,7 @@ This power does not eliminate sounds the user makes outside their personal space
 
 <summary><mark style="color:purple;"><strong>Cache, Obfuscate 2 (Gehenna War p.47)</strong></mark></summary>
 
-**Prerequisite:** [<mark style="color:purple;">Ensconce</mark>](https://wiki.capetownvtm.com/material-availability/powers#ensconce-obfuscate-1-gehenna-war-pp.46-47)
+**Prerequisite:** [<mark style="color:purple;">Ensconce</mark>](./#ensconce-obfuscate-1-gehenna-war-pp.46-47)
 
 **Cost:** One Rouse Check
 
@@ -1542,9 +1542,9 @@ Storytellers may decide such mutilation-killing warrants Stains (p. 239).
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Wrecker, Potence 3 (Players Guide p.79)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Wrecker, Potence 3 (Players Guide p.79)</strong></mark></summary>
 
-**Prerequisite:** Prowess
+**Prerequisite:** [<mark style="color:purple;">Prowess</mark>](./#prowess-potence-2-core-p.264)
 
 **Cost:** Free
 
@@ -1556,9 +1556,9 @@ Storytellers may decide such mutilation-killing warrants Stains (p. 239).
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Crash Down, Potence 4 (Players Guide p.79)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Crash Down, Potence 4 (Players Guide p.79)</strong></mark></summary>
 
-**Prerequisite:** Soaring Leap
+**Prerequisite:** [<mark style="color:purple;">Soaring Leap</mark>](./#soaring-leap-potence-1-core-p.264)
 
 **Dice Pools:** Strength + Potence
 
@@ -1790,9 +1790,9 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Invigorating Display, Presence 3 (Live From the Succubus Club p.28)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Invigorating Display, Presence 3 (Live From the Succubus Club p.28)</strong></mark></summary>
 
-**Prerequisite:** Awe
+**Prerequisite:** [<mark style="color:purple;">Awe</mark>](./#awe-presence-1-core-p.267)
 
 **Cost:** One Rouse Check
 
@@ -1986,9 +1986,9 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Fleshcrafting, Protean 3 + Dominate 2 (Players Guide pp.82-83)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Fleshcrafting, Protean 3 + Dominate 2 (Players Guide pp.82-83)</strong></mark></summary>
 
-**Prerequisite:** Vicissitude
+**Prerequisite:** [<mark style="color:purple;">Vicissitude</mark>](./#vicissitude-protean-2--dominate-2-players-guide-pp.81-82)
 
 **Cost:** One Rouse Check
 
@@ -2004,9 +2004,9 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Horrid Form, Protean 4 + Dominate 2 (Players Guide p.83)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Horrid Form, Protean 4 + Dominate 2 (Players Guide p.83)</strong></mark></summary>
 
-**Prerequisite:** Vicissitude
+**Prerequisite:** [<mark style="color:purple;">Vicissitude</mark>](./#vicissitude-protean-2--dominate-2-players-guide-pp.81-82)
 
 **Cost:** One Rouse Check
 
@@ -2020,9 +2020,9 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 <details>
 
-<summary><mark style="color:purple;"><strong>One With the Land, Protean 5 + Animalism 2 (Players Guide p.83)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>One With the Land, Protean 5 + Animalism 2 (Players Guide p.83)</strong></mark></summary>
 
-**Prerequisite:** Earth Meld
+**Prerequisite:** [<mark style="color:purple;">Earth Meld</mark>](./#earth-meld-protean-3-core-p.271)
 
 **Cost:** Two Rouse Checks
 
@@ -2132,9 +2132,9 @@ The Kindred can transform only part of the body, such as a finger or leg, as des
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Face of the Victim,</strong></mark><strong> </strong><mark style="color:purple;"><strong>Protean 5</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club pp.28-29)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Face of the Victim,</strong></mark><strong> </strong><mark style="color:purple;"><strong>Protean 5</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Live From the Succubus Club pp.28-29)</strong></mark></summary>
 
-**Prerequisite:** Vicissitude
+**Prerequisite:** [<mark style="color:purple;">Vicissitude</mark>](./#vicissitude-protean-2--dominate-2-players-guide-pp.81-82)
 
 **Cost:** One Rouse Check
 
@@ -2148,7 +2148,7 @@ The Kindred can transform only part of the body, such as a finger or leg, as des
 
 <summary><mark style="color:purple;"><strong>Master of Forms, Protean 5 (Gehenna War p.48)</strong></mark></summary>
 
-**Prerequisite:** [<mark style="color:purple;">Shapechange</mark>](https://wiki.capetownvtm.com/material-availability/powers#shapechange-protean-3-core-p.271)
+**Prerequisite:** [<mark style="color:purple;">Shapechange</mark>](./#shapechange-protean-3-core-p.271)
 
 **Cost:** None
 
@@ -2481,9 +2481,9 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Elemental Attack, Level 5 (Blood Sigils pp.71-72) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Elemental Attack, Level 5 (Blood Sigils pp.71-72)</strong></mark></summary>
 
-**Prerequisite:** <mark style="color:purple;">Koldunic Sorcery</mark>
+**Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](./#koldunic-sorcery-level-1-blood-sigils-p.61)
 
 **Ingredients:** A weapon representing or made from the element, such as a wooden club, an icicle, a meteoric iron knife, a torch, etc.
 
@@ -2879,9 +2879,9 @@ Practitioners of this power take no damage from physical sources but can be harm
 
 <details>
 
-<summary><mark style="color:purple;"><strong>The Gift of False Life, Level 1 (Players Guide p.92) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>The Gift of False Life, Level 1 (Players Guide p.92)</strong></mark></summary>
 
-**Prerequisite Power:** Ashes to Ashes
+**Prerequisite Power:** [<mark style="color:purple;">Ashes to Ashes</mark>](./#ashes-to-ashes-oblivion-1-players-guide-p.85)
 
 **Ingredients:** A human body (or multiple bodies), a small concoction of blood, phlegm, and bile.
 
@@ -2901,9 +2901,9 @@ Practitioners of this power take no damage from physical sources but can be harm
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Summon Spirit, Level 1 (Players Guide pp.92-93) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Summon Spirit, Level 1 (Players Guide pp.92-93)</strong></mark></summary>
 
-**Prerequisite Power:** The Binding Fetter
+**Prerequisite Power:** [<mark style="color:purple;">The Binding Fetter</mark>](./#the-binding-fetter-oblivion-1-players-guide-p.85)
 
 **Ingredients:** One of the targeted wraith’s fetters (see The Binding Fetter, p. 85), a photo or other visual depiction of the wraith or their signed name, and the caster’s vitae.
 
@@ -2917,9 +2917,9 @@ Wraiths summoned in this way do not manifest physically, but as shadows on the w
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Awaken the Homuncular Servant, Level 2 (Players Guide p.93) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Awaken the Homuncular Servant, Level 2 (Players Guide p.93)</strong></mark></summary>
 
-**Prerequisite Power:** Where the Veil Thins
+**Prerequisite Power:** [<mark style="color:purple;">Where the Veil Thins</mark>](./#where-the-veil-thins-oblivion-2-players-guide-pp.87-88)
 
 **Ingredients:** The required body part or animal carcass, the weapon used to sever/kill it, a small concoction of urine, fecal matter, and semen.
 
@@ -2941,9 +2941,9 @@ Most homunculi can scale walls, hop (even if it lacks the limbs to do so), and h
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Compel Spirit, Level 2 (Players Guide p.94) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Compel Spirit, Level 2 (Players Guide p.94)</strong></mark></summary>
 
-**Prerequisite Power:** Where the Veil Thins
+**Prerequisite Power:** [<mark style="color:purple;">Where the Veil Thins</mark>](./#where-the-veil-thins-oblivion-2-players-guide-pp.87-88)
 
 **Ingredients:** A wraith’s fetter, the caster’s vitae, and an item (or threat) sufficient to damage the fetter.
 
@@ -2961,9 +2961,9 @@ The compulsion placed on the wraith ends immediately if the vampire attacks it. 
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Ashen Relic, Level 2 (The Book of Nod Apocrypha p.35) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Ashen Relic, Level 2 (The Book of Nod Apocrypha p.35)</strong></mark></summary>
 
-**Prerequisite Power:** Ashes to Ashes or Oblivion’s Sight
+**Prerequisite Power:** [<mark style="color:purple;">Ashes to Ashes</mark>](./#ashes-to-ashes-oblivion-1-players-guide-p.85) or [<mark style="color:purple;">Oblivion’s Sight</mark>](./#oblivions-sight-oblivion-1-players-guide-p.85)
 
 **Ingredients:** The decaying body of a vampire, plus salt and herbs associated with embalming.
 
@@ -2993,9 +2993,9 @@ The Ceremony lasts until sunrise or the vampire cancels it. Canceling the Ceremo
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Host Spirit, Level 3 (Players Guide pp.94-95) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Host Spirit, Level 3 (Players Guide pp.94-95)</strong></mark></summary>
 
-**Prerequisite Power:** Aura of Decay
+**Prerequisite Power:** [<mark style="color:purple;">Aura of Decay</mark>](./#aura-of-decay-oblivion-3-players-guide-p.88)
 
 **Ingredients:** A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth.
 
@@ -3013,9 +3013,9 @@ A wraith can choose to assert its possession instead of acting as a passenger. I
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Shambling Hordes, Level 3 (Players Guide pp.95-96) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Shambling Hordes, Level 3 (Players Guide pp.95-96)</strong></mark></summary>
 
-**Prerequisite Power:** Aura of Decay
+**Prerequisite Power:** [<mark style="color:purple;">Aura of Decay</mark>](./#aura-of-decay-oblivion-3-players-guide-p.88)
 
 **Ingredients:** A mortal corpse (or multiple corpses), and a fresh mortal sacrifice.
 
@@ -3039,9 +3039,9 @@ As per the rules for temporary Advantages like these (Vampire: The Masquerade, p
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Craft Flesh Golem, Level 3 (Tattered Facade p.101) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Craft Flesh Golem, Level 3 (Tattered Facade p.101)</strong></mark></summary>
 
-**Prerequisites:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Necrotic Plague</mark>
+**Prerequisites:** [<mark style="color:purple;">Aura of Decay</mark>](./#aura-of-decay-oblivion-3-players-guide-p.88) or [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90)
 
 **Ingredients:** At least three dismembered adult-sized corpses, embalmed or otherwise relatively free of decay; sea-bed clay and copper dissolved in nitric acid; a brass or platinum burin or other engraving tool
 
@@ -3053,9 +3053,9 @@ As per the rules for temporary Advantages like these (Vampire: The Masquerade, p
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Wisdom of the Dead, Level 3 (The Book of Nod Apocrypha p.35) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Wisdom of the Dead, Level 3 (The Book of Nod Apocrypha p.35)</strong></mark></summary>
 
-**Prerequisite Power:** <mark style="color:purple;">Oblivion’s Sight</mark> or <mark style="color:purple;">Where the Veil Thins</mark>
+**Prerequisite Power:** [<mark style="color:purple;">Oblivion’s Sight</mark>](./#oblivions-sight-oblivion-1-players-guide-p.85) or [<mark style="color:purple;">Where the Veil Thins</mark>](./#where-the-veil-thins-oblivion-2-players-guide-pp.87-88)
 
 **Ingredients:** The head or skull of the deceased, pure water and a small flame.
 
@@ -3073,9 +3073,9 @@ At dawn, roll one die for each skill roll boosted: a failure on any of these dic
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Create Corpse Suit, Level 3 (Tattered Facade pp.101-102) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Create Corpse Suit, Level 3 (Tattered Facade pp.101-102)</strong></mark></summary>
 
-**Prerequisite:** <mark style="color:purple;">Shadow Perspective</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
+**Prerequisite:** [<mark style="color:purple;">Shadow Perspective</mark>](./#shadow-perspective-oblivion-3-players-guide-p.89) or [<mark style="color:purple;">Touch of Oblivion</mark>](./#touch-of-oblivion-oblivion-3-players-guide-p.89)
 
 **Ingredients:** Sufficient skin of a mortal with Melancholy Resonance, fat of a mortal with Phlegmatic Resonance, waxed thread, any decorative elements desired\
 Process: The vampire calls on the powers of Oblivion and their hands fill with shadows from the Abyss as they cut, treat, and sew their chosen garment. It’s considered best to do this work by candlelight. Once sewn, the vampire rubs the garment with the fat while speaking to it as a friend.
@@ -3090,9 +3090,9 @@ A correctly functioning Corpse Suit attunes to subtle signs of danger and senses
 
 <details>
 
-<summary><mark style="color:purple;"><strong>The Shallow Slumber, Level 3 (Gehenna War p.50) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>The Shallow Slumber, Level 3 (Gehenna War p.50)</strong></mark></summary>
 
-**Prerequisite:** <mark style="color:purple;">Passion Feast</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
+**Prerequisite:** [<mark style="color:purple;">Passion Feast</mark>](./#passion-feast-oblivion-3--fortitude-2-players-guide-pp.88-89) or [<mark style="color:purple;">Touch of Oblivion</mark>](./#touch-of-oblivion-oblivion-3-players-guide-p.89)
 
 **Ingredients:** Charcoal and one Rouse Check of the user’s vitae.
 
@@ -3108,9 +3108,9 @@ A vampire can use this ceremony on themselves or another vampire, even if the su
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Bind the Spirit, Level 4 (Players Guide p.96) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Bind the Spirit, Level 4 (Players Guide p.96)</strong></mark></summary>
 
-**Prerequisite Power:** Necrotic Plague
+**Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90)
 
 **Ingredients:** A wraith’s fetter, the sacrifice of an innocent mortal, and sufficient salt to surround a property or individual. If the target for haunting is an individual, the necromancer must possess something of their body, such as fingernails, hair, blood, or skin.
 
@@ -3126,9 +3126,9 @@ The wraith is forever bound to the target, unless the vampire cancels the Ceremo
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Split the Veil, Level 4 (Players Guide pp.96-97) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Split the Veil, Level 4 (Players Guide pp.96-97)</strong></mark></summary>
 
-**Prerequisite Power:** Necrotic Plague
+**Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90)
 
 **Ingredients:** A blade that’s been used to cut into someone living, chalk or charcoal, a silk sheet, and a human sacrifice.
 
@@ -3142,9 +3142,9 @@ Importantly, if the veil rating is reduced to absent, wraiths can spill into the
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Bind to Mortal Form, Level 4 (Tattered Facade p.102) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Bind to Mortal Form, Level 4 (Tattered Facade p.102)</strong></mark></summary>
 
-**Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Skuld Fulfilled</mark>
+**Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90) or [<mark style="color:purple;">Skuld Fulfilled</mark>](./#skuld-fulfilled-oblivion-5-players-guide-p.91)
 
 **Ingredients:** The chosen mortal, an Oblivion-touched iron chain, a candle made with human tallow, dirt from a fresh grave, a thimble of blood or other body fluids from the mortal
 
@@ -3158,9 +3158,9 @@ Bind to Mortal Form can be performed several times on the same mortal; however, 
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Gift of True Life, Level 5 (Tattered Facade pp.102-103) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Gift of True Life, Level 5 (Tattered Facade pp.102-103)</strong></mark></summary>
 
-**Prerequisite Power:** <mark style="color:purple;">Necrotic Plague</mark> or <mark style="color:purple;">Passion Feast</mark>&#x20;
+**Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90) or [<mark style="color:purple;">Passion Feast</mark>](./#passion-feast-oblivion-3--fortitude-2-players-guide-pp.88-89)
 
 **Ingredients:** Two willing or unwilling mortals, a length of silk rope
 
@@ -3178,9 +3178,9 @@ Even more than most, this Ceremony is likely to attract attention from the other
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Lazarene Blessing, Level 5 (Players Guide pp.97-98) *</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Lazarene Blessing, Level 5 (Players Guide pp.97-98)</strong></mark></summary>
 
-**Prerequisite Power:** Skuld Fulfilled
+**Prerequisite Power:** [<mark style="color:purple;">Skuld Fulfilled</mark>](./#skuld-fulfilled-oblivion-5-players-guide-p.91)
 
 **Ingredients:** One mortal sacrifice, incense, the heart of any mammal, and powdered silver.
 
