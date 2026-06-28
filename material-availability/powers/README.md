@@ -3072,6 +3072,50 @@ Practitioners of this power take no damage from physical sources but can be harm
 
 <details>
 
+<summary><mark style="color:purple;"><strong>The Knowing Stone, Level 1 (Players Guide p.92)*</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Ashes to Ashes</mark>](./#ashes-to-ashes-oblivion-1-players-guide-p.85)
+
+**Ingredients:** A human body (or multiple bodies), a small concoction of blood, phlegm, and bile.
+
+**Process:** After applying the concoction to the corpse or corpses and performing the Ceremony, the affected bodies animate into a form of false life. They follow a single simple command from the vampire, providing the corpse is physically capable of performing it, such as “sweep the floor,” “hold this door shut,” or “walk around the house perimeter.” They have no ability to think or calculate, so conditional or complicated commands such as “attack the next person to walk through this archway,” “drive this car,” or “build a shack” do not work. They may be directed towards a specific target for attack or other action if the user points at the target.
+
+**System:** The vampire makes their Ceremony roll and upon a win they raise a number of corpses equal to their Oblivion rating, or the number of bodies they have prepared (whichever is lower). A critical win doubles their Oblivion rating for the purpose of determining corpses raised. The mindless corpse’s animation ends when it is destroyed or it concludes its task. These corpses do not defend themselves from attacks, and decay as normal; the Ceremony does not grant them any form of immunity to the elements or time.
+
+**Mindless Corpse Stat Block**
+
+**Standard Dice Pools:** Physical 2, Social 0, Mental 0\
+**Secondary Attributes:** Health 4, Willpower 0\
+**Exceptional Dice Pools:** Intimidation 4\
+**Special:** Mindless corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage, and rot at least one Superficial Health damage each day. They cannot be mentally dominated or influenced as they are bound to their master. They do not react to motion, words, or interference from anyone but their reanimator. Mindless corpses may always contribute to Teamwork (Vampire: The Masquerade, p. 122) for menial labor such as digging, lifting, or pushing even if they lack Skills.\
+**General Difficulties:** 2/1
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Traveler's Call, Level 1 (Players Guide p.92)*</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Ashes to Ashes</mark>](./#ashes-to-ashes-oblivion-1-players-guide-p.85)
+
+**Ingredients:** A human body (or multiple bodies), a small concoction of blood, phlegm, and bile.
+
+**Process:** After applying the concoction to the corpse or corpses and performing the Ceremony, the affected bodies animate into a form of false life. They follow a single simple command from the vampire, providing the corpse is physically capable of performing it, such as “sweep the floor,” “hold this door shut,” or “walk around the house perimeter.” They have no ability to think or calculate, so conditional or complicated commands such as “attack the next person to walk through this archway,” “drive this car,” or “build a shack” do not work. They may be directed towards a specific target for attack or other action if the user points at the target.
+
+**System:** The vampire makes their Ceremony roll and upon a win they raise a number of corpses equal to their Oblivion rating, or the number of bodies they have prepared (whichever is lower). A critical win doubles their Oblivion rating for the purpose of determining corpses raised. The mindless corpse’s animation ends when it is destroyed or it concludes its task. These corpses do not defend themselves from attacks, and decay as normal; the Ceremony does not grant them any form of immunity to the elements or time.
+
+**Mindless Corpse Stat Block**
+
+**Standard Dice Pools:** Physical 2, Social 0, Mental 0\
+**Secondary Attributes:** Health 4, Willpower 0\
+**Exceptional Dice Pools:** Intimidation 4\
+**Special:** Mindless corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage, and rot at least one Superficial Health damage each day. They cannot be mentally dominated or influenced as they are bound to their master. They do not react to motion, words, or interference from anyone but their reanimator. Mindless corpses may always contribute to Teamwork (Vampire: The Masquerade, p. 122) for menial labor such as digging, lifting, or pushing even if they lack Skills.\
+**General Difficulties:** 2/1
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;"><strong>Summon Spirit, Level 1 (Players Guide pp.92-93)</strong></mark></summary>
 
 **Prerequisite Power:** [<mark style="color:purple;">The Binding Fetter</mark>](./#the-binding-fetter-oblivion-1-players-guide-p.85)
@@ -3165,6 +3209,66 @@ The Ceremony lasts until sunrise or the vampire cancels it. Canceling the Ceremo
 <details>
 
 <summary><mark style="color:purple;"><strong>Host Spirit, Level 3 (Players Guide pp.94-95)</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Aura of Decay</mark>](./#aura-of-decay-oblivion-3-players-guide-p.88)
+
+**Ingredients:** A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth.
+
+**Process:** The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. 92). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body.
+
+The benefits of having a wraith ride one’s body include an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power.
+
+Allowing a wraith to control one’s actions for a night effectively subdues the Beast, as well as demonstrating physical prowess and knowledge the vampire may not usually possess.
+
+**System:** Make a successful Oblivion Ceremony roll. If the wraith agrees to the proposition, it then enters the vampire’s body and can remain for a number of scenes equal to the successes rolled on the Oblivion Ceremony roll. With the wraith inside them, the vampire gains two dice to all Physical Attribute rolls and +2 Health until the wraith departs. The vampire can hear the wraith in their head, offering advice, and they can substitute the wraith’s Skills for their own, at the Storyteller’s discretion.
+
+A wraith can choose to assert its possession instead of acting as a passenger. If the vampire resists, they make a Resolve + Composure roll vs. the wraith’s Resolve + Composure. If successful, they reject the wraith’s influence. If failed, the wraith steers the vampire until the end of the scene, though it can’t make the vampire do anything self-destructive.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Fortezza Sindonica</strong><strong>, Level 3 (Players Guide pp.94-95)*</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Aura of Decay</mark>](./#aura-of-decay-oblivion-3-players-guide-p.88)
+
+**Ingredients:** A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth.
+
+**Process:** The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. 92). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body.
+
+The benefits of having a wraith ride one’s body include an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power.
+
+Allowing a wraith to control one’s actions for a night effectively subdues the Beast, as well as demonstrating physical prowess and knowledge the vampire may not usually possess.
+
+**System:** Make a successful Oblivion Ceremony roll. If the wraith agrees to the proposition, it then enters the vampire’s body and can remain for a number of scenes equal to the successes rolled on the Oblivion Ceremony roll. With the wraith inside them, the vampire gains two dice to all Physical Attribute rolls and +2 Health until the wraith departs. The vampire can hear the wraith in their head, offering advice, and they can substitute the wraith’s Skills for their own, at the Storyteller’s discretion.
+
+A wraith can choose to assert its possession instead of acting as a passenger. If the vampire resists, they make a Resolve + Composure roll vs. the wraith’s Resolve + Composure. If successful, they reject the wraith’s influence. If failed, the wraith steers the vampire until the end of the scene, though it can’t make the vampire do anything self-destructive.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Knit the Veil,</strong></mark><strong> </strong><mark style="color:purple;"><strong>Level 3 (Players Guide pp.94-95)*</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Aura of Decay</mark>](./#aura-of-decay-oblivion-3-players-guide-p.88)
+
+**Ingredients:** A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth.
+
+**Process:** The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. 92). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body.
+
+The benefits of having a wraith ride one’s body include an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power.
+
+Allowing a wraith to control one’s actions for a night effectively subdues the Beast, as well as demonstrating physical prowess and knowledge the vampire may not usually possess.
+
+**System:** Make a successful Oblivion Ceremony roll. If the wraith agrees to the proposition, it then enters the vampire’s body and can remain for a number of scenes equal to the successes rolled on the Oblivion Ceremony roll. With the wraith inside them, the vampire gains two dice to all Physical Attribute rolls and +2 Health until the wraith departs. The vampire can hear the wraith in their head, offering advice, and they can substitute the wraith’s Skills for their own, at the Storyteller’s discretion.
+
+A wraith can choose to assert its possession instead of acting as a passenger. If the vampire resists, they make a Resolve + Composure roll vs. the wraith’s Resolve + Composure. If successful, they reject the wraith’s influence. If failed, the wraith steers the vampire until the end of the scene, though it can’t make the vampire do anything self-destructive.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Name of the Father,</strong></mark><strong> </strong><mark style="color:purple;"><strong>Level 3 (Players Guide pp.94-95)*</strong></mark></summary>
 
 **Prerequisite Power:** [<mark style="color:purple;">Aura of Decay</mark>](./#aura-of-decay-oblivion-3-players-guide-p.88)
 
@@ -3279,6 +3383,24 @@ A vampire can use this ceremony on themselves or another vampire, even if the su
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Death Rattle, Level 4 (Players Guide p.96) *</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90)
+
+**Ingredients:** A wraith’s fetter, the sacrifice of an innocent mortal, and sufficient salt to surround a property or individual. If the target for haunting is an individual, the necromancer must possess something of their body, such as fingernails, hair, blood, or skin.
+
+**Process:** The vampire must already have a wraith under their control using Compel Spirit (see p. 93). The vampire kills an innocent mortal (though innocence is subjective, this tends to apply to the young, caregivers, and genuinely pious individuals) in or close to a location or person they want their wraith to haunt. Subsequently, they mix their vitae with sufficient salt to surround the target for haunting, and paint a circle with the mixture. They place the wraith’s fetter somewhere within the location, or in the target’s possession.
+
+**System:** Following the steps of the Ceremony, the vampire may incur Stains from the murder depending on the Chronicle Tenets and the Storyteller’s discretion. They make an Oblivion Ceremony roll that cannot be resisted, as the wraith must already be compelled for this power to work.
+
+The wraith is bound to the location or individual targeted, with no duration applied to this Ceremony’s effects. Any emotion the wraith feels intensely during its binding affects the inhabitants of the location or the individual to whom it’s bound, with each person affected suffering a two-dice penalty to all rolls made to resist acting or feeling the way the wraith feels. Therefore, an angry wraith may make vampires more inclined to Frenzy, while a depressed wraith might make a mortal more likely to stop self-care. Bound wraiths have the same powers as spectres (Vampire: The Masquerade, p. 377).
+
+The wraith is forever bound to the target, unless the vampire cancels the Ceremony, the fetter ever moves from the location or individual’s possession, or the wraith is destroyed. Binding also ends if the necromancer attacks the wraith. Most wraiths bound in this way are furious or melancholic about their plight, and their mood affects the area around them. Many necromancers use this method to defend their havens or haunt their enemies.
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;"><strong>Bind the Spirit, Level 4 (Players Guide p.96)</strong></mark></summary>
 
 **Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90)
@@ -3330,6 +3452,46 @@ Bind to Mortal Form can be performed several times on the same mortal; however, 
 <details>
 
 <summary><mark style="color:purple;"><strong>Gift of True Life, Level 5 (Tattered Facade pp.102-103)</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90) or [<mark style="color:purple;">Passion Feast</mark>](./#passion-feast-oblivion-3--fortitude-2-players-guide-pp.88-89)
+
+**Ingredients:** Two willing or unwilling mortals, a length of silk rope
+
+**Process:** Opening a vein on each mortal’s wrist, the vampire presses their wounds together, securing them with the rope. Holding on to each mortal, the vampire channels shadows from the Abyss to push vitality from one mortal into the other.
+
+**System:** The vampire makes their Rouse Check as they open the veins and a Ceremony contest of Resolve + Oblivion against the Stamina + Resolve of the mortal being drained as they start channeling the Abyss. A failed Ceremony contest forces the shadows to slink back to where they came from. A win starts the process of pushing vitality from one mortal to another. The results become apparent quickly. For every five minutes of siphoning, the targeted mortal loses 10 years’ worth of life they could have lived to the other. When the target has lost their ordained lifespan (traditionally 70 years), they start deteriorating quickly. The effect on the receiving mortal is more subtle. They become the image of health but aren’t otherwise immediately affected. Following the Ceremony, they age half as quickly as other mortals until the extra lifespan they have been granted has been spent (at which point, they once again age normally). Diseases develop at half the speed as well. They aren’t in any other ways protected from death.
+
+The conversion rate of vitality is 1:1 for mortals who are related or deeply emotionally bonded. Otherwise, the targeted mortal must give a decade for each three years of life received by the other.
+
+The vampire must make a Ceremony test of Resolve + Oblivion at Difficulty 6 to stop the process and cut the bond before the targeted mortal shrivels up like a dried prune and turns to dust. If the vampire cannot stop the Ceremony this way, simply killing the mortal works as well. Regardless of the outcome, the vampire performing this Ceremony most likely gains one or several Stains.
+
+Even more than most, this Ceremony is likely to attract attention from the other side of the Veil.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Ex Nihilo</strong><strong>, Level 5 (Tattered Facade pp.102-103)*</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90) or [<mark style="color:purple;">Passion Feast</mark>](./#passion-feast-oblivion-3--fortitude-2-players-guide-pp.88-89)
+
+**Ingredients:** Two willing or unwilling mortals, a length of silk rope
+
+**Process:** Opening a vein on each mortal’s wrist, the vampire presses their wounds together, securing them with the rope. Holding on to each mortal, the vampire channels shadows from the Abyss to push vitality from one mortal into the other.
+
+**System:** The vampire makes their Rouse Check as they open the veins and a Ceremony contest of Resolve + Oblivion against the Stamina + Resolve of the mortal being drained as they start channeling the Abyss. A failed Ceremony contest forces the shadows to slink back to where they came from. A win starts the process of pushing vitality from one mortal to another. The results become apparent quickly. For every five minutes of siphoning, the targeted mortal loses 10 years’ worth of life they could have lived to the other. When the target has lost their ordained lifespan (traditionally 70 years), they start deteriorating quickly. The effect on the receiving mortal is more subtle. They become the image of health but aren’t otherwise immediately affected. Following the Ceremony, they age half as quickly as other mortals until the extra lifespan they have been granted has been spent (at which point, they once again age normally). Diseases develop at half the speed as well. They aren’t in any other ways protected from death.
+
+The conversion rate of vitality is 1:1 for mortals who are related or deeply emotionally bonded. Otherwise, the targeted mortal must give a decade for each three years of life received by the other.
+
+The vampire must make a Ceremony test of Resolve + Oblivion at Difficulty 6 to stop the process and cut the bond before the targeted mortal shrivels up like a dried prune and turns to dust. If the vampire cannot stop the Ceremony this way, simply killing the mortal works as well. Regardless of the outcome, the vampire performing this Ceremony most likely gains one or several Stains.
+
+Even more than most, this Ceremony is likely to attract attention from the other side of the Veil.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Pit of Contemplation</strong><strong>, Level 5 (Tattered Facade pp.102-103)*</strong></mark></summary>
 
 **Prerequisite Power:** [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90) or [<mark style="color:purple;">Passion Feast</mark>](./#passion-feast-oblivion-3--fortitude-2-players-guide-pp.88-89)
 

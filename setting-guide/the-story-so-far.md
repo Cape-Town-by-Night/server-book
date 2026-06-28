@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # The Story So Far
 
 Decimated by the Beckoning, Second Inquisition, and the iron fists of resentful young Kindred, the Camarilla could not suppress the Anarch revolt that began in the late ‘90s. A brutal, violent revolution commenced, but Kindred will be Kindred and familiar problems arose.

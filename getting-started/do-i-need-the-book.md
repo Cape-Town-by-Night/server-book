@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Do I Need the Book?
 
 Yes and no. We are happy to host newcomers to the game and expect all players to have a copy of the Core book to help them get a grasp on basic mechanics. If you are playing a more niche concept that's expanded on in another source book, you will probably want to check it out.&#x20;

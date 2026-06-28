@@ -1,6 +1,6 @@
 # Blood Sorcery Rituals
 
-Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usu- ally require additional ingredi- ents, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
+Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usually require additional ingredients, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
 
 ## Level 1
 
@@ -368,7 +368,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66)</strong></mark> <mark style="color:red;"><strong>✦</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66)</strong></mark><strong> </strong><mark style="color:red;"><strong>✦</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
