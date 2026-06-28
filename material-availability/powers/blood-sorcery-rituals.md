@@ -1,5 +1,7 @@
 # Blood Sorcery Rituals
 
+At character creation, a player can choose one Level 1 ritual if they have at least one dot in Blood Sorcery. Characters can buy new rituals at the cost of the ritual’s level x 3 experience points. Learning new Rituals during play requires both experience and time. Expect a Ritual to take at least the square of its rating in weeks to learn.
+
 Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usually require additional ingredients, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
 
 ## Level 1
@@ -152,11 +154,95 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>Coax the Garden (Cults of the Blood Gods p.55)*</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Enrich the Blood (Forbidden Religions p.76)*</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Herd Ward - Minor (Let the Streets Run Red p.77)*</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Letter Ward (Let the Streets Run Red p.77)*</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Sanguine Tidings (Let the Streets Run Red p.77)*</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shared Memory (In Memoriam p.145)*</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Unseen Underground (Fall of London p.31)*</strong></mark></summary>
+
+**Ingredients:** The burnt bones and feathers of a rooster.
+
+**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+
+**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+
+</details>
+
 ## Level 2
 
 <details>
 
-<summary><mark style="color:red;"><strong>As Fog on Water, Level 2 (Players Guide p.100)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>As Fog on Water (Players Guide p.100)</strong></mark></summary>
 
 **Ingredients:** A piece of wood from a ship, and water
 
@@ -168,7 +254,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Calix Secretus, Level 2 (Players Guide p.100)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Calix Secretus (Players Guide p.100)</strong></mark></summary>
 
 **Ingredients:** An object that fits in the caster’s hand, and Blood of the user.
 
@@ -180,7 +266,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Communicate With Kindred Sire, Level 2 (Core p.277)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Communicate With Kindred Sire (Core p.277)</strong></mark></summary>
 
 **Ingredients:** An object previously possessed by the sire and a silver bowl filled with clear water.
 
@@ -192,7 +278,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Craftmaster, Level 2 (Blood Sigils p.62)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Craftmaster (Blood Sigils p.62)</strong></mark></summary>
 
 **Ingredients:** Blood of a gifted subject, representative craft object such as a needle, page of a book, playing card, chisel, etc., vulture bones.
 
@@ -204,7 +290,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Depths of Nightmare, Level 2 (Blood Sigils p.62)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Depths of Nightmare (Blood Sigils p.62)</strong></mark></summary>
 
 **Ingredients:** Target’s hair; melted wax; natron (soda ash)
 
@@ -216,7 +302,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Elemental Grasp, Level 2 (Blood Sigils p.62-63)</strong></mark><strong> </strong><mark style="color:red;"><strong>✦</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Elemental Grasp (Blood Sigils p.62-63)</strong></mark></summary>
 
 **Prerequisite:** [Koldunic Sorcery](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
@@ -230,7 +316,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Illuminate The Trail Of Prey, Level 2 (Core p.277)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Illuminate The Trail Of Prey (Core p.277)</strong></mark></summary>
 
 **Ingredients:** A white satin ribbon.
 
@@ -242,7 +328,7 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Le Sang de l’Amour, Level 2 (Blood-Stained Love p.154)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Le Sang de l’Amour (Blood-Stained Love p.154)</strong></mark></summary>
 
 **Ingredients:** Blood of the caster and their lover, two glass vials on chains.
 
@@ -256,7 +342,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Silentia Mortis, Level 2 (Blood Sigils p.64)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Silentia Mortis (Blood Sigils p.64)</strong></mark></summary>
 
 **Ingredients:** Paw of a cat or other silent desert predator, blood from caster (and from holder, if different), corpse-wax candle (p. 139), a white rose.
 
@@ -268,7 +354,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Soporific Touch, Level 2 (Players Guide p.100)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Soporific Touch (Players Guide p.100)</strong></mark></summary>
 
 **Ingredients:** A small amount of hashish or other narcotic substance.
 
@@ -280,7 +366,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Tiamat Glistens, Level 2 (Blood Sigils pp.64-65)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Tiamat Glistens (Blood Sigils pp.64-65)</strong></mark></summary>
 
 **Ingredients:** A place of power such as a furcus, dust of a precious metal (which one depends on the magical valence of the site).
 
@@ -292,7 +378,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Truth Of Blood, Level 2 (Core pp.277-278)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Truth Of Blood (Core pp.277-278)</strong></mark></summary>
 
 **Ingredients:** One pint of blood from the subject.
 
@@ -306,7 +392,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Viscera Garden, Level 2 (Blood Sigils p.65)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Viscera Garden (Blood Sigils p.65)</strong></mark></summary>
 
 **Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
 
@@ -318,13 +404,61 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Calling the Aura's Remnants (The Chicago Folios p.171)*</strong></mark></summary>
 
-**Ingredients:** The burnt bones and feathers of a rooster.
+**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
 
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
+**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
 
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
+**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Enhance Dyscrasia (Forbidden Religions p.77)*</strong></mark></summary>
+
+**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
+
+**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
+
+**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Eyes of Babel (Core p.277)*</strong></mark></summary>
+
+**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
+
+**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
+
+**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shroud of Silence (Forbidden Religions p.23)*</strong></mark></summary>
+
+**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
+
+**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
+
+**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stolen Memory (In Memoriam p.145)*</strong></mark></summary>
+
+**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
+
+**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
+
+**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
 
 </details>
 
@@ -332,7 +466,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Sigil, Level 3 (Blood Sigils p.66)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Blood Sigil (Blood Sigils p.66)</strong></mark></summary>
 
 **Ingredients:** Tattoo ink or other substances that can stain skin, a written message on paper, a photograph, or a painting, a sharp object with a tip heated by candle flame.
 
@@ -344,7 +478,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Dagon’s Call, Level 3 (Core p.278)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Dagon’s Call (Core p.278)</strong></mark></summary>
 
 **Ingredients:** A gold inlaid ceremonial dagger.
 
@@ -356,7 +490,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Deflection Of Wooden Doom, Level 3 (Core pp.278-279)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Deflection Of Wooden Doom (Core pp.278-279)</strong></mark></summary>
 
 **Ingredients:** Wood splinters or shavings.
 
@@ -368,7 +502,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66)</strong></mark><strong> </strong><mark style="color:red;"><strong>✦</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Elemental Shelter (Blood Sigils p.66)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
@@ -382,7 +516,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Essence Of Air, Level 3 (Core p.279)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Essence Of Air (Core p.279)</strong></mark></summary>
 
 **Ingredients:** Leaves and berries of belladonna.
 
@@ -394,7 +528,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Firewalker, Level 3 (Core p.279)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Firewalker (Core p.279)</strong></mark></summary>
 
 **Ingredients:** A fingertip of the caster.
 
@@ -406,7 +540,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fire in the Blood, Level 3 (Players Guide pp.100-101)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Fire in the Blood (Players Guide pp.100-101)</strong></mark></summary>
 
 **Ingredients:** A sample of the target’s blood, a visual depiction of the target such as a photo, painting, or video recording, and a candle made from red wax or a lighter made of iron.
 
@@ -418,7 +552,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Grim Chrysalis, Level 3 (Tattered Facade pp.93-94)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Grim Chrysalis (Tattered Facade pp.93-94)</strong></mark></summary>
 
 **Ingredients:** 200g of human hair, a moth or butterfly. Old-school sorcerers insist on death’s-head moths and hair from a corpse; younger licks suggest that a store-bought bottle of keratin supplements and any random caterpillar works just as well.
 
@@ -436,7 +570,7 @@ The process of breaking out of the cocoon can be a disturbing sight. Vampires th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Nepenthe, Level 3 (Blood Sigils pp.66-67)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Nepenthe (Blood Sigils pp.66-67)</strong></mark></summary>
 
 **Ingredients:** Poppy seeds, starflower, honey, the subject’s tears, the caster’s Blood.
 
@@ -448,7 +582,7 @@ The process of breaking out of the cocoon can be a disturbing sight. Vampires th
 
 <details>
 
-<summary><mark style="color:red;"><strong>One With the Blade, Level 3 (Players Guide p.101)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>One With the Blade (Players Guide p.101)</strong></mark></summary>
 
 **Ingredients:** A melee weapon and enough of the caster’s vitae to fully immerse it.
 
@@ -462,7 +596,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seeing with the Sky’s Eyes, Level 3 (Blood Sigils p.67)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Seeing with the Sky’s Eyes (Blood Sigils p.67)</strong></mark></summary>
 
 **Ingredients:** Euphoric mortal blood (usually from someone high on cannabis), incense, brazier, an effigy or photo of a target.
 
@@ -474,7 +608,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seeking Tiamat, Level 3 (Blood Sigils p.68)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Seeking Tiamat (Blood Sigils p.68)</strong></mark></summary>
 
 **Ingredients:** A foot-long, sharpened piece of witch hazel or magnetized iron.
 
@@ -486,7 +620,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Soul of the Hemonculus, Level 3 (Blood Sigils p.68)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Soul of the Hemonculus (Blood Sigils p.68)</strong></mark></summary>
 
 **Ingredients:** Glass bottle blown on the night before the new moon, semen, chalk, graveyard dirt, the caster’s Blood, a dead man’s thumb, and a dead pig.
 
@@ -498,7 +632,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Stone of the True Form, Level 3 (Blood Sigils p.68)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Stone of the True Form (Blood Sigils p.68)</strong></mark></summary>
 
 **Ingredients:** A hunk of metamorphic rock, such as slate or marble.
 
@@ -510,7 +644,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Trespass, Level 3 (Blood Sigils p.69)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Trespass (Blood Sigils p.69)</strong></mark></summary>
 
 **Ingredients:** Fragment of the desired location’s cornerstone or doorstep, the blood of a thief, thread.
 
@@ -522,7 +656,43 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Viral Haruspex, Level 3 (Blood Sigils p.69)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Viral Haruspex (Blood Sigils p.69)</strong></mark></summary>
+
+**Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
+
+**Process:** The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
+
+**System:** A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Bladed Hands (The Chicago Folios p.174)*</strong></mark></summary>
+
+**Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
+
+**Process:** The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
+
+**System:** A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Bloodless Feast (Forbidden Religions p.67)*</strong></mark></summary>
+
+**Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
+
+**Process:** The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
+
+**System:** A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Bladed Hands (The Chicago Folios p.174)*</strong></mark></summary>
 
 **Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
 

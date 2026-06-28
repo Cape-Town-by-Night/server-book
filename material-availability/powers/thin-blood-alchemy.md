@@ -1,6 +1,6 @@
 # Thin-Blood Alchemy
 
-Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usu- ally require additional ingredi- ents, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
+To learn a new formula requires research time, whether the Alchemist spends it poring through libraries or in meditation or on tasting expeditions or performing laboratory experimentation. Players should write down which formulae their character already knows, and any special ingredients it requires. A character receives a formula for free for each dot in Thin-Blood Alchemy and can purchase additional formulae with experience and experimentation.
 
 ## Level 1
 
@@ -368,7 +368,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66)</strong></mark> <mark style="color:red;"><strong>✦</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66)</strong></mark><strong> </strong><mark style="color:red;"><strong>✦</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 

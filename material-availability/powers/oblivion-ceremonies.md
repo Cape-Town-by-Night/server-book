@@ -1,6 +1,8 @@
 # Oblivion Ceremonies
 
-Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usu- ally require additional ingredi- ents, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
+Unless otherwise noted, performing a Ceremony requires a Rouse Check, five minutes per level to cast, and a winning Resolve + Oblivion test (Difficulty = Ceremony level +1). Ceremonies usually require additional ingredients or sacrifices to mingle the caster’s vitae with. Unless otherwise stated the caster can only perform beneficial Ceremonies on themselves. Ghouls of Oblivion practitioners, or thin-bloods, can gain temporary access to Oblivion powers, but not to Ceremonies.
+
+Ceremonies each have a prerequisite Oblivion power. At character creation a player can choose one Level 1 Ceremony if they have at least one Oblivion power noted as a prerequisite for that Ceremony. Characters can buy new Ceremonies at the cost of the Ceremony’s level x 3 experience points, providing they meet the power prerequisite as well. Learning new Ceremonies during play requires both experience and time, as well as a teacher who knows the Ceremony already. Expect a Ceremony to take at least the square of its rating in weeks to learn.
 
 ## Level 1
 
@@ -368,7 +370,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66)</strong></mark> <mark style="color:red;"><strong>✦</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Elemental Shelter, Level 3 (Blood Sigils p.66)</strong></mark><strong> </strong><mark style="color:red;"><strong>✦</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
