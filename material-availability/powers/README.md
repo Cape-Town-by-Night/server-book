@@ -52,6 +52,20 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
+<summary><mark style="color:red;"><strong>Atavism, Animalism 2 (Winter's Teeth #3)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Composure + Animalism
+
+**System:** The target must be able to sense (smell, hear, or see) the user in question to use this power. Roll Composure + Animalism vs. Difficulty 1-4, depending on type of animal, its training, and whether or not it is a ghoul. A win against the target allows the user to choose one of two primal responses: Fight or Flight. If Fight is chosen, the creature reacts in kind, lashing out at the closest perceived threat or prey. If Flight, the creature instead flies into a panic, trying to escape its surroundings at any cost to their safety. Well-trained and faithful animals tend to shake off this reaction quickly, and so, clever users tend to time their uses of this power in order to create maximum effect.
+
+**Duration:** A number of rounds equal to the test margin plus one, or the entire Scene in the case of a critical win
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Feral Whispers, Animalism 2 (Core p.246)</strong></mark></summary>
 
 **Dice Pools:** Manipulation + Animalism, Charisma + Animalism
@@ -339,6 +353,20 @@ Use of this power takes a whole turn. If the vampire spends an entire scene inst
 If the user soothes more than one subject per night, the user suffers superficial Willpower damage equal to half the number of successes in the margin for every additional subject, as they take on the burden of so many charges.
 
 **Duration:** N/A
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Vermin Vision, Auspex 3 + Animalism 2 (Fall of London p.10)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Resolve + Animalism
+
+**System:** The user can view through the eyes of a group of animals (such as mice or cockroaches) and hop from one individual specimen to the next as suits her.
+
+**Duration:** One scene
 
 </details>
 
@@ -1029,6 +1057,20 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Obdurate, Fortitude 2 + Potence 2 (Winter's Teeth #3)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Wits + Survival
+
+**System:** When activated, a vampire may use this power to become a sturdy and strong immovable object. Vampires falling from great heights find themselves able to literally hit the ground running. Vampires struck by moving vehicles don't budge an inch while the car crumples like aluminum. Users may consciously activate this ability in advance or may instinctively activate it by making a successful Stamina + Survival check at Difficulty 3. Any superficial damage received from falling or collisions is reduced by the user's Fortitude score, before being halved.
+
+**Duration:** One Scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Invigorating Vitae,</strong></mark> <mark style="color:yellow;"><strong>Fortitude 2 + Auspex 1 (Players Guide p.75)</strong></mark></summary>
 
 **Dice Pools:** N/A
@@ -1052,6 +1094,22 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 **System:** If engaged in social combat, the character can activate this Power. Once activated, the character can absorb Superficial Willpower damage equal to their Fortitude rating without it affecting their actual Willpower reserves. If a Social Combat Action would inflict Aggravated damage, the character can expend any remaining benefit from this Power to negate that attack — in this case, the Power cannot be renewed during the same scene.
 
 **Duration:** One scene, until depleted, or the end of a social conflict.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Shatter, Fortitude 4 (Cults of the Blood Gods pp.104-105)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Toughness</mark>](./#toughness-fortitude-2-core-pp.258-259)
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Stamina + Fortitude vs. Stamina (+ Fortitude, if the attacker is attacking unarmed and possesses Fortitude)
+
+**System:** Anyone who makes a successful Brawl attack against the user suffers the damage which Toughness subtracts (see Vampire: The Masquerade p. 258) as Superficial Health damage. Melee weapons also suffer reflected damage, and break once they endure their damage modifier’s worth (unless it is holy, magical, or otherwise unbreakable). This power may only be used while Toughness is active, and can be used in response to an attack so long as the vampire has yet to use a Discipline during the current turn.
+
+**Duration:** One scene (or until hit)
 
 </details>
 
@@ -1081,6 +1139,18 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 Use of this power takes a whole turn. If the vampire spends an entire scene instead, reduce the Difficulty to 0. Valeren must be used on someone other than the vampire invoking the power, and can be used only on vampires. A subject can be affected by the power only once per night. If the user mends more than one subject per night, the user suffers Superficial Health damage equal to half the number of successes in the margin for every additional subject, as they take on the burden of so many charges.
 
 **Duration:** N/A
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Seal the Beast's Maw, Fortitude 3 (Forbidden Religions p.44)</strong></mark></summary>
+
+**Cost:** Two Rouse Checks
+
+**System:** At any time during a scene, the vampire may make two Rouse Checks and ignore the effects of Hunger for the remainder of the scene. Doing this reduces all dice pools by a number equal to half (rounded up) of their current Hunger rating. If their Hunger increases by any other means during this time, their dice pools reduce by an additional die. If a dice pool reduces to zero through the use of this power, the character must roll to resist a fury frenzy, as stifling their Hunger intensifies the Beast’s rage.
+
+**Duration:** One scene
 
 </details>
 
@@ -1244,6 +1314,32 @@ This power does not eliminate sounds the user makes outside their personal space
 **System:** Objects affected by Ensconce need merely be touched, not held or carried by the Kindred. Furthermore, the user need not maintain physical contact with the object. The effect lasts for a scene. The user may make an additional Rouse Check to extend the duration for the remainder of the night. In that case, the enshrouded object remains hidden until dawn.
 
 **Duration:** One scene or until dawn
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Ghost's Passing, Obfuscate 2 + Animalism 1 (Forbidden Religions pp.18-19)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** Animals under the user’s influence that the user targets with this power leave no track or trace that can be seen by mundane means. Sense the Unseen (Auspex 1) can still discern signs of an effected creature’s passing however, as per the general Obfuscate rules.
+
+**Duration:** One session
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Ventriloquism, Obfuscate 2 + Auspex 2 (Players Guide pp.76-77)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Wits + Obfuscate (opposed by the target’s Resolve + Composure if they’re unwilling)
+
+**System:** The power can be used on anyone in the user’s line of sight, granting the possibility to speak in the recipient’s ear from a distance so nobody else hears what’s being said.
+
+**Duration:** One scene
 
 </details>
 
@@ -1728,6 +1824,37 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Clear the Field, Presence 3 + Dominate 1 (Fall of London p.31)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Composure + Presence
+
+**System:** This roll is Difficulty 3 for mortals and ghouls, and opposed individually by Wits + Composure by other vampires. Gwenllian can select a number of people equal to her Composure to be exempt from the effect. Everyone else clears a space equal to a large room around the Brujah, in a calm and orderly manner.
+
+**Duration:** One Scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>True Love's Face, Presence 3 + Obfuscate 3 (Cults of the Blood Gods p.85)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Manipulation + Presence vs. Composure + Wits
+
+**System:** To impersonate someone the victim has strong emotions for, the vampire must know their appearance and what the victim feels for them. How they uncover this will vary between vampires. When activated the Storyteller rolls a hidden contest between the user’s Manipulation + Presence and the victim’s Composure + Wits, where failure means the visage holds no emotional charge, which is deeply uncanny and sours any social interaction with the victim. It also prevents them from falling victim to this power for the\
+rest of the story.
+
+On a win, the vampire adds their Presence rating to any rolls for affecting a mortal’s resonance or a vampire’s emotional state. Appearing as a vampire’s Touchstone is a dangerous game, especially if the victim possesses Sense the Unseen (see Vampire: The Masquerade, p. 249), but played right it can lead to Stains for the victim as their Touchstone appears to become damaged or detached entirely through shifts in behavior, ideals, or even apparent death.
+
+**Duration:** One Scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Thrown Voice, Presence 3 + Auspex 1 (Players Guide p.80)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -1835,6 +1962,20 @@ Human targets of this Power lose all trace of Resonance in their blood for three
 If the subject’s object of desire is up for bargaining, the user gains a four-dice bonus to any negotiation test.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Magnum Opus, Presence 4 + Auspex 3 (Core p.268)</strong></mark></summary>
+
+**Cost:** One or more Rouse Checks
+
+**Dice Pools:** Charisma or Manipulation + Craft
+
+**System:** Before embarking on a Project Roll to create a work of art the user must make One Rouse Check for each roll made. The difficulty of the project must be 10 or higher. Upon successful completion of the project, the user finds that residual traces of their Presence linger within the work itself. When your artwork is on display, audiences must roll Composure + Resolve (Difficulty equal to the user's Presence rank) or succumb to the rough equivalent of either Awe or Daunt exuding from the piece. A Critical Success on the resistance roll renders the subject immune to further influence by the piece. Note: By integrating Disciplines into its creation, the work of art has no true staying power, aside from the initial exposure. Critics and observers may find themselves suddenly able to critique flaws or imperfections once they have left the immediate area.
+
+**Duration:** N/A
 
 </details>
 
@@ -2111,6 +2252,20 @@ If the Kindred’s Blood normally or temporarily has deleterious effects, those 
 **System:** Same as Shapechange.
 
 **Duration:** One scene unless ended voluntarily before that
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>The Heart of Darkness, Protean 5 + Fortitude 2 (Cults of the Blood Gods pp.85-86)</strong></mark></summary>
+
+**Cost:** None
+
+**System:** This power requires no roll, but inflicts two Aggravated Health damage to the vampire when removing their heart. No powers can be used to mitigate this damage, and reattaching the heart requires two Rouse Checks. Once removed the vampire gains a two-dice bonus to resist frenzy, but suffers a two-die penalty on Remorse rolls.
+
+If the heart is dealt Aggravated Health damage equal to or greater than the vampire’s Health, they fall into torpor. If an extracted heart is destroyed — only possible with fire or sunlight — the vampire experiences final death. While the heart is removed, the vampire’s body cannot be staked unless the heart is located and separately impaled, in which case the vampire falls paralyzed. If blood is fed to the heart, it will slake the vampire’s Hunger as normal (even Blood Bonding them if fed Kindred vitae from the vein), and the heart can be fed from in the same way — possibly leading to diablerie. The vampire is still susceptible to death via fire or sunlight even without a heart.
+
+**Duration:** Permanent (or until the heart is destroyed/returned)
 
 </details>
 
@@ -2856,6 +3011,22 @@ It is possible to bring another through the passage, but unless that person is w
 **System:** The vampire makes two Rouse Checks as they expend sufficient vitae to coat both their palms and their face with blood, recalling the faces of their targets. If the user succeeds in a contest of Stamina + Oblivion vs. the victim’s Stamina x 2 (those with Fortitude may resist with Stamina + Fortitude), the targeted individual is affected by a serious condition they’ve historically suffered and recovered from, such as treated cancer, a broken bone, or a disease — including one gained through Necrotic Plague (p. 90) — with any debilitating effects from this condition occurring immediately. The condition’s effects are for the Storyteller to determine, but they should be severe (See the Crippling Injuries table for inspiration, Vampire: The Masquerade, p. 303). If the victim is a ghoul, this power removes their immunity to aging and eliminates any vitae in their system, potentially resulting in older ghouls dying or even disintegrating where they stand. On a critical win, this power may kill the victim by stopping their heart completely if the user wishes. On a total failure, the vampire cannot use this power against that individual again.
 
 **Duration:** Variable, dependent on whether the condition is treatable
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Withering Spirit, Oblivion 5 (Cults of the Blood Gods p.208)</strong></mark></summary>
+
+**Cost:** Two Rouse Checks, Stains (variable amount)
+
+**Dice Pool:** Resolve + Oblivion vs. Resolve + Occult or Fortitude
+
+**System:** The vampire makes two Rouse Checks to expend sufficient vitae to coat both hands, and touches the victim. After rolling Resolve + Oblivion vs. the victim’s Resolve + Occult (Those with Fortitude may use it in place of Occult), the victim suffers two Aggravated Willpower damage for each point of the vampire’s margin. The attack erodes the victim’s spirit until they’re a broken husk, and if Impaired by this power they will not return as a wraith after death.
+
+Storytellers may decide that the spirit-destroying nature of this power warrants Stains, though as always, an appropriate Conviction may mitigate these.
+
+**Duration:** One turn
 
 </details>
 
