@@ -32,29 +32,17 @@ Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Apocrypha (The Book of Nod Apocrypha p.34)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Blood Missive (</strong><strong>Live From the Succubus Club p.29</strong><strong>)</strong></mark></summary>
 
-**Ingredients:** A drop of mercury and one rouse check’s worth of blood.
+**Ingredients:** A drop of mercury and one rouse check’s worth of Blood.
 
-**Process:** The Kindred whispers a message to the mercury, which carries it through the blood collected in a ceremonially prepared bowl.
+**Process:** The Kindred whispers a message to the mercury, which carries it through the Blood collected in a ceremonially prepared bowl.
 
-**System:** The Kindred encodes about one minute of speech into one Rouse Check worth of blood in a ritual bowl. The ritualist then designates one or more intended recipients of the message whose blood they have tasted. As part of the ritual, a Kindred, mortal, or beast messenger must consume the blood to transfer the message to their own body, otherwise the blood—and message—will rapidly sour.
+**System:** The Kindred encodes about one minute of speech into one Rouse Check worth of Blood in a ritual bowl. The ritualist then designates one or more intended recipients of the message whose Blood they have tasted. As part of the ritual, a Kindred, mortal, or beast messenger must consume the Blood to transfer the message to their own body, otherwise the Blood — and message — will rapidly sour.
 
-The first person to consume the ensorcelled blood from the messenger automatically receives the message mentally if they are the intended recipient or possess A Taste for Blood. Any other imbiber must succeed on a Wits + Occult roll (Difficulty 3) to understand the message.
+The first person to consume the ensorcelled Blood from the messenger automatically receives the message mentally if they are the intended recipient or possess A Taste for Blood. Any other imbiber must succeed on a Wits + Occult test (Difficulty 3) to understand the message.
 
 **Duration:** One month plus another month for each point of the margin of success
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Blood Missive (Live From the Succubus Club p.29)</strong></mark></summary>
-
-**Ingredients:** Mirror, sufficient human blood to write the message, lightless room.
-
-**Process:** The practitioner designates a type of individual in their mind — e.g., mortal, ghoul, vampire, male, a child, unemployed — and suspends a mirror in a lightless room. The sorcerer writes a message on the mirror with a fingertip, using human blood as the ink. The message appears on another reflective surface (a mirror, polished glass, water) the practitioner has seen before and can mentally recall, when the designated type of individual passes by.
-
-**System:** The sorcerer makes the Ritual test when enchanting the designated surface. For every success the practitioner rolls, the message will repeat for each new individual of the chosen type who passes the surface. The message clears itself from the surface as soon as it’s been read once. It appears in the handwriting and language in which the sorcerer wrote it.
 
 </details>
 
@@ -96,6 +84,26 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
+<summary><mark style="color:red;"><strong>Coax the Garden (Cults of the Blood Gods p.55)</strong></mark></summary>
+
+**Ingredients:** Human blood, poppy seeds.
+
+**Process:** The vampire casts a\
+concoction of human blood and\
+poppy seeds onto the earth, and\
+in doing so rouses all plant life\
+within a 5 yard/meter diameter.\
+While these plants are rarely\
+lethal in their attacks, they can\
+successfully disable and alarm\
+their victims.
+
+**System:** A win on the Ritual roll following the casting of the Ritual ingredients animates the plant life. The affected flora causes a two-dice penalty to physical dice pools for those caught in the range of the Ritual, as plants trip and grip them. Victims who stay in the area for longer than a turn must make a Dexterity + Athletics roll (Difficulty 3), or be grappled and suffer one point of Superficial Health damage for each turn ensnared. If the caster achieves a critical win, the damage from plant attacks doubles. On a total failure, the plants attack the caster. The plants will target anyone who isn’t the caster. They remain active until the end of the scene.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Craft Bloodstone (Core pp.276-277)</strong></mark></summary>
 
 **Ingredients:** A pebble of iron ore or a small magnet and a liter of blood from any source in a silver bowl.
@@ -120,6 +128,46 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
+<summary><mark style="color:red;"><strong>Enrich the Blood (Forbidden Religions pp.76-77)</strong></mark></summary>
+
+**Ingredients:** A half-full vial of the target’s blood, five liters of unprocessed human blood no more than three hours old.
+
+**Process:** The caster slowly pours the unprocessed blood into the vial, which never fills up so long as the vampire retains concentration. Once all the blood is added, the resulting half-vial of blood must be fed back to the target. The ritual poses significant long-term medical problems to the donor/recipient (vulnerability to blood diseases
+
+**System:** A successful Ritual roll makes the target’s blood unusually rich and flavorsome. A sip from their veins slakes two levels of Hunger rather than one. On a Critical Win, two vampires can slake to Hunger 0 if they share the kill. If left alive, the effect on the target wanes after one week.
+
+This Ritual makes the human’s blood thick and hypercoagulable, prone to numerous medical complications, and causes the caster to suffer 1 Stain (unless Chronicle Tenets or Convictions negate it). A second casting renders the blood too thick to drink and kills the target.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Herd Ward - Minor (Let the Streets Run Red p.77)</strong></mark></summary>
+
+**Ingredients:** Scorpion poison, sufficient vitae to provoke a Rouse Check.
+
+**Process:** The sorcerer mixes scorpion poison with their own vitae to draw the ward. The vampire can ward a single mortal.
+
+**System:** The sorcerer makes the Ritual roll when another vampire tries to feed on the warded kine. The transgressor suffers one point of Aggravated Health damage if the caster wins the Ritual roll, or three points of Aggravated damage on a critical win.
+
+Once the Herd Ward is triggered, a Kindred still trying to drink from the kine must roll Stamina + Resolve against Difficulty 4 for a normal Ward, or 7 for a critical-success Ward.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Letter Ward (Let the Streets Run Red p.77)</strong></mark></summary>
+
+**Ingredients:** Pigeon blood, wax, dog blood.
+
+**Process:** The letter writer, who need not be the sorcerer, pens a missive in pigeon blood and clearly addresses the recipient. The sorcerer then melts wax and mixes it with dog’s blood to seal the letter.
+
+**System:** The sorcerer makes the Ritual roll when anyone other than the recipient opens the letter. The victim suffers one point of Aggravated Health damage if the caster wins the Ritual roll, or three points of Aggravated damage on a critical win, and the letter destroys itself in a burst of flame.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Revealing the Crimson Trail (Gehenna War p.48)</strong></mark></summary>
 
 **Ingredients:** A needle with an eye.
@@ -127,6 +175,18 @@ The first person to consume the ensorcelled blood from the messenger automatical
 **Process:** The Kindred ritually prepares the needle by stabbing themselves in one eye with it, and must then peer through its eye.
 
 **System:** If the ritual is successful, the vampire can clearly see any spilled blood, dried or not, as long as they keep looking through the eye of the needle. Exceptionally old or minute traces can require a Resolve + Awareness or Investigation test to spot, as determined by the Storyteller. The ritual lasts for the rest of the scene.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Sanguine Tidings (</strong><strong>Live From the Succubus Club p.29</strong><strong>)</strong></mark></summary>
+
+**Ingredients:** Mirror, sufficient human blood to write the message, lightless room.
+
+**Process:** The practitioner designates a type of individual in their mind — e.g., mortal, ghoul, vampire, male, a child, unemployed — and suspends a mirror in a lightless room. The sorcerer writes a message on the mirror with a fingertip, using human blood as the ink. The message appears on another reflective surface (a mirror, polished glass, water) the practitioner has seen before and can mentally recall, when the designated type of individual passes by.
+
+**System:** The sorcerer makes the Ritual test when enchanting the designated surface. For every success the practitioner rolls, the message will repeat for each new individual of the chosen type who passes the surface. The message clears itself from the surface as soon as it’s been read once. It appears in the handwriting and language in which the sorcerer wrote it.
 
 </details>
 
@@ -144,91 +204,33 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
+<summary><mark style="color:red;"><strong>Shared Memory (In Memoriam p.145)</strong></mark></summary>
+
+**Ingredients:** One Rouse Check’s worth of vitae from the Kindred undergoing Memoriam for each additional participant in this Ritual, a wooden or stone chalice, and dried berries of deadly nightshade.
+
+**Process:** The sorcerer carefully muddles the plant matter into the vitae, then each participant drinks of it.
+
+**System:** The Memoriam works as usual, but anyone drinking one Rouse Check’s worth of the mixture also enters Memoriam. Participants observe the events and can offer advice but cannot directly influence the events.
+
+If used in conjunction with other Rituals or powers (such as Guided Memory), only one character can gain benefits other than information.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Unseen Underground (Fall of London p.31)</strong></mark></summary>
+
+**Ingredients:** Rat’s blood and eyes.
+
+**Process:** The caster drains a rat completely dry and removes its eyes from its skull, before throwing them into the nearest shadowed or unlit place. The caster can only perform this ritual on themselves.
+
+**System:** Success yields the ability to go completely invisible for an hour. The ritual immediately ends if the caster ventures above ground or takes hostile action. Sense the Unseen (Vampire, p. 249) can reveal the caster.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
-
-**Ingredients:** The burnt bones and feathers of a rooster.
-
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
-
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Coax the Garden (Cults of the Blood Gods p.55)*</strong></mark></summary>
-
-**Ingredients:** The burnt bones and feathers of a rooster.
-
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
-
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Enrich the Blood (Forbidden Religions p.76)*</strong></mark></summary>
-
-**Ingredients:** The burnt bones and feathers of a rooster.
-
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
-
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Herd Ward - Minor (Let the Streets Run Red p.77)*</strong></mark></summary>
-
-**Ingredients:** The burnt bones and feathers of a rooster.
-
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
-
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Letter Ward (Let the Streets Run Red p.77)*</strong></mark></summary>
-
-**Ingredients:** The burnt bones and feathers of a rooster.
-
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
-
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Sanguine Tidings (Let the Streets Run Red p.77)*</strong></mark></summary>
-
-**Ingredients:** The burnt bones and feathers of a rooster.
-
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
-
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Shared Memory (In Memoriam p.145)*</strong></mark></summary>
-
-**Ingredients:** The burnt bones and feathers of a rooster.
-
-**Process:** The caster mixes the ashes with their own Blood, drawing a circle with the mixture around their place of sleep.
-
-**System:** Do not make a Ritual roll unless true danger appears. If the caster is threatened during the day, make the Ritual roll then, with the caster rousing on a win. For the duration of the scene the vampire ignores the daytime penalties for staying awake. On a critical win, the effects last until the following dawn.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Unseen Underground (Fall of London p.31)*</strong></mark></summary>
 
 **Ingredients:** The burnt bones and feathers of a rooster.
 
@@ -261,6 +263,18 @@ The first person to consume the ensorcelled blood from the messenger automatical
 **Process:** The user drenches the object with their Blood and speaks the words of the Ritual. When complete, the object absorbs the Blood.
 
 **System:** The process takes an hour. Make a Ritual roll, and if successful, the vampire imbues the object with an amount of Blood from the caster. If the caster wishes to release their Blood from the object, they need to say the command word. The amount of Blood stored can sate one Hunger for every two Rouse Checks made when storing the Blood. (Storing a single Rouse Check’s worth of Blood allows for a ghoul to get their fix or for use in another Ritual requirement.)
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Calling the Aura's Remnants (The Chicago Folios p.171)</strong></mark></summary>
+
+**Ingredients:** A human corpse or the corpse of a destroyed vampire.
+
+**Process:** The ritual must be cast within ten feet of a human corpse or the corpse of a destroyed vampire.
+
+**System:** A successful Ritual test allows the caster to speak with the animate reflection of the deceased for one scene as if they were still alive. This communication is not with the deceased spirit and only has access to the memories of the deceased up to the time of death. A Critical Win extends the duration of the speech to an entire evening.
 
 </details>
 
@@ -316,6 +330,30 @@ The first person to consume the ensorcelled blood from the messenger automatical
 
 <details>
 
+<summary><mark style="color:red;"><strong>Enhance Dyscrasia (Forbidden Religions p.77)</strong></mark></summary>
+
+**Ingredients:** An object of significance to the target, appropriate to the Resonance of their Dyscrasia.
+
+**Process:** The caster must taste the target’s blood, then hold the object and concentrate upon its Resonance for several minutes. The object must then be returned to the target.
+
+**System:** A successful Ritual roll increases the potency and utility of the target’s Dyscrasia, providing its effects to anyone who slakes at least 1 point of Hunger from the target. This effect dissipates after three nights.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Eyes of Babel (Core p.277)</strong></mark></summary>
+
+**Ingredients:** A fresh eye and tongue of a person
+
+**Process:** Plucking the ingredients fresh from the victim, the vampire chews and swallows them. (This most likely incurs a Stain.)
+
+**System:** The Rouse Check required for this ritual allows for the supernatural dissolution of the ingredients once swallowed. Once this is done, make the Ritual roll. A win gives the caster the ability to read and speak any language known by the victim, at the same skill level for a week. A critical win extends the duration to a month.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Illuminate The Trail Of Prey (Core p.277)</strong></mark></summary>
 
 **Ingredients:** A white satin ribbon.
@@ -342,6 +380,18 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
+<summary><mark style="color:red;"><strong>Shroud of Silence (Forbidden Religions pp.22-23)</strong></mark></summary>
+
+**Ingredients:** A length of woven cloth, often silk. A golden ring through which the cloth can pass. Kindred vitae acquired from a vampire with the Obfuscate Discipline.
+
+**Process:** The caster passes the cloth through the golden ring, daubs each end of the cloth in vitae, then affixes it to a door handle or threads it through a keyhole.
+
+**System:** If the ritual succeeds, it creates a shroud of impenetrable silence centered entirely within the room to which the door serves as an entrance or exit. It lasts for a single scene. Anyone can disperse the effect instantly by removing the cloth from its place.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Silentia Mortis (Blood Sigils p.64)</strong></mark></summary>
 
 **Ingredients:** Paw of a cat or other silent desert predator, blood from caster (and from holder, if different), corpse-wax candle (p. 139), a white rose.
@@ -361,6 +411,18 @@ The ritual only remains effective as long as both wear their partner’s vial an
 **Process:** The chosen substance is mixed with the user’s Blood and rubbed between their fingers as the incantation is read (or whispered). The Ritual takes only a few minutes to prepare.
 
 **System:** Make a Ritual roll vs. the Stamina + Resolve of the target when they make contact with the affected vitae. For the remainder of the scene, the victim suffers a dice penalty equal to the margin of win on the Ritual roll on all resistance pools involving Composure or Resolve. (Apply the penalty only once if the pool involves both Attributes.) The narcotic vitae retains its potency until it is touched, up until the end of the scene.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stolen Memory (In Memoriam p.145)</strong></mark></summary>
+
+**Ingredients:** Your own vitae; a black scrying mirror or, in a pinch, a bowl of water; and something belonging to your sire.
+
+**Process:** The sorcerer smears their vitae on the mirror or lets it drop into the water. Holding the item belonging to their sire, they look into the mirror and count down from twenty, letting themselves fall into a meditative state. At the Storyteller’s discretion, characters can travel further back through the Blood, accessing the memories of their grandsire or great-grandsire, with a Difficulty increase of 2 per generation past their sire.
+
+**System:** The Memoriam works as usual, but the stolen memories fade like a dream once out of the Memoriam. The sorcerer will have to write down what they experienced within a scene or two to retain the information.
 
 </details>
 
@@ -402,67 +464,19 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 </details>
 
-<details>
-
-<summary><mark style="color:red;"><strong>Calling the Aura's Remnants (The Chicago Folios p.171)*</strong></mark></summary>
-
-**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
-
-**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
-
-**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Enhance Dyscrasia (Forbidden Religions p.77)*</strong></mark></summary>
-
-**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
-
-**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
-
-**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Eyes of Babel (Core p.277)*</strong></mark></summary>
-
-**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
-
-**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
-
-**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Shroud of Silence (Forbidden Religions p.23)*</strong></mark></summary>
-
-**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
-
-**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
-
-**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Stolen Memory (In Memoriam p.145)*</strong></mark></summary>
-
-**Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
-
-**Process:** The caster clears out a plot of land and digs a hole. They tear open their wrist and pour a Rouse Check’s worth of Blood into the human or animal corpse. The corpse being a day old is essential in the human corpse’s case; accidental Embraces have occurred when a human corpse is too fresh. The corpse is eviscerated, and its mass thrown into the hole. The caster plants or transfers their preferred plants to the plot, then covers them in the corpse’s viscera.
-
-**System:** A win instantly disintegrates the buried body and viscera into blood-scented smoke. In addition, plants grown in the plot are unusually hardy and vampires can ingest them (consuming these plants as food slakes no Hunger, but it stays down). Vampiric influence Discipline tests against a mortal who ingested a viscerated plant take −1 to Difficulty (or the target loses two dice from their resistance pool, for contests). The plants must receive a Rouse Check’s worth of Blood every month, or else they wither and die within a week. A critical win extends the length of time between waterings to two months. An animal corpse can fertilize a Viscera Garden of about 1 x 1 meters, or about 3 x 3 feet. A human corpse doubles these dimensions.
-
-</details>
-
 ## Level 3
+
+<details>
+
+<summary><mark style="color:red;"><strong>Bladed Hands (The Chicago Folios p.174)</strong></mark></summary>
+
+**Ingredients:** A pair of razor blades, two drops of Kindred vitae.
+
+**Process:** The caster places a razor blade in each palm, gripping them tightly as the ritual is cast. At the end of the ritual, they vanish into the caster’s person, leaving a pair of supernaturally sharp hands in their wake.
+
+**System:** The caster must make a successful Ritual test and two Rouse Checks. Success grants the caster +2 damage on all Brawl attacks made with the caster’s hands. The caster must be very careful about what they touch while employing Bladed Hands (+1 difficulty to all rolls to handle delicate objects). A Critical Win increases the damage to +3. The ritual lasts for a single evening.
+
+</details>
 
 <details>
 
@@ -473,6 +487,18 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 **Process:** The vampire to be tattooed opens a vein in their wrist with the sharp object — usually a scalpel, a knife, or the needle in a tattoo gun — and bleeds into containers with their chosen painting material. Then, the caster tears the paper or picture, mixing the remains into the paints while chanting for fifteen minutes. The caster applies the Blood Sigil on another vampire by heating the sharp object’s tip, dipping the sharp object into the paints, and carefully carving an image into the vampire’s skin. This image need not be relevant to its hidden information.
 
 **System:** Make no Ritual roll until after applying the Blood Sigil. A win permanently seals the tattooed image into the vampire’s skin and perfectly preserves the message within. A failure creates a tattoo and preserved message that fades away upon the vampire’s next rising. Read the message within a Blood Sigil by viewing or touching the sigil for fifteen minutes and either winning a Resolve + Occult Test at Difficulty 5 (Difficulty 4 if touching the tattoo) or using Sense the Unseen (Auspex 1). The sorcerer who applied the Blood Sigil can erase the tattoo (and the message) by spending one Willpower and touching the tattoo for fifteen minutes.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Bloodless Feast (Forbidden Religions pp.66-67)</strong></mark></summary>
+
+**Ingredients:** An unconscious human, a flawless crystal chalice.
+
+**Process:** The caster chants scripture over the human target for three hours. Over the course of the ritual, the human gradually weakens, while the chalice fills with a clear, sweet-smelling liquid.
+
+**System:** A successful Ritual fills the chalice to the brim at the end of three hours and kills the human victim. The clear liquid produced functions exactly like fresh blood from the human victim for the next hour, carrying any Resonance and Dyscrasia the victim exhibited. Since the victim must be unconscious during the ritual, anything but a Phlegmatic resonance is difficult to obtain. Though it mostly functions as normal, this clear Blood has an unusual effect on Kindred who consume it: until the next sunset, their Hunger can be reduced to 0 (due to the donor’s death) and they are vulnerable to diablerie. A would-be diablerist gains three dice to her Strength + Resolve roll against the victim, and she may use the experience points she gains to increase her Blood Potency by at least one point, regardless of her victim’s power. She also does not gain the black veins in her aura that usually accompany the act.
 
 </details>
 
@@ -528,13 +554,13 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Firewalker (Core p.279)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Eyes of the Past (The Chicago Folios p.172)</strong></mark></summary>
 
-**Ingredients:** A fingertip of the caster.
+**Ingredients:** One drop of blood for each year the caster is trying to look backward in time (three or more drops requires a Rouse Check).
 
-**Process:** The vampire cuts one of their fingertips off and burns it together with their Blood in a golden chalice or bowl.
+**Process:** The caster selects the location for their ritual, cuts their hand, and allows the drops of blood to spill on the earth.
 
-**System:** Make a Stamina + Resolve test (Difficulty 3) to cut off a fingertip. On a winning Ritual roll, a bluish flame consumes the Blood and fingertip, signaling the completion of the ritual. For the rest of the night fire damage to the caster is halved. This ritual can be performed on others, but the fingertips sacrificed must all belong to the caster. The mutilation is not enough to count as damage to the caster; the fingertip regrows during day-sleep.
+**System:** A successful Ritual test allows the caster to see what happened in their present location at a specific time of their selection, up to five years ago. The caster can see what happened in the past as if they had been standing where they are now. Duration is one scene with clarity of vision determined by the number of successes scored. The vampire cannot recall the vision with any clarity after the scene elapses, meaning the Storyteller is not obligated to answer any questions about the vision after that time. A Critical Win permanently fixes the scene in their memory.
 
 </details>
 
@@ -547,6 +573,30 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 **Process:** The vampire concentrates on the visual depiction of their target (which can be the individual in person) and burns the target’s blood sample, usually held in a Petri dish, glass bottle, or vial, over the flame. The effect occurs almost immediately, as the victim’s blood heats up in their veins.
 
 **System:** Make a Ritual roll following the incantation versus the target’s Resolve + Occult (or Resolve + Fortitude, if the target is a creature with this Discipline). Each point of the caster’s margin is applied as Superficial Health damage that also inflicts wracking pain upon the victim, forcing them to incur a two-dice penalty to Physical pools for the remainder of the scene. On a critical win, the penalty increases to three dice. A Kindred target must make a Rouse Check due to the damage to their vitae. A victim can only be affected by this Ritual once per night.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Firewalker (Core p.279)</strong></mark></summary>
+
+**Ingredients:** A fingertip of the caster.
+
+**Process:** The vampire cuts one of their fingertips off and burns it together with their Blood in a golden chalice or bowl.
+
+**System:** Make a Stamina + Resolve test (Difficulty 3) to cut off a fingertip. On a winning Ritual roll, a bluish flame consumes the Blood and fingertip, signaling the completion of the ritual. For the rest of the night fire damage to the caster is halved. This ritual can be performed on others, but the fingertips sacrificed must all belong to the caster. The mutilation is not enough to count as damage to the caster; the fingertip regrows during day-sleep.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Gentle Mind (The Chicago Folios p.172)</strong></mark></summary>
+
+**Ingredients:** Crystal glass, Kindred vitae.
+
+**Process:** The caster shares blood with the target of the ritual while the caster whispers quietly into the target’s ear, weaving a temporary cage around the target’s beast.
+
+**System:** The caster must share a glass of blood with their target. A successful Ritual test grants the target a four-die bonus to resist frenzy for one scene. A Critical Win extends this duration to an evening. The caster must share blood with another and cannot cast this ritual upon themselves.
 
 </details>
 
@@ -565,6 +615,56 @@ The shell of the cocoon is hard as nails yet pliant. It protects the user from s
 The process of breaking out of the cocoon can be a disturbing sight. Vampires that have undergone extensive Vicissitude within emerge, shredding their previous form like a molting insect.
 
 **Duration:** At least one day unless the cocoon is broken earlier. Vampires that remain in the cocoon risk torpor according to the usual starvation rules.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Haunted House (The Chicago Folios pp.174-175)</strong></mark></summary>
+
+**Ingredients:** Kindred vitae.
+
+**Process:** The caster places a drop of Kindred blood on all entrances and exits to the haven in addition to all exterior walls and the roof over the course of a three-hour ritual.
+
+**System:** The caster makes three Rouse Checks in addition to a Ritual test. Upon success, the haven assumes an ominous cast and rumors begin to circulate that the house in haunted. Casual passersby will avoid the house at all cost and even the most courageous mortals will think twice before entering. Mortals attempting to enter the haven must make a successful Composure + Resolve test against the number of successes the caster made on their ritual roll. Success indicates they can enter while failure bars their passage (although they can spend Willpower to enter temporarily). The effects of Haunted House last for 10 years, after which the haven appears strange and run down, but not “haunted.”
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Herd Ward - Major (Let the Streets Run Red p.77)</strong></mark></summary>
+
+**Ingredients:** Scorpion poison, sufficient vitae to provoke a Rouse Check.
+
+**Process:** The sorcerer mixes scorpion poison with their own vitae to draw the ward. The vampire can inscribe the ward on a door so all who stay within the ward for that night are protected.
+
+**System:** The sorcerer makes the Ritual roll when another vampire tries to feed on the warded kine. The transgressor suffers one point of Aggravated Health damage if the caster wins the Ritual roll, or three points of Aggravated damage on a critical win.
+
+Once the Herd Ward is triggered, a Kindred still trying to drink from the kine must roll Stamina + Resolve against Difficulty 4 for a normal Ward, or 7 for a critical-success Ward.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Illusion of Peaceful Death (The Chicago Folios p.172)</strong></mark></summary>
+
+**Ingredients:** A white feather.
+
+**Process:** The caster must symbolically “dust” the body with a white feather.
+
+**System:** A successful Ritual test causes a corpse to appear as if it died a natural death. This ritual does not add blood to the corpse, but does reduce the chance that this blood loss will be discovered (increase difficulty of all rolls to determine cause of death by three). The body must have at least half its original blood for this ritual to succeed. A Critical Win increases the difficulty of all rolls to determine cause of death by five.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Illusion of Perfection (The Chicago Folios p.174)</strong></mark></summary>
+
+**Ingredients:** A plain white mask.
+
+**Process:** The caster performs an hour-long ritual that concludes when they don a featureless white mask. A sweat of blood forms under the mask, spreading across the caster’s body until they are coated in a ruby crust that mystically conceals their true identity. The mask itself slowly turns crimson until the ritual wears off.
+
+**System:** A successful Ritual test is required to activate this ritual. Upon success, the caster is cloaked in the illusion that they are an ordinary person in their mid-20s, with a nondescript face and average body similar to the Obfuscate ability Mask of a Thousand Faces. Illusion of Perfection can be pierced by the Auspex ability Sense the Unseen, with a contested Wits + Auspex vs. the successes scored on the ritual roll. Illusion of Perfection lasts one scene, but a Critical Win extends its duration to an entire evening.
 
 </details>
 
@@ -596,6 +696,18 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
+<summary><mark style="color:red;"><strong>Sanguine Watcher (The Chicago Folios p.174)</strong></mark></summary>
+
+**Ingredients:** Kindred vitae, small quantities of alcohol, silver bowl.
+
+**Process:** The ritual is cast over the course of 20 minutes while the caster fills a silver bowl with vitae and measured doses of alcohol. A rat made of blood slowly forms as the caster stirs the mixture, becoming ever more solid until it scampers out of the bowl to serve its master.
+
+**System:** A successful Ritual test summons a rodent made of Kindred blood from the bowl that is bound to the caster and allows them to see through its eyes. The rat will go wherever the caster instructs it to go and observe whatever the caster tells it to look for. The rat can be instructed to steal small items, but the caster must be very explicit as to what they want stolen and where it is located. The rat remains in service until sunrise. A Critical Win allows the caster to provide the creature with extremely precise instructions.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Seeing with the Sky’s Eyes (Blood Sigils p.67)</strong></mark></summary>
 
 **Ingredients:** Euphoric mortal blood (usually from someone high on cannabis), incense, brazier, an effigy or photo of a target.
@@ -615,6 +727,18 @@ If used against its original owner it deals Aggravated damage but gains no addit
 **Process:** The caster jams the wood or iron into their forearm along the ulnar vein, causing themselves 1 point of Aggravated damage, and makes a Rouse Check. Then they must walk around the city or region for at least fifteen minutes.
 
 **System:** On a win, their arm begins twitching and pointing toward the closest furcus in the area; by changing their direction, intelligent casters can triangulate a location within a few minutes. On a critical win, the tool discovers the closest vein of the Earth, and points toward two furcae on that vein.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Sleep of Judas (Let the Streets Run Red p.77)</strong></mark></summary>
+
+**Ingredients: "**&#x42;lood" from a mystical landmark, opium.
+
+**Process:** The sorcerer distills and boils the blood of the Judas Tree until only a black tar-like substance remains. They mix this with an equal amount of opium, which can either be used as a paste or re-liquefied with no loss of effect.
+
+**System:** The sorcerer makes the Ritual roll when the target is drugged. On a normal success, the victim may oppose by rolling dice equal to their remaining undamaged Health boxes. A critical success immediately incapacitates a vampire and kills a mortal or ghoul. Sleep of Judas wears off after a number of hours equal to the success margin of their roll.
 
 </details>
 
@@ -656,43 +780,19 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
+<summary><mark style="color:red;"><strong>The Unseen Change (The Chicago Folios p.172)</strong></mark></summary>
+
+**Ingredients:** Wolf blood, Kindred vitae, a silver jug.
+
+**Process:** The caster mixes Kindred vitae with wolf’s blood and pours the mixture from a silver jug around a specific area. This can be as small as a meter or large enough to encircle a house.
+
+**System:** The caster makes three Rouse checks to summon the blood necessary for the ritual and marks out a closed area with a mixture of Kindred vitae and wolf’s blood. A successful Ritual test forces all Lupines crossing the threshold defined by the caster to automatically transform into their Lupus form, unless they succeed on a contested Willpower test against the casters Intelligence + Blood Sorcery or the number of successes scored on the initial ritual roll (if year-long). The ritual dissipates at dawn unless the initial ritual roll is made at +2 to difficulty. If successful, the ritual lasts a year and a day. A Critical Win doubles the number of successes the Lupine needs on its roll to defeat the ritual. The Unseen Change forces the target Lupine into their form as a normal wolf, denying them the raw power of their dreaded half-wolf form.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Viral Haruspex (Blood Sigils p.69)</strong></mark></summary>
-
-**Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
-
-**Process:** The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
-
-**System:** A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Bladed Hands (The Chicago Folios p.174)*</strong></mark></summary>
-
-**Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
-
-**Process:** The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
-
-**System:** A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Bloodless Feast (Forbidden Religions p.67)*</strong></mark></summary>
-
-**Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
-
-**Process:** The caster mingles a Rouse Check worth of their Blood in the bowl with the brains of the rat and stirs it up widdershins. The vampire then drinks the blood while staring into the dish.
-
-**System:** A win on the Ritual roll produces a vague impression of the sought data, overlapping or echoey if more than one sick mortal is looking at or listening to the target. For factual knowledge, the information flows into the caster’s head: “That store was on 19th Street but it closed in 2009 when the owner got divorced.” More successes over the Difficulty provide more complete vision, knowledge, or other results.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Bladed Hands (The Chicago Folios p.174)*</strong></mark></summary>
 
 **Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
 
@@ -706,7 +806,21 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Compel the Inanimate, Level 4 (Blood Sigils pp.69-70)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>The Balm of Bathory (Tattered Facade p.94-95)</strong></mark></summary>
+
+**Ingredients:** One cup of vitae from the sorcerer, one pint of blood from a youthful victim (or victims) of clear complexion (the needed amount doubles per brewing, see below), chamomile flowers, and shea butter or sheep’s fat; optional essential oils for scent
+
+**Process:** The sorcerer collects their own Blood and that of their victim in a heat-resistant container, adding the other ingredients while stirring and heating up the mixture. While brewing the mixture, the sorcerer concentrates on how it will perfect their imperfections, making them young and beautiful. Some believe it strengthens the balm if the victim suffers as much as possible when their blood is drawn.
+
+**System:** Make the Ritual test before taking the mixture off the heat. On a win, the balm emulsifies into a smooth and fragrant blend that can be used directly on the skin or dissolved in bath water. It remains effective for a week past brewing, as long as it’s applied regularly. The user gains the temporary effect of the Stunning Advantage (Core, p. 179) This effect supersedes any innate Beautiful or Stunning Advantage possessed by the user and is not cumulative with these.
+
+However, the use of the Balm of Bathory can be highly addictive and the amount of mortal blood required doubles per brew. (The eighth brew requires 128 pints, enough blood to fill a small bathtub, but the amount does not increase afterward.) The first batch of the balm has no side effects, but after the second batch, the balm turns toxic on the user’s flesh past the first week. They suffer 1 Superficial damage worth of necrotic flesh wounds nightly, affecting any part of their body exposed to the balm, until they either brew another batch or until they go without the balm for one month per batch brewed.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Compel the Inanimate (Blood Sigils pp.69-70)</strong></mark></summary>
 
 **Ingredients:** Any inanimate object.
 
@@ -722,7 +836,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Defense Of The Sacred Haven, Level 4 (Core pp.279-280)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Defense Of The Sacred Haven (Core pp.279-280)</strong></mark></summary>
 
 
 
@@ -730,19 +844,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Eyes Of The Nighthawk, Level 4 (Core p.280)</strong></mark></summary>
-
-**Ingredients:** The eyes of the bird used, taken at the conclusion of the Ritual.
-
-**Process:** The caster feeds their Blood to the bird and enters a trance.
-
-**System:** On a winning Ritual roll the caster can control the bird and see through its eyes. On a critical win, the bird can perform simple actions under control, such as picking up objects or manipulating keys or dials. The caster can use most non-physical Disciplines through the bird, even Dominate assuming the caster has Telepathy (p. 252) or some other way to communicate with targets non-verbally. There is no limit to the range the bird can fly, though unless the caster plucks the eyes out of the bird at the end of the night they themselves suffer blindness for three nights to come.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Egregore Consultation, Level 4 (Blood Sigils p.70)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Egregore Consultation (Blood Sigils p.70)</strong></mark></summary>
 
 **Ingredients:** Live influenza viruses in caster’s Blood,worms, flukes, or other parasites, a knife, a magnet.
 
@@ -754,7 +856,19 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Feast of Ashes, Level 4 (Players Guide p.101)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Eyes Of The Nighthawk (Core p.280)</strong></mark></summary>
+
+**Ingredients:** The eyes of the bird used, taken at the conclusion of the Ritual.
+
+**Process:** The caster feeds their Blood to the bird and enters a trance.
+
+**System:** On a winning Ritual roll the caster can control the bird and see through its eyes. On a critical win, the bird can perform simple actions under control, such as picking up objects or manipulating keys or dials. The caster can use most non-physical Disciplines through the bird, even Dominate assuming the caster has Telepathy (p. 252) or some other way to communicate with targets non-verbally. There is no limit to the range the bird can fly, though unless the caster plucks the eyes out of the bird at the end of the night they themselves suffer blindness for three nights to come.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Feast of Ashes (Players Guide p.101)</strong></mark></summary>
 
 **Ingredients:** A piece of parchment with the name of the target written on it and burned, and ashes from the burned scroll.
 
@@ -766,7 +880,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Guided Memory, Level 4 (Players Guide p.102)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Guided Memory (Players Guide p.102)</strong></mark></summary>
 
 
 
@@ -811,7 +925,7 @@ Walking through another Kindred’s memories is a particularly unnatural experie
 
 <details>
 
-<summary><mark style="color:red;"><strong>Incorporeal Passage, Level 4 (Core p.280)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Incorporeal Passage (Core p.280)</strong></mark></summary>
 
 
 
@@ -819,7 +933,19 @@ Walking through another Kindred’s memories is a particularly unnatural experie
 
 <details>
 
-<summary><mark style="color:red;"><strong>Innocence’s Veil, Level 4 (Gehenna War pp.48-49)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Innocence of the Child's Heart (The Chicago Folios pp.172-173)</strong></mark></summary>
+
+**Ingredients:** A toy belonging to a mortal child.
+
+**Process:** The caster must acquire the toy of an innocent mortal child and use the ritual to mystically infuse it with the power of their Kindred vitae, drawing the child’s innocence into their aura. The caster must then carry the toy on their person to mask themselves from the powers of Auspex.
+
+**System:** The caster makes a Rouse Check and makes their Ritual test. Upon success, the caster’s aura is altered to a brilliant white, untainted by vampirism. Auspex users employing Scry the Soul on the caster will perceive their aura as white until the effects of the ritual dissipate, unless they make a contested roll between their Intelligence + Auspex versus the caster’s Intelligence + Blood Sorcery + four dice. The ritual lasts one night unless the ritual test is made at +2 to difficulty which extends it to a year and a day. A Critical Win doubles the ritual’s duration. Note that there is no recorded instance of Nicolai sharing this ritual with his fellow Tremere and can only be learned by capturing Nicolai’s notes or via other method of the Storyteller’s determination.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Innocence’s Veil (Gehenna War pp.48-49)</strong></mark></summary>
 
 **Ingredients:** A silver knife, a white candle, a mortal victim
 
@@ -833,7 +959,7 @@ Walking through another Kindred’s memories is a particularly unnatural experie
 
 <details>
 
-<summary><mark style="color:red;"><strong>Invisible Chains of Binding, Level 4 (Players Guide pp.101-102)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Invisible Chains of Binding (Players Guide pp.101-102)</strong></mark></summary>
 
 **Ingredients:** A link of chain
 
@@ -847,7 +973,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Land’s Sustenance, Level 4 (Blood Sigils pp.70-71)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Land’s Sustenance (Blood Sigils pp.70-71)</strong></mark></summary>
 
 **Ingredients:** A place of power such as a furcus, anything that demarcates a territory such as police tape, a sign post, an enclosed space, etc., a dagger.
 
@@ -859,7 +985,31 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Riding the Earth’s Veins, Level 4 (Blood Sigils p.71)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Protean Curse (The Chicago Folios pp.173-174)</strong></mark></summary>
+
+**Ingredients:** A vial of rabid vampire bat blood, Kindred vitae.
+
+**Process:** The target must drink a vial of blood from a rabid vampire bat, mixed with Kindred vitae.
+
+**System:** The caster makes a Rouse Check and mixes one Hunger worth of their blood with the blood of a rabid vampire bat and gives it to the target to drink. The ritual is cast, and upon a successful ritual roll vs. the target’s Stamina + Occult roll, the target is transformed into a bat per the Metamorphosis ability of the Protean Discipline. The target may elect to resist this transformation. If the target rolls more successes than the ritual’s practitioner, they prevent the transformation, while their Dramatic Failure can leave them in a horrifically deformed, half-human, half-bat state. The ritual can be cast on both Kindred and humans and lasts for a full evening or until the caster dispels the ritual via a successful ritual test. The duration of Protean Curse can be extended by making a Rouse Check and a successful ritual roll at the beginning of each night the caster wants to maintain the ritual. A Critical Win for the practitioner doubles the duration of Protean Curse.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Rending the Sweet Earth (The Chicago Folios p.173)</strong></mark></summary>
+
+**Ingredients:** A leather whip, Kindred vitae.
+
+**Process:** The caster locates the exact spot a user of Protean sank into the earth using Earth Meld. They then slit their palm, smearing vitae on the point of entry and repeatedly strike the ground with a leather whip.
+
+**System:** The caster makes a Rouse Check and a ritual test. Upon success, a 10-foot by 10-foot chasm opens, leading to the subterranean resting place of a vampire in an Earth Melded state. The ritual automatically awakens the target vampire if they are asleep, but will not do so if they are in torpor. A Critical Win opens the chasm without waking the target.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Riding the Earth’s Veins (Blood Sigils p.71)</strong></mark></summary>
 
 **Ingredients:** A furcus, a physical sign of entrance such as a ticket, key, or doorknob.
 
@@ -871,7 +1021,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seek the Gathered Vitae, Level 4 (Live From the Succubus Club p.29)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Seek the Gathered Vitae (Live From the Succubus Club p.29)</strong></mark></summary>
 
 **Ingredients:** A mixture of fine red ink and pomegranate juice, bright white paper or cloth, and a large top
 
@@ -884,19 +1034,151 @@ At the Storyteller’s discretion, ghouls count as a quarter point of Blood Pote
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Balm of Bathory, Level 4 (Tattered Facade p.94-95)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Web of Hunger (Fall of London p.31)</strong></mark></summary>
 
-**Ingredients:** One cup of vitae from the sorcerer, one pint of blood from a youthful victim (or victims) of clear complexion (the needed amount doubles per brewing, see below), chamomile flowers, and shea butter or sheep’s fat; optional essential oils for scent
+**Ingredients:** A weapon that has been used to kill at least a dozen mortals.
 
-**Process:** The sorcerer collects their own Blood and that of their victim in a heat-resistant container, adding the other ingredients while stirring and heating up the mixture. While brewing the mixture, the sorcerer concentrates on how it will perfect their imperfections, making them young and beautiful. Some believe it strengthens the balm if the victim suffers as much as possible when their blood is drawn.
+**Process:** To perform the ritual, you must have six accomplices representing your own allies and organization which in itself must be over 50 people strong. You prick the tongues with the ritual implement of each accomplice while muttering the ritual incantation.
 
-**System:** Make the Ritual test before taking the mixture off the heat. On a win, the balm emulsifies into a smooth and fragrant blend that can be used directly on the skin or dissolved in bath water. It remains effective for a week past brewing, as long as it’s applied regularly. The user gains the temporary effect of the Stunning Advantage (Core, p. 179) This effect supersedes any innate Beautiful or Stunning Advantage possessed by the user and is not cumulative with these.
-
-However, the use of the Balm of Bathory can be highly addictive and the amount of mortal blood required doubles per brew. (The eighth brew requires 128 pints, enough blood to fill a small bathtub, but the amount does not increase afterward.) The first batch of the balm has no side effects, but after the second batch, the balm turns toxic on the user’s flesh past the first week. They suffer 1 Superficial damage worth of necrotic flesh wounds nightly, affecting any part of their body exposed to the balm, until they either brew another batch or until they go without the balm for one month per batch brewed.
+**System:** If the ritual is successful, the vampire can resist the pull of the Beckoning for another month.
 
 </details>
 
 ## Level 5
+
+<details>
+
+<summary><mark style="color:red;"><strong>Antebrachia Ignium</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide pp.102-103)</strong></mark></summary>
+
+**Ingredients:** Sufficient vitae (from any vampire) to coat the caster’s arms up to the elbows, and a source of flame (such as a lighter).
+
+**Process:** The vampire immerses their arms in the blood and withstands the urge to feed or Frenzy. After extracting their arms, exposure to flame ignites the vitae rather than the vampire it coats. The vampire can then go on to set targets alight using the fire on their skin.
+
+**System:** If the user is at Hunger 4 or more, make a Hunger Frenzy test at Difficulty 3 to avoid draining the ingredients. At any point during the night they may expose the vitae to fire and make a Ritual roll. Any success ignites flames on the vampire’s hands and arms, a spectacular display provoking a Terror Frenzy test (Difficulty 2) in all nearby vampires except the caster. They may touch others with Dexterity + Brawl in physical combat to inflict two Aggravated Health damage. Entering a grapple ignites the both combatants’ clothes, continuing the damage each turn until they make a Composure + Survival roll (Difficulty 3) to smother the burn. The caster is only resistant to flame on their arms, and burns as usual elsewhere. The fiery arms extinguish when the caster wills it or when the scene ends.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Atrocity's Release</strong></mark><strong> </strong><mark style="color:red;"><strong>(Gehenna War p.49)</strong></mark></summary>
+
+**Ingredients:** Human reproductive organs thinly sliced, moss or a sea sponge, and scrapings of bezoar.
+
+**Process:** The performer must first create a number of poultices from the ingredients, something that takes at least one night to prepare, disregarding the time it takes to procure the components. Then, the sorcerer presses the ritually prepared poultices to a series of deep cuts on their target’s body, drawing out the stolen Blood. The Blood-soaked poultices are then burnt, their ashes left exposed to the sunrise.
+
+**System:** An unwilling target may resist with Resolve + Blood Potency, the Ritual’s Difficulty counting as the greater of the target’s successes or the standard difficulty. If successful, The Ritual reverses the most recent instance of diablerie that the target has committed, including changes to Blood Potency, Disciplines, or personality, though not Humanity.
+
+Even if the ritual is successful, the spirit of the previous victim of the diablerie remains destroyed. On a total failure, the target’s essence is destroyed instead, the victim becoming effectively possessed by their latest diablerie victim.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Dominion</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide p.103)</strong></mark></summary>
+
+**Ingredients:** Seal made of iron embedded over every doorway in the building.
+
+**Process:** The ritual takes three hours to cast. During this time, the caster must be embedding iron seals over every doorway, consecrating them with their own vitae, and carving sigils on the doors.
+
+**System:** Upon a successful Ritual roll, the Blood sorcerer stops any uses of Animalism, Auspex, Dominate, or Presence except by themselves. Any uses of the Disciplines within the building still cause any Rouse checks to occur, though the amount of Blood spent to perform the Ritual varies – from Rouse Check for an apartment up to five for a large manor. The Ritual lasts indefinitely but can be broken by the destruction of at least one seal.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Eden's Bounty</strong></mark><strong> </strong><mark style="color:red;"><strong>(Cults of the Blood Gods p.56)</strong></mark></summary>
+
+**Ingredients:** A dead body, a living tree, one fresh apple, one rotten apple.
+
+**Process:** The vampire lays a dead body (age of the corpse is immaterial) at the foot of a tree and places the healthy apple in the corpse’s mouth, followed by the rotten apple into the vampire’s. If the apple does not fit in the corpse’s mouth, the caster may hammer it in, dislocate the jaw, or otherwise rend the throat open, so long as it fits. As the body rapidly merges with the tree’s roots and trunk, blood from mortals up to 1 mile/kilometer away drains into the earth and out through the rotten apple in the vampire’s mouth, sating Hunger.
+
+**System:** The player makes a Ritual roll following the placement of the corpse and the apples. On a win, the vampire’s Hunger is slaked to one, despite any Blood Potency feeding penalties. On a critical win, the vampire’s Hunger is slaked to zero without killing. On a total failure, the vampire falls into a hunger frenzy. Depending on the number of kine in the Ritual area and the type of kine nearby, Stains may accrue; for example vampires with a Prey Exclusion (see Vampire: The Masquerade, p. 181) may suffer Stains if this Ritual is used in an area heavily populated by their excluded class of mortal, whereas varied groups with more kine to draw from are less likely to bear an ethical cost.
+
+A lot of blood is wasted with this Ritual, as all the mortals in the area lose a little blood to the earth, though the loss is not visible. For the remainder of the chapter, those kine suffer a one-die penalty to all Physical rolls and 1 Aggravated Health damage.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Elemental Attack (Blood Sigils pp.71-72)</strong></mark></summary>
+
+**Prerequisite:** [Koldunic Sorcery](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
+
+**Ingredients:** A weapon representing or made from the element, such as a wooden club, an icicle, a meteoric iron knife, a torch, etc.
+
+**Process:** Wielding the weapon, the koldun opens their initiation scar and makes a Rouse Check while commanding the element to attack a target the koldun perceives. Magical perception counts for this purpose.
+
+**System:** On a win, the element attacks the target. If the element is already awake during the casting (commanding air during a thunderstorm, for instance), the koldun adds one die to their Ritual pool. The target takes one point of Aggravated Health damage per success, and the same damage again every round afterward until they win an appropriate escape contest (e.g., Dexterity + Athletics) vs. the koldun’s Resolve + Blood Sorcery. Excepting fire, the elements only do Superficial damage to vampires, but they may still bury them, carry them away in a flood or tornado, etc. On a critical win, the element attacks every suitable target at the caster’s discretion within sight of the main target. The effect continues until the koldun does anything else besides command the elements: fight, move, make any other skill roll, etc.
+
+**Chain:** When chained with Elemental Grasp (p. 62) and Tiamat Glistens (p. 64), this ritual unleashes a nigh-apocalyptic elemental effect: earthquake, tsunami, tornado, magma flow, etc. Damage doubles to the targets, but collateral damage gets wildly out of hand, and continues until the kolduny stop casting.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Escape to True Sanctuary</strong></mark><strong> </strong><mark style="color:red;"><strong>(Core pp.279-280)</strong></mark></summary>
+
+**Ingredients:** Two charred circles of approximately a meter in diameter.
+
+**Process:** The caster burns the circles into the ground or floor with an open flame, then consecrates each circle. Consecration requires two hours of chanting per night and two Rouse Checks, for three consecutive nights. In total, this ritual takes twelve Rouse Checks worth of Blood from the caster.
+
+**System:** Once the circles are complete the caster need but step into the one designated for departure and concentrate for a turn, making a Ritual roll. (The caster makes the Ritual roll each time they attempt to travel, but can only make one attempt per scene.) On a win the caster vanishes, reappearing in an instant in the middle of the exit circle. There is no limit to the distance between the two circles, but they must be inscribed on the ground or on the floor of a building, not on the floor of a vehicle. The caster can transport one person or an object or objects totaling roughly human mass with them. Damaging either circle ruins the ritual completely and renders both circles inert. A vampire can only have one pair of these circles functional at any given time.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Fisher King</strong></mark><strong> </strong><mark style="color:red;"><strong>(Blood Sigils pp.72-73)</strong></mark></summary>
+
+**Ingredients:** A landmark representing a region, dirt from the region, a horse-hair paintbrush
+
+**Process:** The vampire blends a Rouse Check’s worth of blood with dirt from the region they wish to observe. With the blend, the sorcerer paints magical symbols on a landmark important to the land’s inhabitants.
+
+**System:** On a win, the caster develops a mental connection to the land. Once per session, the sorcerer may make a Wits + Streetwise (if urban or suburban) or Wits + Survival (if rural) test. For each success, the Storyteller truthfully answers one question the player has about the land: its greatest threat, does an enemy reside there, the Resonance of its inhabitants’ blood, etc. This ritual lasts until the end of the story, during which the caster may ask one more question per session. After that, the caster must replenish their symbols, making another Rouse Check and Ritual roll to renew it.
+
+**Chain:** When chained with Land’s Sustenance (p. 64) and Compel the Inanimate (p. 69), the coterie has almost total control over the place of power and its surrounding area. They have near-omniscience over the land, with three free questions about it per session, per caster. The land’s structures or trees watch and warn the casters of hostile approach, unless magically disguised or shielded. While on the land, the casters can mend up to 5 points of Aggravated damage per night, total (split between the casters on a first-come, first-serve basis).
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Heart of Stone</strong></mark><strong> </strong><mark style="color:red;"><strong>(Core p.281)</strong></mark></summary>
+
+**Ingredients:** A stone slab and a wax candle drenched with the Blood of the caster.
+
+**Process:** The caster lies on the stone slab with the candle on their chest letting it burn down to nothing over the course of a night. As the fire reaches their chest, it causes one point of Aggravated damage and forces a terror frenzy roll (Difficulty 3). If the caster fails the frenzy roll, the ritual ends. If the caster does not enter frenzy, they make the Ritual roll. On a win the ritual completes; a critical win heals the candle-fire damage. The effect persists indefinitely, and should the caster wish to reverse the process they must repeat the ritual.
+
+**System:** While under the effect of the ritual, the caster’s heart is literally made of stone. Stakes fail to penetrate it, breaking if forced. The caster also exhibits a complete emotional detachment, subtracting three dice from any Remorse rolls as well as active (not resisting) Social-related rolls, except for Intimidation and Dominate. The caster cannot employ Presence but gains three bonus dice to pools used to resist the effects of that Discipline.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Reawakened Vigor</strong></mark><strong> </strong><mark style="color:red;"><strong>(Gehenna War p.49)</strong></mark></summary>
+
+**Ingredients:** 5 or more Rouse Checks worth of the sorcerer’s vitae, a finely crafted ceramic receptacle, molten lead
+
+**Process:** The sorcerer pours their vitae into the receptacle, stoppers it with lead and bloody sigils, and buries it in a place of power.
+
+**System:** The Sorcerer places at least 5 Rouse Checks worth of Blood into the receptacle. They may stop to feed while enacting this Ritual, but the ritual fails if interrupted for more than an hour, meaning any vessels needed to slake Hunger must be kept close at hand. On completing the task, the vampire crafts a rust-colored orb containing a small amount of their concentrated vitae. If this vitae is consumed (and on a successful ritual test), it restores one point of Blood Potency lost due to Torpor. For each success in the margin, another lost point of Blood Potency can be restored. If no Blood Potence has been lost to torpor, the ritual has no effect on the user.
+
+Any vampire other than the ritualist drinking the essence must test Stamina + Blood Sorcery or Fortitude against a difficulty of 6. For each point of margin of failure, they suffer one Aggravated Health damage.
+
+A sorcerer can only have one active use of this ritual cast at a time, and it loses potency at dawn once unearthed.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shaft of Belated Dissolution</strong></mark><strong> </strong><mark style="color:red;"><strong>(Core pp.281-282)</strong></mark></summary>
+
+**Ingredients:** A stake carved of rowan wood, inscribed with baneful runes.
+
+**Process:** The caster drenches the stake with two Rouse Checks worth of their Blood, while blackening it in an oak-wood fire while reading incantations over it. The ritual takes five hours to complete.
+
+**System:** This stake confers a three-dice bonus to any pool on any attempt to stake a vampire, whether hammered in while the victim sleeps, wielded in melee, or fired from a crossbow. The caster need not wield the stake themselves. If the attack roll wins with a margin of five or better, the vampire withers to dust in a single turn as if consumed by an invisible fire. If the stake hits, but the roll has insufficient margin (under five) to pierce the heart, the stake breaks off in the wound, the tip burying itself as it slowly begins to inch its way toward the heart of the victim. Depending on where it struck this can take hours or nights, but unless extracted by medical or mystical means, Final Death is assured. To remove it surgically someone other than the victim needs to win a roll of Dexterity + Medicine (Difficulty 6) in a process that takes up to four hours. If no medical expertise can be found, someone can remove the splinter by severing the afflicted limb – unless the splinter has already reached the torso.
+
+</details>
 
 ## Wards
 
@@ -927,6 +1209,22 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 **Ingredients:** A handful of salt (in some versions, a handful of brick dust) mixed with the Blood.
 
 **Process:** The caster mixes the salt or dust with their Blood and pours it on the object to be warded, tracing the glyph in it with their bare finger. Once the caster wipes the Blood off, the ward becomes invisible. The Ward lasts until the warded object is physically destroyed or broken; the trespasser cannot do this.
+
+**System:** Do not make the Ritual roll until the first time the trespasser touches the Ward, triggering its effect. Gloves or other garments offer no protection. If the caster wins the Ritual test, the victim suffers one point of Aggravated Health damage. On a critical win, damage for this Ward is three points of Aggravated damage. The caster does not need to make the Ritual roll for each trespasser touching the Ward, only the first. Anyone affected who wants to touch the warded object again must spend a point of Willpower and then win a Stamina + Resolve test (Difficulty 4, or 7 for a critical-success Ward) to make the attempt.
+
+Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + Auspex vs the caster’s Intelligence + Blood Sorcery.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Ward Against Aapilum, Level 3 (Tattered Facade p.144) *</strong></mark></summary>
+
+**This ward will need to be workshopped first. It has an official mention in the book, but not a specific write up.**
+
+**Ingredients:** The aapilu's true name
+
+**Process:** A Blood Sorcerer who knows the true name of the aapilu originally summoned to become the Baali can create a Ward against it. This Ward does not work against any other Baali. If they intone the true name, they can also add two dice to any other Blood Sorcery pool used against that specific Baali.
 
 **System:** Do not make the Ritual roll until the first time the trespasser touches the Ward, triggering its effect. Gloves or other garments offer no protection. If the caster wins the Ritual test, the victim suffers one point of Aggravated Health damage. On a critical win, damage for this Ward is three points of Aggravated damage. The caster does not need to make the Ritual roll for each trespasser touching the Ward, only the first. Anyone affected who wants to touch the warded object again must spend a point of Willpower and then win a Stamina + Resolve test (Difficulty 4, or 7 for a critical-success Ward) to make the attempt.
 
@@ -989,6 +1287,20 @@ When the trespasser attempts to cross the circle, roll a contest of Intelligence
 **Ingredients:** The caster draws the Warding circle with an iron knife dipped in salt and Blood.
 
 **Process:** The caster paints the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
+
+**System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Warding Circle Against Aapilum, Level 4 (Tattered Facade p.144) *</strong></mark></summary>
+
+**This warding circle will need to be workshopped first. It has an official mention in the book, but not a specific write up.**
+
+**Ingredients:** The caster draws the Warding circle with a silver knife dipped in wolfsbane and Blood.
+
+**Process:** A Blood Sorcerer who knows the true name of the aapilu originally summoned to become the Baali can create a Ward (Level 3, Warding Circle Level 4) against it. This Ward does not work against any other Baali. If they intone the true name, they can also add two dice to any other Blood Sorcery pool used against that specific Baali. The caster paints the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
 
 **System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
 
