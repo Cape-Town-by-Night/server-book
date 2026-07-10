@@ -100,7 +100,7 @@ Trying to move someone actively resisting requires a contest of Resolve + Alchem
 
 <details>
 
-<summary><mark style="color:red;"><strong>Advanced Torpor, Level 2 (Blood Sigils p.75)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Advanced Torpor (Blood Sigils p.75)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric and phlegmatic mortal blood, neem extract, diazepam, diphenhydramine, chamomile flower.
 
@@ -122,7 +122,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blacklight Surprise, Level 2 (Blood Sigils pp.75-76)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Blacklight Surprise (Blood Sigils pp.75-76)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, sanguine and choleric mortal blood, sunflower seeds, hand sanitizer, Luminol.
 
@@ -136,7 +136,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blue State, Level 2 (Blood Sigils p.76)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Blue State (Blood Sigils p.76)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, melancholy and phlegmatic mortal blood, cobalt.
 
@@ -150,7 +150,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Haze, Level 2 (Core p.285)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Haze (Core p.285)</strong></mark></summary>
 
 **Ingredients:** In addition to the alchemist’s Blood and phlegmatic human blood, dry ice or cigar smoke or auto exhaust
 
@@ -164,7 +164,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Envelop, Level 2 (Core p.285)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Envelop (Core p.285)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, melancholic and phlegmatic human blood, potassium chlorate, smog or halon gas
 
@@ -180,7 +180,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Whiff-Its, Level 2 (Gehenna War pp.50-51)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Whiff-Its (Gehenna War pp.50-51)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s vitae, phlegmatic or sanguine human blood, cologne or perfume, fresh compost, ammonia, crushed fingernails from an animal
 
@@ -196,7 +196,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Bleed Out, Level 3 (Tattered Facade p.107)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Bleed Out (Tattered Facade p.107)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, Melancholic human blood, diuretics, energy drinks, cornflower
 
@@ -210,7 +210,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Defractionate, Level 3 (Core pp.285-286)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Defractionate (Core pp.285-286)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, sanguine and melancholic human blood, O-negative human blood (only a few ml), moldy spinach, hot black coffee, sodium octanoate
 
@@ -224,7 +224,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Diamond Skin, Level 3 (Blood Sigils p.76)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Diamond Skin (Blood Sigils p.76)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, melancholic human blood, ground up granite, diamonds, or ceramics, lotion or oil.
 
@@ -238,7 +238,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fireskin, Level 3 (Blood Sigils p.76)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Fireskin (Blood Sigils p.76)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, powdered elemental salamander bone, tobacco, sulfur.
 
@@ -252,7 +252,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Hospital Chains, Level 3 (Blood Sigils pp.76-77)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Hospital Chains (Blood Sigils pp.76-77)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, phlegmatic mortal blood, a sample from a fatal carcinoma, hydrofluoric acid.
 
@@ -268,7 +268,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Martian Purity, Level 3 (Blood Sigils p.77)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Martian Purity (Blood Sigils p.77)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric mortal blood, iron filings, gunpowder ash.
 
@@ -282,7 +282,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mask Off, Level 3 (Blood Sigils p.77)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Mask Off (Blood Sigils p.77)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric and melancholic mortal blood, ground mustard seed, lemon juice, amphetamines, ground match heads.
 
@@ -300,7 +300,7 @@ On Distillation rolls between 1–3 successes, true vampires that lose the conte
 
 <details>
 
-<summary><mark style="color:red;"><strong>Profane Hieros Gamos, Level 3 (Core pp.286-287)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Profane Hieros Gamos (Core pp.286-287)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, melancholic and phlegmatic human blood, entheogenic substances.
 
@@ -320,7 +320,7 @@ Not even the blood of the Duskborn can spare the Nosferatu from their Bane, the 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Saraimu, Level 3 (Tattered Facade p.107)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Saraimu (Tattered Facade p.107)</strong></mark></summary>
 
 **Ingredients:** A cup of vitae each from three vampires including the alchemist, baking powder, crushed chalk (optional, for a soft voice), iron nails (for strength), battery acid (for oomph)
 
@@ -338,7 +338,7 @@ The blob is affectionate but slimy and inherently unstable. It can perform many 
 
 <details>
 
-<summary><mark style="color:red;"><strong>TLC, Level 3 (Blood Sigils pp.77-78)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>TLC (Blood Sigils pp.77-78)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, animal blood, choleric mortal blood, nettles, iron pieces, meat glue.
 
@@ -350,7 +350,7 @@ The blob is affectionate but slimy and inherently unstable. It can perform many 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Troll the Pious, Level 3 (Blood Sigils p.78)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Troll the Pious (Blood Sigils p.78)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, melancholic mortal blood, used hot tub water, cornstarch, a body hair from a living green-eyed natural redhead.
 
@@ -368,7 +368,7 @@ To be fair, it is possible the fears of the truly faithful really could provide 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Airborne Momentum, Level 4 (Core p.287)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Airborne Momentum (Core p.287)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric and sanguine human blood, champagne, bird blood, helium, scopolamine or belladonna extract
 
@@ -384,7 +384,7 @@ To be fair, it is possible the fears of the truly faithful really could provide 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Copycat, Level 4 (Blood Sigils p.79)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Copycat (Blood Sigils p.79)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric and phlegmatic mortal blood, mirror glass, donor blood, Boquila trifoliolata leaves, chameleon skin.
 
@@ -400,7 +400,7 @@ For those who know the donor by sight, telling the drinker from the donor requir
 
 <details>
 
-<summary><mark style="color:red;"><strong>Half-Living Conductor, Level 4 (Blood Sigils p.79)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Half-Living Conductor (Blood Sigils p.79)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric and sanguine mortal blood, molten conductive metal (gold, silver, copper, and aluminum are popular choices), ground rubber, rainwater from a thunderstorm.
 
@@ -420,7 +420,7 @@ On Distillation rolls with 1–3 successes, the alchemist is protected from elec
 
 <details>
 
-<summary><mark style="color:red;"><strong>Juice Box, Level 4 (Gehenna War p.51)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Juice Box (Gehenna War p.51)</strong></mark></summary>
 
 **Ingredients:** The ingredients required for the original formula, methuselah vitae, and an empty juice box, complete with traces of concentrated fruit juice.
 
@@ -434,7 +434,7 @@ On Distillation rolls with 1–3 successes, the alchemist is protected from elec
 
 <details>
 
-<summary><mark style="color:red;"><strong>Red State, Level 4 (Blood Sigils p.79)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Red State (Blood Sigils p.79)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, sanguine and phlegmatic mortal blood, iron oxide.
 
@@ -448,7 +448,7 @@ On Distillation rolls with 1–3 successes, the alchemist is protected from elec
 
 <details>
 
-<summary><mark style="color:red;"><strong>Vitae MSG, Level 4 (Blood Sigils pp.79-80)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Vitae MSG (Blood Sigils pp.79-80)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, sanguine mortal blood, MSG, powdered sugar, knockoff (not genuine) Chanel No. 5.
 
@@ -464,7 +464,7 @@ On Distillation rolls with 1–3 successes, the alchemist is protected from elec
 
 <details>
 
-<summary><mark style="color:red;"><strong>Awaken The Sleeper, Level 5 (Core p.287)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Awaken The Sleeper (Core p.287)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric or sanguine human blood, adrenaline, ammonium carbonate, hartshorn, caffeine or benzedrine, melatonin
 
@@ -478,7 +478,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Beast Mode, Level 5 (Gehenna War p.51)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Beast Mode (Gehenna War p.51)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s vitae, choleric or sanguine human blood, vitae of Blood Potency 4+, phenylcyclohexyl piperidine, adrenaline injector, spoiled two percent milk, sodium bicarbonate
 
@@ -492,7 +492,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Da Bomb, Level 5 (Tattered Facade p.108)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Da Bomb (Tattered Facade p.108)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, Sanguine human blood, accelerants, matchstick heads, grains of sand from a sand timer
 
@@ -508,7 +508,7 @@ When activated, the victim experiences a turn of panicked awareness, before expl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Saturn’s Flux, Level 5 (Blood Sigils p.80)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Saturn’s Flux (Blood Sigils p.80)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, phlegmatic mortal blood, lead, laxative, horse hair.
 
