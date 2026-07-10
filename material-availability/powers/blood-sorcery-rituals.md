@@ -88,15 +88,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 **Ingredients:** Human blood, poppy seeds.
 
-**Process:** The vampire casts a\
-concoction of human blood and\
-poppy seeds onto the earth, and\
-in doing so rouses all plant life\
-within a 5 yard/meter diameter.\
-While these plants are rarely\
-lethal in their attacks, they can\
-successfully disable and alarm\
-their victims.
+**Process:** The vampire casts a concoction of human blood and poppy seeds onto the earth, and in doing so rouses all plant life within a 5 yard/meter diameter. While these plants are rarely lethal in their attacks, they can successfully disable and alarm their victims.
 
 **System:** A win on the Ritual roll following the casting of the Ritual ingredients animates the plant life. The affected flora causes a two-dice penalty to physical dice pools for those caught in the range of the Ritual, as plants trip and grip them. Victims who stay in the area for longer than a turn must make a Dexterity + Athletics roll (Difficulty 3), or be grappled and suffer one point of Superficial Health damage for each turn ensnared. If the caster achieves a critical win, the damage from plant attacks doubles. On a total failure, the plants attack the caster. The plants will target anyone who isn’t the caster. They remain active until the end of the scene.
 
@@ -224,7 +216,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 **Process:** The caster drains a rat completely dry and removes its eyes from its skull, before throwing them into the nearest shadowed or unlit place. The caster can only perform this ritual on themselves.
 
-**System:** Success yields the ability to go completely invisible for an hour. The ritual immediately ends if the caster ventures above ground or takes hostile action. Sense the Unseen (Vampire, p. 249) can reveal the caster.
+**System:** Success yields the ability to go completely invisible for an hour. The ritual immediately ends if the caster ventures above ground or takes hostile action. Sense the Unseen (Core, p.249) can reveal the caster.
 
 </details>
 
@@ -394,7 +386,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <summary><mark style="color:red;"><strong>Silentia Mortis (Blood Sigils p.64)</strong></mark></summary>
 
-**Ingredients:** Paw of a cat or other silent desert predator, blood from caster (and from holder, if different), corpse-wax candle (p. 139), a white rose.
+**Ingredients:** Paw of a cat or other silent desert predator, blood from caster (and from holder, if different), corpse-wax candle (Blood Sigils, p.139), a white rose.
 
 **Process:** The caster whispers the words of this ritual, cuts their palm, and clenches the paw in their fist, soaking it in a Rouse Check worth of their blood. If intended for a holder besides the caster, the holder also cuts their palm and holds the paw, making their own Rouse Check and mingling their blood. The holder remains completely silent during this ritual. After burning the rose in the candle, the caster quenches the candle flame with the bloody paw.
 
@@ -434,7 +426,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 **Process:** The caster mixes a Rouse Check’s worth of blood with the precious metal dust. At the site of a place of power, they shout praises to Tiamat, scattering the bloody metal dust mixture into the air and on the ground for at least fifteen minutes.
 
-**System:** On a win, the sorcerer primes the place of power for any ritual taking place there for a number of nights equal to the number of successes on the Ritual test. During this time, any ritual performed by the caster on this place of power gains the bonuses or other advantages associated with it — usually a dice bonus to Ritual pools (see Furcus, p. 35). On a critical win, the sorcerer also automatically succeeds on one die of their Ritual roll. Only one caster receives the benefits of Tiamat Glistens per place of power. If another caster successfully performs the Ritual during the time of another caster’s successful casting, the first caster immediately loses the dice bonus.
+**System:** On a win, the sorcerer primes the place of power for any ritual taking place there for a number of nights equal to the number of successes on the Ritual test. During this time, any ritual performed by the caster on this place of power gains the bonuses or other advantages associated with it — usually a dice bonus to Ritual pools (Blood Sigils, p.35). On a critical win, the sorcerer also automatically succeeds on one die of their Ritual roll. Only one caster receives the benefits of Tiamat Glistens per place of power. If another caster successfully performs the Ritual during the time of another caster’s successful casting, the first caster immediately loses the dice bonus.
 
 </details>
 
@@ -536,7 +528,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 **Process:** The koldun scratches open their initiatory scar, bleeds into the element, commands it to receive them, and falls or dives into it.
 
-**System:** On a win, the koldun melds into the element. No physical attack can injure them, nor can sunlight or fire. While in the element, the koldun remains aware of their surroundings, except during day-sleep. At those times, disturbances such as digging or loud noises awaken them or not, as with all vampires (Vampire: The Masquerade, p. 219). The koldun’s form remains waveringly visible to Sense the Unseen (Auspex 1) or to normal sight (Wits + Awareness) with a Difficulty equal to the margin of the Ritual roll. On a critical win, the koldun completely merges with the element, becoming entirely invisible. The koldun can emerge from the element at will by night at the spot they entered it. If a fire-bonded koldun’s fire goes out (or less likely, if someone drains a water-bonded koldun’s aqueous shelter), the koldun enters torpor within or beneath the ashes and coals. They can make a Resolve + Awareness test (Difficulty 2) to awaken in the presence of potential prey just as if they had fallen into torpor from hunger.
+**System:** On a win, the koldun melds into the element. No physical attack can injure them, nor can sunlight or fire. While in the element, the koldun remains aware of their surroundings, except during day-sleep. At those times, disturbances such as digging or loud noises awaken them or not, as with all vampires (Core, p.219). The koldun’s form remains waveringly visible to Sense the Unseen (Auspex 1) or to normal sight (Wits + Awareness) with a Difficulty equal to the margin of the Ritual roll. On a critical win, the koldun completely merges with the element, becoming entirely invisible. The koldun can emerge from the element at will by night at the spot they entered it. If a fire-bonded koldun’s fire goes out (or less likely, if someone drains a water-bonded koldun’s aqueous shelter), the koldun enters torpor within or beneath the ashes and coals. They can make a Resolve + Awareness test (Difficulty 2) to awaken in the presence of potential prey just as if they had fallen into torpor from hunger.
 
 </details>
 
@@ -608,7 +600,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 **Process:** The vampire makes a Rouse Check, ingests and swallows the hair and the moth over a fifteen-minute period. It can form the Grim Chrysalis any time that night, and automatically begins forming it three minutes before sunrise unless it can vomit up the mass with a Resolve + Athletics test (Difficulty 3).
 
-**System:** The vampire begins drooling its keratin-laced saliva into the air, where it expands and hardens into the Grim Chrysalis. The Ritual test determines whether the cocoon forms entirely or remains incomplete. It only takes three turns to form the cocoon. Inside the cocoon, the vampire can mend all Superficial damage in one night, or 2 Aggravated Health damage; no Rouse Checks are needed for this mending. If the vampire has Vicissitude (Players Guide, p. 81), use of this Power within the cocoon requires no test but assumes a number of successes equal to the user’s Discipline pool.
+**System:** The vampire begins drooling its keratin-laced saliva into the air, where it expands and hardens into the Grim Chrysalis. The Ritual test determines whether the cocoon forms entirely or remains incomplete. It only takes three turns to form the cocoon. Inside the cocoon, the vampire can mend all Superficial damage in one night, or 2 Aggravated Health damage; no Rouse Checks are needed for this mending. If the vampire has Vicissitude (Players Guide, p.81), use of this Power within the cocoon requires no test but assumes a number of successes equal to the user’s Discipline pool.
 
 The shell of the cocoon is hard as nails yet pliant. It protects the user from sunlight, lets in no air or liquids, and protects the user from fall damage from less than a hundred meters. Breaking it open by force requires inflicting a total of 30 levels of damage with an appropriate tool or weapon, such as an axe. The cocoon also takes damage from fire and acid, smelling like burning hair and giving off a thick black smoke. It takes three turns to destroy a Grim Chrysalis in this way, and the vampire within, floating in a thick blood sludge, may emerge before the damage reaches them.
 
@@ -812,7 +804,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 **Process:** The sorcerer collects their own Blood and that of their victim in a heat-resistant container, adding the other ingredients while stirring and heating up the mixture. While brewing the mixture, the sorcerer concentrates on how it will perfect their imperfections, making them young and beautiful. Some believe it strengthens the balm if the victim suffers as much as possible when their blood is drawn.
 
-**System:** Make the Ritual test before taking the mixture off the heat. On a win, the balm emulsifies into a smooth and fragrant blend that can be used directly on the skin or dissolved in bath water. It remains effective for a week past brewing, as long as it’s applied regularly. The user gains the temporary effect of the Stunning Advantage (Core, p. 179) This effect supersedes any innate Beautiful or Stunning Advantage possessed by the user and is not cumulative with these.
+**System:** Make the Ritual test before taking the mixture off the heat. On a win, the balm emulsifies into a smooth and fragrant blend that can be used directly on the skin or dissolved in bath water. It remains effective for a week past brewing, as long as it’s applied regularly. The user gains the temporary effect of the Stunning Advantage (Core, p.179) This effect supersedes any innate Beautiful or Stunning Advantage possessed by the user and is not cumulative with these.
 
 However, the use of the Balm of Bathory can be highly addictive and the amount of mortal blood required doubles per brew. (The eighth brew requires 128 pints, enough blood to fill a small bathtub, but the amount does not increase afterward.) The first batch of the balm has no side effects, but after the second batch, the balm turns toxic on the user’s flesh past the first week. They suffer 1 Superficial damage worth of necrotic flesh wounds nightly, affecting any part of their body exposed to the balm, until they either brew another batch or until they go without the balm for one month per batch brewed.
 
@@ -836,7 +828,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Defense Of The Sacred Haven (Core pp.279-280)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Defense Of The Sacred Haven (Core pp.279-280)*</strong></mark></summary>
 
 
 
@@ -862,7 +854,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 **Process:** The caster feeds their Blood to the bird and enters a trance.
 
-**System:** On a winning Ritual roll the caster can control the bird and see through its eyes. On a critical win, the bird can perform simple actions under control, such as picking up objects or manipulating keys or dials. The caster can use most non-physical Disciplines through the bird, even Dominate assuming the caster has Telepathy (p. 252) or some other way to communicate with targets non-verbally. There is no limit to the range the bird can fly, though unless the caster plucks the eyes out of the bird at the end of the night they themselves suffer blindness for three nights to come.
+**System:** On a winning Ritual roll the caster can control the bird and see through its eyes. On a critical win, the bird can perform simple actions under control, such as picking up objects or manipulating keys or dials. The caster can use most non-physical Disciplines through the bird, even Dominate assuming the caster has Telepathy (Core, p.252) or some other way to communicate with targets non-verbally. There is no limit to the range the bird can fly, though unless the caster plucks the eyes out of the bird at the end of the night they themselves suffer blindness for three nights to come.
 
 </details>
 
@@ -888,7 +880,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 **Process:** The sorcerer burns the flowers and rosemary, blending the ashes with the donated vitae, then drinks the Blood.
 
-**System:** The sorcerer selects a Memoriam goal (Vampire: The Masquerade, p. 312), or one of the goals below:
+**System:** The sorcerer selects a Memoriam goal (Core, p.312), or one of the goals below:
 
 • A Level 1 Discipline power; a one-dot Merit\
 •• A Level 2 Discipline power; a two-dot Merit\
@@ -912,7 +904,7 @@ Merit dots cannot be spread among different Merits or added to existing Merits t
 
 A guided Memoriam follows all of the same rules as a standard Memoriam except the Kindred donating the Blood and memories rolls the required Rouse check. The donor remains present throughout the scene as a spiritual or disembodied presence or guide that only the Kindred experiencing the Memoriam can interact with. Everyone experiencing the guided Memoriam must partake of the offered Blood.
 
-Walking through another Kindred’s memories is a particularly unnatural experience and inflicts penalties based on how far back in time the journey delves. The Blood offered by the Kindred donor is always considered a deep drink (Vampire: The Masquerade, p. 312) and the bonuses supplied from that usually offset some of these penalties.
+Walking through another Kindred’s memories is a particularly unnatural experience and inflicts penalties based on how far back in time the journey delves. The Blood offered by the Kindred donor is always considered a deep drink (Core, p.312) and the bonuses supplied from that usually offset some of these penalties.
 
 **Additional Guided Memoriam Modifiers**
 
@@ -925,7 +917,7 @@ Walking through another Kindred’s memories is a particularly unnatural experie
 
 <details>
 
-<summary><mark style="color:red;"><strong>Incorporeal Passage (Core p.280)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Incorporeal Passage (Core p.280)*</strong></mark></summary>
 
 
 
@@ -1015,7 +1007,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 **Process:** At the furcus, the caster bathes the sign of entrance in a Rouse Check’s worth of Blood while singing praises to a deity or famous figure representing escape, travel, or the wind. Traditionally, this ritual calls upon the Mesopotamian god Enlil. After ten minutes, pour the Blood on the ground.
 
-**System:** Make no Ritual roll until the vampire touches the soil (or floor) of their chosen furcus with their physical sign of entrance. On a win, the caster dissolves into a bloody mist, drawn into the Earth’s veins and reincorporated twenty minutes later at a furcus of the Storyteller’s choosing. On a critical win, they arrive at the nearest furcus to their Haven or to a place of power attuned to the caster by Tiamat Glistens (p. 64). This ritual is one-way, and only activates at the specific furcus where the sorcerer first cast it.
+**System:** Make no Ritual roll until the vampire touches the soil (or floor) of their chosen furcus with their physical sign of entrance. On a win, the caster dissolves into a bloody mist, drawn into the Earth’s veins and reincorporated twenty minutes later at a furcus of the Storyteller’s choosing. On a critical win, they arrive at the nearest furcus to their Haven or to a place of power attuned to the caster by Tiamat Glistens (Blood Sigils, p.64). This ritual is one-way, and only activates at the specific furcus where the sorcerer first cast it.
 
 </details>
 
@@ -1092,7 +1084,7 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 **Process:** The vampire lays a dead body (age of the corpse is immaterial) at the foot of a tree and places the healthy apple in the corpse’s mouth, followed by the rotten apple into the vampire’s. If the apple does not fit in the corpse’s mouth, the caster may hammer it in, dislocate the jaw, or otherwise rend the throat open, so long as it fits. As the body rapidly merges with the tree’s roots and trunk, blood from mortals up to 1 mile/kilometer away drains into the earth and out through the rotten apple in the vampire’s mouth, sating Hunger.
 
-**System:** The player makes a Ritual roll following the placement of the corpse and the apples. On a win, the vampire’s Hunger is slaked to one, despite any Blood Potency feeding penalties. On a critical win, the vampire’s Hunger is slaked to zero without killing. On a total failure, the vampire falls into a hunger frenzy. Depending on the number of kine in the Ritual area and the type of kine nearby, Stains may accrue; for example vampires with a Prey Exclusion (see Vampire: The Masquerade, p. 181) may suffer Stains if this Ritual is used in an area heavily populated by their excluded class of mortal, whereas varied groups with more kine to draw from are less likely to bear an ethical cost.
+**System:** The player makes a Ritual roll following the placement of the corpse and the apples. On a win, the vampire’s Hunger is slaked to one, despite any Blood Potency feeding penalties. On a critical win, the vampire’s Hunger is slaked to zero without killing. On a total failure, the vampire falls into a hunger frenzy. Depending on the number of kine in the Ritual area and the type of kine nearby, Stains may accrue; for example vampires with a Prey Exclusion (Core, p.181) may suffer Stains if this Ritual is used in an area heavily populated by their excluded class of mortal, whereas varied groups with more kine to draw from are less likely to bear an ethical cost.
 
 A lot of blood is wasted with this Ritual, as all the mortals in the area lose a little blood to the earth, though the loss is not visible. For the remainder of the chapter, those kine suffer a one-die penalty to all Physical rolls and 1 Aggravated Health damage.
 
@@ -1110,7 +1102,7 @@ A lot of blood is wasted with this Ritual, as all the mortals in the area lose a
 
 **System:** On a win, the element attacks the target. If the element is already awake during the casting (commanding air during a thunderstorm, for instance), the koldun adds one die to their Ritual pool. The target takes one point of Aggravated Health damage per success, and the same damage again every round afterward until they win an appropriate escape contest (e.g., Dexterity + Athletics) vs. the koldun’s Resolve + Blood Sorcery. Excepting fire, the elements only do Superficial damage to vampires, but they may still bury them, carry them away in a flood or tornado, etc. On a critical win, the element attacks every suitable target at the caster’s discretion within sight of the main target. The effect continues until the koldun does anything else besides command the elements: fight, move, make any other skill roll, etc.
 
-**Chain:** When chained with Elemental Grasp (p. 62) and Tiamat Glistens (p. 64), this ritual unleashes a nigh-apocalyptic elemental effect: earthquake, tsunami, tornado, magma flow, etc. Damage doubles to the targets, but collateral damage gets wildly out of hand, and continues until the kolduny stop casting.
+**Chain:** When chained with Elemental Grasp (Blood Sigils, p.62) and Tiamat Glistens (Blood Sigils, p.64), this ritual unleashes a nigh-apocalyptic elemental effect: earthquake, tsunami, tornado, magma flow, etc. Damage doubles to the targets, but collateral damage gets wildly out of hand, and continues until the kolduny stop casting.
 
 </details>
 
@@ -1136,7 +1128,7 @@ A lot of blood is wasted with this Ritual, as all the mortals in the area lose a
 
 **System:** On a win, the caster develops a mental connection to the land. Once per session, the sorcerer may make a Wits + Streetwise (if urban or suburban) or Wits + Survival (if rural) test. For each success, the Storyteller truthfully answers one question the player has about the land: its greatest threat, does an enemy reside there, the Resonance of its inhabitants’ blood, etc. This ritual lasts until the end of the story, during which the caster may ask one more question per session. After that, the caster must replenish their symbols, making another Rouse Check and Ritual roll to renew it.
 
-**Chain:** When chained with Land’s Sustenance (p. 64) and Compel the Inanimate (p. 69), the coterie has almost total control over the place of power and its surrounding area. They have near-omniscience over the land, with three free questions about it per session, per caster. The land’s structures or trees watch and warn the casters of hostile approach, unless magically disguised or shielded. While on the land, the casters can mend up to 5 points of Aggravated damage per night, total (split between the casters on a first-come, first-serve basis).
+**Chain:** When chained with Land’s Sustenance (Blood Sigils, p.64) and Compel the Inanimate (Blood Sigils, p.69), the coterie has almost total control over the place of power and its surrounding area. They have near-omniscience over the land, with three free questions about it per session, per caster. The land’s structures or trees watch and warn the casters of hostile approach, unless magically disguised or shielded. While on the land, the casters can mend up to 5 points of Aggravated damage per night, total (split between the casters on a first-come, first-serve basis).
 
 </details>
 

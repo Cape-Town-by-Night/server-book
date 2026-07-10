@@ -12,11 +12,11 @@ Ceremonies each have a prerequisite Oblivion power. At character creation a play
 
 **Prerequisite Power:** [<mark style="color:purple;">The Binding Fetter</mark>](oblivion-ceremonies.md#the-binding-fetter-oblivion-1-players-guide-p.85)
 
-**Ingredients:** One of the targeted wraith’s fetters (see The Binding Fetter, p. 85), a photo or other visual depiction of the wraith or their signed name, and the caster’s vitae.
+**Ingredients:** One of the targeted wraith’s fetters ([<mark style="color:purple;">The Binding Fetter</mark>](oblivion-ceremonies.md#the-binding-fetter-oblivion-1-players-guide-p.85)), a photo or other visual depiction of the wraith or their signed name, and the caster’s vitae.
 
 **Process:** The necromancer pours their vitae over a wraith’s fetter, and studying the picture or signature, calls out the wraith’s name. The wraith feels their fetter’s call, and begins a journey from their location in the Underworld to that of the caster. Though geography has differing scales in the Underworld, a journey may still take several nights if the spirit is on the other side of the world. If the veil is thin enough in the summoning location, the wraith is pulled through the veil between worlds by the fetter’s strength. The summoned wraith is under no obligation to serve the vampire upon being called and may act with hostility if they feel the vampire is threatening their fetter. Alternatively, the wraith may be grateful for the summoning and the possibility of companionship.
 
-**System:** The caster daubs the fetter with their vitae and makes an Oblivion Ceremony roll. The wraith cannot pass through the veil if it’s impenetrable in the Ceremony location (see p. 88). Moving the fetter after the Ceremony doesn’t help, as the wraith’s ability to pass through the veil disappears if the fetter leaves the Ceremony site. The wraith disappears at the end of the scene unless a separate Ceremony is used to compel or bind them.
+**System:** The caster daubs the fetter with their vitae and makes an Oblivion Ceremony roll. The wraith cannot pass through the veil if it’s impenetrable in the Ceremony location (Players Guide, p.88). Moving the fetter after the Ceremony doesn’t help, as the wraith’s ability to pass through the veil disappears if the fetter leaves the Ceremony site. The wraith disappears at the end of the scene unless a separate Ceremony is used to compel or bind them.
 
 Wraiths summoned in this way do not manifest physically, but as shadows on the walls, quavering silhouettes of their living selves, from which voices might emerge. Wraiths speak the same languages they did in life, unless they’ve gone to the trouble of learning new ones in the Underworld.
 
@@ -45,7 +45,7 @@ vampires, except they are immune to sunlight. They cannot heal or mend damage, a
 rot at least one Superficial Health damage each day. They cannot be mentally
 dominated or influenced as they are bound to their master. They do not react to
 motion, words, or interference from anyone but their reanimator. Mindless corpses
-may always contribute to Teamwork (Vampire: The Masquerade, p. 122) for menial
+may always contribute to Teamwork (Core, p.122) for menial
 labor such as digging, lifting, or pushing even if they lack Skills.
 General Difficulties: 2/1
 ```
@@ -62,7 +62,7 @@ General Difficulties: 2/1
 
 **Process:** The caster pours vitae from their body into a vessel and then uses it to write out the true name of a deceased human on the consecrated stone. If the individual still exists as a ghost, their location becomes clear to the vampire.
 
-**System:** The vampire makes their Ceremony roll. On a win, if the target exists as a ghost, the vampire receives a vision of the ghost’s location. The vision can be accessed for the remainder of the scene.
+**System:** The vampire makes their Ceremony roll. On a win, if their target exists as a ghost, the vampire receives a vision of the ghost’s location. The vision can be accessed for the remainder of the scene.
 
 </details>
 
@@ -76,7 +76,7 @@ General Difficulties: 2/1
 
 **Process:** By using the Traveler’s Call with their black book in hand and the name of another Shalimite in mind, a priest can send a ripple out across Oblivion, calling the target to their location. Unlike a true summoning, this power does not place a compulsion upon the victim, but does alert the Shalimite being contacted to the vampire’s current location through a repetitive, flashing vision of the scenery surrounding the calling Kindred.
 
-**System:** The cultist must possess their black book and know the name of another Shalimite. The vampire’s player makes a Ceremony roll (Difficulty 3). The contacted vampire can choose to ignore the call, but the flashing vision gives them −2 dice to all rolls involving concentration for the remainder of the scene, at which point the call disappears. A critical win by the vampire allows them to send a single-word message to their point of contact along with the vision.
+**System:** The cultist must possess their black book and know the name of another Shalimite. The vampire’s player makes a Ceremony roll. The contacted vampire can choose to ignore the call, but the flashing vision gives them −2 dice to all rolls involving concentration for the remainder of the scene, at which point the call disappears. A critical win by the vampire allows them to send a single-word message to their point of contact along with the vision.
 
 </details>
 
@@ -130,7 +130,7 @@ Most homunculi can scale walls, hop (even if it lacks the limbs to do so), and h
 
 **Ingredients:** A wraith’s fetter, the caster’s vitae, and an item (or threat) sufficient to damage the fetter.
 
-**Process:** The vampire must be in close proximity to a wraith in order to use this Ceremony, typically through use of Summon Spirit (see p. 92). The necromancer casts a handful of their own vitae in the wraith’s direction as they hold a destructive item to the fetter (a knife, a hammer, a gun, or potentially holding the fetter over a fire) or speak threatening words that the wraith believes. The vampire and wraith engage in a contest of wills. If the vampire wins, the wraith must serve as the vampire decrees, at least temporarily. On a loss, the vampire is left mentally debilitated and the fetter disappears from their grasp.
+**Process:** The vampire must be in close proximity to a wraith in order to use this Ceremony, typically through use of [<mark style="color:purple;">Summon Spirit</mark>](oblivion-ceremonies.md#summon-spirit-players-guide-pp.92-93). The necromancer casts a handful of their own vitae in the wraith’s direction as they hold a destructive item to the fetter (a knife, a hammer, a gun, or potentially holding the fetter over a fire) or speak threatening words that the wraith believes. The vampire and wraith engage in a contest of wills. If the vampire wins, the wraith must serve as the vampire decrees, at least temporarily. On a loss, the vampire is left mentally debilitated and the fetter disappears from their grasp.
 
 **System:** Make an Oblivion Ceremony roll vs. the wraith’s Resolve + Composure. If the vampire has no way of physically threatening the fetter, also make a Manipulation + Intimidation roll (Difficulty equal to the wraith’s Resolve + Composure).
 
@@ -138,7 +138,7 @@ If the necromancer wins both rolls, they can command the wraith to perform a num
 
 If the wraith wins either contest, the vampire suffers the margin in Superficial Health damage, and the wraith then re-enters the Underworld.
 
-The compulsion placed on the wraith ends immediately if the vampire attacks it. If the vampire harms the threatened fetter, the wraith suffers between one and three Aggravated Willpower damage (depending on the importance of the fetter) and the wraith is sent back to the Underworld to be tormented by, and possibly converted into, a murderous spectre (Vampire: The Masquerade, p. 377).
+The compulsion placed on the wraith ends immediately if the vampire attacks it. If the vampire harms the threatened fetter, the wraith suffers between one and three Aggravated Willpower damage (depending on the importance of the fetter) and the wraith is sent back to the Underworld to be tormented by, and possibly converted into, a murderous spectre (Core, p.377).
 
 </details>
 
@@ -170,7 +170,7 @@ The Ceremony lasts until sunrise or the vampire cancels it. Canceling the Ceremo
 
 **Process:** This Ceremony must be carried out in a location with a split or extraordinary thinning in the Veil. The vampire stitches the corpse parts into a single golem, pouring the acid into the golem’s body along the patterns of spine, viscera, and veins. The final step is engraving the word of Power tzel in the golem’s mouth with the burin, and dripping the vampire’s vitae onto the word to control and charge it. This act draws shadows from the Abyss into the golem’s body and animates it.
 
-**System:** The stitched corpse can be assembled manually (with a successful Difficulty 3 Resolve + Medicine or Difficulty 4 Resolve + Crafts test) or with the aid of a successful Difficulty 2 Fleshcrafting (Players Guide, p. 82) test while the bodies are alive and then turned into corpses. Make a Ceremony test once the prepared corpse is ready. A failure on either the preparation or ceremony test ruins the body parts and wastes the acid. On a total failure, the shadows break free from the golem and attack the vampire in a three-round contest of Intelligence + Oblivion (they have four dice in their pool), doing Aggravated Willpower damage with their wins. The flesh golem’s Strength equals the total margin of success on both the preparation and Ceremony tests. It obeys the orders of its creator until the word in its mouth is destroyed; if its creator enters torpor or otherwise becomes uncommunicative, it follows its last order.
+**System:** The stitched corpse can be assembled manually (with a successful Difficulty 3 Resolve + Medicine or Difficulty 4 Resolve + Crafts test) or with the aid of a successful Difficulty 2 [<mark style="color:purple;">Fleshcrafting</mark>](https://wiki.capetownvtm.com/material-availability/powers#fleshcrafting-protean-3--dominate-2-players-guide-pp.82-83) test while the bodies are alive and then turned into corpses. Make a Ceremony test once the prepared corpse is ready. A failure on either the preparation or ceremony test ruins the body parts and wastes the acid. On a total failure, the shadows break free from the golem and attack the vampire in a three-round contest of Intelligence + Oblivion (they have four dice in their pool), doing Aggravated Willpower damage with their wins. The flesh golem’s Strength equals the total margin of success on both the preparation and Ceremony tests. It obeys the orders of its creator until the word in its mouth is destroyed; if its creator enters torpor or otherwise becomes uncommunicative, it follows its last order.
 
 </details>
 
@@ -201,7 +201,7 @@ A correctly functioning Corpse Suit attunes to subtle signs of danger and senses
 
 **Process:** The steel chain is laid along the circumference of the desired area, meeting and leaving no gaps. Mixing the ingredients into the basin, the caster dips their hands into the mixture, coating up to the wrist, and applies the mixture by hand along the chain at equidistant intervals. With a final sigil located in the center of the chain, the Ceremony is complete. Wraiths who attempt to cross the chain are dragged into a horrid momentary echo of physical form, often in states of torturous wailing terror. Wraiths so affected are temporarily visible to any casual onlooker, leading to terrifying tales of the appearance of screaming ghosts.
 
-**System:** This Ceremony costs three Rouse Checks instead of the usual one, but the caster does not make their Ceremony roll until a wraith attempts to cross the chain, triggering its effect. This Ceremony is strongest when fresh, but lasts a year and a day after it’s performed. If the ward is triggered more than seven days after it was performed, subtract two dice from their pool. The wraith rolls their Willpower in a contest against the caster and if the necromancer succeeds, they inflict torturous pain upon their victim. The wraith suffers three points of Superficial Health damage. For as long as they remain within the boundary, they lose two dice to all Willpower rolls and rolls to use their supernatural abilities. On a critical win from the caster, they may choose to bar the wraith from leaving the boundary until they pass a Difficulty 4 Willpower test, which they may attempt once per scene. The other parameters of this warding Ceremony are identical to Blood Sorcery Warding circles (see Vampire: The Masquerade, p. 275).
+**System:** This Ceremony costs three Rouse Checks instead of the usual one, but the caster does not make their Ceremony roll until a wraith attempts to cross the chain, triggering its effect. This Ceremony is strongest when fresh, but lasts a year and a day after it’s performed. If the ward is triggered more than seven days after it was performed, subtract two dice from their pool. The wraith rolls their Willpower in a contest against the caster and if the necromancer succeeds, they inflict torturous pain upon their victim. The wraith suffers three points of Superficial Health damage. For as long as they remain within the boundary, they lose two dice to all Willpower rolls and rolls to use their supernatural abilities. On a critical win from the caster, they may choose to bar the wraith from leaving the boundary until they pass a Difficulty 4 Willpower test, which they may attempt once per scene. The other parameters of this warding Ceremony are identical to Blood Sorcery Warding circles (see Core, p.275).
 
 If the wraith is possessing an individual or object when they cross the chain, the same effects apply, and the unlucky individual suffers 3 Superficial Willpower damage as the wraith is violently forced from them.
 
@@ -215,7 +215,7 @@ If the wraith is possessing an individual or object when they cross the chain, t
 
 **Ingredients:** A gift to be made as tribute to a wraith (whether the wraith values it depends on the individual), a parasitic bug, and two teeth extracted from the vampire’s mouth.
 
-**Process:** The vampire must be in close proximity to a wraith in order to use this power, typically through use of Summon Spirit (see p. 92). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body.
+**Process:** The vampire must be in close proximity to a wraith in order to use this power, typically through use of [<mark style="color:purple;">Summon Spirit</mark>](oblivion-ceremonies.md#summon-spirit-players-guide-pp.92-93). The necromancer presents a tribute to the wraith, sometimes in the form of alcohol poured on the wraith’s gravesite, or a bag of coins to be buried in the earth, or even the freshly decapitated head of one of the wraith’s until-recently living enemies. The vampire then pulls two teeth from their mouth, usually with pliers, and bites into a parasite with their remaining teeth. The vampire then opens their mouth and the wraith can choose to enter it, inhabiting the vampire’s body.
 
 The benefits of having a wraith ride one’s body include an enhanced physique, access to whichever memories the wraith chooses to share, and the wraith’s voice offering the vampire advice. The wraith can take complete possession of the vampire if they wish to, which some necromancers view as a blessing to be experienced, and others deem the main reason not to use this power.
 
@@ -229,15 +229,15 @@ A wraith can choose to assert its possession instead of acting as a passenger. I
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Knit the Veil</strong></mark><strong> </strong><mark style="color:purple;"><strong>(</strong><strong>Trails of Ash and Bone p.174</strong><strong>)*</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Knit the Veil</strong></mark><strong> </strong><mark style="color:purple;"><strong>(</strong><strong>Trails of Ash and Bone p.174</strong><strong>)</strong></mark></summary>
 
-**Prerequisite Power:** <mark style="color:purple;">Where the Veil Thins</mark>
+**Prerequisite Power:** [<mark style="color:purple;">Where the Veil Thins</mark>](https://wiki.capetownvtm.com/material-availability/powers#where-the-veil-thins-oblivion-2-players-guide-pp.87-88)
 
 **Ingredients:** Ground bones, an iron needle, cat gut thread, the caster’s vitae, a goat tallow candle.
 
-**Process:** The caster scatters the powdered bone around an area no larger than a football field to mark the boundary of this Ceremony. Then, they prepare the candle by piercing their flesh and passing the thread under their skin. Using the needle, they carve runes down the length of the candle and then wrap the thread around it until they pull it from under their skin. The candle may then be placed inside the boundary and lit, burning with a pale and unmoving flame that artificially thickens the Shroud around it with radiating, uncomfortable warmth.
+**Process:** The caster scatters the powdered bone around an area no larger than a football field to mark the boundary of this Ceremony. Then, they prepare the candle by piercing their flesh and passing the thread under their skin. Using the needle, they carve runes down the length of the candle and then wrap the thread around it until they pull it from under their skin. The candle may then be placed inside the boundary and lit, burning with a pale and unmoving flame that artificially thickens the Veil around it with radiating, uncomfortable warmth.
 
-**System:** When lighting the candle, the caster makes their Ceremony roll, subtracting one die from their pool for every wraith present within the boundary, on either side of the Shroud. Upon a win the Shroud density (see Cults of the Blood Gods p. 205) of the area becomes Impenetrable for as long as the candle burns. On a critical win, the Ceremony’s duration is doubled and no being may spy across the Shroud. Undisturbed, it persists for as many nights as the caster has Oblivion dots. Another necromancer who attempts to Split the Shroud (see Cults of the Blood Gods p. 213) here must win against the caster’s successes as a Difficulty, doing so ends this Ceremony and reduces the Shroud density as per that Ceremony.
+**System:** When lighting the candle, the caster makes their Ceremony roll, subtracting one die from their pool for every wraith present within the boundary, on either side of the Veil. Upon a win the Veil density (Players Guide, p.88) of the area becomes Impenetrable for as long as the candle burns. On a critical win, the Ceremony’s duration is doubled and no being may spy across the Veil. Undisturbed, it persists for as many nights as the caster has Oblivion dots. Another necromancer who attempts to [<mark style="color:purple;">Split the Veil</mark>](https://wiki.capetownvtm.com/material-availability/powers/oblivion-ceremonies#split-the-veil-level-4-players-guide-pp.96-97) here must win against the caster’s successes as a Difficulty, doing so ends this Ceremony and reduces the Veil density as per that Ceremony.
 
 </details>
 
@@ -267,9 +267,9 @@ A wraith can choose to assert its possession instead of acting as a passenger. I
 
 **System:** Due to the amount of blood spilled in this Ceremony, the caster must first test to resist Hunger Frenzy (Difficulty 2). Make a Ceremony roll, possibly incurring Stains in the process depending on the chronicle Tenets and the Storyteller’s discretion. Upon a win a number of aggressive dead equal to the necromancer’s Oblivion rating or the number of prepared bodies (whichever is lower) receive the gift of animation. Corpses animated this way do not decay and only enter repose if commanded to by the vampire, if the vampire meets final death, or if destroyed.
 
-The animated corpses can parse moderately complex orders such as “kill everyone who enters,” “groan if you see anyone pass this way,” or “terrorize that neighborhood.” Unlike the corpses raised using the Gift of False Life (see p. 92), these animated dead do not sit idle if left without commands, instead attacking anyone around them except for their master.
+The animated corpses can parse moderately complex orders such as “kill everyone who enters,” “groan if you see anyone pass this way,” or “terrorize that neighborhood.” Unlike the corpses raised using the [Gift of False Life](oblivion-ceremonies.md#the-gift-of-false-life-players-guide-p.92), these animated dead do not sit idle if left without commands, instead attacking anyone around them except for their master.
 
-As per the rules for temporary Advantages like these (Vampire: The Masquerade, p. 180), their continued usefulness beyond the current story must be ensured with Experience — such as through the Retainers Background (Vampire: The Masquerade, p. 196; one dot per loyal corpse) — or the aggressive corpses may become unstable and unruly.
+As per the rules for temporary Advantages like these (Core, p.180), their continued usefulness beyond the current story must be ensured with Experience — such as through the Retainers Background (Core, p.196; one dot per loyal corpse) — or the aggressive corpses may become unstable and unruly.
 
 **Aggressive Corpse Stat Block**
 
@@ -329,11 +329,11 @@ At dawn, roll one die for each skill roll boosted: a failure on any of these dic
 
 **Ingredients:** A wraith’s fetter, the sacrifice of an innocent mortal, and sufficient salt to surround a property or individual. If the target for haunting is an individual, the necromancer must possess something of their body, such as fingernails, hair, blood, or skin.
 
-**Process:** The vampire must already have a wraith under their control using Compel Spirit (see p. 93). The vampire kills an innocent mortal (though innocence is subjective, this tends to apply to the young, caregivers, and genuinely pious individuals) in or close to a location or person they want their wraith to haunt. Subsequently, they mix their vitae with sufficient salt to surround the target for haunting, and paint a circle with the mixture. They place the wraith’s fetter somewhere within the location, or in the target’s possession.
+**Process:** The vampire must already have a wraith under their control using [<mark style="color:purple;">Compel Spirit</mark>](oblivion-ceremonies.md#compel-spirit-players-guide-p.94). The vampire kills an innocent mortal (though innocence is subjective, this tends to apply to the young, caregivers, and genuinely pious individuals) in or close to a location or person they want their wraith to haunt. Subsequently, they mix their vitae with sufficient salt to surround the target for haunting, and paint a circle with the mixture. They place the wraith’s fetter somewhere within the location, or in the target’s possession.
 
 **System:** Following the steps of the Ceremony, the vampire may incur Stains from the murder depending on the Chronicle Tenets and the Storyteller’s discretion. They make an Oblivion Ceremony roll that cannot be resisted, as the wraith must already be compelled for this power to work.
 
-The wraith is bound to the location or individual targeted, with no duration applied to this Ceremony’s effects. Any emotion the wraith feels intensely during its binding affects the inhabitants of the location or the individual to whom it’s bound, with each person affected suffering a two-dice penalty to all rolls made to resist acting or feeling the way the wraith feels. Therefore, an angry wraith may make vampires more inclined to Frenzy, while a depressed wraith might make a mortal more likely to stop self-care. Bound wraiths have the same powers as spectres (Vampire: The Masquerade, p. 377).
+The wraith is bound to the location or individual targeted, with no duration applied to this Ceremony’s effects. Any emotion the wraith feels intensely during its binding affects the inhabitants of the location or the individual to whom it’s bound, with each person affected suffering a two-dice penalty to all rolls made to resist acting or feeling the way the wraith feels. Therefore, an angry wraith may make vampires more inclined to Frenzy, while a depressed wraith might make a mortal more likely to stop self-care. Bound wraiths have the same powers as spectres (Core, p.377).
 
 The wraith is forever bound to the target, unless the vampire cancels the Ceremony, the fetter ever moves from the location or individual’s possession, or the wraith is destroyed. Binding also ends if the necromancer attacks the wraith. Most wraiths bound in this way are furious or melancholic about their plight, and their mood affects the area around them. Many necromancers use this method to defend their havens or haunt their enemies.
 
@@ -347,7 +347,7 @@ The wraith is forever bound to the target, unless the vampire cancels the Ceremo
 
 **Ingredients:** The chosen mortal, an Oblivion-touched iron chain, a candle made with human tallow, dirt from a fresh grave, a thimble of blood or other body fluids from the mortal
 
-**Process:** The vampire must be in possession of an iron chain that has been marked by the shades of Oblivion. They can create this themselves using Touch of Oblivion (Players Guide, p. 89) on the chain, or use one prepared by someone else or which hails from the Abyss. They begin the Ceremony proper by lighting the candle, which sputters and casts a circle of warm light around the two. The mortal must then swallow the grave dirt. Using a blowtorch or a similar high-power heat source, the vampire proceeds to heat up the chain, using it to brand the mortal. This sucks all the light out of the room, extinguishing the candle. It also traps the spirit of the mortal within their decaying flesh. The vampire then has three nights to deliver the blood or fluids gathered from the mortal to the same grave where they got the dirt.
+**Process:** The vampire must be in possession of an iron chain that has been marked by the shades of Oblivion. They can create this themselves using [<mark style="color:purple;">Touch of Oblivion</mark>](https://wiki.capetownvtm.com/material-availability/powers#touch-of-oblivion-oblivion-3-players-guide-p.89) on the chain, or use one prepared by someone else or which hails from the Abyss. They begin the Ceremony proper by lighting the candle, which sputters and casts a circle of warm light around the two. The mortal must then swallow the grave dirt. Using a blowtorch or a similar high-power heat source, the vampire proceeds to heat up the chain, using it to brand the mortal. This sucks all the light out of the room, extinguishing the candle. It also traps the spirit of the mortal within their decaying flesh. The vampire then has three nights to deliver the blood or fluids gathered from the mortal to the same grave where they got the dirt.
 
 **System:** The necromancer tests Resolve + Oblivion (Difficulty 5). Each rolled success adds a decade to the mortal’s natural lifespan, but if the test is not an overall win, or if the vampire fails to take the mortal’s blood to the grave within the deadline, the mortal ages at twice the speed they would have otherwise aged, as the shadows binding their spirit eat away at their life force.
 
@@ -363,11 +363,11 @@ Bind to Mortal Form can be performed several times on the same mortal; however, 
 
 **Ingredients:** A wraith’s fetter, a personal item owned by the intended target (living or undead, but not another wraith), the caster’s vitae, over proof rum, a black candle, a clay bowl large enough to hold the fetter and target’s personal belonging.
 
-**Process:** The caster must be in close proximity to the desired wraith in order to successfully complete the Ceremony, typically through the use of Summon Spirit. The fetter and target’s possession are combined in the bowl along with the caster’s vitae. The candle is held over the bowl and lit allowing the wax to drip into the contents of the bowl. The name of the wraith and the target are chanted repeatedly. As the wax melts, it forms a seal between the items inside of the bowl, creating a bridge between the wraith and the desired target. When this seal is broken, the rum ignites the possession of the target and they experience the death of the wraith.
+**Process:** The caster must be in close proximity to the desired wraith in order to successfully complete the Ceremony, typically through the use of [<mark style="color:purple;">Summon Spirit</mark>](oblivion-ceremonies.md#summon-spirit-players-guide-pp.92-93). The fetter and target’s possession are combined in the bowl along with the caster’s vitae. The candle is held over the bowl and lit allowing the wax to drip into the contents of the bowl. The name of the wraith and the target are chanted repeatedly. As the wax melts, it forms a seal between the items inside of the bowl, creating a bridge between the wraith and the desired target. When this seal is broken, the rum ignites the possession of the target and they experience the death of the wraith.
 
-**System:** The caster makes their Ceremony roll and the target contests with Composure + Resolve whether or not they know they’re being targeted. On a win by the caster the victim experiences a vision of the wraith’s death, with a higher margin leading to a more vivid experience. For example, one point of margin is enough for the target to have brief flashes of the moment, while five may cause the target’s experience to be so vivid that they will be shocked to realize they’re not dead afterwards. If the wraith died a violent death, this causes Superficial Willpower damage equal to the margin of the roll, but even a peaceful death inflicts one point as they experience the wraith’s dying gasp. A critical win from the target rebounds this trauma back onto the necromancer, inflicting the margin as Superficial Willpower damage to them instead.
+**System:** The caster makes their Ceremony roll and the target contests with Composure + Resolve whether or not they know they’re being targeted. On a win by the caster the victim experiences a vision of the wraith’s death, with a higher margin leading to a more vivid experience. If the wraith died a violent death, this causes Superficial Willpower damage equal to the margin of the roll, but even a peaceful death inflicts one point as they experience the wraith’s dying gasp. A critical win from the target rebounds this trauma back onto the necromancer, inflicting the margin as Superficial Willpower damage to them instead.
 
-Be it a personal curiosity in death, to investigate the situation of a death first hand, or an attempt to gain a deep understanding of a particular wraith, the caster may wish to be the target of the Ceremony. They roll only against the normal Ceremony Difficulty, and the caster must open their mind to accept any resulting Willpower damage.
+The caster may choose to be the target of the Ceremony. They roll only against the normal Ceremony Difficulty, and the caster must open their mind to accept any resulting Willpower damage.
 
 </details>
 
@@ -379,9 +379,9 @@ Be it a personal curiosity in death, to investigate the situation of a death fir
 
 **Ingredients:** A blade that’s been used to cut into someone living, chalk or charcoal, a silk sheet, and a human sacrifice.
 
-**Process:** The vampire hangs a silk sheet over a wall in a place where the veil density (see p. 88) is standard, thin, or frayed. They then perform a human sacrifice against the sheet, and as blood coats the sheet, cut it open with a blade. The Ceremony widens the portal between the world of the living and the world of the dead.
+**Process:** The vampire hangs a silk sheet over a wall in a place where the veil density (Players Guide, p.88) is standard, thin, or frayed. They then perform a human sacrifice against the sheet, and as blood coats the sheet, cut it open with a blade. The Ceremony widens the portal between the world of the living and the world of the dead.
 
-**System:** The caster performs the sacrifice, which may result in Stains depending on the chronicle Tenets and the Storyteller’s discretion. When cutting the silk sheet, their player makes the Ceremony roll). Due to the amount of blood spilled in this Ceremony, the caster must roll to resist Hunger Frenzy (Difficulty 2). For every success on the Ceremony roll, the veil’s density reduces by one level, down to being absent (see Where the Veil Thins on p. 87).
+**System:** The caster performs the sacrifice, which may result in Stains depending on the chronicle Tenets and the Storyteller’s discretion. When cutting the silk sheet, their player makes the Ceremony roll). Due to the amount of blood spilled in this Ceremony, the caster must roll to resist Hunger Frenzy (Difficulty 2). For every success on the Ceremony roll, the veil’s density reduces by one level, down to being absent (Players Guide, p.87).
 
 Importantly, if the veil rating is reduced to absent, wraiths can spill into the physical world for the remainder of the session (or night). Once that period concludes, a veil density of absent increases to frayed and the gateway for wraiths closes.
 
@@ -401,19 +401,19 @@ Importantly, if the veil rating is reduced to absent, wraiths can spill into the
 
 Ex Nihilo appeals to a great many necromancers and mystics who want to study the Shadowlands without the impediment of a time limit. It’s an unmatched method for interviewing ghosts and exploring the necropoli — the cities spirits inhabit. It’s also incredibly dangerous, as many wraiths — especially spectres — seek to destroy vampires, draining them of their Willpower, and there’s always the risk of meeting the ghost of someone the vampire slew years earlier. Such wraiths tend to hold a grudge.
 
-The vampire must have used the Split the Shroud Ceremony within this chapter, in the location they’re currently occupying, in order for Ex Nihilo to function. If the Shroud density is reduced to absent, the caster and any companions may enter the Shadowlands from that point, if they don masks to cover their faces, dip or paint their feet in the vampire’s vitae, and carry a coin in each hand.
+The vampire must have used [<mark style="color:purple;">Split the Veil</mark>](oblivion-ceremonies.md#split-the-veil-players-guide-pp.96-97) that night, in the location they’re currently occupying, in order for Ex Nihilo to function. If the Veil density is reduced to absent, the caster and any companions may enter the Shadowlands from that point, if they don masks to cover their faces, dip or paint their feet in the vampire’s vitae, and carry a coin in each hand.
 
 **System:** The user makes three Rouse Checks (sufficient to expend the required vitae) and spends a turn concentrating, expending a Willpower point to prepare for the crossing. They then make their Ceremony roll. If successful, the vampire, a number of companions equal to the number of successes rolled, and any objects on their person may then enter the Shadowlands.
 
 The Shadowlands follows several rules that do not exist in the world of the living:
 
-• Wraiths are capable of physical attacks on vampires (see Vampire: The Masquerade, p. 377 for an average spectre’s stat block) but some are also capable of attacking a vampire’s Willpower specifically, as they drain a vampire’s passion. Defense pools against Willpower drain, which a wraith can attempt up to 3 yards/meters from the vampire, are made up from the vampire’s Resolve + Composure, vs. the attacking wraith’s Strength + Brawl. This attack inflicts Aggravated Willpower damage.\
+• Wraiths are capable of physical attacks on vampires (Core, p.377 for an average spectre’s stat block) but some are also capable of attacking a vampire’s Willpower specifically, as they drain a vampire’s passion. Defense pools against Willpower drain, which a wraith can attempt up to 3 yards/meters from the vampire, are made up from the vampire’s Resolve + Composure, vs. the attacking wraith’s Strength + Brawl. This attack inflicts Aggravated Willpower damage.\
 • Though there is no sun (and therefore no daytime) in the Shadowlands, the vampire must still Rouse the Blood every 24 hours. With no sunlight, they are able to operate without rest.\
-• Vampires in the Shadowlands cannot interact with the world of the living in a meaningful way. They can only touch or speak with living creatures by ending this Ceremony, which takes the expenditure of a Willpower point and another Rouse Check in a place where the Shroud isn’t impenetrable. They can see snatches of motion through the Shroud, and a Discipline such as Auspex may enable them to spy from beyond the veil, but for the most part, anything viewed has a Difficulty 4 or more to perceive.\
+• Vampires in the Shadowlands cannot interact with the world of the living in a meaningful way. They can only touch or speak with living creatures by ending this Ceremony, which takes the expenditure of a Willpower point and another Rouse Check in a place where the Veil isn’t impenetrable. They can see snatches of motion through the Veil, and a Discipline such as Auspex may enable them to spy from beyond the veil, but for the most part, anything viewed has a Difficulty 4 or more to perceive.\
 • Vampires can use their Disciplines in the Shadowlands just as they can in the land of the living.\
-• If a vampire is compelled to feed in the Shadowlands, they cannot obtain sustenance from wraiths without the Passion Feast power (see p. XX), but can feed from mortals or other vampires with them.\
+• If a vampire is compelled to feed in the Shadowlands, they cannot obtain sustenance from wraiths without [Passion Feast](https://wiki.capetownvtm.com/material-availability/powers#passion-feast-oblivion-3--fortitude-2-players-guide-pp.88-89), but can feed from mortals or other vampires with them.\
 • Oblivion absorbs individuals who lose all Health or Willpower in the Shadowlands. They leave no wraiths if destroyed.\
-• Vampires cannot bring wraiths out of the Shadowlands without a Ceremony such as Summon Spirit (see p. XX), which must be used in the land of the living to have this effect.
+• Vampires cannot bring wraiths out of the Shadowlands without a Ceremony such as [Summon Spirit](oblivion-ceremonies.md#summon-spirit-players-guide-pp.92-93), which must be used in the land of the living to have this effect.
 
 **Duration:** Until the power is deactivated or the vampire is destroyed
 
@@ -453,7 +453,7 @@ Even more than most, this Ceremony is likely to attract attention from the other
 
 The possessed corpse wakes bearing the wounds that killed it, though the replacement heart is functional (no matter its origin or placement) and the body heals one point of Health damage upon possession. The remaining Health damage recovers with time (as vampiric healing). The body gains no special resistances to harm beyond Disciplines it might have possessed in life. The body possesses the same Physical Attributes, Disciplines (if a ghoul), and Advantages it had in life. Social and Mental Attributes, Skills, and any form of morality rating match those of the wraith.
 
-This possession lasts indefinitely, or until the possessed body dies again or the wraith is exorcized from the host.
+This possession lasts indefinitely, or until the possessed body dies again or the wraith is exorcised from the host.
 
 </details>
 

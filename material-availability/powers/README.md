@@ -44,7 +44,7 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 **Cost:**&#x4F;ne Rouse Check for each night.
 
-**System:** The vampire whispers a single sentence to the Famulus and states the target. If the location of the recipient is unknown the Famulus must track them down, making a tracking test (see above) at a Difficulty of 2, or resisted by the target’s Intelligence + Streetwise / Survival if they are actively trying to hide (from the famulus or from other perceived threats). The attempt can be made once per night. The message is delivered as soon as the Famulus makes eye contact with the target, at which point they return to their master.
+**System:** The vampire whispers a single sentence to the Famulus and states the target. If the location of the recipient is unknown the Famulus must track them down, making a tracking test at a Difficulty of 2, or resisted by the target’s Intelligence + Streetwise / Survival if they are actively trying to hide (from the famulus or from other perceived threats). The attempt can be made once per night. The message is delivered as soon as the Famulus makes eye contact with the target, at which point they return to their master.
 
 **Duration:** One or more nights depending in length of search
 
@@ -213,9 +213,9 @@ Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to re
 
 **System:** Make a Manipulation + Animalism test; Difficulty 4. On a win, the vampire can inhabit the animal’s body for one scene. On a critical win, the vampire can inhabit the animal indefinitely.
 
-Extending this possession into the daylight hours requires the vampire to stay awake (p. 219); seeing the sun requires a test for fear frenzy though the sunlight does not damage the animal being ridden. The user remains oblivious to their original body, but harm to it pulls them out of the trance and releases the animal. Death of the possessed animal also ends the trance, and the vampire takes a point of Aggravated Willpower damage from the shock.
+Extending this possession into the daylight hours requires the vampire to stay awake (Core, p.219); seeing the sun requires a test for fear frenzy though the sunlight does not damage the animal being ridden. The user remains oblivious to their original body, but harm to it pulls them out of the trance and releases the animal. Death of the possessed animal also ends the trance, and the vampire takes a point of Aggravated Willpower damage from the shock.
 
-**Duration:** A scene / indefinitely (see above)
+**Duration:** A scene / indefinitely
 
 </details>
 
@@ -272,7 +272,7 @@ Extending this possession into the daylight hours requires the vampire to stay a
 **System:** Instead of the Willpower roll to resist a terror or fury frenzy, roll Wits + Animalism vs Composure + Resolve of the target. If the user fails, they enter frenzy as though they had failed the Willpower roll. On a win, the target experiences that frenzy instead of the user. Later stimuli can still provoke frenzy in the user, but they can use this power as long as they can make Rouse Checks and further targets remain available.\
 This power cannot transfer a hunger frenzy.
 
-**Duration:** Frenzy duration (see p. 220)
+**Duration:** Frenzy duration (Core, p.220)
 
 </details>
 
@@ -494,10 +494,9 @@ Add one success to the result if the object of desire or fear is present, and ad
 **Dice Pools:** Intelligence + Auspex
 
 **System:** Roll Intelligence + Auspex against a Difficulty based on the security and level of activity of the area. Using Clairvoyance on one’s own mansion would be Difficulty 3 while an unfamiliar city block in the slums of a major city would amount to 7 or more. The user adds their base Haven rating in extra dice to the pool when using Clairvoyance on their own haven.\
-The Storyteller answers the vampire’s questions about the comings and goings in the area, what people have seen and heard, topics of local gossip, recent major shocks or impressions, and so forth. The player can ask roughly one question per point of margin; answers about deliberately concealed information might consume more than one point. A critical win reveals something major, regardless of the questions asked, assuming there is something to reveal.\
-The vampire can also clairvoyantly monitor events in progress, though this requires them to remain in the area for as long as the effect is active.
+The Storyteller answers the vampire’s questions about the comings and goings in the area, what people have seen and heard, topics of local gossip, recent major shocks or impressions, and so forth. The player can ask roughly one question per point of margin; answers about deliberately concealed information might consume more than one point. A critical win reveals something major, regardless of the questions asked, assuming there is something to reveal.
 
-## Obfuscate
+The vampire can also clairvoyantly monitor events in progress, though this requires them to remain in the area for as long as the effect is active.
 
 **Duration:** A few minutes for information gathering, up to a night for vigilance.
 
@@ -511,9 +510,9 @@ The vampire can also clairvoyantly monitor events in progress, though this requi
 
 **Dice Pools:** Resolve + Auspex vs Resolve + Intelligence
 
-**System:** This power can only be used on mortals. If the mortal is a ghoul, they must first be Blood Bound to the user. Before possession can begin, the vampire must have eye contact with their victim (See Dominate, p. 254). The user then engages in a Resolve + Auspex vs Resolve + Intelligence conflict with the victim in order to inhabit their body. If the vampire’s player rolls a total failure, the victim becomes immune to further Possession attempts for the duration of the story.
+**System:** This power can only be used on mortals. If the mortal is a ghoul, they must first be Blood Bound to the user. Before possession can begin, the vampire must have eye contact with their victim (Core, p.254). The user then engages in a Resolve + Auspex vs Resolve + Intelligence conflict with the victim in order to inhabit their body. If the vampire’s player rolls a total failure, the victim becomes immune to further Possession attempts for the duration of the story.
 
-Once the vampire inhabits the body of their victim, their own body falls into a torpor-like trance, completely unaware of their surrounding and their own physical state except for Aggravated damage, which breaks the trance and ends the effects. A vampire possessing a mortal can use Auspex, Presence, and Dominate through them. If the user wishes to extend Possession into daytime, they must make a roll to stay awake (p. 219). Failure to stay awake ends the power. Any Aggravated damage to the subject also risks ending the possession – the user must succeed at a Resolve + Auspex roll (Difficulty 2 + damage taken) to stay in control. If the subject dies during Possession, the resulting spiritual trauma immediately causes the user to sustain three levels of Aggravated damage to Willpower.
+Once the vampire inhabits the body of their victim, their own body falls into a torpor-like trance, completely unaware of their surrounding and their own physical state except for Aggravated damage, which breaks the trance and ends the effects. A vampire possessing a mortal can use Auspex, Presence, and Dominate through them. If the user wishes to extend Possession into daytime, they must make a roll to stay awake (Core, p.219). Failure to stay awake ends the power. Any Aggravated damage to the subject also risks ending the possession – the user must succeed at a Resolve + Auspex roll (Difficulty 2 + damage taken) to stay in control. If the subject dies during Possession, the resulting spiritual trauma immediately causes the user to sustain three levels of Aggravated damage to Willpower.
 
 This power does not give the user the ability to read the mind, use the skills, or emulate the manners of the victim. Any skills employed use the possessing vampire’s rating. The user must make a Manipulation + Performance vs Wits + Insight roll to successfully impersonate the victim’s manners, expressions, and the like.
 
@@ -587,7 +586,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 **Cost:** Free
 
-**System:** With this power, vampires suffer no penalty to their defense pools for lack of cover against Firearms attacks. They can also take a minor action (see p. 298) worth up to two dice per turn, such as readying or reloading a weapon, for free.
+**System:** With this power, vampires suffer no penalty to their defense pools for lack of cover against Firearms attacks. They can also take a minor action (Core, p.298) worth up to two dice per turn, such as readying or reloading a weapon, for free.
 
 **Duration:** Passive
 
@@ -613,7 +612,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 **Cost:** One Rouse Check
 
-**System:** When active, this power lets the vampire complete Skill-related tasks that would otherwise take whole turns in the span of a few seconds, and can treat a full action as a minor action (Vampire: The Masquerade, p. 298). The power cannot be used to speed up attacks, defenses, or to perform any other actively resisted task but it does allow the vampire to, for example, jimmy a lock and fire a gun (the latter with a two-dice penalty, as per the minor action rules.)
+**System:** When active, this power lets the vampire complete Skill-related tasks that would otherwise take whole turns in the span of a few seconds, and can treat a full action as a minor action (Core, p.298). The power cannot be used to speed up attacks, defenses, or to perform any other actively resisted task but it does allow the vampire to, for example, jimmy a lock and fire a gun (the latter with a two-dice penalty, as per the minor action rules.)
 
 **Duration:** One scene
 
@@ -737,7 +736,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 **Cost:** Two Rouse Checks
 
-**System:** This power combines effects of Blink with elements of the Obfuscate power of Vanish. To onlookers the vampire appears to disappear and the target is caught unawares, becoming subject to surprise attack. Unless the victim can react by beating the user’s Dexterity + Celerity with their Wits + Awareness in a contest, they are unable to defend against the attack and it is made against a set Difficulty of 1. (See Surprise Attacks in Vampire: The Masquerade, p. 300). If the attacker fails this test they still perform a regular attack, as per Blink power (Vampire: The Masquerade, p. 253), and Unseen Strike is also subject to the same movement restrictions as Blink.
+**System:** This power combines effects of Blink with elements of the Obfuscate power of Vanish. To onlookers the vampire appears to disappear and the target is caught unawares, becoming subject to surprise attack. Unless the victim can react by beating the user’s Dexterity + Celerity with their Wits + Awareness in a contest, they are unable to defend against the attack and it is made against a set Difficulty of 1. (Core, p.300). If the attacker fails this test they still perform a regular attack, as per Blink power (Core, p.253), and Unseen Strike is also subject to the same movement restrictions as Blink.
 
 **Duration:** One turn
 
@@ -835,7 +834,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 **Cost:** One Rouse Check
 
-**System:** Defiance rolls for willful thralls under the effects of Domitor’s Favor are made at a three-dice penalty and thralls may not spend Willpower on them. Additionally, total failure on a defiance roll means that the Blood Bond does not weaken that month. (See Vampire: The Masquerade, pp. 233–244.)
+**System:** Defiance rolls for willful thralls under the effects of Domitor’s Favor are made at a three-dice penalty and thralls may not spend Willpower on them. Additionally, total failure on a defiance roll means that the Blood Bond does not weaken that month. (Core, pp. 233–244.)
 
 **Duration:** One month
 
@@ -1051,7 +1050,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 **Cost:** None beyond Rouse Checks for giving Blood
 
-**System:** Using vitae to heal the living (see p. 139) heals three levels of Aggravated Damage per Rouse Check rather than just one. Other effects (becoming a ghoul, risking Blood Bond) remain unchanged.
+**System:** Using vitae to heal the living (Players Guide, p.139) heals three levels of Aggravated Damage per Rouse Check rather than just one. Other effects (becoming a ghoul, risking Blood Bond) remain unchanged.
 
 **Duration:** Passive
 
@@ -1207,7 +1206,7 @@ Use of this power takes a whole turn. If the vampire spends an entire scene inst
 
 **Dice Pools:** Stamina + Fortitude vs. Stamina (+ Fortitude, if the attacker is attacking unarmed and possesses Fortitude)
 
-**System:** Anyone who makes a successful Brawl attack against the user suffers the damage which Toughness subtracts (see Vampire: The Masquerade p. 258) as Superficial Health damage. Melee weapons also suffer reflected damage, and break once they endure their damage modifier’s worth (unless it is holy, magical, or otherwise unbreakable). This power may only be used while Toughness is active, and can be used in response to an attack so long as the vampire has yet to use a Discipline during the current turn.
+**System:** Anyone who makes a successful Brawl attack against the user suffers the damage which Toughness subtracts (Core, p.258) as Superficial Health damage. Melee weapons also suffer reflected damage, and break once they endure their damage modifier’s worth (unless it is holy, magical, or otherwise unbreakable). This power may only be used while Toughness is active, and can be used in response to an attack so long as the vampire has yet to use a Discipline during the current turn.
 
 **Duration:** One scene (or until hit)
 
@@ -1233,7 +1232,7 @@ Use of this power takes a whole turn. If the vampire spends an entire scene inst
 
 **System:** With this Power active, the vampire temporarily increases their Fortitude by a number of dots equal to half the weak mortals present (rounded down). They can gain up to five extra dots of Fortitude through this method. This increase does not provide any new Powers, but counts for the purpose of dice pools and other effects.
 
-The Storyteller counts all bystanders categorized as Weak Mortals (Vampire: The Masquerade, p. 185) toward this power, along with wounded or sick Average Mortals.
+The Storyteller counts all bystanders categorized as Weak Mortals (Core, p.185) toward this power, along with wounded or sick Average Mortals.
 
 **Duration:** One scene, or when the vampire leaves the presence of the affected mortals — whichever comes first.
 
@@ -1453,9 +1452,9 @@ Sense the Unseen (Auspex 1) can pierce the mask as usual.
 
 **Dice Pools:** Charisma + Obfuscate vs. Wits + Resolve
 
-**System:** The vampire makes eye contact with their victim and rolls Charisma + Obfuscate versus the target’s Wits + Resolve, with lower Generation vampires being able to negate the roll with a Willpower point as per Dominate’s characteristics (Vampire: The Masquerade, p. 255). On a win, the victim struggles to find their way out of the building they’re in. An additional two Rouse Checks allows this power to be used in a single room or a densely packed outdoor environment (such as a construction site or forest).
+**System:** The vampire makes eye contact with their victim and rolls Charisma + Obfuscate versus the target’s Wits + Resolve, with lower Generation vampires being able to negate the roll with a Willpower point as per Dominate’s characteristics (Core, p.255). On a win, the victim struggles to find their way out of the building they’re in. An additional two Rouse Checks allows this power to be used in a single room or a densely packed outdoor environment (such as a construction site or forest).
 
-Mortals cannot attempt to escape but supernatural creatures can make a Resolve + Awareness test each scene using the vampire’s initial successes as the Difficulty, suffering a point of Superficial Willpower damage for every missing success if they fail. This roll cannot benefit from Teamwork, as any guidance given does not match what the victim sees. This power ends if the environment becomes dangerous (e.g. the building catches fire), unless the vampire has Terminal Decree (Vampire: The Masquerade, p. 257).\
+Mortals cannot attempt to escape but supernatural creatures can make a Resolve + Awareness test each scene using the vampire’s initial successes as the Difficulty, suffering a point of Superficial Willpower damage for every missing success if they fail. This roll cannot benefit from Teamwork, as any guidance given does not match what the victim sees. This power ends if the environment becomes dangerous (e.g. the building catches fire), unless the vampire has Terminal Decree (Core, p.257).\
 **Duration:** One night
 
 </details>
@@ -1498,7 +1497,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 **Dice Pools:** Manipulation + Obfuscate vs Resolve + Awareness
 
-**System:** The user catches the eye of the victim and must then succeed at a Manipulation + Obfuscate vs. Resolve + Awareness test. On a win, the user and everyone near appears to disappear to the victim, and the effect lasts for one scene (or night), plus one for each success in the margin. While under its effect, the victim is unable to perceive any living or unliving person. They will unconsciously avoid them and will be deaf to any sounds made by them. Only if someone attempts to do physical harm to the victim will they be momentarily perceived, as a person using Unseen Passage would. (See Vampire: The Masquerade, p. 261). Each time this happens, make another Discipline test. If the victim successfully resists, the power’s effect breaks prematurely.
+**System:** The user catches the eye of the victim and must then succeed at a Manipulation + Obfuscate vs. Resolve + Awareness test. On a win, the user and everyone near appears to disappear to the victim, and the effect lasts for one scene (or night), plus one for each success in the margin. While under its effect, the victim is unable to perceive any living or unliving person. They will unconsciously avoid them and will be deaf to any sounds made by them. Only if someone attempts to do physical harm to the victim will they be momentarily perceived, as a person using Unseen Passage would. (Core, p.261). Each time this happens, make another Discipline test. If the victim successfully resists, the power’s effect breaks prematurely.
 
 **Duration:** Margin number of scenes or nights, or until broken
 
@@ -1618,7 +1617,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 In combat, Brutal Feed comes immediately after a successful Brawl attack using fangs. The victim first takes bite damage, followed by a number of automatically successful feeding actions up to the user’s Potence rating. Against vampires, the number of feeding actions is halved (round down). Armor does not protect against Brutal Feed, as the wounds are, or at least begin as, mainly internal. Of course, armor can protect against the bite itself as normal.
 
-Storytellers may decide such mutilation-killing warrants Stains (p. 239).
+Storytellers may decide such mutilation-killing warrants Stains (Core, p.239).
 
 **Duration:** One feeding
 
@@ -1688,7 +1687,7 @@ The climb or clinging leaves obvious tracks detectable by anyone with an Intelli
 
 **Cost:** One Rouse Check
 
-**System:** Upon using Soaring Leap, the vampire may activate Crash Down, and deal damage to a small area of effect. Anyone within a three-meter radius is subject to an attack roll of the user’s Strength + Potence against their Dexterity + Athletics, suffering Superficial Damage equal to the margin. Anyone suffering three or more levels of damage or a total failure on their defense test is knocked down (see Vampire: The Masquerade, p. 122).
+**System:** Upon using Soaring Leap, the vampire may activate Crash Down, and deal damage to a small area of effect. Anyone within a three-meter radius is subject to an attack roll of the user’s Strength + Potence against their Dexterity + Athletics, suffering Superficial Damage equal to the margin. Anyone suffering three or more levels of damage or a total failure on their defense test is knocked down (Core, p.122).
 
 **Duration:** N/A
 
@@ -1744,7 +1743,7 @@ This power causes significant collateral damage. If used on the ground, the eart
 
 **Cost:** Free
 
-**System:** Performing unarmed melee attacks or feats of strength now counts as two-dice minor actions (see Minor Actions in Vampire: The Masquerade, p. 298). A character can perform only one Subtle Hammer minor action per turn, though, and cannot make other attacks in the same turn. The ability to concentrate one’s full strength into any part of the body also has other benefits, and any feat of strength where the user’s movement is limited (such as breaking out of bonds) receives a four-dice bonus or more, at the Storyteller’s discretion.
+**System:** Performing unarmed melee attacks or feats of strength now counts as two-dice minor actions (Core, p.298). A character can perform only one Subtle Hammer minor action per turn, though, and cannot make other attacks in the same turn. The ability to concentrate one’s full strength into any part of the body also has other benefits, and any feat of strength where the user’s movement is limited (such as breaking out of bonds) receives a four-dice bonus or more, at the Storyteller’s discretion.
 
 **Duration:** Passive
 
@@ -1788,7 +1787,7 @@ Vampires cannot use Awe and Daunt simultaneously.
 
 **Dice Pools:** Charisma + Presence vs. Wits + Composure
 
-**System:** By catching the eye of a mortal (Vampire: The Masquerade, p. 255) the vampire can immobilize a victim, keeping them frozen in place as long as they themselves maintain eye contact. The effect can only be maintained on a single victim at a time, and ends if they suffer damage or are forcibly removed. The victim is still capable of speech, though not shouting.
+**System:** By catching the eye of a mortal (Core, p.255) the vampire can immobilize a victim, keeping them frozen in place as long as they themselves maintain eye contact. The effect can only be maintained on a single victim at a time, and ends if they suffer damage or are forcibly removed. The victim is still capable of speech, though not shouting.
 
 In order to paralyze a vampire in the same way, the user must win a contest of Charisma + Presence vs. Wits + Composure. The vampire victim can escape paralysis on any turn after the first by spending a point of Willpower.
 
@@ -1913,7 +1912,7 @@ The Resonance absorbed is usually intense, but may be accute (a Dyscrasia) on a 
 **System:** To impersonate someone the victim has strong emotions for, the vampire must know their appearance and what the victim feels for them. How they uncover this will vary between vampires. When activated the Storyteller rolls a hidden contest between the user’s Manipulation + Presence and the victim’s Composure + Wits, where failure means the visage holds no emotional charge, which is deeply uncanny and sours any social interaction with the victim. It also prevents them from falling victim to this power for the\
 rest of the story.
 
-On a win, the vampire adds their Presence rating to any rolls for affecting a mortal’s resonance or a vampire’s emotional state. Appearing as a vampire’s Touchstone is a dangerous game, especially if the victim possesses Sense the Unseen (see Vampire: The Masquerade, p. 249), but played right it can lead to Stains for the victim as their Touchstone appears to become damaged or detached entirely through shifts in behavior, ideals, or even apparent death.
+On a win, the vampire adds their Presence rating to any rolls for affecting a mortal’s resonance or a vampire’s emotional state. Appearing as a vampire’s Touchstone is a dangerous game, especially if the victim possesses Sense the Unseen (Core, p.249), but played right it can lead to Stains for the victim as their Touchstone appears to become damaged or detached entirely through shifts in behavior, ideals, or even apparent death.
 
 **Duration:** One Scene
 
@@ -1985,7 +1984,7 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 
 **System:** The vampire must spend a scene in close proximity to a mortal target but needn’t directly engage them. (This Power has no effect on Kindred targets, even Humanity 10 Kindred.) After rousing, test Composure + Auspex against Difficulty 3 (Storytellers might lower this in situations where emotions are running high or are deliberately provoked). On a success, the vampire gains all the benefits of Humanity 10 until sunset (although they still gain Stains and roll Remorse at their current Humanity rating). On a critical win, they may also heal a Willpower damage of either type. On a bestial failure or Messy Critical, the surge of emotion is too much to bear, and the vampire suffers a Compulsion. Vampires can only benefit from this euphoric feeling once per night but can keep trying should they fail.
 
-Human targets of this Power lose all trace of Resonance in their blood for three nights, turning it to a fleeting Empty Resonance (p. 48–49) . While empty of Resonance, the target can freely indulge their basest desires, descending into psychopathy with no higher nature or positive emotion to push back on these impulses.
+Human targets of this Power lose all trace of Resonance in their blood for three nights, turning it to a fleeting Empty Resonance (Tattered Facade pp.48–49) . While empty of Resonance, the target can freely indulge their basest desires, descending into psychopathy with no higher nature or positive emotion to push back on these impulses.
 
 **Duration:** Until sunset for the vampire, three nights for mortal victims
 
@@ -2139,7 +2138,7 @@ Potential Vicissitude changes are listed below:
 
 &#x20;\+ Weapons (Once per subject only): The user gains the equivalent of a light piercing or heavy impact weapon (+2 Damage) in the form of bone spurs or bludgeons of dense cartilage. (In contrast to Feral Weapons, the damage caused by these weapons is mundane, but Feral Weapons employed by a vampire proficient in Vicissitude often take the shape of similar osseous spikes and blades.)
 
-&#x20;\+ Armor: One Attribute point can be turned into two points of armor value (Vampire: The Masquerade, p. 304), with an upper limit of six points of armor. This often takes the form of reinforced sub-dermal reinforced bone or layers of fat and cartilage, and appears increasingly inhuman as the points so allocated increase. While vampires gain little benefit from this, apart from a disturbing appearance, it serves a purpose on mortal and ghoul retainers. (See Fleshcrafting, below.)
+&#x20;\+ Armor: One Attribute point can be turned into two points of armor value (Core, p.304), with an upper limit of six points of armor. This often takes the form of reinforced sub-dermal reinforced bone or layers of fat and cartilage, and appears increasingly inhuman as the points so allocated increase. While vampires gain little benefit from this, apart from a disturbing appearance, it serves a purpose on mortal and ghoul retainers.
 
 &#x20;\+ Appearance: The user can change their appearance, either for the sake of hiding their identity, enhancing their Looks Merit, or to mimic someone else. This is a time-consuming affair, taking an entire scene to perform, and requires a Dexterity + Craft test in order to succeed. Difficulty is 3 to hide one’s identity, 4 to increase Looks (each level of the Merit counts as one change) and 5 to mimic a specific person. A failure on the test yields no result (but the Attribute dot is still lost) while a total failure causes the Looks Merit to drop one level, potentially turning into a Flaw if at baseline. Nosferatu are unable to use this aspect of the power for anything but hiding their identity.
 
@@ -2157,7 +2156,7 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 **Cost:** One Rouse Check
 
-**System:** No test is required, but the vampire must be on a natural surface: rocks, raw earth, grass, etc. This power does not work on concrete, asphalt, or other artificial surfaces. It takes a turn for the vampire to sink into the earth, leaving carried objects behind atop the soil. While in the earth the vampire is aware of their surroundings, except during day-sleep. At those times, disturbances (e.g., digging or loud noises) awaken them or not as with all vampires (p. 219).
+**System:** No test is required, but the vampire must be on a natural surface: rocks, raw earth, grass, etc. This power does not work on concrete, asphalt, or other artificial surfaces. It takes a turn for the vampire to sink into the earth, leaving carried objects behind atop the soil. While in the earth the vampire is aware of their surroundings, except during day-sleep. At those times, disturbances (e.g., digging or loud noises) awaken them or not as with all vampires (Core, p.219).
 
 **Duration:** One day or more, or until disturbed
 
@@ -2199,7 +2198,7 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 **Cost:** One Rouse Check
 
-**System:** No test is required. The transformation takes one turn, during which the user may take no other actions. Upon transformation, the vampire gains the Physical Attributes, senses, and native Skills associated with that ani mal (see p. 373) and also gains that animal’s natural limits of communication, manipulation (most animals can carry one thing in their mouth), and so forth. The vampire can use other Disciplines, at the Storyteller’s discretion. (By and large, they can use Auspex, Animalism, Celerity, Fortitude, Potence, and Protean; many powers of Dominate, Obfuscate, and Presence pose problems; Blood Sorcery is completely off the table.)
+**System:** No test is required. The transformation takes one turn, during which the user may take no other actions. Upon transformation, the vampire gains the Physical Attributes, senses, and native Skills associated with that animal (Core, p.373) and also gains that animal’s natural limits of communication, manipulation (most animals can carry one thing in their mouth), and so forth. The vampire can use other Disciplines, at the Storyteller’s discretion. (By and large, they can use Auspex, Animalism, Celerity, Fortitude, Potence, and Protean; many powers of Dominate, Obfuscate, and Presence pose problems; Blood Sorcery is completely off the table.)
 
 **Duration:** One scene unless ended voluntarily before that
 
@@ -2303,7 +2302,7 @@ All other limitations of Shapechange and Metamorphosis still apply.
 
 **Dice Pool:** N/A
 
-**System:** As with Earth Meld (Vampire: The Masquerade, p. 270), except the vampire is not limited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.”
+**System:** As with Earth Meld (Core, p.270), except the vampire is not limited by the makeup of the surface where they take their rest. Some vampires have been known to suffuse themselves into the walls of their manors while others secrete themselves beneath the warped floorboards of a squat, or even hide beneath a shallow pool of “dead water.”
 
 Additionally, in a distance of roughly one kilometer in any direction from where the vampire’s body has become One with the Land, the vampire may elect to experience any sensory stimuli within that area, such as listening to a conversation therein, physically enjoying a lovers’ tryst, or catching the scent of a fire that an unruly mob may be stoking. The vampire experiences these senses through the presence of animals, however minute, in the vicinity of the events. If the events are discreet or intentionally hidden, a Wits + Animalism test vs. the relevant opposing dice pool used is required.
 
@@ -2570,7 +2569,7 @@ During the process, the sorcerer must maintain concentration — simple movement
 
 **Dice Pools:** Strength + Blood Sorcery vs Stamina + Occult or Fortitude
 
-**System:** This power uses the same system (and its poison has the same restrictions) as Scorpion’s Touch (p. 273), with increased damage.
+**System:** This power uses the same system (and its poison has the same restrictions) as [<mark style="color:purple;">Scorpion’s Touch</mark>](./#scorpions-touch-blood-sorcery-3-core-p.274), with increased damage.
 
 If the poison hits, the user rolls a contest of Strength + Blood Sorcery vs Stamina + Occult. (Vampires with Fortitude may resist with Fortitude in lieu of the Occult Skill.) If the user wins, the poison does the margin in Aggravated Health damage to mortals and vampires alike. A mortal who takes even one point of damage dies instantly.
 
@@ -2664,7 +2663,7 @@ This power does not grant the ability to make physical contact with ghosts, and 
 
 **Dice Pools:** Wits + Oblivion
 
-**System:** The user takes one turn and pays the cost, summoning the extensions. Using these, the vampire can perform bludgeoning and grappling attacks against distant targets every subsequent turn. Additional arms can be created by splitting the dice pool, enabling the user to engage multiple opponents. (Vampire: The Masquerade, p. 125). The shadows use the vampire’s Wits + Oblivion to attack and deal Superficial damage or grapple, adding half the user’s Potence rating (round up) as a damage bonus. The vampire can do nothing else except control the shadows while this power is active.
+**System:** The user takes one turn and pays the cost, summoning the extensions. Using these, the vampire can perform bludgeoning and grappling attacks against distant targets every subsequent turn. Additional arms can be created by splitting the dice pool, enabling the user to engage multiple opponents. (Core, p.125). The shadows use the vampire’s Wits + Oblivion to attack and deal Superficial damage or grapple, adding half the user’s Potence rating (round up) as a damage bonus. The vampire can do nothing else except control the shadows while this power is active.
 
 They can also use the shadows to perform simple actions (such as opening doors and pulling levers) but nothing as advanced as typing or controlling vehicles. The extrusions have a length (in yards/ meters) equal to twice the Oblivion dots of the user. (Note that they, being shadows, move across surfaces, not air, and any distances must take this into account.)
 
@@ -2710,7 +2709,7 @@ The shadow arms can only be banished by bright light, such as from a powerful to
 
 **System:** Following a Rouse Check, the player rolls Intelligence + Oblivion (Difficulty 3) and on a win may determine the density of the veil in their nearby area, as large as an entire building or landmark. On a critical win, this roll reveals whether the veil density recently changed. On a total failure, the power backfires and gives a false reading.
 
-<table><thead><tr><th width="149" align="center">Shroud Density</th><th align="center">Possible Cause</th><th width="333">Effect</th></tr></thead><tbody><tr><td align="center">Impenetrable</td><td align="center">No deaths took place here, sacred ground</td><td>Wraiths cannot cross the veil here</td></tr><tr><td align="center">Thick</td><td align="center"><p>Long ago a death took place here, a place</p><p>of joy</p></td><td>No effect</td></tr><tr><td align="center">Thin</td><td align="center">A death recently took place here,<br>melancholic mortals often pass through<br>this place</td><td>−1 Difficulty on Oblivion Ceremony rolls</td></tr><tr><td align="center">Frayed</td><td align="center">A series of deaths took place here,<br>Oblivion Ceremonies are often enacted<br>here</td><td>−2 Difficulty on Oblivion Ceremony rolls</td></tr><tr><td align="center">Absent</td><td align="center">Split the Veil (p. 96) was used here, wraiths<br>regularly pass through this part of the veil</td><td>−2 Difficulty on Oblivion Ceremony<br>rolls, wraiths can freely pass to and from<br>the lands of the dead, mortals suffer two<br>Superficial Health damage in this area that cannot be healed until they depart</td></tr></tbody></table>
+<table><thead><tr><th width="149" align="center">Shroud Density</th><th align="center">Possible Cause</th><th width="333">Effect</th></tr></thead><tbody><tr><td align="center">Impenetrable</td><td align="center">No deaths took place here, sacred ground</td><td>Wraiths cannot cross the veil here</td></tr><tr><td align="center">Thick</td><td align="center"><p>Long ago a death took place here, a place</p><p>of joy</p></td><td>No effect</td></tr><tr><td align="center">Thin</td><td align="center">A death recently took place here,<br>melancholic mortals often pass through<br>this place</td><td>−1 Difficulty on Oblivion Ceremony rolls</td></tr><tr><td align="center">Frayed</td><td align="center">A series of deaths took place here,<br>Oblivion Ceremonies are often enacted<br>here</td><td>−2 Difficulty on Oblivion Ceremony rolls</td></tr><tr><td align="center">Absent</td><td align="center">Split the Veil (p.96) was used here, wraiths<br>regularly pass through this part of the veil</td><td>−2 Difficulty on Oblivion Ceremony<br>rolls, wraiths can freely pass to and from<br>the lands of the dead, mortals suffer two<br>Superficial Health damage in this area that cannot be healed until they depart</td></tr></tbody></table>
 
 Without use of this power, Oblivion users cannot benefit from a thinning of the veil, though penalties apply at the Storyteller’s discretion.
 
@@ -2788,7 +2787,7 @@ The power is an aura that lasts for an entire scene before it fades away. Anyone
 
 **System:** Following a Rouse Check, the vampire grips their victim, requiring a Strength + Brawl roll if the victim is trying to avoid the vampire. Once gripped, the victim suffers two levels of Aggravated damage as well as a crippling injury.
 
-If this injury is inflicted to an arm or leg, the targeted limb is rendered crippled and in the case of mortals requires lengthy rehabilitation, while vampires can mend the damage as regular Aggravated damage. Likewise, Touch of Oblivion may render a target mute, deaf, or blind. See crippling injuries (Vampire: The Masquerade, p. 303) for mechanical details. Storytellers may decide that inflicting such mutilation warrants Stains.
+If this injury is inflicted to an arm or leg, the targeted limb is rendered crippled and in the case of mortals requires lengthy rehabilitation, while vampires can mend the damage as regular Aggravated damage. Likewise, Touch of Oblivion may render a target mute, deaf, or blind. See crippling injuries (Core, p.303) for mechanical details. Storytellers may decide that inflicting such mutilation warrants Stains.
 
 **Duration:** One turn
 
@@ -2870,7 +2869,7 @@ It is possible to bring another through the passage, but unless that person is w
 
 **Dice Pool:** Stamina + Oblivion vs. Stamina + Stamina or Fortitude
 
-**System:** The vampire makes two Rouse Checks as they expend sufficient vitae to coat both their palms and their face with blood, recalling the faces of their targets. If the user succeeds in a contest of Stamina + Oblivion vs. the victim’s Stamina x 2 (those with Fortitude may resist with Stamina + Fortitude), the targeted individual is affected by a serious condition they’ve historically suffered and recovered from, such as treated cancer, a broken bone, or a disease — including one gained through Necrotic Plague (p. 90) — with any debilitating effects from this condition occurring immediately. The condition’s effects are for the Storyteller to determine, but they should be severe (See the Crippling Injuries table for inspiration, Vampire: The Masquerade, p. 303). If the victim is a ghoul, this power removes their immunity to aging and eliminates any vitae in their system, potentially resulting in older ghouls dying or even disintegrating where they stand. On a critical win, this power may kill the victim by stopping their heart completely if the user wishes. On a total failure, the vampire cannot use this power against that individual again.
+**System:** The vampire makes two Rouse Checks as they expend sufficient vitae to coat both their palms and their face with blood, recalling the faces of their targets. If the user succeeds in a contest of Stamina + Oblivion vs. the victim’s Stamina x 2 (those with Fortitude may resist with Stamina + Fortitude), the targeted individual is affected by a serious condition they’ve historically suffered and recovered from, such as treated cancer, a broken bone, or a disease — including one gained through [<mark style="color:purple;">Necrotic Plague</mark>](./#necrotic-plague-oblivion-4-players-guide-pp.89-90) — with any debilitating effects from this condition occurring immediately. The condition’s effects are for the Storyteller to determine, but they should be severe (Core, p.303). If the victim is a ghoul, this power removes their immunity to aging and eliminates any vitae in their system, potentially resulting in older ghouls dying or even disintegrating where they stand. On a critical win, this power may kill the victim by stopping their heart completely if the user wishes. On a total failure, the vampire cannot use this power against that individual again.
 
 **Duration:** Variable, dependent on whether the condition is treatable
 

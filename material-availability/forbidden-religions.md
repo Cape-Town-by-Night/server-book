@@ -37,27 +37,3 @@ Contagion, Disease Vector • (p.86)
 Contagion, Plaguebringer •-•• (p.87)
 
 </details>
-
-<details>
-
-<summary>Powers</summary>
-
-Fortitude, Seal the Beast’s Maw ••• (p.44)
-
-Obfuscate, Ghost’s Passing •• + Animalism • (pp.18-19)
-
-</details>
-
-<details>
-
-<summary>Rituals</summary>
-
-Enrich the Blood • (pp.76-77)
-
-The Shroud of Silence • (p.23)
-
-Enhance Dyscrasia •• (p.77)
-
-Bloodless Feast ••• (pp.66-67)
-
-</details>

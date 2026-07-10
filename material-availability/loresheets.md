@@ -1,31 +1,10 @@
 # Loresheets
 
-Below is a list of all Loresheets, sorted by book. Each entry has their availability and any changes listed. "Banned" Loresheets are not allowed, generally due to needing to be recontextualized for the setting, while "locked" Loresheets will require justification gained in play. If you see a Loresheet that is banned due, mention it in your ticket. If it's one that we can make fit the setting, we will work with you to do so.
+Below is a list of all Loresheets, sorted by book. Each entry has their availability and any changes listed. "Banned" Loresheets are not allowed, "needs context" Loresheets are allowed but will need reworking to fit the setting, while "locked" Loresheets will require justification gained in play.
 
-To see the "Descendant of..." Loresheets, go to [<mark style="color:red;">Bloodlines</mark>](bloodlines.md).
+To see the "Descendant of..." Loresheets, go to [<mark style="color:red;">Bloodlines</mark>](/broken/pages/NtFhKd2pz0qmOufihFmn).
 
-
-
-| Book                                                                                                                                                 | Page Number |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [<mark style="color:red;">Core</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#core)                                           | pp. 382-406 |
-| [<mark style="color:red;">Camarilla</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#camarilla)                                 | pp. 184-190 |
-| [<mark style="color:red;">Anarch</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#anarch)                                       | pp. 190-198 |
-| [<mark style="color:red;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#chicago-by-night)                   | pp. 262-287 |
-| [<mark style="color:red;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#the-chicago-folios)               | pp. 158-169 |
-| [<mark style="color:red;">Cults of the Blood Gods</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#cults-of-the-blood-gods)     | pp. 228-231 |
-| [<mark style="color:red;">Let the Streets Run Red</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#let-the-streets-run-red)     | pp. 224-233 |
-| [<mark style="color:red;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#children-of-the-blood)         | pp. 103-108 |
-| [<mark style="color:red;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#trails-of-ash-and-bone)       | pp. 170-172 |
-| [<mark style="color:red;">The Fall of London</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#the-fall-of-london)               | pp. 229-234 |
-| [<mark style="color:red;">Winter's Teeth</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#winters-teeth)                        | No. 2, 3, 9 |
-| [<mark style="color:red;">Forbidden Religions</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#forbidden-religions)             | pp. 88-93   |
-| [<mark style="color:red;">Boston by Night</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#boston-by-night)                     | pp. 80-87   |
-| [<mark style="color:red;">Blood Sigils</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#blood-sigils)                           | pp. 178-180 |
-| [<mark style="color:red;">The Book of Nod Apocrypha</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#the-book-of-nod-apocrypha) | p. 39       |
-| [<mark style="color:red;">Gehenna War</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#gehenna-war)                             | pp.157-159  |
-| [<mark style="color:red;">Tattered Facade</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#tattered-facade)                     | pp.171-172  |
-| [<mark style="color:red;">Misc Official Loresheets</mark>](https://wiki.capetownvtm.com/material-availability/loresheets#misc-official-loresheets)   |             |
+<table data-search="true"><thead><tr><th>Book</th><th>Page Number</th></tr></thead><tbody><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#core"><mark style="color:red;">Core</mark></a></td><td>pp. 382-406</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#camarilla"><mark style="color:red;">Camarilla</mark></a></td><td>pp. 184-190</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#anarch"><mark style="color:red;">Anarch</mark></a></td><td>pp. 190-198</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#chicago-by-night"><mark style="color:red;">Chicago by Night</mark></a></td><td>pp. 262-287</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-chicago-folios"><mark style="color:red;">The Chicago Folios</mark></a></td><td>pp. 158-169</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#cults-of-the-blood-gods"><mark style="color:red;">Cults of the Blood Gods</mark></a></td><td>pp. 228-231</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#let-the-streets-run-red"><mark style="color:red;">Let the Streets Run Red</mark></a></td><td>pp. 224-233</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#children-of-the-blood"><mark style="color:red;">Children of the Blood</mark></a></td><td>pp. 103-108</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#trails-of-ash-and-bone"><mark style="color:red;">Trails of Ash and Bone</mark></a></td><td>pp. 170-172</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-fall-of-london"><mark style="color:red;">The Fall of London</mark></a></td><td>pp. 229-234</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#winters-teeth"><mark style="color:red;">Winter's Teeth</mark></a></td><td>No. 2, 3, 9</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#forbidden-religions"><mark style="color:red;">Forbidden Religions</mark></a></td><td>pp. 88-93</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#boston-by-night"><mark style="color:red;">Boston by Night</mark></a></td><td>pp. 80-87</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#blood-sigils"><mark style="color:red;">Blood Sigils</mark></a></td><td>pp. 178-180</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-book-of-nod-apocrypha"><mark style="color:red;">The Book of Nod Apocrypha</mark></a></td><td>p. 39</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#gehenna-war"><mark style="color:red;">Gehenna War</mark></a></td><td>pp.157-159</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#tattered-facade"><mark style="color:red;">Tattered Facade</mark></a></td><td>pp.171-172</td></tr><tr><td><mark style="color:red;">Live From the Succubus Club*</mark></td><td>pp.162-166</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#misc-official-loresheets"><mark style="color:red;">Misc Official Loresheets</mark></a></td><td></td></tr></tbody></table>
 
 ## Core
 
@@ -829,24 +808,6 @@ These ties have also caused some Malkavians in Chicago to form close bonds. Havi
 
 <details>
 
-<summary><strong>The Pony Express</strong> (p.167) *</summary>
-
-The Pony Express was founded by an enterprising group of Ventrue ancillae in response to the Camarilla’s abandonment of electronic communications in the aftermath of the Second Inquisition. Recognizing the need for a method of coordinating intercity communication across the sect, the group’s founder, Elliot Praxton, assembled a group of like-minded Ventrue to found what Praxton deemed “The Pony Express.”
-
-The Express is a system of physical couriers that criss- cross the nation using various modes of transportation ranging from muscle cars and unremarkable sedans, to boats, planes, and helicopters. Agents of the express in each city include Kindred and their ghouls who may be permanent fixtures of that domain, or move from city-to-city in a circuit. They operate a dizzying array of blind-letter drops, secret meets, and other anonymous forms of communication that they use to “collect the mail” in each domain. This mail ranges from heavily-encrypted flash drives to old-fashioned physical correspondence.
-
-Express drivers are culled from the ranks of Gangrel loyal to the Camarilla and an ever-increasing pool of young Ventrue and other ambitious Kindred. Drivers brave the perils of the open road, handing off their packages to other drivers at pre-arranged drops or occasionally making long-hauls with particularly sensitive information. Anarchs, Lupines, and the Inquisition stand in their way, but they get the mail through, never taking the same route twice, and always covering their tracks. Working for the Express is dangerous on the best of nights, but it is vital to the Camarilla’s survival and Praxton pays extremely well.
-
-**• Access to the Network:** Network: You have access to the Express and can send or receive a secure message or packet to or from any domain the Express operates in. The delivery will arrive within three nights to a week (Storytellers discretion).\
-&#xNAN;**•• Station Agent:** You collect the mail in your domain and facilitate the handoff to a driver. You have two- dots in Mask and are Zeroed. You also have access to the local Express station, a two-dot Haven with a one- dot Postern. It is owned by Paxton, but available to you while on official Express business. The obligation that comes with this Loresheet sees the vampire often chased or held accountable if expected deliveries do not make it to their recipients.\
-&#xNAN;**••• Driver:** You are a driver for the Express, granting you access to a wide array of vehicles and bolt holes across the nation. You can acquire a vehicle appropriate to your journey’s needs (Storytellers discretion) once per story. This is typically a car, truck, boat, small aircraft, or even motorcycle suitable to reach your destination. You also have access to the full Pony Express station network, representing a collection of two-dot Havens within one night’s travel of each other. They are owned by Praxton, but available to all his agents and drivers in time of need.\
-&#xNAN;**•••• World Tour:** Praxton recently took the Pony Express international, arranging secure stations at many of the world’s major air and seaports and you are at the forefront of this new initiative. Once per story, your gain access to an international mode of travel specifically tailored to accommodate the unique needs of Kindred. This transportation is likely something fast and maneuverable like a Lear jet, or slow and clandestine like a birth on a faceless freighter. Two-dot Havens in the form of Express stations anchor each end of your journey.\
-&#xNAN;**••••• Passenger Service:** Always the innovator, Praxton operates a clandestine passenger service for “special” clients. Once per story, you and your coterie obtain passage from your domain to any destination the Express operates in. (Storyteller’s discretion).
-
-</details>
-
-<details>
-
 <summary><strong>Sheriff Damien</strong> (p.168) *</summary>
 
 Damien never wanted to be Sheriff of Chicago, but now that he’s accepted the position he takes it damned seriously. The Brujah was at his most content onstage as the lead singer of the punk band Baby Chorus. The War of Chicago tore that away from him, shattering his found family, sending the surviving band members on a long hiatus, and leaving him adrift. Damien’s lack of allegiance to the likes of Annabelle, Ballard, and DuSable drew Prince Jackson to him. Who better to serve as Sheriff than someone who knew the city and its power players, but was beholden to none of them?&#x20;
@@ -1144,7 +1105,7 @@ Starfall Ranch is well-known as one of the top ranches in the Northeastern Unite
 
 **• Herd Mindset:** Your time on the ranch brought you closer to your fellow wayward Malkavians. Sometimes this was a bit too close, and parts of their identities still linger within you. Once per session, you may either take two dots in a Skill you do not know for a single roll, or ask the Storyteller for one fact about an SPC that you do not know. The Storyteller decides on which fact is received.\
 &#xNAN;**•• Clarity of Mind:** Starfall Ranch is a peaceful place. Here, Malkavian from all levels of society can rest and reflect upon their future. Those that do find that they have a better chance of achieving their greater ambitions. When you start a Project at Starfall Ranch, you receive three bonus dice to the Launch roll.\
-&#xNAN;**••• New Perspectives:** Perspectives: You understand some basics of the One Moon, and you’re starting to discover how you are only a single aspect of a greater person. You can even borrow the talents and abilities of your faith’s other followers. Once per story, you may take one Skill rating and replace it with that of another One Moon cultist. This may either be another player’s character or an SPC. This Lore is in effect for the remainder of this story.\
+&#xNAN;**••• New Perspectives:** You understand some basics of the One Moon, and you’re starting to discover how you are only a single aspect of a greater person. You can even borrow the talents and abilities of your faith’s other followers. Once per story, you may take one Skill rating and replace it with that of another One Moon cultist. This may either be another player’s character or an SPC. This Lore is in effect for the remainder of this story.\
 &#xNAN;**•••• Starr and Marta:** You’ve had the chance to see Marta with your own eyes, and it changed you forever. You may take Dr. Starr as a four dot Mawla. Once per story, Marta will speak through him. You may ask her any relevant question to the story, and she answers truthfully, to the best of her knowledge.\
 &#xNAN;**••••• But I Saw You Die:** Starr is infamous for cheating death. He’s shared his secret with you. Once, when you undergo final death, you may select another One Moon cultist SPC. This SPC is now you, even taking on your physical likeness if possible. Your Skills, Advantages, Flaws, and any out-of-clan Discipline dots remain, but you must redistribute your Attributes and your in-clan Discipline dots.
 
@@ -1423,31 +1384,475 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 </details>
 
+## Blood Sigils
+
+<details>
+
+<summary><mark style="color:red;"><strong>Student of Kirin Tauk </strong></mark><em><mark style="color:red;"><strong>(Thin-Blood Alchemists Only) p.178</strong></mark></em></summary>
+
+Get a group of old alchemists together, and the conversation inevitably turns towards Kirin Taunk (p. 140). These conversations are always the same: some speak of her with admiration, and others with barely hidden jealousy. One of the celebrated alchemists of the 1990s, Taunk pioneered formula techniques still used to this day. Untouched by alchemist purges in other Domains and the horrors of the North American theatre of the Sect War, Taunk’s work served as a source of stability for the bourgeoning thin-blooded community. Her guile made her a role model and a folk legend among those hiding from the local Scourge. Since her Final Death in 1998, her legacy continues through the many alchemical flocks (p. 111) founded by her apprentices.
+
+Her legacy continues through you as well. Whether you’ve discovered her works by chance on the internet, study in one of the alchemic flocks dedicated to continuing her approach to alchemy, or were one of the thin-blooded lucky enough to know her when she was still around, Kirin Taunk left a mark on your half-life. One day, it’ll be your formulae that alchemists will pay hand-over-fist to get a glimpse of. You’ll be the one to stand in a Prince’s court or hang with the local rabble and feel at home in both worlds.
+
+**• Stunning Efficiency:** _Allowed_
+
+Kirin Taunk’s brewing speed was legendary. You’ve matched it, and surpassing it is within sight. All distillation times for formulae are halved.
+
+**•• Professional Mindset:** _Allowed_&#x20;
+
+Studying Taunk’s life taught you that it’s best to let your work speak for itself. Once per session and at the Storyteller’s discretion, you may use your dot rating in Thin-Blood Alchemy in lieu of any Social skills at a lower rating.
+
+**••• A Taunk Formula:** _Allowed_&#x20;
+
+Through hard work or a great deal, you’ve obtained a sliver of Kirin Taunk’s alchemical notes. Choose one formula of any level. You may purchase it with no experience cost, though you cannot use it until your Thin-Blood Alchemy reaches its level. Add two dice to your Distillation roll for that formula.
+
+**•••• Diplomatic Power:** _Locked_&#x20;
+
+Kirin Taunk was a social force of nature, capable of fitting in amongst Camarilla and Anarch alike. Though recent events make the divisions between the two sects sharper, you carry yourself with enough grace and charm that these divisions mean little to you. You have Status •• (Camarilla) and Status •• (Anarch).
+
+**••••• Taunk’s Patron:** _Locked_
+
+Kirin’s mysterious benefactor took an interest in you, and still has it to this night. Gain Mawla ••••• (Taunk’s Patron). Every story, pick three formulae you know. If your Mawla is active and approves of your actions, they send a shipment of rare or magically potent ingredients that give each formulae a two-dice bonus to the Distillation roll. Your Storyteller creates or chooses a powerful Kindred (maybe one that’s already on the Relationship or Scene Map) as your patron’s identity and may reveal it (and the consequences it brings) at their leisure.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Veins of the Earth p.179</strong></mark></summary>
+
+The Earth lives. It vibrates on frequencies far beyond human senses. As everyone carries on their day, as plants grow and animals thrive, the Earth’s power ebbs and flows across the surface like water. It’s in the air the kine breathes, and it’s in the ground everyone walks on. The rise of Tiamat, the Blood Serpent (p. 150) only makes clear what many have known for years. The earth carves a web of energy patterns into its flesh. It waits for someone to take hold of it.
+
+That someone is you. Maybe you were always fascinated by ley lines. Perhaps being undead opened your mind to new possibilities. You could have tapped into the planet’s power accidentally, and you’re trying to recapture that energy.
+
+Your knowledge and passion make you a unique figure in the blood craft scene. You’ve established yourself as an expert, a pioneer in your field, or just a fanatic. When the scene needs someone who knows the city’s places of power, you’re the first on their list.
+
+**• Seeking a Vein:** _Allowed_
+
+You’ve developed a knack for finding weird things, and it’s only now that you’ve realized that it’s because you just know where the planet’s blood converges. Once per story at the Storyteller’s discretion, you may declare that the location you are on is a furcus (p. 35).
+
+**•• Drawing the Flies:** _Allowed_&#x20;
+
+Some kine are drawn to the venae terrae just like you are. You’ve gotten to know quite a few people seeking out the planet’s energies. They seek your knowledge, and you ask for a small price in return. Gain Herd ••• representing this group—but without new and interesting information about Tiamat’s coils, they could fall away.
+
+**••• Revelations of the Earth:** _Allowed_&#x20;
+
+You listen to the veins of the Earth, and hear who passes along them. Once per session, when you meditate for at least a half hour on a furcus, you may ask the Storyteller one question about one Kindred’s location, direction of movement, and speed at that moment. The Storyteller answers truthfully. The venae cannot locate a Kindred who is in the air at that moment.
+
+**•••• Channeling the Earth:** _Allowed_&#x20;
+
+While your ability to tap into the veins of the Earth may not be as powerful as Blood sorcerers or mystics, you know how to use the planet’s power for your own benefit. Once per session, when you meditate for at least a half hour on a furcus, add one die to a Discipline pool in addition to any provided by Blood Potency.
+
+**••••• Tiamat’s Exchange:** _Allowed_
+
+Your knowledge of the veins of the Earth is so great that it feels like the Blood Serpent itself blesses you if you pay the price. Once per story, if you provide a large (human-sized or larger) offering of flesh or blood to a furcus at the beginning of the story, you may automatically gain three additional successes on a test or contest of your choosing.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Vienna Zero </strong></mark><em><mark style="color:red;"><strong>(Blood Sorcery Users Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>p.180</strong></mark></summary>
+
+Officially, it’s the United Nations Vienna Recovery Zone. The Magyar Arrow Brotherhood attack on the city was localized to three city blocks, but the damage was so devastating and thorough that since 2008, all that’s left is makeshift canvas buildings, light blue tarps, and disaster scene tape. Common theories on what occurred there include a missile strike, a dirty bomb, or a biological weapon.
+
+You know what happened. Hungarian fascists played no role, and the missile strikes were made in the U.S.A. with love from the Vatican. The IAO attacked the Tremere’s headquarters, the Vienna Prime Chantry. In the years since, the Leopoldites and the rest of the Coalition’s forces dig through the ruins as a major archeological project. Each new discovery teaches them more about the blankbody threat. They call it Vienna Zero.
+
+Perhaps you have direct clearance to the site through a compromised operative, or maybe you’re the compromised operative. Maybe you have a direct supply chain that brings you bits and pieces of what the investigation recovers. Either way, the artifacts and texts of the Tremere in their prime can be yours to access.
+
+**• Inside Knowledge:** _Allowed_
+
+The knowledge you picked up from when you scavenged Vienna Zero is invaluable, both in a practical and political sense. When rolling Occult for anything related to blood craft, or when rolling Politics for anything related to the Tremere, you always have a +2 dice bonus.
+
+**•• Off the Back of a Truck:** _Allowed_
+
+The Vatican officially destroys everything from Vienna Zero they deem too dangerous or useless to their investigation. Unofficially, some of it ends up in your hands. You gain a Contact ••• (The Slow Drip), a disgruntled contractor from Vienna Zero. If you’ve got something to offer, they can sometimes source the good stuff.
+
+**••• Instrument of Power:** _Allowed_
+
+Through a friend of a friend, you’ve gotten your hands on something special and to your delight, you’re very good at using it. Agree with the Storyteller on one Artifact (pp. 136–142), and add a one-die bonus to your pool for whatever tests it requires. However, every session you use it, you need to succeed on a Wits + Stealth (plus your Influence, if any, with the media) test against Difficulty 3 (or possibly more, for more powerful artifacts) to avoid attracting the attention of the Leopoldites, FIRSTLIGHT, or some other Coalition force.
+
+**•••• The Very Last Copy:** _Allowed_
+
+By chance or through an incredible heist on Vienna Zero, you own the last remaining copy of a Tremere grimoire. Name the grimoire, and name four rituals you do not yet know. These rituals may be at any level. You can learn these rituals without a teacher at half the learning time. Experience cost remains the same.
+
+**••••• Deep Clearance:** _Allowed_
+
+You’re not just read in on Vienna Zero, you’re a valued member of the team. Gain Mask ••• (Zeroed) and describe your place on the excavation project. Once per story, you may take one artifact (p. 136–142) from the Vienna Zero site and use it as you wish, though the team will notice it’s gone. You also have Enemy ••••, a FIRSTLIGHT or St. Leopold team member who suspects your true nature.
+
+</details>
+
+## The Book of Nod Apocrypha
+
+<details>
+
+<summary><mark style="color:red;"><strong>The Book of Nod p.37</strong></mark></summary>
+
+The Book of Nod collects oral histories, text fragments, and other media detailing the history of Caine and his childer, with additional poems and prophecies regarding Gehenna and the Final Nights. Its author — or authors — are unknown, though many Kindred believe Caine, Malkav, and Saulot contributed significant portions of the text. The stories and fragments have been carefully passed down through the generations; those who own physical pieces of the book take great pains to ensure they don’t end up in non-Cainite hands. The Book of Nod also provides the theological basis for the Sabbat’s worship of Caine.
+
+The first and largest section of the book, the Chronicle of Caine, recounts the tale of the first vampire, his childer, and the rise and rebellion of the Antediluvians. The Chronicle of Shadows lays out a series of laws attributed to Caine, though some Kindred doubt its veracity and view it as the work of Carthaginian scholars. The Chronicle of Secrets is the shortest and most enigmatic section. Its highly symbolic passages describe the author’s visions of Gehenna. Some Noddists have dedicated their entire unlives to attempting to interpret the predictions and apply them to their modern nights. Additionally, some scholars view the Erciyes Fragments as another version of Caine’s story, while others dismiss the Fragments as apocryphal and relegate mention of them to a footnote in their dissertations, if they’re acknowledged at all.
+
+The Book of Nod’s collectors, translators, and editors have introduced myriad inconsistencies and contradictions over the millennia, and no two scholarly analyses ever completely agree on its true content. Many among the Camarilla denounce the book and ban, confiscate, or destroy any related texts they discover their fledglings passing around.
+
+**• Precis:** _Allowed_
+
+You are familiar with the broader concepts of the Book of Nod and some of the more commonly known prophecies. Once per story, add two dice to an Academics roll related to ancient Cainite history.
+
+**•• Well-versed:** _Allowed_
+
+Your sire or Mawla taught you certain passages from the book, and may even have physical fragments in their possession. Once per story, you may seek their input on a matter regarding Noddist lore, gaining a two-dice bonus to any Occult test related to the book.
+
+**••• Scholar:** _Allowed_
+
+You’ve dedicated significant time and study to the Book of Nod, and are familiar with at least one complete version of the text. You can support your theories with quotes from that version and are aware of counterarguments or alternative interpretations. Once per session, add three dice to a Persuasion roll when debating the Book of Nod’s finer points.
+
+**•••• Collector:** _Allowed_
+
+You own several fragments from the book or have memorized sections of Caine’s history. Noddists seek you out hoping to examine your copies or hear you recite the tales, and they’re willing to pay for it. This isn’t always a monetary trade; some offer favors, an exchange of information, or access to other resources your character finds valuable. Once per story, when you grant someone access to your collection, gain three temporary dots in Resources (or other appropriate Background as approved by your Storyteller) for the remainder of the story, or the ability to call in a future favor from the Noddist.
+
+**••••• Noddist Master:** _Allowed_
+
+Other Noddists look to you for insight and interpretation on the texts, and your theses on the subject are regarded as must-reads. You have exchanged correspondence with Noddist experts on finer points of lore. Once per story, you may derive a fact or prophecy from the Book of Nod that your character can apply to sway a decision, automatically succeeding at a Persuasion test at the Storyteller’s discretion.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Gehenna Cults p.38</strong></mark></summary>
+
+Depending on whom you ask, Gehenna will soon befall the Kindred, or it’s happening right now, or it’s happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers.
+
+The creeds of these new blood cults come in a dizzying variety of hatreds, anxieties and hungers. The most successful spread their black wings from one city to the next, forming something like a cohesive doctrine even as feuding Kindred splinter off new schisms and heresies. Charting out the spread of such subversive elements requires an agile mind to keep track of the shifting tapestry, not to mention a strong stomach even by vampire standards. All too many Gehenna cults delve into stomach-churning practices.
+
+**• Mark the Bloody Trail:** _Allowed_
+
+Once per session when you begin investigating or researching the presence of a blood cult you’ve not previously used this lore for, the Storyteller gives you one free clue to help locate the cult or to understand their current plans.
+
+**•• Faithful Bloodhound:** _Allowed_
+
+You’re a proven investigator; you’ve exposed and taken down at least one Gehenna cult already, and shown your mettle in the eyes of the sects. Either the Camarilla or the Anarchs trust you as an expert on Gehenna cults. You wield three dots of Status while taking action to investigate or persecute a cult on behalf of that sect.
+
+**••• Dogma:** _Allowed_
+
+You’re steeped in the lore of Gehenna, and you’ve learned many permutations of warped faiths that your fellow Kindred wrap themselves in. Once per session, when you discuss a vampire’s faith with them or observe them practicing their faith, you can extrapolate the rough nature of the doctrines, Convictions, or code that the religion focuses on. The Storyteller does not need to give you the exact wording, but must convey the primary themes, limitations, and beliefs, even those that are not evident in what the vampire has said or done.
+
+**•••• Cult Breaker:** _Allowed_
+
+The charlatans and demagogues of millenarian cults rely on charisma and their followers’ desperate need for someone else to provide answers, direction, and justification for their dark indulgences. Such self-deception is hard to overcome, but you know how to shatter their illusions and tear apart the foundations of their faith. Once per story for a scene, while socially interacting with you, cult members do not benefit from any dots in Status they may have within their own cult. If they are unable to overcome you in a conflict, they lose any such Status dots for the rest of the story as you shake the cult’s faith in them to the core.
+
+**••••• Red Truths:** _Allowed_
+
+Investigating the rising tide of blood cults and Gehenna worshipers has put you in a prime position to sift a few precious grains of truth from the bloated clot of lies that sits at the heart of most of these misbegotten faiths. Whether you want to believe it or not, you can’t deny the evidence you’ve gathered — and why not exploit it for yourself, rather than leaving it in the blood-stained hands of frothing zealots? Once you have studied the practices or texts of any blood cult, you are able to learn any Rituals or other unusual supernatural capabilities they possess without need of a teacher, although you must pay any experience point costs as normal.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Machinations of Saulot </strong></mark><em><mark style="color:red;"><strong>(Tremere and Salubri only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>p.39</strong></mark></summary>
+
+While some Noddists regard Saulot as a veritable saint, others who study the history of the Salubri and Saulot see him as a dangerous player in the eternal struggle: possibly the most sinister of all antediluvians. Clans Salubri and Tremere, among others, have studied the travels and words of Saulot, and fear the mastermind that may lurk behind the façade of saintliness.
+
+Saulot is rumored to have sired the Salubri as a means of testing his knowledge and creating goodwill towards his fellow antediluvians, with no qualms about discarding them as he vanished, a victim of diablerie by Tremere. Rumors spread among those in the know that Tremere may have lost the battle of wills when committing diablerie on Saulot and Saulot’s diablerie may have been simply another move in the Jyhad.
+
+If Saulot’s ultimate goal is mastery over his fellow Antediluvians and all Kindred, he would manipulate a small remnant of philosophers, healers, and warriors as well as a world-spanning authoritarian cabal of once blood-bound sorcerers. With the recent fractures in the Tremere clan’s pyramid structure, the Beckoning, and the Gehenna Crusade, Saulot’s ultimate plans seem increasingly inscrutable. This does not stop many from speculation, however.
+
+**• Rumors and Signs:** _Allowed_
+
+Those aware of the age-old conflicts of the Salubri are on the lookout for signs of their recurrence. You can ask the Storyteller if an event or location shows signs of Salubri or Tremere influence. You can ask this question once per session.
+
+**•• Prolonged Conflict:** _Allowed_&#x20;
+
+While Saulot’s words were gentle, his actions are said to have spurred on conflict between the Salubri and Tremere. You have learned to defend from these forces. Once per session gain two bonus dice when resisting Auspex, Blood Sorcery, Dominate, or Oblivion powers.
+
+**••• Saulot’s Smile:** _Allowed_&#x20;
+
+When Tremere committed diablerie on Saulot, the sire of all Salubri smiled. Once per story when witnessing another Kindred perform an action, you can ask the storyteller what their motivation was for doing so.
+
+**•••• The Madness of Blood:** _Allowed_
+
+When Saulot was destroyed, his childer supposedly went mad, slaying one another as they were drawn to the site of Saulot’s awakening. Once per story, you can summon your sire or one of your childer or someone who has tasted your Blood as per the Presence power Summon, using your Auspex or Dominate rating instead of Presence. You can also ignore such a summons yourself, once per story.&#x20;
+
+**••••• Ultimate Disguise:** _Allowed_
+
+Your expertise in Saulot’s ways gives you an advantage few others have. You possess traits of both Clans Salubri and Tremere. You may learn Blood Sorcery or Fortitude as if they were a Clan Discipline if they weren’t already, but suffer both Clan Banes and Compulsions.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Servitor of Irad p.40</strong></mark></summary>
+
+According to the Book of Nod, Irad the Strong was the third childe of Caine, and he served as his sire’s enforcer and military leader in the First City. The Kindred of the Servitors of Irad seek to emulate that mythological vampire, who is said to have pledged to serve the Antediluvians in all things before his kin or his childer destroyed him. They hope that, if they spend their existence showing they serve the Antediluvians, they will be spared when the ancients rise. Irad believed it, but received the revelation too late to preserve himself.
+
+The cult doesn’t actually have any contact with the Third Generation, but they assume that the Antediluvians would want the elders of Kindred society to be weak and divided. As such, they infiltrate any vampiric organization they can find — Camarilla cities, Anarch gatherings, and even other cults — to sow dissension and shatter fragile alliances. And now you’re one such deep cover member. You’re cut off from the other members of your cult, trying to enact a hazily understood plan set down by mythological figures with whom you have no direct contact, with the knowledge that if any other vampire ever found out, you’d be immediately and painfully killed. But you have faith, and that’s enough.
+
+**• Shield of Irad:** _Allowed_
+
+You can’t do the work of the Antediluvians if you get discovered by others. Luckily, you have a lot of experience shielding your true intentions from the gaze of outsiders. You gain an additional die on rolls involving lying to other Kindred.
+
+**•• Sword of Irad:** _Allowed_
+
+Sometimes you must act decisively in the name of the Third Generation, and that conviction adds additional strength to your act. Once per story, you can add three dice to a roll that is integral to your cult’s plans.
+
+**••• Know the Will of the Ancients:** _Allowed_
+
+You are firmly convinced you know the will of the Antediluvians. Perhaps you even hear their voices in your head, or gain prophetic dreams from them. As long as you are a member of the cult, you can take an additional Conviction that is directly related to the goals of your infiltration (your membership in the cult acts as your “touchstone” for the purposes of this Conviction). If you infiltrate a new group, you can change your Conviction to reflect the new assignment.
+
+**•••• Do the Will of the Ancients:** _Allowed_
+
+All actions are in service to the Third Generation, the thirteen vampires that will someday rise and destroy the world. There is nothing you won’t do to fulfill that goal, and you have devoted your entire existence to it. The blood you have inherited from your clan founder is secondary to this higher purpose. Your clan Bane can be ignored once per story while you are a Servitor of Irad.
+
+**••••• Kill Thy Brother:** _Allowed_
+
+When the Third Generation eventually rise, you know that most of Caine’s errant childer will be destroyed. So, killing another vampire in the name of the Antediluvians just makes their job a little easier. Once per story, when using a weapon or power that inflicts Aggravated Health damage on a vampire, your attack inflicts two additional damage, and you don’t need to roll to resist frenzy if that weapon or power involves fire.
+
+</details>
+
+## Gehenna War
+
+<details>
+
+<summary><mark style="color:red;"><strong>Beckett p.157</strong></mark></summary>
+
+According to Kindred cultures that acknowledge the generation model, the fourth generation of vampires was a kind of Cambrian explosion, increasing and solidifying emerging vampiric strains in the previous generation. Sometimes nicknamed methuselah due to their age, most of the known Kindred of such low Generation have been Beckoned or chose to serve in the Gehenna War, but some lie dormant in domains outside its battlefields.
+
+One of the greatest seekers of Kindred lore, most knowledgeable about the resting places and graves of the ancient dead, is the Gangrel Cuthbert Beckett. Where some Kindred scholars are content to theorize from the comfort of their libraries, Beckett has always gone out to look for himself.
+
+As the Gehenna War intensifies, there’s a sudden demand for those with the specialized knowledge to know what the Kindred of various domains are really facing. Beckett is not the only Kindred archaeologist who has suddenly started to receive invitations to the courts of mighty vampire Princes.
+
+**• Bloody Ancestry:** _Allowed_
+
+You trail a methuselah by tracking their descendants. You own and maintain notes on vampiric ancestry concerning vampires in your region in a physical or digital form. You receive a +2 dice bonus to all Occult tests when investigating the ancestry of any vampire.
+
+**•• Dream Interpreter:** _Allowed_
+
+Sometimes, methuselahs and even older vampires communicate to their progeny through the daysleep. Once per story, when a character or Storyteller character tells you a dream, you may make an Intelligence + Occult test at Difficulty 2. On a win, you receive a number of actionable facts from your Storyteller equivalent to one plus the margin of win.
+
+**••• Perks of Youth:** _Allowed_
+
+From your contact with Beckett, you’ve learned that those with knowledge are targets for manipulation by older Kindred. You’ve developed hardiness to such supernatural manipulations. Once per session, when a vampire of a higher Blood Potency uses a supernatural coercive power on you, you have receive a two-dice bonus to resist it.
+
+**•••• Ancestor Cult’s Favor:** _Allowed_
+
+You’ve entered the good graces of a cult worshiping a methuselah. Assign six dots in any way you like to the following Backgrounds to represent what they provide you: Influence, Haven, Herd, Resources, Retainers, or Status. You keep these benefits as long as you obey at least one of their requests once per story.
+
+**••••• Face to Face:** _Allowed_
+
+If you seek out the Ancients, you risk finding them. Once per story, if facing a methuselah or an elder, you can make an Intelligence + Occult test at a Difficulty of 4. If you succeed, you manage to recollect a detail or an angle that prompts the vampire to answer a single question about their own past or the Kindred of bygone eras truthfully, at least from their own perspective, as long as it doesn’t significantly jeopardize them or their plans.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>The Eternal Arena p.158</strong></mark></summary>
+
+Kindred society needs activity and entertainment. It gets them in the lulls between hunts. Some take solace in accumulating knowledge; others try their hand at taking up art or engaging in indulgent social manipulation. Then there are the vampires that beat the shit out of each other. One venue for such things is the Eternal Arena in a small town in Greece, where a violent Kindred tournament has taken place for decades, perhaps centuries. (See p. 126.)
+
+Higher-minded Kindred may scoff, but they can’t deny the excitement of watching two or more vampires in a bare-knuckle brawl. Some domains sanction the activity, forming underground fight clubs where their opponents are their peers, unsuspecting mortals, or animals on vitae. Other places do it openly, like the Eternal Arena. Blood sports aren’t only fist-to-fist events, bladed weapons and firearms are sometimes used. Vampire blood sports require incredible resilience and push Hunger to the limit. At the Arena, the fighters agree beforehand on weapons but all Kindred powers are allowed. The only limit is that the fight has to take place within the Arena and can’t involve friends or allies unless it’s coterie versus coterie.
+
+You’re involved in these blood sports, either as a fighter or an organizer. You may even have had a connection to the Arena itself. You know the best techniques to shatter a vampire’s body. Should a mortal get on your bad side, you know how to rend them into bits.
+
+**• Champion’s Aura:** _Allowed_
+
+You’ve bested all kinds of Kindred, and you’re not afraid to remind everyone around what you’re capable of should they choose to cross you. Once per story, you receive a two-dice bonus to Intimidation tests against vampires during a scene, as long as these vampires are aware of your reputation (or you make them aware of it).
+
+**•• Bring It On:** _Allowed_
+
+You’ve fought at the Eternal Arena or a similar Kindred blood tournament. Once per story, you can goad a target into a physical fight with you. For the rest of the scene, they’ll engage in combat with only you. Targets that would put themselves in lethal danger by doing this must first be bested in a Charisma + Brawl vs Composure + Insight test.
+
+**••• Combat Analysis:** _Allowed_
+
+Blood sports require a tactical mind. You’ve followed the exploits of the best vampire fighters in your domain, learning from how they approach each match. You don’t see fights as desperate struggles, but as puzzles you can solve. Once per session during a physical conflict, you may make an Intelligence + Awareness test at Difficulty 3 before making an attack. On a win, you receive two additional dice on your next physical attack action.
+
+**•••• Talented Manager:** _Allowed_
+
+You’re an organizer or coach in an underground fight club or other gathering of like-minded Kindred pugilists. You pull the best out of them, and your talents extend to anyone who fights with you. Once per session, when you lead a group of people through a fight involving Brawl or Melee, you gain four bonus dice on any Leadership tests.
+
+**••••• Die Hard:** _Allowed_
+
+In your time in the pit, you’ve brushed up against final death many times. One night, it’ll come for you, but when it does, you know how to get one more moment. Once per story, when you face final death due to a violent conflict or act, you survive, as long as you can describe how it happened. (The Storyteller must decide if this explanation is plausible, but if it isn’t, they should provide you with the opportunity to come up with a better idea.)This does not mend any more damage you suffered than is absolutely required to survive, nor does it guarantee that you won’t end up in the hands of those eager to make your extended unlife even worse.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Tegyrius the Vizier p.159</strong></mark></summary>
+
+From his soldiering days on the battlefields with Alexander the Great to his time as Vizier of the Banu Haqim stronghold Alamut, Tegyrius has prioritized his ideals over personal self-interest. Instead of claiming the Black Throne for himself, he ceded the privilege to Jamal and used his wise counsel like a guiding hand to shape the destiny of the clan. And when Ur-Shulgi the Shepherd awoke and demanded the Banu Haqim abandon their mortal faiths, Tegyrius refused to take part in his violent tyranny. Alongside his friend and colleague, al-Ashrad, the pair abandoned Ur-Shulgi to safeguard their clanmates and led them out of Alamut.
+
+In the tumultuous years that followed, Tegyrius solidified his position within the Ashirra and opened negotiations with the Camarilla, culminating in the Vermillion Wedding to Victoria Ash. On the surface, it seemed the marriage was a purely political union. And at first, it was. Yet, what many failed to realize is that during their brief courtship, despite his best efforts, Tegyrius experienced something akin to love. Since the consummation of their mutual Blood Bond, those feelings have only intensified.
+
+**• The Art of Negotiation:** _Needs Context_
+
+As a skilled diplomat, advisor, or negotiator, the legacy of Tegyrius is reflected in you. When you mediate between two opposing individuals or groups, you receive a two-dice bonus to Intimidation or Persuasion skill tests.
+
+**•• The Pen is Mightier:** _Needs Context_
+
+Following in the footsteps of Tegyrius, you value knowledge and choose to hone your mental abilities just as much as you do your fighting skills. As a protégé of Tegyrius, you have access to a Banu Haqim library transplanted from Alamut during the Schism. The library counts as a two-dot Haven (••) with a two-dot Library (••), but its contents are being sought after by one of the Shepherds of Ur-Shulgi, counting as a two-dot Adversary.
+
+**••• Hear My Words:** _Needs Context_
+
+You are a known ally of Tegyrius, and when you speak, others listen. As a source of wisdom and restraint, you get three additional dice for any social test against another Banu Haqim of the same sect, and two additional dice for any social test against a Banu Haqim of a different sect.
+
+**•••• Perception is Power&#x20;**_**(Banu Haqim only)**_**:** _Needs Context_
+
+In the hallowed halls of Alamut, the Council of Scrolls dedicated their unlives to the pursuit of academic knowledge. But when Ur-Shulgi awoke and seized the Black Throne, the Council disbanded. You sat on the Council, and under Tegyrius’ guidance, learned that one cannot fight what one cannot see. You have access to the Auspex Discipline and may buy dots using experience points as if it was one of your clan Disciplines.
+
+**••••• A Matter of Honor:** _Needs Context_
+
+Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himself owes you a debt of gratitude. Perhaps you assisted in his negotiations with the Camarilla, or maybe you saved his life several years ago. Once per chronicle, Tegyrius functions as a five-dot Mawla, and uses his lofty position to aid you as best he can (short of violating the alliance between the Camarilla and the Ashirra).
+
+</details>
+
+## Live From the Succubus Club
+
+<details>
+
+<summary><mark style="color:red;"><strong>Succubus Club Copycat p.162</strong></mark></summary>
+
+The legendary Succubus Club of Chicago set the gold standard for hiding in plain sight, with kindred from all over the world going out of their way to visit when possible. Following a series of devastating attacks on the local Camarilla in the mid-nineties, the club shuttered its doors, and the never-ending beat that once drew thousands through its doors was finally silenced.\
+Nature abhors a vacuum, and it didn’t take long for a roaming iteration of the Succubus Club to surface. While it ultimately ended in a disaster of its own, it opened the floodgates for many other pale imitations, each hoping to cash in on the original’s reputation. While the OG Chicago version is back up and running, numerous competitors have sprung up, some even use the Succubus Club name feigning authenticity only Helena’s bloodline could provide.\
+Business, like the ever-present beat, is booming.
+
+• Finger on the Pulse: Allowed
+
+The club acts as the nexus point for anyone who’s anyone, and as the owner, you know them all. You receive a one-die bonus to Social pools involving important mortals (even if only in their own minds), as they seek to curry your favor (or discretion).
+
+•• Energizing Beat: Allowed
+
+A success owes much to its hedonistic vibe and world-class set lists, and for the Kindred guests, this makes for a rich hunting ground. All blood Resonance is considered Intense for you when hunting in the club.
+
+••• Damage Control: Allowed
+
+Trained staff are on standby to negate the worst impacts of a feed gone wrong, no questions asked. Once per session, while hunting in the club, if you get a Messy Critical on a test or fail a Frenzy test, you can reroll all dice.
+
+•••• Loyalty: Locked
+
+Your staff are dedicated to you in a way that’s hard to explain, almost as if the club itself had got its hooks into them to ensure their unwavering loyalty. Any attempts by other Kindred to blood bond, Dominate, or sway your staff with Presence automatically fail if it would negatively impact you or the club.
+
+••••• Destination of Choice: Locked
+
+The reputation and mystique of the Succubus Club is legendary, so much so that even its clones carry that same seductive atmosphere of excess, edge, and danger. This unique cocktail of ingredients marks it as the place to be, and it’s common to see the city’s kindred in attendance. If the city’s undead leaders are hosting a gathering, you can successfully petition to have it hosted in your club, should you wish, once per session.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>The Pony Express p.163</strong></mark></summary>
+
+The Pony Express was founded by an enterprising group of Ventrue ancillae in response to the Camarilla’s abandonment of electronic communications in the aftermath of the Second Inquisition. Recognizing the need for a method of coordinating intercity communication across the sect, the group’s founder, Elliot Praxton, assembled a group of like-minded Ventrue to found what Praxton deemed “The Pony Express.”\
+The Express is a system of physical couriers that crisscross the nation using various modes of transportation ranging from muscle cars and unremarkable sedans, to boats, planes, and helicopters. Agents of the express in each city include Kindred and their ghouls who may be permanent fixtures of that domain, or move from city-to-city in a circuit. They operate a dizzying array of blind-letter drops, secret meets, and other anonymous forms of communication that they use to “collect the mail” in each domain. This mail ranges from heavily-encrypted flash drives to old-fashioned physical correspondence. Express drivers are culled from the ranks of Gangrel loyal to the Camarilla and an ever-increasing pool of young Ventrue and other ambitious Kindred.\
+Drivers brave the perils of the open road, handing off their packages to other drivers at pre-arranged drops or occasionally making long-hauls with particularly sensitive information. Anarchs, Lupines, and the Inquisition stand in their way, but they get the mail through, never taking the same route twice, and always covering their tracks. Working for the Express is dangerous on the best of nights, but it is vital to the Camarilla’s survival and Praxton pays extremely well.
+
+• Access to the Network: Needs Context
+
+You have access to the Express and can send or receive a secure message or packet to or from any domain the Express operates in. The delivery will arrive within three nights to a week (Storyteller’s discretion).
+
+•• Station Agent: Needs Context
+
+You collect the mail in your domain and facilitate the handoff to a driver. You have two-dots in Mask and are Zeroed. You also have access to the local Express station, a two-dot Haven with a one-dot Postern. It is owned by Paxton, but available to you while on official Express business. The obligation that comes with this Loresheet sees the vampire often chased or held accountable if expected deliveries do not make it to their recipients.
+
+••• Driver: Needs Context
+
+You are a driver for the Express, granting you access to a wide array of vehicles and bolt holes across the nation. You can acquire a vehicle appropriate to your journey’s needs (Storyteller’s discretion) once per story. This is typically a car, truck, boat, small aircraft, or even motorcycle suitable to reach your destination. You also have access to the full Pony Express station network, representing a collection of two-dot Havens within one night’s travel of each other. They are owned by Praxton, but available to all his agents and drivers in time of need.
+
+•••• World Tour: Needs Context
+
+Praxton recently took the Pony Express international, arranging secure stations at many of the world’s major air and seaports, and you are at the forefront of this new initiative. Once per story, you gain access to an international mode of travel specifically tailored to accommodate the unique needs of Kindred. This transportation is likely something fast and maneuverable, like a Lear jet, or slow and clandestine, like a birth on a faceless freighter. Two-dot Havens in the form of Express stations anchor each end of your journey.
+
+••••• Passenger Service: Needs Context
+
+Always the innovator, Praxton operates a clandestine passenger service for “special” clients. Once per story, you and your coterie obtain passage from your domain to any destination the Express operates in (Storyteller’s discretion).
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Road Courier p.164</strong></mark></summary>
+
+Camarilla domains learned the hard way that online communication is a death trap for Kindred. To escape the fires of the Second Inquisition, vampires have turned to physical couriers. Europe can sometimes rely on rooftop runners and the discretion of sewer-dwelling Nosferatu, but the vast empty spaces of the continents, especially the New World, require messengers to brave the open road. While ghoul couriers have the advantage of operating during the day, they can be vulnerable whenever they stop, so Princes and Barons are sometimes forced to employ discreet and loyal Kindred to transport vital documents and artifacts.\
+Whether you travel alone on a Yamaha cruiser or with a whole crew in an armored van, you know how to survive the roads, and how to get under cover with your precious cargo before the sun rises.
+
+• Bucket: Allowed
+
+As long as you’re in an urban area or along a major road, you rarely have problems finding a ride for the night. Add two extra dice to your Intelligence + Streetwise tests while looking for a temporary vehicle. Every success above the margin of difficulty gives some extra comfort and ensures you won’t instantly alert the police.
+
+•• Six in the Morning: Allowed
+
+You know a hundred forgotten caves, empty garages, and abandoned warehouses. Once per story, receive a four-dice bonus to a Survival test to find shelter, as long as you’re on a road or street and have a vehicle. Your temporary haven is big enough for a large van.
+
+••• Chosen Steed: Allowed
+
+Unlife is filled with uncertainties, but at least there’s one thing you know you can always count on. Select one vehicle that you’ve had for at least one entire story; the bonus for operating and working on this vehicle is three dice.
+
+•••• Highway Harbinger: Allowed
+
+You’ve been delivering bad news long enough that vampires know your arrival spells trouble. For the first three nights in a new city after you announce yourself, you gain a three-dice bonus to all Intimidation, Investigation, and Streetwise tests with vampires, as people make stupid mistakes and rumors spread like wildfire.\
+However, your coming is now ominous enough that a paranoid Prince or other notable vampire makes it their business to end you or drive you out. Gain a two-dot Adversary for as long as you stay in the city.
+
+••••• Midnight Express: Locked
+
+You know spotters, scouts, and fellow couriers across the country. They function as two dots in Contacts. In addition, once per story, you can order them to watch and clear the roads ahead of you for a single night, letting you maintain a highway speed of 75 miles per hour in even the worst bucket and 150 miles per hour in a high-end cruising vehicle like a Mercedes or a sports car. You need to decide on a start and end point before you set out. Your spotters clear out any mundane problems, like speed traps. They can’t protect you from vampires, Lupines, or other supernatural threats, but they can usually warn you or provide you with alternate routes if you come under fire.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stories of the Daughters p.165</strong></mark></summary>
+
+Not many young Kindred have heard of the Daughters of Cacophony, but stories of undead singers extraordinaire are occasionally told in Elysia by those who claim to have met one. A rumored bloodline (although rumormongers cannot agree whether of clan Malkavian, Toreador, or another), the legendary sirens can allegedly sway and hurt using their voice alone, capable of shattering much more than glass. Any appearance of a particularly vocally talented Kindred (of any gender, as “Daughters” is but a title) in the domain may spark gossip, and a few Kindred fear the legends enough to act preemptively on such news, turning rumor into danger for the alleged Siren. Some do not believe in Daughters’ existence, while others successfully pretend to be one, despite their sires knowing nothing of such connection.
+
+• Aspiring Idol: Allowed
+
+Perhaps you trained your voice daily before your Embrace, and find the nightly routine a practice that helps you maintain some connection to your mortal past, or maybe you’re just naturally gifted with a pleasant voice and you like the sound of it. Receive two additional dice to any test involving singing, but if you fail, suffer an immediate Compulsion for the shame you brought on yourself.
+
+•• Surprise Performance: Allowed
+
+The talent lies dormant within you, and comes to light in the most unexpected moments. Once per story, receive two extra successes on a test involving public speaking. This can be done after the test has been made, and can be paired with using Presence.
+
+••• Wayward Daughter: Allowed
+
+You’ve heard about Daughters of Cacophony, and whatever you’ve heard, you turned into your identity. You successfully (so far) pretend to be a Daughter in the domain you reside in. You’ve also convinced the local Kindred society to treat you like a big deal (though some individuals may argue). This comes with benefits—receive four dots to distribute among Status, Herd and Mawla.\
+However, someone - like your sire—knows your secret, and might use it against you if you give them a reason. Once that happens, lose your gained advantages and gain Flaw: Suspect among the faction you’re the most acquainted with.
+
+•••• Songstress Supreme: Allowed
+
+Maybe the vitae of the Daughters really does flow in your undead veins, or maybe you’re just exceptionally talented. Regardless of the source, the beauty and power of your voice surpasses most mortal singers. Gain four additional dice to any vocal performances, but your talent has earned you some unwanted “fans.” Gain the Stalkers Flaw, and a single powerful Adversary who feels either jealous or possessive of you.
+
+••••• Rejuvenating Voice: Allowed
+
+Your voice is almost supernaturally soothing. Gain two additional dice to your non-intimidation Presence tests, as well as while using Quell the Beast or Obeah. Additionally, once per story, you can restore three levels of Superficial Willpower damage to everyone capable of hearing your voice. This performance must last for one scene. If interrupted, all listeners suffer one point of Superficial Willpower damage.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Temple of Boom Contract p.166</strong></mark></summary>
+
+Victor Temple is, in his own words, the “Undisputed Baron of the Valley.” This Ventrue controls the largest Anarch territories in Los Angeles, and perhaps in North America. Victor’s enterprises include several popular nightclubs and an expanding music label business that he promotes under the name Temple of Boom. He also uses this entertainment empire to conceal his unlife — hiding in plain sight, as he likes to say.\
+Victor may be based in L.A., but his influence is beginning to extend beyond his home domain: having a connection to the Baron can open up opportunities of wealth, power, and fame, as long as you maintain loyalty to Victor Temple himself, and don’t mistake his affability for complacency.
+
+• Chocolate Drop: Needs Context
+
+You’re the newest employee of Temple of Boom, either as a performer or promoter in your city. Gain a dot in Fame and a dot in Contacts. Your newfound status has a downside: Gain the Stalker Flaw
+
+•• I Got Connections: Needs Context
+
+The Temple of Boom is always looking for new talent, and they are not above poaching from competitors. At the Storyteller’s Discretion, you may request an advance on your salary, and add two dots of Resources or Contacts for the rest of the current Story, in exchange for procuring new talent for Temple of Boom.
+
+••• This is Fine: Needs Context
+
+Once per Story, you may name-drop Victor Temple and gain 3 extra dice to Social tests in a business/entertainment environment, such as gaining entrance to a nightclub, for the remainder of the scene. Should you do this, however, you will automatically become a person of interest to someone who has beef with Victor Temple or the Temple of Boom in general. Gain the Enemy Flaw at one dot for the rest of the current Story.
+
+•••• Maharaja/Maharani: Needs Context
+
+Temple of Boom isn’t just a recording label, but also a coveted name in the nightclub business. By demonstrating loyalty to the Temple of Boom business family, Victor Temple has granted you the right to open one of his clubs as a franchise in your city. Your Haven, Fame, Resources, and Herd all increase by one dot, and you receive a specialty in either Finance (accounting) or Performance (showmanship). Due to Victor Temple’s tactic of “hiding in plain sight”, your association with the club will gain you the Compromised Haven Flaw.
+
+••••• If Not Now, When?: Needs Context
+
+Victor Temple owes you a Major Boon. Whether you obtained this from him personally, or got it through transfers, it is the most valuable currency you own. At Storyteller Discretion, you may personally request something significant from the wealthy, influential Ventrue, such as access to Hunter weapons or even the phone number of a local Werewolf. Should you do this, the Ivory Tower will not be able to ignore your connection to the Anarch Movement. Gain the Shunned (Camarilla) Flaw.
+
+</details>
+
 ## Misc Official Loresheets
-
-<details>
-
-<summary>Stories of the Daughters</summary>
-
-**• Aspiring Idol:** Allowed\
-&#xNAN;**•• Surprise Performance:** Allowed\
-&#xNAN;**••• Wayward Daughter:** Allowed\
-&#xNAN;**•••• Songstress Supreme:** Locked\
-&#xNAN;**••••• Rejuvenating Voice:** Locked
-
-</details>
-
-<details>
-
-<summary>Road Courier</summary>
-
-**• Bucket:** Allowed\
-&#xNAN;**•• Six in the Morning:** Allowed\
-&#xNAN;**••• Ride or Die:** Allowed\
-&#xNAN;**•••• Highway Harbinger:** Allowed (once per story)\
-&#xNAN;**••••• Midnight Express:** Locked
-
-</details>
 
 <details>
 
