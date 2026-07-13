@@ -1551,7 +1551,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fluent Strength, Protean 1 (Gehenna War p.47)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Fluent Strength, Potence 1 (Gehenna War p.47)</strong></mark></summary>
 
 **Cost:** None
 
