@@ -320,7 +320,9 @@ Each level of Fame subtracts one from the Difficulty of Social tests against you
 
 <details>
 
-<summary><mark style="color:red;"><strong>Enduring Fame • </strong></mark><em><mark style="color:red;"><strong>Requires Fame •••+</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Enduring Fame • (Live From the Succubus Club p.25)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Fame •••+</mark>](./#fame-core-pp.186-187)
 
 As an immensely beloved figure before your Embrace, you’ve learned that the benefits — and drawbacks — of stardom remain after death. When you lose points of Fame during a story, they return to full value at the start of the next story with no effort necessary.
 
@@ -328,7 +330,9 @@ As an immensely beloved figure before your Embrace, you’ve learned that the be
 
 <details>
 
-<summary><mark style="color:red;"><strong>Influencer • </strong></mark><em><mark style="color:red;"><strong>Requires Fame ••+</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Influencer •</strong></mark> <mark style="color:purple;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Fame ••+</mark>](./#fame-core-pp.186-187)
 
 People don’t just love you — they take your word as gospel. You write social media posts that make or break businesses, and even high-ranking officials who should know better listen to you. Once per story, with the Storyteller’s approval, you have the equivalent of an Influence rating equal to your Fame minus one towards a single fan or a field related to your stardom.
 
@@ -576,6 +580,14 @@ You’re sensitive to the secret flavors of blood, and one of them really messes
 
 <details>
 
+<summary><mark style="color:red;"><strong>Resonance Mimic ••</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
+
+The vessels you feed from have a habit of sticking around with you. You don’t just pick up the Resonances in their blood, you’re absorbing parts of their memories, personality, or maybe even their very soul. After you feed on a mortal of any Resonance at a Fleeting Temperament or higher, you experience vivid and distracting visions of your victim’s memories during the next scene, which inflicts a two-dice penalty to a test of the Storyteller’s choice. Killing someone through feeding has an additional effect: the victim’s personality and memories persist in your mind and might take over your body for a scene when your Willpower is Incapacitated. This effect lasts until your Willpower is Incapacitated or the end of the story.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Sloppy Feeder ••</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
 
 Wherever you go, a telltale pattern of attacks follows, as your feeding style leaves much to be desired. If caught feeding by the authorities, they’ll have sufficient evidence to connect you to a series of assaults (and probably murders), as well as leaking your location to Second Inquisition assets.
@@ -700,7 +712,7 @@ Your Mawla has a hold over you, and once per story requires you to do a minor ta
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mortal Pretender • </strong></mark><em><mark style="color:red;"><strong>Status</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Mortal Pretender •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
 While all right-minded Kindred do their best to blend in with mankind, you go above and beyond to the point where you might have decided to lead a mortal life despite your new diet. It unsettles your undead peers. You suffer a two-dice penalty for all Social tests involving vampires specifically dedicated to upholding the Masquerade, such as Vehme coteries, Sheriffs and their Hounds, Archons and Justicars.
 

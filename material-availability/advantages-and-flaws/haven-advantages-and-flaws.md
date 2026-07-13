@@ -110,7 +110,7 @@ A three-dot machine shop can include an incinerator; a three-dot machine shop in
 
 <details>
 
-<summary>Mobile •-•• (Live From the Succubus Club p.25)</summary>
+<summary><mark style="color:red;"><strong>Mobile •-•• (Live From the Succubus Club p.25)</strong></mark></summary>
 
 Your haven is on wheels, wings, or the wide open sea. A one-dot mobile haven may be a car, van, or truck with a sunproof trunk or other compartment for daysleep, or pull a small trailer to carry gear. A two-dot mobile Haven could be an RV, motor coach, or bus. A massive, three-dot mobile haven could be an entire train, jet, or large ship. Coterie dots can be used for this Merit.
 
@@ -118,7 +118,9 @@ Your haven is on wheels, wings, or the wide open sea. A one-dot mobile haven may
 
 <details>
 
-<summary>Armored • <em>Requires Mobile</em> (Live From the Succubus Club p.25)</summary>
+<summary><mark style="color:purple;"><strong>Armored •</strong></mark> <mark style="color:purple;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mobile</mark>](haven-advantages-and-flaws.md#mobile-live-from-the-succubus-club-p.25)
 
 You’re taking no chances with your haven, taking pains to reinforce panels, locks, and tires, and swapping out the glass for something more resistant to whatever gets thrown at it. The vehicle continues running perfectly until it sustains ten points of damage, while only Critical Hits penetrate sufficiently to affect passengers.
 
@@ -126,7 +128,9 @@ You’re taking no chances with your haven, taking pains to reinforce panels, lo
 
 <details>
 
-<summary>Smugglers Stash •-•• <em>Requires Mobile</em> (Live From the Succubus Club p.25)</summary>
+<summary><mark style="color:purple;"><strong>Smugglers Stash •-••</strong></mark> <mark style="color:purple;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mobile</mark>](haven-advantages-and-flaws.md#mobile-live-from-the-succubus-club-p.25)
 
 You’ve dedicated a small section of your Haven to security, ensuring that even if accessed and subjected to a thorough search, your cargo — or you — remains safely stashed away. For one dot, this space is equivalent in size to one person, while two dots expands the space to cover your entire coterie. Searches for the compartment are made at +2 Difficulty.
 
@@ -134,7 +138,9 @@ You’ve dedicated a small section of your Haven to security, ensuring that even
 
 <details>
 
-<summary>Spare Plates •• <em>Requires Mobile</em> (Live From the Succubus Club pp.25-26)</summary>
+<summary><mark style="color:purple;"><strong>Spare Plates •• (Live From the Succubus Club pp.25-26)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mobile</mark>](haven-advantages-and-flaws.md#mobile-live-from-the-succubus-club-p.25)
 
 Vehicles are easy to trace, and their size makes them harder to hide. To ensure your home’s reputation never trips you up, you keep a series of spare plates, stickers, and other identifiers that you can switch out with a turn’s worth of activity, giving you sufficient cover to avoid all but the most invasive searches.
 
@@ -192,7 +198,9 @@ Tremere chantries, Nosferatu warrens, and Ministry temples might be one or two-d
 
 <details>
 
-<summary>On the Rails • <em>Requires Mobile</em> (Live From the Succubus Club p.26)</summary>
+<summary><mark style="color:purple;"><strong>On the Rails • (Live From the Succubus Club p.26)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mobile</mark>](haven-advantages-and-flaws.md#mobile-live-from-the-succubus-club-p.25)
 
 Your haven’s movement is not entirely under your control, such as on a ship or train. You might speed or delay a departure, or make an unscheduled stop, but the destinations are likely fixed. Work with the Storyteller to determine where your haven travels.
 
@@ -200,7 +208,9 @@ Your haven’s movement is not entirely under your control, such as on a ship or
 
 <details>
 
-<summary>Temperamental • <em>Requires Mobile</em> (Live From the Succubus Club p.26)</summary>
+<summary><mark style="color:purple;"><strong>Temperamental •</strong></mark> <mark style="color:purple;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mobile</mark>](haven-advantages-and-flaws.md#mobile-live-from-the-succubus-club-p.25)
 
 Whether you love it despite its flaws, can’t afford the repairs, or are ignorant to your haven’s mechanical imperfections, your vehicle is unreliable and waiting for the worst moment to disappoint you. Any failed Drive test sees the vehicle grind to a halt, unable to be restarted without a successful repair test. Should you change your vehicle, this Flaw follows you unless bought off with Experience.
 

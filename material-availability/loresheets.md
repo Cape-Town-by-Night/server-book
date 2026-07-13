@@ -1768,27 +1768,28 @@ Always the innovator, Praxton operates a clandestine passenger service for “sp
 
 <summary><mark style="color:red;"><strong>Road Courier p.164</strong></mark></summary>
 
-Camarilla domains learned the hard way that online communication is a death trap for Kindred. To escape the fires of the Second Inquisition, vampires have turned to physical couriers. Europe can sometimes rely on rooftop runners and the discretion of sewer-dwelling Nosferatu, but the vast empty spaces of the continents, especially the New World, require messengers to brave the open road. While ghoul couriers have the advantage of operating during the day, they can be vulnerable whenever they stop, so Princes and Barons are sometimes forced to employ discreet and loyal Kindred to transport vital documents and artifacts.\
-Whether you travel alone on a Yamaha cruiser or with a whole crew in an armored van, you know how to survive the roads, and how to get under cover with your precious cargo before the sun rises.
+_Camarilla domains learned the hard way that online communication is a death trap for Kindred. To escape the fires of the Second Inquisition, vampires have turned to physical couriers. Europe can sometimes rely on rooftop runners and the discretion of sewer-dwelling Nosferatu, but the vast empty spaces of the continents, especially the New World, require messengers to brave the open road. While ghoul couriers have the advantage of operating during the day, they can be vulnerable whenever they stop, so Princes and Barons are sometimes forced to employ discreet and loyal Kindred to transport vital documents and artifacts._
 
-• Bucket: Allowed
+_Whether you travel alone on a Yamaha cruiser or with a whole crew in an armored van, you know how to survive the roads, and how to get under cover with your precious cargo before the sun rises._
+
+**• Bucket:** Allowed
 
 As long as you’re in an urban area or along a major road, you rarely have problems finding a ride for the night. Add two extra dice to your Intelligence + Streetwise tests while looking for a temporary vehicle. Every success above the margin of difficulty gives some extra comfort and ensures you won’t instantly alert the police.
 
-•• Six in the Morning: Allowed
+**•• Six in the Morning:** Allowed
 
 You know a hundred forgotten caves, empty garages, and abandoned warehouses. Once per story, receive a four-dice bonus to a Survival test to find shelter, as long as you’re on a road or street and have a vehicle. Your temporary haven is big enough for a large van.
 
-••• Chosen Steed: Allowed
+**••• Chosen Steed:** Allowed
 
 Unlife is filled with uncertainties, but at least there’s one thing you know you can always count on. Select one vehicle that you’ve had for at least one entire story; the bonus for operating and working on this vehicle is three dice.
 
-•••• Highway Harbinger: Allowed
+**•••• Highway Harbinger:** Allowed
 
 You’ve been delivering bad news long enough that vampires know your arrival spells trouble. For the first three nights in a new city after you announce yourself, you gain a three-dice bonus to all Intimidation, Investigation, and Streetwise tests with vampires, as people make stupid mistakes and rumors spread like wildfire.\
 However, your coming is now ominous enough that a paranoid Prince or other notable vampire makes it their business to end you or drive you out. Gain a two-dot Adversary for as long as you stay in the city.
 
-••••• Midnight Express: Locked
+**••••• Midnight Express:** Locked
 
 You know spotters, scouts, and fellow couriers across the country. They function as two dots in Contacts. In addition, once per story, you can order them to watch and clear the roads ahead of you for a single night, letting you maintain a highway speed of 75 miles per hour in even the worst bucket and 150 miles per hour in a high-end cruising vehicle like a Mercedes or a sports car. You need to decide on a start and end point before you set out. Your spotters clear out any mundane problems, like speed traps. They can’t protect you from vampires, Lupines, or other supernatural threats, but they can usually warn you or provide you with alternate routes if you come under fire.
 
@@ -1798,26 +1799,26 @@ You know spotters, scouts, and fellow couriers across the country. They function
 
 <summary><mark style="color:red;"><strong>Stories of the Daughters p.165</strong></mark></summary>
 
-Not many young Kindred have heard of the Daughters of Cacophony, but stories of undead singers extraordinaire are occasionally told in Elysia by those who claim to have met one. A rumored bloodline (although rumormongers cannot agree whether of clan Malkavian, Toreador, or another), the legendary sirens can allegedly sway and hurt using their voice alone, capable of shattering much more than glass. Any appearance of a particularly vocally talented Kindred (of any gender, as “Daughters” is but a title) in the domain may spark gossip, and a few Kindred fear the legends enough to act preemptively on such news, turning rumor into danger for the alleged Siren. Some do not believe in Daughters’ existence, while others successfully pretend to be one, despite their sires knowing nothing of such connection.
+_Not many young Kindred have heard of the Daughters of Cacophony, but stories of undead singers extraordinaire are occasionally told in Elysia by those who claim to have met one. A rumored bloodline (although rumormongers cannot agree whether of clan Malkavian, Toreador, or another), the legendary sirens can allegedly sway and hurt using their voice alone, capable of shattering much more than glass. Any appearance of a particularly vocally talented Kindred (of any gender, as “Daughters” is but a title) in the domain may spark gossip, and a few Kindred fear the legends enough to act preemptively on such news, turning rumor into danger for the alleged Siren. Some do not believe in Daughters’ existence, while others successfully pretend to be one, despite their sires knowing nothing of such connection._
 
-• Aspiring Idol: Allowed
+**• Aspiring Idol:** Allowed
 
 Perhaps you trained your voice daily before your Embrace, and find the nightly routine a practice that helps you maintain some connection to your mortal past, or maybe you’re just naturally gifted with a pleasant voice and you like the sound of it. Receive two additional dice to any test involving singing, but if you fail, suffer an immediate Compulsion for the shame you brought on yourself.
 
-•• Surprise Performance: Allowed
+**•• Surprise Performance:** Allowed
 
 The talent lies dormant within you, and comes to light in the most unexpected moments. Once per story, receive two extra successes on a test involving public speaking. This can be done after the test has been made, and can be paired with using Presence.
 
-••• Wayward Daughter: Allowed
+**••• Wayward Daughter:** Allowed
 
 You’ve heard about Daughters of Cacophony, and whatever you’ve heard, you turned into your identity. You successfully (so far) pretend to be a Daughter in the domain you reside in. You’ve also convinced the local Kindred society to treat you like a big deal (though some individuals may argue). This comes with benefits—receive four dots to distribute among Status, Herd and Mawla.\
 However, someone - like your sire—knows your secret, and might use it against you if you give them a reason. Once that happens, lose your gained advantages and gain Flaw: Suspect among the faction you’re the most acquainted with.
 
-•••• Songstress Supreme: Allowed
+**•••• Songstress Supreme:** Allowed
 
 Maybe the vitae of the Daughters really does flow in your undead veins, or maybe you’re just exceptionally talented. Regardless of the source, the beauty and power of your voice surpasses most mortal singers. Gain four additional dice to any vocal performances, but your talent has earned you some unwanted “fans.” Gain the Stalkers Flaw, and a single powerful Adversary who feels either jealous or possessive of you.
 
-••••• Rejuvenating Voice: Allowed
+**••••• Rejuvenating Voice:** Allowed
 
 Your voice is almost supernaturally soothing. Gain two additional dice to your non-intimidation Presence tests, as well as while using Quell the Beast or Obeah. Additionally, once per story, you can restore three levels of Superficial Willpower damage to everyone capable of hearing your voice. This performance must last for one scene. If interrupted, all listeners suffer one point of Superficial Willpower damage.
 
@@ -1827,26 +1828,27 @@ Your voice is almost supernaturally soothing. Gain two additional dice to your n
 
 <summary><mark style="color:red;"><strong>Temple of Boom Contract p.166</strong></mark></summary>
 
-Victor Temple is, in his own words, the “Undisputed Baron of the Valley.” This Ventrue controls the largest Anarch territories in Los Angeles, and perhaps in North America. Victor’s enterprises include several popular nightclubs and an expanding music label business that he promotes under the name Temple of Boom. He also uses this entertainment empire to conceal his unlife — hiding in plain sight, as he likes to say.\
-Victor may be based in L.A., but his influence is beginning to extend beyond his home domain: having a connection to the Baron can open up opportunities of wealth, power, and fame, as long as you maintain loyalty to Victor Temple himself, and don’t mistake his affability for complacency.
+_Victor Temple is, in his own words, the “Undisputed Baron of the Valley.” This Ventrue controls the largest Anarch territories in Los Angeles, and perhaps in North America. Victor’s enterprises include several popular nightclubs and an expanding music label business that he promotes under the name Temple of Boom. He also uses this entertainment empire to conceal his unlife — hiding in plain sight, as he likes to say._
 
-• Chocolate Drop: Needs Context
+_Victor may be based in L.A., but his influence is beginning to extend beyond his home domain: having a connection to the Baron can open up opportunities of wealth, power, and fame, as long as you maintain loyalty to Victor Temple himself, and don’t mistake his affability for complacency._
+
+**• Chocolate Drop:** Needs Context
 
 You’re the newest employee of Temple of Boom, either as a performer or promoter in your city. Gain a dot in Fame and a dot in Contacts. Your newfound status has a downside: Gain the Stalker Flaw
 
-•• I Got Connections: Needs Context
+**•• I Got Connections:** Needs Context
 
 The Temple of Boom is always looking for new talent, and they are not above poaching from competitors. At the Storyteller’s Discretion, you may request an advance on your salary, and add two dots of Resources or Contacts for the rest of the current Story, in exchange for procuring new talent for Temple of Boom.
 
-••• This is Fine: Needs Context
+**••• This is Fine:** Needs Context
 
 Once per Story, you may name-drop Victor Temple and gain 3 extra dice to Social tests in a business/entertainment environment, such as gaining entrance to a nightclub, for the remainder of the scene. Should you do this, however, you will automatically become a person of interest to someone who has beef with Victor Temple or the Temple of Boom in general. Gain the Enemy Flaw at one dot for the rest of the current Story.
 
-•••• Maharaja/Maharani: Needs Context
+**•••• Maharaja/Maharani:** Needs Context
 
 Temple of Boom isn’t just a recording label, but also a coveted name in the nightclub business. By demonstrating loyalty to the Temple of Boom business family, Victor Temple has granted you the right to open one of his clubs as a franchise in your city. Your Haven, Fame, Resources, and Herd all increase by one dot, and you receive a specialty in either Finance (accounting) or Performance (showmanship). Due to Victor Temple’s tactic of “hiding in plain sight”, your association with the club will gain you the Compromised Haven Flaw.
 
-••••• If Not Now, When?: Needs Context
+**••••• If Not Now, When?:** Needs Context
 
 Victor Temple owes you a Major Boon. Whether you obtained this from him personally, or got it through transfers, it is the most valuable currency you own. At Storyteller Discretion, you may personally request something significant from the wealthy, influential Ventrue, such as access to Hunter weapons or even the phone number of a local Werewolf. Should you do this, the Ivory Tower will not be able to ignore your connection to the Anarch Movement. Gain the Shunned (Camarilla) Flaw.
 
