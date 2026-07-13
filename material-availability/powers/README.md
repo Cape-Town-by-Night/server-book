@@ -82,7 +82,7 @@ Summoning animals uses a Charisma + Animalism roll; Difficulty depends on the sc
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Leash the Beast,</strong></mark><strong> </strong><mark style="color:yellow;"><strong>Animalism 2 + Auspex 1 (Live From the Succubus Club p.27)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Leash the Beast,</strong></mark><strong> </strong><mark style="color:yellow;"><strong>Animalism 2 + Fortitude 1 (Live From the Succubus Club p.27)</strong></mark></summary>
 
 **Cost:** One or Two Rouse Checks
 
