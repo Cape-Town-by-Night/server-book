@@ -84,6 +84,64 @@ Trying to move someone actively resisting requires a contest of Resolve + Alchem
 
 <details>
 
+<summary><mark style="color:red;"><strong>Haze (Core p.285)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, phlegmatic human blood, dry ice or cigar smoke or auto exhaust
+
+**Activation Cost:** One Rouse Check
+
+**System:** Upon activation a cloud of mist-like vapor surrounds the alchemist, masking their features and obscuring their silhouette. Anyone attempting to identify the user or hit them with ranged weapons suffers a two-dice penalty to their pool. The user can extend the cloud to encompass a group of up to five people by making another Rouse check.
+
+**Duration:** One scene or until voluntarily ended.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Gaoler's Bane</strong></mark><strong> </strong><mark style="color:red;"><strong>(Winter's Teeth #10)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, sanguine human blood, two weeks worth of contents of a regularly used grill's grease trap
+
+**Activation Cost:** One Rouse Check
+
+**System:** Upon activating this ability the alchemist can twist bend or stretch their bodies in minor ways to free themselves from physical bonds or grapples. Dexterity + Larceny checks for the purpose of slipping one's self free of handcuffs zip-ties or other ligatures get a two-dice bonus. Additionally, any Strength + Brawl rolls made to escape a grapple also receive two-dice bonus.
+
+**Duration:** One scene or until voluntarily ended.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mercurian Tongue</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide p.102)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, blood of a mortal who speaks a different native language than the alchemist, the tongue of a fish or bird, hot sauce from another country, and copper filings.
+
+**Activation Cost:** One Rouse Check
+
+**System:** The alchemist can speak the native language of the mortal whose blood they used in the Formula. By spending a Willpower point and feeding from a mortal, they can switch their new language to that mortal’s native language.
+
+**Duration:** One night, or until the alchemist feeds from someone with the same native language as the alchemist.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Plug-In</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide p.102)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, sanguine blood, liquid nitrogen, tungsten shavings, and a broken battery
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pool:** Resolve + Alchemy
+
+**System:** Make a Resolve + Alchemy test (Difficulty 2). On a success, the alchemist fills with electrical currents that can be used to power small devices, such as a smartphone, a personal computer, or a light bulb. These currents power the item by touch; it loses power when contact stops.
+
+**Duration:** If lighting a room: one scene. If powering a device, until it reaches half battery charge.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Speak From the Heart (Blood Sigils p.75)</strong></mark></summary>
 
 **Ingredients:** A soft drink, the alchemist’s Blood, melancholic human blood, mercury, ink or paint.
@@ -150,20 +208,6 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
-<summary><mark style="color:red;"><strong>Haze (Core p.285)</strong></mark></summary>
-
-**Ingredients:** In addition to the alchemist’s Blood and phlegmatic human blood, dry ice or cigar smoke or auto exhaust
-
-**Activation Cost:** One Rouse Check
-
-**System:** Upon activation a cloud of mist-like vapor surrounds the alchemist, masking their features and obscuring their silhouette. Anyone attempting to identify the user or hit them with ranged weapons suffers a two-dice penalty to their pool. The user can extend the cloud to encompass a group of up to five people by making another Rouse check.
-
-**Duration:** One scene or until voluntarily ended.
-
-</details>
-
-<details>
-
 <summary><mark style="color:red;"><strong>Envelop (Core p.285)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, melancholic and phlegmatic human blood, potassium chlorate, smog or halon gas
@@ -175,6 +219,36 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 **System:** The alchemist activates the power and chooses a target within sight. A swirling mist envelops the target, obscuring their sight and penalizing them three dice from all sight-based detection and ranged attack dice pools. In addition, the alchemist can make the mist suffocate a mortal with a contest of Wits + Alchemy vs. Stamina + Survival. On a win, the target can take no action except coughing and choking; on a critical win, the target loses consciousness. The alchemist can only employ Envelop on single targets, and only on one at a time.
 
 **Duration:** Until scene ends or the alchemist ends the effect voluntarily.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Friends List (Players Guide p.104)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, phlegmatic blood, the eyes of a whippoorwill or owl or other nocturnal bird, and a silver thread.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Intelligence + Alchemy
+
+**System:** Upon activating this power, the alchemist makes an Intelligence + Alchemy test to see a thin, silver thread connecting a mortal to a vampire they have some sort of connection with. (Obviously, no thread is shown if the mortal isn’t connected to Kindred.) If the vampire is not physically close the alchemist can follow the thread.
+
+Stronger connections require fewer successes to see – a ghoul might only require one success, but a distant contact or ally up to five. A mortal with multiple vampire relationships displays the strongest thread first, but the alchemist can see all of them with enough successes.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Red's Flamin' Hot Sauce</strong></mark><strong> </strong><mark style="color:red;"><strong>(Winter's Teeth #10)</strong></mark></summary>
+
+**Ingredients:** The alchemist's Blood, choleric human blood, 2 ml of canola oil, a dash of lemon juice, cayenne seasoning
+
+**System:** Contrary to most formulas, this formula is not imbibed by the user but added to inert or spilled blood. Adding it to any amount of human blood or vampiric vitae creates a heavily flammable slurry. While this does not automatically cause the blood to combust, any introduction of flame to the spilled blood creates a slow-burning yet powerful inferno. This fire cannot be extinguished for the duration of the effect, though fires spreading from it can. For each success gained from the distillation roll, the alchemist creates one usage of this power.
+
+**Duration:** The formulas are preserved until used. The blood-fires last for an entire scene, or potentially longer depending on the fire's surroundings.
 
 </details>
 
@@ -205,6 +279,34 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 **Activation Cost:** Free
 
 **System:** The alchemist vomits the formula into the victim’s mouth (Athanor Corporis), forces the victim to drink it from the vessel’s mouth (Calcinatio), or forces the victim to drink from the elixir container (Fixatio). Once the victim consumes the formula, the alchemist makes the activation test to determine the results. On a failure, the victim simply dies; their blood feeds one vampire as normal. On a total failure, their blood turns septic and can feed nobody. On a win, victims choke and drown on their own blood over an agonizing hour. This death provides enough blood to feed an entire coterie of Duskborn (and only Duskborn — true vampires can’t stomach the blood), reducing everyone’s Hunger to zero. Every participant gains at least one Stain from the act. The remains must be properly disposed of, as the resultant sack of skin and bones is bound to rouse suspicion.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Concoct Ashe</strong></mark><strong> </strong><mark style="color:red;"><strong>(Cults of the Blood Gods pp.45-46)</strong></mark> </summary>
+
+**Ingredients:** A destroyed vampire’s ashes, an open flame reaching 1,500°C, aluminum filings
+
+**Dice Pools:** Intelligence + Thin-Blood Alchemy
+
+**System:** The vampire’s ashes are contained in a vessel heated by an open flame and then mixed with aluminum filings. Each success on the distillation roll produces a single Ashe dose. On a total failure, the sample is ruined and a Beast Shard (p. 39) emerges in the area.
+
+When consumed, all Ashe allows a thin-blood to access more of the power in vitae and ash than is usually within their grasp. Their Blood Potency counts as 1 for the purposes of Blood Surges and Discipline Rouse Check re-rolls until the end of the chapter. The drug is far from lacking in downsides however, see Ashe Addiction (p. 46).
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Chemically-Induced Flashback</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Cults of the Blood Gods p.45)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Concoct Ashe</mark>](thin-blood-alchemy.md#concoct-ashe-cults-of-the-blood-gods-p.45)
+
+**Ingredients:** A melted-down object belonging to the destroyed vampire.
+
+**Activation Cost:** One Rouse Check in addition to the cost of using Ashe
+
+**System:** When using Concoct Ashe, this formula may be used to imbue remains with the memories of the vampire they once formed. When consumed, this altered Ashe provokes a Willpower test at a Difficulty of 1 + the destroyed vampire’s Blood Potency. On a win the user immediately enters a Memoriam (Core p. 311), reliving an important memory of the destroyed vampire’s past rather than their own. This scene is resolved normally using their own stats, but the shifted perspective will be valuable. If they are meditating in a place of calm at the time they consume the Ashe, the thin-blood adds a one-die bonus to all dice pools during the Memoriam.
 
 </details>
 
@@ -268,6 +370,32 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
+<summary><mark style="color:red;"><strong>Mandagloire</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide pp.104-105)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, phlegmatic blood, human fat, candle wax, ether, sesame oil, iron sulfate or verdigris, and borax.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Stamina + Alchemy vs. Stamina + Resolve
+
+**System:** Tapping the athanor’s vein emits a pungent\
+stench when spilled that fills a room (or a house\
+on a critical win). Mortals who fail to resist enter a\
+full-body paralysis state, a waking coma, for the rest\
+of the scene. Supernatural creatures who fail feel\
+the effects of rigor mortis: a two-dice penalty on all\
+Physical rolls from intense cramping.
+
+_Fixatio:_ The potion can be slipped into a drink or\
+meal as a poison, or burned to act as a paralyzing\
+fragrance, above.
+
+**Duration:** Three turns
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Martian Purity (Blood Sigils p.77)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric mortal blood, iron filings, gunpowder ash.
@@ -320,6 +448,22 @@ Not even the blood of the Duskborn can spare the Nosferatu from their Bane, the 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Rumor (Players Guide p.105)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, phlegmatic blood, pepper, oil, and graphite or mercury.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Manipulation + Alchemy vs Wits + Awareness
+
+**System:** Upon activation, the alchemist makes a statement and invites the target to agree, e.g. “I heard you plan to invest in the new mortuary downtown. Is that true?” On a win, the target agrees and continues to believe they agreed to the statement of their own free will. To get the target to actually act on their agreement (e.g., sign investment papers) usually requires a further Manipulation + Subterfuge (or similar) contest, but the alchemist can add their margin on the Alchemy contest to their pool in that contest.
+
+**Duration:** One scene, and thereafter until something (or someone) persuasively contradicts the target’s agreement (“I would never have agreed to that! I must have been drugged!”).
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Saraimu (Tattered Facade p.107)</strong></mark></summary>
 
 **Ingredients:** A cup of vitae each from three vampires including the alchemist, baking powder, crushed chalk (optional, for a soft voice), iron nails (for strength), battery acid (for oomph)
@@ -333,6 +477,36 @@ Not even the blood of the Duskborn can spare the Nosferatu from their Bane, the 
 The blob is affectionate but slimy and inherently unstable. It can perform many simple tasks, including spying, fetching things, and tasks around the alchemist’s lab. It knows it’s incomplete and longs to be back inside the bodies where it came from. It never sleeps and tries to burrow inside its masters while they do, assuming it’s not currently out on a mission for them. It has many rows of short, sharp nail-teeth.
 
 **Duration:** The blob falls apart one to three weeks after it was created. The Storyteller may roll a die to determine the exact time. If its masters die before it does, the saraimu knows enough alchemy to prolong its existence until it can find — and burrow its way into — a new alchemist.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stay the Falling Sand</strong></mark><strong> </strong><mark style="color:red;"><strong>(Winter's Teeth #10)</strong></mark></summary>
+
+**Ingredients:** The alchemist's Blood, melancholic human blood, indica-dominant cannabis wax, juniper berries, a teaspoon of antifreeze
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pool:** Resolve + Alchemy
+
+**System:** This volatile mixture immediately begins to coagulate and thicken once exposed to air. However, it can be liquified or vaporized upon introduction to a heating element. The mixture may either be immediately consumed or inhaled through vapor. There, the substance remains dormant until activated with a Rouse Check. The alchemist may then make a Resolve + Alchemy roll to effectively freeze time in a small confined space (roughly 3 feet cubed). This power has no effect upon living creatures. The freeze lasts only for a single combat round, allowing for just enough time for a target to get out of the way of a hail of gunfire or halt falling debris. The alchemist may maintain this hold for additional combat rounds by spending a point of Willpower and rerolling Resolve + Alchemy. The difficulty of this roll may vary depending upon the actions being halted (difficulty 2 for a slowly lobbed grenade or 4 or higher to catch speeding bullets).
+
+**Duration:** One round, or more (if maintained). The power expires after one use
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Tank (Players Guide p.105)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, choleric blood, oaked wine or bourbon, and Kevlar fibers or cement or ground tortoiseshell.
+
+**Activation Cost:** One Rouse Check
+
+**System:** The first time the alchemist sustains damage in a scene, reduce the damage by five (before halving, as usual). The Formula then expires.
+
+**Duration:** Until the alchemist takes damage or the scene ends.
 
 </details>
 
@@ -400,6 +574,22 @@ For those who know the donor by sight, telling the drinker from the donor requir
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Discipline Channelling</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Cults of the Blood Gods p.46)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Concoct Ashe</mark>](thin-blood-alchemy.md#concoct-ashe-cults-of-the-blood-gods-pp.45-46)
+
+**Ingredients:** Crushed leaves from the indigo plant.
+
+**Activation Cost:** The same as the channeled power.
+
+**Dice Pools:** The same as the channeled power.
+
+**System:** When using Concoct Ashe, this formula may be used to imbue remains with the abilities of the vampire they once formed. When consumed, this altered Ashe provokes a Willpower test at a Difficulty of the destroyed vampire’s highest Discipline rating. On a win, the thin-blood gains the use of a single Discipline power that the destroyed vampire possessed, until the end of the chapter. Use the destroyed vampire’s Discipline rating whenever a channeled power calls for one. The Storyteller may state the Disciplines and specific powers the deceased vampire held so the alchemist can choose from a list, or if the alchemist has a power in mind they can request it from the Storyteller. The Storyteller has final say. On a critical win the thin-blood gains the use of two Discipline powers that the destroyed vampire possessed.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Half-Living Conductor (Blood Sigils p.79)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric and sanguine mortal blood, molten conductive metal (gold, silver, copper, and aluminum are popular choices), ground rubber, rainwater from a thunderstorm.
@@ -415,6 +605,20 @@ Using electrical redirection in a conflict is a ranged attack using Dexterity + 
 On Distillation rolls with 1–3 successes, the alchemist is protected from electrical forces, but their redirected electrical attacks do no additional Health damage. On Distillation rolls with 6 or more successes, the alchemist’s body bursts with electrical power. Their attacks inflict Aggravated Health damage to mortals and supernaturals alike.
 
 **Duration:** One scene or until voluntarily ended.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Hollow Leg (Winter's Teeth #10)</strong></mark></summary>
+
+**Ingredients:** The alchemist's Blood, non-resonant human blood, five powderized tablets of aspirin, rotten eggs or powdered sulfur
+
+**Dice Pools:** Intelligence + Alchemy vs. Stamina + Composure
+
+**System:** By tricking, forcing or otherwise coercing the victim to imbibe this formula, the alchemist then conducts an Intelligence + Alchemy roll against the intended victim's Stamina + Composure. A success indicates that the poison has taken hold and will remain in the victim's system for an entire night or until their internal reserves of vitae have been completely exhausted. Additional margins of success increases the victim's current hunger (one rank for every two additional successes) until the poison runs its course. No amount of feeding (including the blood consumed with the poison) will slake the victim's hunger.
+
+**Duration:** One night or until the victim suffers a hunger frenzy
 
 </details>
 
@@ -443,6 +647,40 @@ On Distillation rolls with 1–3 successes, the alchemist is protected from elec
 **System:** When applied or consumed, this places the subject in a peculiar state of moral forgetfulness. The next time someone close and trusted violates the drugged person’s Convictions or commits an act against them, those memories simply do not take. It slips free of the mind like amnesia, and cannot be restored. Being told, “Saphir killed your sister, man! Why are you still friends with him?!?” sounds fake and makes no sense. The very notion that the crime might have occurred fades within moments.
 
 **Duration:** Permanent until the target imbibes a choleric Dyscrasia.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Short Circuit (Players Guide p.105)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, battery acid, melancholy blood, and salt water.
+
+**Activation Cost:** One Rouse Check
+
+**System:** By making a Rouse Check and touching the equipment (or metal connected to it) the alchemist automatically and silently shorts it out. This allows an alchemist to, for example, cause a blackout of an entire building by touching a power outlet, or a car by brushing against its body.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Toxic Personality</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide pp.106-107)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, choleric blood, potash or lye, animal spleen, cheesecloth, and iodine.
+
+**Activation Cost:** One or two Rouse Checks
+
+**Dice Rolls:** Strength or Dexterity + Alchemy vs. Dexterity + Athletics
+
+**System:** When active, the power allows the alchemist to corrode any material in seconds by simply making contact with it and gains +2 damage on brawl attacks as their mere touch becomes acid. (As the alchemist controls how and where they excrete the acid their own clothes are usually unaffected.) The Storyteller is the final arbiter on the extent of damage caused but the acid is supernaturally strong and far more potent than that produced by Corrosive Vitae (see Vampire: The Masquerade, p. 273).
+
+The alchemist may make a second Rouse check to projectile vomit the bile as an attack (Strength + Alchemy during melee, Dexterity + Alchemy for a ranged spitting attack). On a win, the bile does the margin +3 in Superficial Health damage (Aggravated to mortals).
+
+_Athanor Corporis or Calcinatio:_ The alchemist or vessel can only hold this Formula after distillation for a week before they begin to look sickly: blue veins popping against their pale skin, and the skin itself sagging low on their bodies. After a month, the bile corrodes the Calcinatio vessel if not tapped.
+
+_Fixatio:_ The container of the bile slowly corrodes, falling completely apart in Alchemy + 4 weeks.
+
+**Duration:** One scene
 
 </details>
 
@@ -503,6 +741,35 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 When activated, the victim experiences a turn of panicked awareness, before exploding in a torrent of gore. Those within close range take Aggravated damage equal to twice the victim’s Stamina, while those further away halve that. Any vampires caught in the blast must also test for Hunger Frenzy at Difficulty 3.
 
 **Duration:** One week
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Flowering Amaranth</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide p.106)</strong></mark></summary>
+
+**Ingredients:** Blood from the alchemist and participating thin-bloods (up to three thin-bloods total), juice of red amaranth flowers from a plant fertilized with blood, pulverized leeches, hydrogen sulfide, and neon.
+
+**Activation Cost:** Everyone participating must roll\
+one Rouse Check
+
+**Dice Pool:** Resolve + Alchemy vs. Willpower pool + Blood Potency
+
+**System:** The alchemist and up to two other participants tie a silk cord around their wrists, connecting them in a triangle surrounding a true Kindred target, also so bound. The alchemist rolls Resolve + Alchemy; each additional thin-blood participant can add one die to the pool by spending 2 Willpower. If the true vampire resists, they use their Willpower pool + Blood Potency. On a win, the participating thin-bloods gain one dot in one of the target’s core clan Disciplines, determined randomly. (On a critical win, the alchemist can choose the Discipline.) They cannot learn or purchase this Discipline higher than the first dot, but in other respects can use it as though they were true Kindred. They do not gain generation, but still lose 1 Humanity and gain the black-veined aura of diablerie. The victim vampire is destroyed in effect, as per rules of diablerie (see Vampire: The Masquerade, p234).
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Moment of Clarity</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide p.106)</strong></mark></summary>
+
+**Ingredients:** The alchemist’s Blood, phlegmatic blood, cadmium, nootropics, and ash from burned pages of a meaningful text to the alchemist (scripture, favorite childhood novel).
+
+**Activation Cost:** One Rouse Check
+
+**System:** Upon activation, the alchemist gains mental clarity, their wits sharpen, and the Beast is temporarily sated. They add four dice to Mental or Discipline Skill pools, and can add four dice to Mental resistance checks against Disciplines requiring them: Dominate, Animalism, Presence, Auspex, and their amalgams. They are also immune to Messy Criticals and Frenzy, if susceptible to the latter.
+
+**Duration:** One scene
 
 </details>
 
