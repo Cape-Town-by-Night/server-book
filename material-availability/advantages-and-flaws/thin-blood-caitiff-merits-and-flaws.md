@@ -1,8 +1,8 @@
 # Thin-Blood/Caitiff Merits and Flaws
 
-## Allowed Merits
+## Caitiff
 
-### Caitiff
+### Allowed Merits
 
 <details>
 
@@ -54,59 +54,9 @@ You have easy access to a local coterie of three to five thin-bloods. They often
 
 </details>
 
-### Thin-Blood
+### Banned Merits
 
-<details>
-
-<summary><mark style="color:red;"><strong>Abhorrent Blood (Players Guide p.135)</strong></mark></summary>
-
-Something in your Blood makes other vampires unable to stomach it. Whether it is the perverse mix of life and undeath or your history of questionable Thin-Blood Alchemy, other vampires gag and vomit when they try to drink from you. Other vampires abort any bite attempts after the initial damage and anyone who tries to keep drinking from you must spend two points of Willpower each turn that they do so. Mortals and Thin-Blood Alchemy are not affected by this anomaly.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Faith-Proof (Players Guide p.136)</strong></mark></summary>
-
-Whether you consider yourself an atheist or devoutly religious, you remain too close to mortality for True Faith to affect you.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Low Appetite (Players Guide p.136)</strong></mark></summary>
-
-When at Hunger 0 or 1, and when rising at sunset, roll two dice on your Rouse Check and take the highest of the two.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Lucid Dreamer (Players Guide p.136)</strong></mark></summary>
-
-Most vampires don’t dream because they don’t sleep. You dream; you can recall and even sometimes control your dreams. Once per session, if you’re asleep by day you can ask the Storyteller to provide a clue from the previous night’s memories or a hint about the story suitable for dream revelation.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Mortality's Mien (Players Guide p.136)</strong></mark></summary>
-
-Your mortal nature still outshines your Beast. Your aura does not appear vampiric or supernatural; instead it looks mortal to anyone able to detect supernatural creatures. You can also add two dice to any attempt to make yourself appear mortal in other regards, such as makeup.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Swift Feeder (Players Guide p.136)</strong></mark></summary>
-
-Maybe you were a phlebotomist in life, or just didn’t like mess. You sip delicately and quickly, neatly slaking one Hunger in one turn, including licking the wound closed. This Merit can only be used once per scene.
-
-</details>
-
-## Allowed Flaws
-
-### Caitiff
+### Allowed Flaws
 
 <details>
 
@@ -157,6 +107,56 @@ The effects of this Flaw are ultimately up to the Storyteller, but it should at 
 Your body or a portion of it is covered in ancient texts of vampiric lore. Perhaps your sire inscribed them upon you, or they appeared on their own after the Embrace. Either way, shadowy forces conspire to use or destroy this lore.
 
 The major occult foe or force in the chronicle often interferes in your life, seeking to imprison, flense, mind-wipe, Blood Bond, or otherwise neutralize you. (They would never lower themselves to recruit a Caitiff, don’t be silly. You’re just a lost, disobedient book to them.) Maybe two such forces fight over the right to edit you! Any other character who “reads” the full text on your skin learns a terrible secret regarding Gehenna, Noddist prophecy, Bahari mysteries, or the like. You and the Storyteller may decide this together, or it may be a mystery to you!
+
+</details>
+
+## Thin-Blood
+
+<details>
+
+<summary><mark style="color:red;"><strong>Abhorrent Blood (Players Guide p.135)</strong></mark></summary>
+
+Something in your Blood makes other vampires unable to stomach it. Whether it is the perverse mix of life and undeath or your history of questionable Thin-Blood Alchemy, other vampires gag and vomit when they try to drink from you. Other vampires abort any bite attempts after the initial damage and anyone who tries to keep drinking from you must spend two points of Willpower each turn that they do so. Mortals and Thin-Blood Alchemy are not affected by this anomaly.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Faith-Proof (Players Guide p.136)</strong></mark></summary>
+
+Whether you consider yourself an atheist or devoutly religious, you remain too close to mortality for True Faith to affect you.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Low Appetite (Players Guide p.136)</strong></mark></summary>
+
+When at Hunger 0 or 1, and when rising at sunset, roll two dice on your Rouse Check and take the highest of the two.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Lucid Dreamer (Players Guide p.136)</strong></mark></summary>
+
+Most vampires don’t dream because they don’t sleep. You dream; you can recall and even sometimes control your dreams. Once per session, if you’re asleep by day you can ask the Storyteller to provide a clue from the previous night’s memories or a hint about the story suitable for dream revelation.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mortality's Mien (Players Guide p.136)</strong></mark></summary>
+
+Your mortal nature still outshines your Beast. Your aura does not appear vampiric or supernatural; instead it looks mortal to anyone able to detect supernatural creatures. You can also add two dice to any attempt to make yourself appear mortal in other regards, such as makeup.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Swift Feeder (Players Guide p.136)</strong></mark></summary>
+
+Maybe you were a phlebotomist in life, or just didn’t like mess. You sip delicately and quickly, neatly slaking one Hunger in one turn, including licking the wound closed. This Merit can only be used once per scene.
 
 </details>
 

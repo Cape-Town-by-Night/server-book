@@ -41,5 +41,4 @@
   * [Coterie Advantages and Flaws](material-availability/coterie-advantages-and-flaws.md)
   * [Thin-Blood/Caitiff Merits and Flaws](material-availability/advantages-and-flaws/thin-blood-caitiff-merits-and-flaws.md)
 * [Loresheets](material-availability/loresheets.md)
-* [Max look at these](material-availability/max-look-at-these.md)
 * [Bloodlines](material-availability/bloodlines.md)

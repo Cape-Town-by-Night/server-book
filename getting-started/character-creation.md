@@ -162,7 +162,7 @@ Note that if you are playing a character who is pretending to be a clan that the
 
 ## Deciding on Convictions
 
-Convictions are a set of beliefs that assist in defining a character’s worldview and morals. Each conviction must be linked to a living human, or “touchstone”, that exemplifies the belief. Touchstones must live in Cape Town and can be background characters gained from Advantages or Flaws (Contacts, Allies, Enemies, etc.).
+Convictions are a set of beliefs that assist in defining a character’s worldview and morals. There are examples of Convictions in Players Guide (p.207) and in Core (p.172). Each conviction must be linked to a living human, or “touchstone”, that exemplifies the belief. Touchstones must live in Cape Town and can be background characters gained from Advantages or Flaws (Contacts, Allies, Enemies, etc.).
 
 #### **What if my Touchstone dies?**
 
