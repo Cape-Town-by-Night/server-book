@@ -307,14 +307,75 @@ Al-Ashrad has chosen you to succeed him as Amr, should he face final death befor
 
 </details>
 
+## In Memoriam
+
+<details>
+
+<summary><mark style="color:green;"><strong>Descendant of Dracula, </strong></mark><em><mark style="color:green;"><strong>Tzimisce Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.151)</strong></mark></summary>
+
+_As Vlad Tepes moved Europe, he made many enemies, not least among the Kindred. But where he moved, he also took childer, and his childer took childer too. At least, that’s what the rumors say. It’s known that for a time, it was all the rage to be a childe of Dracula. Young Kindred, eager to set themselves apart, perhaps deserted by their actual sires, claimed the title often enough. Some hinted coquettishly at their mysterious ancestral lands, carrying a jar of dirt for the aesthetic of it, others did so with the reluctance of those who know that the honor of belonging to a bloodline many would see ended is a most uncertain one._
+
+_Tonight, only a few would openly claim the bloodline of the Impaler as their own. Some even suggest that Tepes’ childer were all destroyed in the last century, perhaps by Dracula himself. Nonetheless, you are just one such descendant._
+
+**• Blood of the Dragon:**&#x20;
+
+Your vitae carries a hint of Dracula’s legendary strength. Once per story, you can amplify your physical prowess, gaining an additional die to all Physical tests for one scene.
+
+**•• Of the Earth:**&#x20;
+
+Your connection to the land is profound. Once per story, you can dig yourself down in the ground to mend all levels of Aggravated Willpower or Physical damage over 48 hours. The use of Earth Meld is optimal, though a shovel is permissible.
+
+**••• Charisma of the Count:**&#x20;
+
+Your lineage grants you an otherworldly charm. You gain a free specialty in Persuasion and receive a bonus die to all tests involving seduction or charm.
+
+**•••• Whispers in the Blood:**
+
+Vlad has taught himself countless Disciplines. Your Blood is also full of potential and unawakened powers. Once per story, you may use any power you don’t already know as long as it is on a current or lower level of a Discipline you already have levels in.
+
+**••••• Dracula’s Chosen:**&#x20;
+
+Among the descendants of the Dragon, you’re considered to be the main heir. You gain the grudging respect and jealousy of your bloodline. Once per story, you can call in a favor, the equivalent of up to a major boon, from your relations. Your relatives will expect you to favor them in turn, or at least prove yourself worthy of your title. Should you fail, the machinations to replace you will no doubt begin.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>The Vanderbilt Ventrue, </strong></mark><em><mark style="color:green;"><strong>Ventrue Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.154)</strong></mark></summary>
+
+_The Vanderbilt family was one of the most influential families in late 19th century New York, their immense wealth amassed through the business of railroads and shipping. Cornelius Vanderbilt was the richest man in America by his death in 1877, and his son William Henry Vanderbilt doubled the fortune in the following decade until his own untimely and suspicious death. The epitome of Gilded Age opulence, the Vanderbilts held almost royal status in American society. The main family themselves were mortals, but the same cannot be said for their wider circle of friends and relatives. At the height of their fortune, the Vanderbilts were all but surrounded by Ventrue. You were one of the parasites on the corpse of the gilded family, making alliances to keep as much of it to yourself as possible._
+
+**• Well-connected:**&#x20;
+
+You are a cousin or descendant of the Vanderbilt Ventrue. Once per story, you can call upon a distant relative for a minor favor. This could be access to a social event, a small financial loan, or a recommendation from someone influential.
+
+**•• Financial Problem-solving:**
+
+Gain an additional dot in Resources. Additionally, you can spend a level of Willpower to gain a temporary Retainer (such as a private investigator, legal counsel, or a mortal bodyguard) for the duration of the story.
+
+**••• Someone of Worth:**&#x20;
+
+You were one of the Four Hundred, the crème de la crème of fashionable New York society. You gain an extra die in Social tests when interacting with high society figures, both mortal and Kindred. Additionally, you have a knack for reading social situations, allowing you an extra die to tests to gauge someone’s intentions no matter their status.
+
+**•••• In the Know:**&#x20;
+
+You became privy to some of the most closely guarded secrets in the Vanderbilt inner circle. Once per story, you can blackmail a suitable ancilla or elder Storyteller character—even antagonists. You can make the attempt on an additional victim but a test of Manipulation + Intimidation or Persuasion at Difficulty 5 is needed. The consequence of failure is never mild.
+
+**••••• Ancient Pact:**&#x20;
+
+You have knowledge of the occult ritual William Henry Vanderbilt and Alva Vanderbilt performed to double the family fortune. You can perform it, too. The ritual requires the sacrifice of a mortal of great promise—someone at the cusp of fame or with extraordinary talent, manifested as a rare Dyscrasia. If performed, the Ancient Pact Ritual gives extraordinary luck in financial matters. You gain +2 successes on any test connected to finances, financial crime, or the investigation of such. However, it comes with a curse. You get −1 die to all tests that would incur final death if failed. The pact lasts for a story and must then be renewed.
+
+</details>
+
 ## Tattered Facade
 
 <details>
 
 <summary><mark style="color:red;"><strong>Descendant of the Ankou, </strong></mark><em><mark style="color:red;"><strong>Malkavian Only</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(p.171)</strong></mark></summary>
 
-Since the dawn of history, Kindred have broken the edicts to assume the person of gods. The Ankou is likely one of these Kindred or at the very least probably not a Breton psychopomp. But their descendants have become obsessed with death and deriving information from it.\
-The Ankou was obsessed with death and visions, having settled in what is now northern France. The descendants of the Ankou have a vicious streak, a propensity for spilling blood, and an ability to deal with the death rivaling la Famiglia Giovanni and the Church of Set.
+_Since the dawn of history, Kindred have broken the edicts to assume the person of gods. The Ankou is likely one of these Kindred or at the very least probably not a Breton psychopomp. But their descendants have become obsessed with death and deriving information from it._
+
+_The Ankou was obsessed with death and visions, having settled in what is now northern France. The descendants of the Ankou have a vicious streak, a propensity for spilling blood, and an ability to deal with the death rivaling la Famiglia Giovanni and the Church of Set._
 
 **• Bleed Them Dry:** _Allowed_
 
@@ -342,8 +403,9 @@ Your visions have brought you local renown. Local luminaries seek you out for yo
 
 <summary><mark style="color:red;"><strong>Descendant of Baron Vollgirre, </strong></mark><em><mark style="color:red;"><strong>Toreador Only</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(p.172)</strong></mark></summary>
 
-Baron Philip Vollgirre’s influence on Clan Toreador has been understated by most. Cruel and sadistic, he gave in to many of the clan’s basest urges for centuries as a literal Baron when he ruled over his Domain in what would become France, much as the Dragons of the Old Clan did in their ancestral homelands. He is known to have studied their fleshcrafting arts as well, passing this unusual mastery to some lines of his own childer. Over the centuries, he has sired and slain dozens of childer, but at least 13 survived beyond his demise.\
-While no fewer than nine of his childer went on to despise him and join the Sabbat, others of his bloodline flourished among the Camarilla and Anarchs hiding their proclivities among the monsters of those sects. Most have reputations as hard workers, willing to do whatever must be done to maintain the Masquerade with other Kindred. In private, however, their havens and hunting grounds are littered with the bodies of their victims.
+_Baron Philip Vollgirre’s influence on Clan Toreador has been understated by most. Cruel and sadistic, he gave in to many of the clan’s basest urges for centuries as a literal Baron when he ruled over his Domain in what would become France, much as the Dragons of the Old Clan did in their ancestral homelands. He is known to have studied their fleshcrafting arts as well, passing this unusual mastery to some lines of his own childer. Over the centuries, he has sired and slain dozens of childer, but at least 13 survived beyond his demise._
+
+_While no fewer than nine of his childer went on to despise him and join the Sabbat, others of his bloodline flourished among the Camarilla and Anarchs hiding their proclivities among the monsters of those sects. Most have reputations as hard workers, willing to do whatever must be done to maintain the Masquerade with other Kindred. In private, however, their havens and hunting grounds are littered with the bodies of their victims._
 
 **• The Seven Arts:** _Allowed_
 
@@ -491,8 +553,9 @@ The Greek Gangrel of Constantinople were renowned for their political insight, a
 
 <summary><mark style="color:red;"><strong>Descendant of Phaedyme, </strong></mark><em><mark style="color:red;"><strong>Ravnos Only</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(p.160)</strong></mark></summary>
 
-While the Ravens may often be considered vagrants, wanderers, and drifters, the ancient methuselah Phaedyme and her descendants were drawn to different childer. Phaedyme Embraced a line of pilgrims and knights whose reputation is still remembered in some corners of the globe. A Macedonian woman who fought alongside Alexander’s forces as a man, she was Embraced in India but journeyed west to Gaul to establish herself. Fighting off the threats from locals was easy given her history, and she instilled that sense of martial prowess and duty to her childer.\
-Her descendants gained fame in Antiquity and the Dark Ages, traveling with pilgrim bands to and from the Holy Land and delivering messages between Domains.
+_While the Ravens may often be considered vagrants, wanderers, and drifters, the ancient methuselah Phaedyme and her descendants were drawn to different childer. Phaedyme Embraced a line of pilgrims and knights whose reputation is still remembered in some corners of the globe. A Macedonian woman who fought alongside Alexander’s forces as a man, she was Embraced in India but journeyed west to Gaul to establish herself. Fighting off the threats from locals was easy given her history, and she instilled that sense of martial prowess and duty to her childer._
+
+_Her descendants gained fame in Antiquity and the Dark Ages, traveling with pilgrim bands to and from the Holy Land and delivering messages between Domains._
 
 **• Skilled Traveler:** _Allowed_
 
@@ -520,8 +583,9 @@ Phaedyme’s Blood drives you to defend your charges, quickening your limbs and 
 
 <summary><mark style="color:red;"><strong>Descendant of the Fallen Lord, </strong></mark><em><mark style="color:red;"><strong>Salubri Only</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(p.161)</strong></mark></summary>
 
-Sometime in the late 20th century, a Sabbat pack uncovered a Kindred locked in Torpor in a Polish mine. After he came to understand the changes of the past millennium, he threw his lot in with the Sabbat, bearing an ancient grudge against the Tremere and the Camarilla that protected them. He trained his childer initially with ancient martial arts and then began mastering modern guerrilla tactics. This individual is often referred to only as the Fallen Lord today, glossing over various blasphemous titles used in the past.\
-Over a decade or two, his childer swelled within the ranks of the Sabbat. With the Sabbat’s fall to civil war and the fractured remnant’s focus on the Gehenna Crusade, many of his descendants fled the Sabbat, whether they were new recruits or unwilling converts looking to salvage what was left of their souls. The Fallen Lord’s brood is rumored to be responsible for many of the Salubri found in the modern nights.
+_Sometime in the late 20th century, a Sabbat pack uncovered a Kindred locked in Torpor in a Polish mine. After he came to understand the changes of the past millennium, he threw his lot in with the Sabbat, bearing an ancient grudge against the Tremere and the Camarilla that protected them. He trained his childer initially with ancient martial arts and then began mastering modern guerrilla tactics. This individual is often referred to only as the Fallen Lord today, glossing over various blasphemous titles used in the past._&#x20;
+
+_Over a decade or two, his childer swelled within the ranks of the Sabbat. With the Sabbat’s fall to civil war and the fractured remnant’s focus on the Gehenna Crusade, many of his descendants fled the Sabbat, whether they were new recruits or unwilling converts looking to salvage what was left of their souls. The Fallen Lord’s brood is rumored to be responsible for many of the Salubri found in the modern nights._
 
 **•** I**nstinct for Death:** _Allowed_
 

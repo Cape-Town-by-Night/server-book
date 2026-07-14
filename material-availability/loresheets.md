@@ -1702,33 +1702,155 @@ Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himse
 
 </details>
 
+## In Memoriam
+
+<details>
+
+<summary><mark style="color:green;"><strong>Birth of the Anarch Free States p.149</strong></mark></summary>
+
+_The Second Anarch Revolt started with the toppling of the old Camarilla Prince in Los Angeles in 1944. Soon violence gripped the city, with Anarch gangs seeking out Camarilla holdouts, those loyal to the old order seeking to escape or make a glorious last stand. Havens burned, Kindred met their ends, and the Anarchs triumphed. Due to the legendary nature of those nights of revolution, many of the Kindred who were there enjoy bragging about it. Some of those who were not there have made up invented histories for themselves, pretending that they too were part of this great event._
+
+_Now in the wake of the Third Anarch Revolt, being connected to the birth of the Anarch Free States in Los Angeles carries a certain cachet. You are an original revolutionary._
+
+**• Fake Revolutionary:**
+
+You’ve been telling people stories of your exploits in Los Angeles in the fateful first nights of the Revolt. They’re not true, but who cares? You’ll take the status that comes with being a revolutionary hero. You get a bonus die to all attempts to rally, cajole, and manipulate Anarchs. However, if you meet someone who genuinely was in Los Angeles at that time, you must succeed at a Manipulation + Subterfuge test (Difficulty 4) to convince them you are what you claim you are.
+
+**•• Connections:**&#x20;
+
+You were not there for the Revolt, but you know someone who was. Once per story, you can contact them and ask a question related to Anarch politics or the history of the Free States and get an honest answer.
+
+**••• Original Rebel:**&#x20;
+
+You were in Los Angeles at the time of the Second Anarch Revolt. You fought to free your city from the oppression of the Camarilla. You know how to rebel and receive a bonus die to all tests involving a revolution against Camarilla hegemony.
+
+**•••• Hero of the Revolution:**&#x20;
+
+Not only were you in Los Angeles, you were pivotal to the success of the Revolt and your compatriots know it. You fought in a crucial battle or stopped an important VIP from escaping. Once per story, you may call on former allies to summon an Anarch gang to your aid. There’s five of them, all neonates, with 4 dots in Disciplines each (with no power higher than level three) and a General Difficulty of 4/3. They only help if the action can be presented as part of the righteous struggle against the Camarilla.
+
+**••••• Legacy of the Revolution:**
+
+What has happened before can happen again. Once per chronicle, you can ignite a proper, domain-wide Anarch Revolt in any city you visit, subject to Storyteller approval. The Revolt has a decent chance of success but you will need to participate in decisive battles and risk your unlife to make sure.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Childe of the Revolution p.150</strong></mark></summary>
+
+_The French Revolution was a time of tremendous upheaval, unleashed brutality, and political change. The elite Camarilla old guard lost a lot of control from their old aristocratic and landlord roots, while the newly formed Bohemians rallied entrepreneurial and reformist younger generations to tip the balance of power. The infighting, rioting, and war escalation allowed the Anarchs to roam Paris unimpeded for several years and to recruit in numbers. The Camarilla elite worked towards culling these upstarts and driving them out after the Restoration._
+
+_Kindred who made it through the Revolution can tell many stories of this unique time, its careless brutality, its vibrant hope for change, its dark memories of the dead and dying, and streets running with blood._
+
+**• Rousing Speech:**&#x20;
+
+You underwent a time of unique political change and breathed an atmosphere of contestation. When arguing in favor of going against the established order, you can add two dice to a Persuasion or Leadership test.
+
+**•• Under the Guillotine:**&#x20;
+
+You participated in frantic celebrations under the Guillotine, where people would slather themselves with blood. You have learned to keep a cool head amid complete crowd chaos. Once per story, you may reroll a failed Hunger Frenzy test.
+
+**••• Bal des Victimes:**&#x20;
+
+After the Revolution, you attended the famed Bal des Victimes, where mourners of revolutionary violence could connect and share their grief over the death of their loved ones. You might be mourning someone yourself or just used the meetings for connections. You can get +2 dice on social tests if you find a way to connect to your target through grief, or +3 if the target was another Bal des Victimes participant.
+
+**•••• Friend of Beaumont:**&#x20;
+
+You were close to Félicien Beaumont and helped him advance his political agenda and secure important positions in the heat of the Revolution. You have remained in his circle of proteges ever since. Beaumont counts as a five-dot Mawla, but once per story, he’ll request something from you in return, the equivalence of one minor boon.
+
+**••••• Bohemian Affinities:**&#x20;
+
+Your influence with the reformist Revolutionary faction is extensive, as you provided help to their cause, or maybe you were Embraced in their group. You get five dots to distribute among Haven, Contacts, and Resources. Furthermore, and can access the Halls of Montmartre location (p. 42), using it as a hideout from time to time.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>The Order of Repentants p.152</strong></mark></summary>
+
+_The Repentants are Kindred who lost much of their humanity but regained enough to maintain control. They now devote themselves to repenting the vile actions they performed while the Beast controlled them. To join their ranks, you must convince the order of your will to pay for your sins, usually by prostrating yourself in front of a whole chapter of other Repentants. In many ways, being one of the Repentants is similar to belonging to a monastic order as the rules are strict and many. A Repentant exists in fear for what happens if they give in to the whispers of the Beast, and some take extreme measures to stay on that narrow path of self-control. This may involve self-inflicted pain, asceticism, or extensive meditation. Some become self-absorbed in their martyrdom, finding a sort of enjoyment in the constant punishment._
+
+<sub>_To be a Repentant, something must’ve happened that caused the character to drop in Humanity and to regain it again. If there isn’t already something in your backstory that fits, you committed an atrocity and have since saved more lives than you took. Choose a method for how your character keeps on the right track and how they’re trying to make amends. You could also include a goal that would make the character leave the Order of Repentants._</sub>
+
+**• Sponsorship:**&#x20;
+
+Repenting is easier with someone to support you and keep you focused on the horror’s you’ve committed. You gain a three-dot Mawla from the Order who’ll help you once per story. They may also interfere in other ways if they hear of you straying from your path.
+
+**•• Surface Empathy:**&#x20;
+
+Being part of a community that requires you to lay bare your worst regrets has taught you to look beyond the surface. Once per session, you get +2 dice in an Insight or Persuasion test.
+
+**••• Flagellation:**&#x20;
+
+Self-punishment is the key to keeping the Beast in check. You get one extra die to resist Frenzy but need to severely punish yourself for it later that night, inflicting 1 Aggravated damage. If you forget, you automatically fail your next Frenzy test.
+
+**•••• Superior Focus:**&#x20;
+
+Monastic methods of self-regulation have taught you to focus on what you want, whether it’s obsessing over your own evil or moving towards a goal. You can reroll one bestial failure roll per story without sacrificing Willpower.
+
+**••••• Benevolence:**&#x20;
+
+You are devoted to saving your immortal soul, or at least acting as though you could. You can reroll one failed Remorse test per story or let another player reroll theirs.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>The Red Lady p.153</strong></mark></summary>
+
+_There is a Toreador ancilla somewhere in Prague called “the Red Lady.” She’s important in the local Camarilla, but not the strictest when it comes to her alliances, since she’s famous for her parties where no one asks questions about what affiliation you belong to. It’s a perfect place to disappear into a crowd, make deals with people you shouldn’t do business with, or just give in to some base, carnal desires. What happens in her parties, stays in her parties. But break that agreement, and you’ll never be invited again, or worse._
+
+**• You Gotta Know Somebody:**&#x20;
+
+You have a contact who can get you into one of the Red Lady’s famous parties.
+
+**•• Person of Interest:**&#x20;
+
+The Red Lady is known for her tastes in younger Kindred, even though her particular preferences vary and shift, and many opportunities arise if you embody what she currently favors. You happen to possess some quality she likes. Add one die in Charisma tests when in her presence or toward her partygoers.
+
+**••• A Pretty Pet:**&#x20;
+
+To be one of the Red Lady’s favorites comes with a long list of perks, as she happily shares her vast resources with you. You are one of her current pets. She is the equivalent of a two-dot Mawla, and you also gain a dot in Herd and one in Resources. These dots will stay as long as you have her good graces and disappear if you lose them.
+
+**•••• A Trusted Friend:**&#x20;
+
+You are one of her recruiters and a trusted enforcer of her will. Once per story, the Red Lady will attend one of your gatherings, and as a token of goodwill and your glorious mutual history, she will grant you a favor. When this occurs, also add one dot in Status (Camarilla).
+
+**••••• Red Haze:**&#x20;
+
+The Red Lady’s tastes are broad, ranging from the pedestrian to the exotic to the forbidden—the amaranth. Of course, it wouldn’t befit one of her station to display these telltale signs of a murderous appetite, so she had one of her devoted acolytes develop a method to remove these pesky marks. Once per story, the Red Lady will cleanse your Blood and aura of any evidence of diablerie.
+
+</details>
+
 ## Live From the Succubus Club
 
 <details>
 
 <summary><mark style="color:red;"><strong>Succubus Club Copycat p.162</strong></mark></summary>
 
-The legendary Succubus Club of Chicago set the gold standard for hiding in plain sight, with kindred from all over the world going out of their way to visit when possible. Following a series of devastating attacks on the local Camarilla in the mid-nineties, the club shuttered its doors, and the never-ending beat that once drew thousands through its doors was finally silenced.\
-Nature abhors a vacuum, and it didn’t take long for a roaming iteration of the Succubus Club to surface. While it ultimately ended in a disaster of its own, it opened the floodgates for many other pale imitations, each hoping to cash in on the original’s reputation. While the OG Chicago version is back up and running, numerous competitors have sprung up, some even use the Succubus Club name feigning authenticity only Helena’s bloodline could provide.\
-Business, like the ever-present beat, is booming.
+_The legendary Succubus Club of Chicago set the gold standard for hiding in plain sight, with kindred from all over the world going out of their way to visit when possible. Following a series of devastating attacks on the local Camarilla in the mid-nineties, the club shuttered its doors, and the never-ending beat that once drew thousands through its doors was finally silenced._
 
-• Finger on the Pulse: Allowed
+_Nature abhors a vacuum, and it didn’t take long for a roaming iteration of the Succubus Club to surface. While it ultimately ended in a disaster of its own, it opened the floodgates for many other pale imitations, each hoping to cash in on the original’s reputation. While the OG Chicago version is back up and running, numerous competitors have sprung up, some even use the Succubus Club name feigning authenticity only Helena’s bloodline could provide._
+
+_Business, like the ever-present beat, is booming._
+
+**• Finger on the Pulse:** Allowed
 
 The club acts as the nexus point for anyone who’s anyone, and as the owner, you know them all. You receive a one-die bonus to Social pools involving important mortals (even if only in their own minds), as they seek to curry your favor (or discretion).
 
-•• Energizing Beat: Allowed
+**•• Energizing Beat:** Allowed
 
 A success owes much to its hedonistic vibe and world-class set lists, and for the Kindred guests, this makes for a rich hunting ground. All blood Resonance is considered Intense for you when hunting in the club.
 
-••• Damage Control: Allowed
+**••• Damage Control:** Allowed
 
 Trained staff are on standby to negate the worst impacts of a feed gone wrong, no questions asked. Once per session, while hunting in the club, if you get a Messy Critical on a test or fail a Frenzy test, you can reroll all dice.
 
-•••• Loyalty: Locked
+**•••• Loyalty:** Locked
 
 Your staff are dedicated to you in a way that’s hard to explain, almost as if the club itself had got its hooks into them to ensure their unwavering loyalty. Any attempts by other Kindred to blood bond, Dominate, or sway your staff with Presence automatically fail if it would negatively impact you or the club.
 
-••••• Destination of Choice: Locked
+**••••• Destination of Choice:** Locked
 
 The reputation and mystique of the Succubus Club is legendary, so much so that even its clones carry that same seductive atmosphere of excess, edge, and danger. This unique cocktail of ingredients marks it as the place to be, and it’s common to see the city’s kindred in attendance. If the city’s undead leaders are hosting a gathering, you can successfully petition to have it hosted in your club, should you wish, once per session.
 
@@ -1738,27 +1860,29 @@ The reputation and mystique of the Succubus Club is legendary, so much so that e
 
 <summary><mark style="color:red;"><strong>The Pony Express p.163</strong></mark></summary>
 
-The Pony Express was founded by an enterprising group of Ventrue ancillae in response to the Camarilla’s abandonment of electronic communications in the aftermath of the Second Inquisition. Recognizing the need for a method of coordinating intercity communication across the sect, the group’s founder, Elliot Praxton, assembled a group of like-minded Ventrue to found what Praxton deemed “The Pony Express.”\
-The Express is a system of physical couriers that crisscross the nation using various modes of transportation ranging from muscle cars and unremarkable sedans, to boats, planes, and helicopters. Agents of the express in each city include Kindred and their ghouls who may be permanent fixtures of that domain, or move from city-to-city in a circuit. They operate a dizzying array of blind-letter drops, secret meets, and other anonymous forms of communication that they use to “collect the mail” in each domain. This mail ranges from heavily-encrypted flash drives to old-fashioned physical correspondence. Express drivers are culled from the ranks of Gangrel loyal to the Camarilla and an ever-increasing pool of young Ventrue and other ambitious Kindred.\
-Drivers brave the perils of the open road, handing off their packages to other drivers at pre-arranged drops or occasionally making long-hauls with particularly sensitive information. Anarchs, Lupines, and the Inquisition stand in their way, but they get the mail through, never taking the same route twice, and always covering their tracks. Working for the Express is dangerous on the best of nights, but it is vital to the Camarilla’s survival and Praxton pays extremely well.
+_The Pony Express was founded by an enterprising group of Ventrue ancillae in response to the Camarilla’s abandonment of electronic communications in the aftermath of the Second Inquisition. Recognizing the need for a method of coordinating intercity communication across the sect, the group’s founder, Elliot Praxton, assembled a group of like-minded Ventrue to found what Praxton deemed “The Pony Express.”_
 
-• Access to the Network: Needs Context
+_The Express is a system of physical couriers that crisscross the nation using various modes of transportation ranging from muscle cars and unremarkable sedans, to boats, planes, and helicopters. Agents of the express in each city include Kindred and their ghouls who may be permanent fixtures of that domain, or move from city-to-city in a circuit. They operate a dizzying array of blind-letter drops, secret meets, and other anonymous forms of communication that they use to “collect the mail” in each domain. This mail ranges from heavily-encrypted flash drives to old-fashioned physical correspondence. Express drivers are culled from the ranks of Gangrel loyal to the Camarilla and an ever-increasing pool of young Ventrue and other ambitious Kindred._
+
+_Drivers brave the perils of the open road, handing off their packages to other drivers at pre-arranged drops or occasionally making long-hauls with particularly sensitive information. Anarchs, Lupines, and the Inquisition stand in their way, but they get the mail through, never taking the same route twice, and always covering their tracks. Working for the Express is dangerous on the best of nights, but it is vital to the Camarilla’s survival and Praxton pays extremely well._
+
+**• Access to the Network:** Needs Context
 
 You have access to the Express and can send or receive a secure message or packet to or from any domain the Express operates in. The delivery will arrive within three nights to a week (Storyteller’s discretion).
 
-•• Station Agent: Needs Context
+**•• Station Agent:** Needs Context
 
 You collect the mail in your domain and facilitate the handoff to a driver. You have two-dots in Mask and are Zeroed. You also have access to the local Express station, a two-dot Haven with a one-dot Postern. It is owned by Paxton, but available to you while on official Express business. The obligation that comes with this Loresheet sees the vampire often chased or held accountable if expected deliveries do not make it to their recipients.
 
-••• Driver: Needs Context
+**••• Driver:** Needs Context
 
 You are a driver for the Express, granting you access to a wide array of vehicles and bolt holes across the nation. You can acquire a vehicle appropriate to your journey’s needs (Storyteller’s discretion) once per story. This is typically a car, truck, boat, small aircraft, or even motorcycle suitable to reach your destination. You also have access to the full Pony Express station network, representing a collection of two-dot Havens within one night’s travel of each other. They are owned by Praxton, but available to all his agents and drivers in time of need.
 
-•••• World Tour: Needs Context
+**•••• World Tour:** Needs Context
 
 Praxton recently took the Pony Express international, arranging secure stations at many of the world’s major air and seaports, and you are at the forefront of this new initiative. Once per story, you gain access to an international mode of travel specifically tailored to accommodate the unique needs of Kindred. This transportation is likely something fast and maneuverable, like a Lear jet, or slow and clandestine, like a birth on a faceless freighter. Two-dot Havens in the form of Express stations anchor each end of your journey.
 
-••••• Passenger Service: Needs Context
+**••••• Passenger Service:** Needs Context
 
 Always the innovator, Praxton operates a clandestine passenger service for “special” clients. Once per story, you and your coterie obtain passage from your domain to any destination the Express operates in (Storyteller’s discretion).
 
