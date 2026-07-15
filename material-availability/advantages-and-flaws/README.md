@@ -98,6 +98,24 @@ For each dot you possess in this Merit, you can scourge yourself once per sessio
 
 </details>
 
+<details>
+
+<summary><mark style="color:green;"><strong>Unholy Will ••,••••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+Your will and soul are bulwarks against the power of True Faith (Vampire: The Masquerade, p. 222). You may have spent many nights upon holy ground or argued with clever, devout theologians until the intricacies of their faith are as familiar to you as the dead stillness in your chest. You might have even gone to great lengths to harden your mind against the burning ardor of true believers or cast yourself so deeply into the role of demonic foe through ritual personae that you are firm in your conviction that your purpose is to test such belief. One way or another, as angel or devil, the signs and forms of True Faith do not hold sway against you.
+
+At two dots, add one die to any dice pool when you resist or contest an individual with true Faith on matters of their faith, including their miraculous abilities. Furthermore, you suffer one fewer point of damage from holy sources that harness the power of True Faith, such as blessed weapons or sacred ceremonies. At four dots, add two dice and suffer two fewer points of damage. The four dot and two dot versions of this Merit do not stack.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Zealotry •,•••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+The fire of your faith is an unstoppable bonfire, driving you to intense heights of zeal. You won’t let anything come between you and the fulfilment of your beliefs, no matter the cost to yourself or others. For each dot in this Merit, once per session after rolling a normal success on an action that corresponds to or aligns with one of your Convictions, you may choose to turn that normal success into a messy critical instead. In this way, you gain the usual benefits for a critical win on the roll in question along with the appropriate drawbacks for the mess you create in the process. Note that this does not yield additional successes, but only allows you to count the win as critical in a case where it matters.
+
+</details>
+
 #### Substance Use
 
 <details>
@@ -255,6 +273,24 @@ Hecata and Lasombra characters may select this merit at the two-dot level and ch
 <summary><mark style="color:green;"><strong>Persistent Blush •••</strong></mark> <mark style="color:green;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
 Your dead flesh is uniquely receptive to the Blood when it’s time to imitate life. Your lifelike demeanor and biological responses last much longer than your peers, and you can walk among mortals for nights at a time without extra effort. A single activation of Blush of Life persists for one week.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Cold Dead Hunger •••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.87)</strong></mark></summary>
+
+When hungry, your Beast is a weak and quiescent thing; it still urges you towards self-indulgent atrocity but is easier to quell. Perhaps you starved it through meditation or self-denial, or girded yourself in rites of black sorcery and red transgression; perhaps it’s just the way you are, and you have no explanation for the cold, dead hunger that nestles in your bosom. Add two dice to your rolls to resist Hunger frenzy.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Pack Diablerie ••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.87)</strong></mark></summary>
+
+Your thirst for the corrupt essence of other vampires is horrifically intense. If you attempt to consume a victim via diablerie alongside other partners, you are always the one who has the opportunity to consume the full “soul” unless you choose otherwise or one of your partners also has this Merit (in which case, the diablerists gain nothing unless all but one are destroyed or voluntarily relinquish the claim, at which point the victor gains the benefit). Additionally, when you help another to consume the full soul and if they are successful, then you also gain 5 experience points to spend on raising Blood Potency or Disciplines known to the victim, as if you yourself had committed diablerie and achieved one success on the Humanity + Blood Potency roll. You can use these experience points in concert with personal experience but must spend them immediately.&#x20;
+
+Duskborn vampires who engage in pack diablerie can spend experience on purchasing dots in the victim’s Disciplines and Blood Potency, their generation remains unaltered.
 
 </details>
 
@@ -763,6 +799,40 @@ Your devotion is writ large on your flesh in a mass of awful welts, the scarifie
 <summary><mark style="color:green;"><strong>Groveling Worm ••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
 
 You don’t get affirmation from scourging your own flesh; rather, your utter self-loathing and abject terror of offending some higher power demands that you perform such acts regularly just to function at all. You must find the time in a session to scourge yourself once per session, suffering two points of Superficial Health damage, or else you will suffer a point of Aggravated Willpower damage at the beginning of the next session. Characters with the Penitence Merit cannot take this Flaw.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Beacon of Profanity •</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+The dark power within you leaks out. Mortals with any amount of True Faith can sense your presence, not just those with True Faith 3 or higher.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Crisis of Faith •</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+You are terrified of losing control, especially to the Beast that threatens to make a mockery of your faith. Whenever your actions result in a bestial failure, you suffer one point of superficial Willpower damage in addition to any other effects from the roll.
+
+</details>
+
+#### Contagion
+
+<details>
+
+<summary><mark style="color:green;"><strong>Disease Vector •</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+The corrupt life energy of your vitae is fertile ground for the festering sicknesses of the kine. Whenever you feed from a sick mortal, you always contract that sickness and will pass it on to your next vessel.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Plaguebringer •-••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.87)</strong></mark></summary>
+
+You have a disease in your vitae that you cannot expunge and that manifests its symptoms on your body despite your undead state; even totally flushing all the blood from your body and drinking afresh does not rid you of it. It seems to well up from your corrupt soul. At one dot, the disease is minor but expresses visible traces such as a rash, sores, coughing or sneezing, or oozing mucus. At two dots, the disease is potentially severe if you leave it untreated, although it is not necessarily fatal. Furthermore, it does not need to leave visible symptoms upon you. In either case, mortal victims of your bite who are susceptible to the disease will contract it. The dice penalties stemming from this Flaw are situational, and more narrative penalties — such as having a sickly herd or weaker victims dying from subsequent illness — are advised.
 
 </details>
 
