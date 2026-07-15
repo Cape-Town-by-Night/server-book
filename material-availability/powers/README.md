@@ -437,7 +437,7 @@ If scanning a crowd, roll versus a Difficulty determined by the size of the crow
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Vermin Vision, Auspex 3 + Animalism 2 (Fall of London p.10)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Vermin Vision, Auspex 3 + Animalism 2 (Fall of London p.30)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
@@ -1823,7 +1823,7 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Clear the Field, Presence 3 + Dominate 1 (Fall of London p.31)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Clear the Field, Presence 3 + Dominate 3 (Fall of London p.31)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
@@ -1886,6 +1886,22 @@ After succeeding, the user adds dice equal to their Presence rating to any Socia
 The Resonance absorbed is usually intense, but may be accute (a Dyscrasia) on a critical win at the Storyteller’s discretion. Affected audience members are left with a fleeting Resonance at best. This power can be used once per scene.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Passion Leech, Presence 3 + Auspex 2 (Tattered Facade p.104)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Composure + Auspex
+
+**System:** The vampire must spend a scene in close proximity to a mortal target but needn’t directly engage them. (This Power has no effect on Kindred targets, even Humanity 10 Kindred.) After rousing, test Composure + Auspex against Difficulty 3 (Storytellers might lower this in situations where emotions are running high or are deliberately provoked). On a success, the vampire gains all the benefits of Humanity 10 until sunset (although they still gain Stains and roll Remorse at their current Humanity rating). On a critical win, they may also heal a Willpower damage of either type. On a bestial failure or Messy Critical, the surge of emotion is too much to bear, and the vampire suffers a Compulsion. Vampires can only benefit from this euphoric feeling once per night but can keep trying should they fail.
+
+Human targets of this Power lose all trace of Resonance in their blood for three nights, turning it to a fleeting Empty Resonance (Tattered Facade pp.48–49) . While empty of Resonance, the target can freely indulge their basest desires, descending into psychopathy with no higher nature or positive emotion to push back on these impulses.
+
+**Duration:** Until sunset for the vampire, three nights for mortal victims
 
 </details>
 
@@ -1971,22 +1987,6 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 **System:** Anyone seeing the building from outside or who are present inside it needs to resist the power used as if the vampire was present, unless the vampire is within eyesight, at which point they themselves becomes the focus. As a building does not generally make Skill checks, apply the bonuses instead to any reaction the victim has to the place. A nightclub under the influence of Awe will have queues stretching around the block, while a haven under Daunt will turn away all but the most staunch investigators. Use of Majesty has to be done with extreme caution, as the results can be spectacular and volatile, far exceeding the effect of the more subtle powers.
 
 **Duration:** As power transmitted
-
-</details>
-
-<details>
-
-<summary><mark style="color:yellow;"><strong>Passion Leech, Presence 3 + Auspex 2 (Tattered Facade p.104)</strong></mark></summary>
-
-**Cost:** One Rouse Check
-
-**Dice Pools:** Composure + Auspex
-
-**System:** The vampire must spend a scene in close proximity to a mortal target but needn’t directly engage them. (This Power has no effect on Kindred targets, even Humanity 10 Kindred.) After rousing, test Composure + Auspex against Difficulty 3 (Storytellers might lower this in situations where emotions are running high or are deliberately provoked). On a success, the vampire gains all the benefits of Humanity 10 until sunset (although they still gain Stains and roll Remorse at their current Humanity rating). On a critical win, they may also heal a Willpower damage of either type. On a bestial failure or Messy Critical, the surge of emotion is too much to bear, and the vampire suffers a Compulsion. Vampires can only benefit from this euphoric feeling once per night but can keep trying should they fail.
-
-Human targets of this Power lose all trace of Resonance in their blood for three nights, turning it to a fleeting Empty Resonance (Tattered Facade pp.48–49) . While empty of Resonance, the target can freely indulge their basest desires, descending into psychopathy with no higher nature or positive emotion to push back on these impulses.
-
-**Duration:** Until sunset for the vampire, three nights for mortal victims
 
 </details>
 
@@ -2211,8 +2211,6 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 **Prerequisite:** [<mark style="color:purple;">Vicissitude</mark>](./#vicissitude-protean-2--dominate-2-players-guide-pp.81-82)
 
 **Cost:** One Rouse Check
-
-**Dice Pool:** Resolve + Protean vs. Stamina + Resolve
 
 **System:** Horrid Form takes a full turn to activate, during which time the vampire can only defend, using their pre-Horrid Form dice pools. It then grants the vampire a number of free Vicissitude changes (no Attribute dots are lost) equal to their Protean rating. These can be spent on Redistribution, Weapons, and Armor. Generous Storytellers can also consider other changes such as wing-like membranes allowing the vampire to glide, extended limbs for reach, or other creative (but fair) uses. However, with the Beast so close to the surface, any criticals rolled while using Horrid Form for any reason are considered messy criticals, and any Frenzy test taken is at +2 Difficulty. The vampire also assumes an unmistakably inhuman appearance and is unable to communicate in anything but grunts, hisses, and roars.
 

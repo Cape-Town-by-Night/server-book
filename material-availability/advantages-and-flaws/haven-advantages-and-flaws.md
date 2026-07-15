@@ -182,6 +182,16 @@ Flaws
 
 <details>
 
+<summary><mark style="color:purple;"><strong>On the Rails • (Live From the Succubus Club p.26)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mobile</mark>](haven-advantages-and-flaws.md#mobile-live-from-the-succubus-club-p.25)
+
+Your haven’s movement is not entirely under your control, such as on a ship or train. You might speed or delay a departure, or make an unscheduled stop, but the destinations are likely fixed. Work with the Storyteller to determine where your haven travels.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Shared •-•• (Players Guide p.113)</strong></mark></summary>
 
 Your haven is not entirely your own. Other Kindred, besides you and your coterie, have access to it and can make decisions about it without consulting you. Decide the specific conditions and determine the severity of this Flaw based on those circumstances.
@@ -193,16 +203,6 @@ The one-dot Shared Flaw also covers short-term havens: you’re staying in an em
 The two-dot version of this Flaw means you have a local landlord. Another Kindred has rights to the property (either an actual land title or a grant from the local Prince or Baron) and graciously (or not) allows you to roost there. After haven creation, you must discuss any changes you wish to make to your haven with your landlord. The landlord can enter your haven at will. Especially older Kindred landlords may also call on you for service or dirty jobs, treating you like a vassal or apparatchik.
 
 Tremere chantries, Nosferatu warrens, and Ministry temples might be one or two-dot shared havens for characters of the appropriate clan, depending on the power balance between you and the other Kindred there.
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>On the Rails • (Live From the Succubus Club p.26)</strong></mark></summary>
-
-**Prerequisite:** [<mark style="color:purple;">Mobile</mark>](haven-advantages-and-flaws.md#mobile-live-from-the-succubus-club-p.25)
-
-Your haven’s movement is not entirely under your control, such as on a ship or train. You might speed or delay a departure, or make an unscheduled stop, but the destinations are likely fixed. Work with the Storyteller to determine where your haven travels.
 
 </details>
 

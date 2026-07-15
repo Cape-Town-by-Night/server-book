@@ -54,8 +54,6 @@ You have easy access to a local coterie of three to five thin-bloods. They often
 
 </details>
 
-### Banned Merits
-
 ### Allowed Flaws
 
 <details>
@@ -110,7 +108,33 @@ The major occult foe or force in the chronicle often interferes in your life, se
 
 </details>
 
+### Banned Merits
+
+### Banned Flaws
+
+<details>
+
+<summary><mark style="color:red;"><strong>Befouling Vitae •• (Players Guide p.127)</strong></mark></summary>
+
+When you Embrace mortals or leave them for dead from feeding, the Blood twists them into maniacal corpses with an unquenchable hunger.
+
+Any mortal you Embrace or kill by feeding returns as a desperate wight within a few nights. While these unfortunates are often too weak to be much of a threat (treat as a Ghoul; see Vampire: The Masquerade, p. 372), sometimes a trick of the Blood sees a real monster arise (treat as a Wight; see Vampire: The Masquerade, p. 375). Your unlife is a steady stream of clean-up jobs, for as soon as the local Prince or Baron gets wind of your condition you are likely to receive a personal (and terminal) visit from the powers that be.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Debt Peon •• (Players Guide p.127)</strong></mark></summary>
+
+Orphans often have to sell their proverbial souls to Princes and Barons to find their place in the night. These debts add up and few Caitiff ever climb out of the pocket of those in power, because the prestation system breaks down when Kindred society refuses to recognize the political existence, much less the rights, of the debtor.
+
+You owe several minor boons, or even a few major boons, to a high-Status vampire, possibly originally incurred by your Sire. Tracking these debts proves pointless, as the creditor extracts new boons whenever they have leverage over you and only considers any boon settled when forced to by their peers. They have a two-dice bonus to Social combat against you in front of other Kindred. Refusal to honor your debt adds the Shunned (••) Flaw, and may even result in a Blood Hunt against you.
+
+</details>
+
 ## Thin-Blood
+
+### Allowed Merits
 
 <details>
 
@@ -160,7 +184,7 @@ Maybe you were a phlebotomist in life, or just didn’t like mess. You sip delic
 
 </details>
 
-### Thin-Blood
+### Allowed Flaws
 
 <details>
 
@@ -226,38 +250,6 @@ Your Beast always hungers for more, never finding sustenance with smaller sips. 
 
 </details>
 
-## Banned Merits
+### Banned Merits
 
-### Caitiff
-
-<details>
-
-<summary><mark style="color:red;"><strong>Unending Hunger (Players Guide p.135)</strong></mark></summary>
-
-Your Beast always hungers for more, never finding sustenance with smaller sips. When feeding in a scene you sate one less Hunger than other thin-bloods. This applies only once per scene.
-
-</details>
-
-## Banned Flaws
-
-### Caitiff
-
-<details>
-
-<summary><mark style="color:red;"><strong>Befouling Vitae •• (Players Guide p.127)</strong></mark></summary>
-
-When you Embrace mortals or leave them for dead from feeding, the Blood twists them into maniacal corpses with an unquenchable hunger.
-
-Any mortal you Embrace or kill by feeding returns as a desperate wight within a few nights. While these unfortunates are often too weak to be much of a threat (treat as a Ghoul; see Vampire: The Masquerade, p. 372), sometimes a trick of the Blood sees a real monster arise (treat as a Wight; see Vampire: The Masquerade, p. 375). Your unlife is a steady stream of clean-up jobs, for as soon as the local Prince or Baron gets wind of your condition you are likely to receive a personal (and terminal) visit from the powers that be.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Debt Peon •• (Players Guide p.127)</strong></mark></summary>
-
-Orphans often have to sell their proverbial souls to Princes and Barons to find their place in the night. These debts add up and few Caitiff ever climb out of the pocket of those in power, because the prestation system breaks down when Kindred society refuses to recognize the political existence, much less the rights, of the debtor.
-
-You owe several minor boons, or even a few major boons, to a high-Status vampire, possibly originally incurred by your Sire. Tracking these debts proves pointless, as the creditor extracts new boons whenever they have leverage over you and only considers any boon settled when forced to by their peers. They have a two-dice bonus to Social combat against you in front of other Kindred. Refusal to honor your debt adds the Shunned (••) Flaw, and may even result in a Blood Hunt against you.
-
-</details>
+### Banned Flaws

@@ -54,6 +54,16 @@ Every subculture has its trappings; you’re the unliving embodiment of its part
 
 <details>
 
+<summary><mark style="color:green;"><strong>Semblance of the Methuselah •-••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions pp.85-86)</strong></mark></summary>
+
+Whether you’re aware of it or not, you have a striking resemblance to a methuselah of your line. Perhaps your own sire felt a strange attraction to your appearance that drove them to Embrace you for reasons they couldn’t quite explain, or it may be that the raw power of your ancestor’s blood physically shifted your looks to more closely match theirs upon your embrace.
+
+Upon taking this Merit, you may choose a specific methuselah of your clan from whom you are ultimately descended and whom you resemble. Alternatively, you may allow your Storyteller to choose and leave the nature of your similarity a mystery to you — for now, at least. Each dot in this Merit grants you one additional die on dice rolls to impress, intimidate, or attract the attention of those who recognize and fear or respect the progenitor whom you resemble. Each dot in this Merit may also add to your Status dots within your clan during official gatherings or ceremonies or within a cult that venerates the methuselah whom you resemble. If you are luckless enough to encounter the methuselah in question, each dot in this Merit also grants you one additional die to any social rolls when interacting with them, although depending on the ancient in question, it may anger them to see such similarity.
+
+</details>
+
+<details>
+
 <summary><mark style="color:green;"><strong>Up All Night ••, ••••</strong></mark> <mark style="color:green;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
 
 Not all Kindred resemble walking corpses as they lose themselves to the Beast. For purposes of the Blush of Life, eating or drinking, and sexual intercourse, treat your Humanity score as one point higher than it is (maximum 10), or two points higher if this merit was purchased for 4 dots. Nosferatu cannot select this merit, and Hecata can only select it as a two-dot merit. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
@@ -75,6 +85,16 @@ Choose a storyteller character as your obsession. Once per session when in the p
 <summary><mark style="color:green;"><strong>False Love •</strong></mark> <mark style="color:green;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
 
 Choose a storyteller character as your obsession. When in their presence, treat your Humanity as one dot higher (max 10) for purposes of the Blush of Life, eating or drinking, and sexual intercourse. If this character dies you immediately gain three Stains, but can choose a new obsession at the beginning of the next session. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Penitence •-•••••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+In pain, you find absolution. By scourging yourself — lashing your skin with a whip, driving needles into your flesh, or some other self-abusive act — you reaffirm your faith.
+
+For each dot you possess in this Merit, you can scourge yourself once per session as part of a scene, suffering one point of Superficial Health damage and immediately healing one point of Superficial Willpower damage. Scourging usually takes an entire scene to complete.
 
 </details>
 
@@ -692,6 +712,24 @@ You can be Blood Bound to two individuals at the same time. This may cause no en
 
 <details>
 
+<summary><mark style="color:green;"><strong>Illiterate •• (Core p.179)</strong></mark></summary>
+
+You cannot read or write. Your Academics and Science Skills are capped at 1, and you can have no specialty in them incorporating modern knowledge.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Knowledge Hungry •</strong></mark> <mark style="color:green;"><strong>(Players Guide p.121)</strong></mark> </summary>
+
+You always feared that you wouldn’t have the time to learn everything you wanted about what’s truly important. Well, that’s one problem solved. The time to learn is not always now, though — you regretfully put a bookmark in your studies and attend to more life-threatening matters.
+
+At character creation, pick a topic that your character hungers to study. When your character comes across books, tutorial videos, college seminars, or other methods of learning about their chosen subject, make a Willpower roll at Difficulty 3 to resist chasing their obsession.
+
+</details>
+
+<details>
+
 <summary><mark style="color:green;"><strong>Risk-Taker •</strong></mark> <mark style="color:green;"><strong>(Players Guide p.121)</strong></mark> </summary>
 
 You’re one of those people who feel compelled to take every chance to experience life at its fullest.
@@ -710,21 +748,21 @@ Take a one-die penalty to Social pools against your leader or superior. Even whe
 
 </details>
 
+#### Psychological
+
 <details>
 
-<summary><mark style="color:green;"><strong>Knowledge Hungry •</strong></mark> <mark style="color:green;"><strong>(Players Guide p.121)</strong></mark> </summary>
+<summary><mark style="color:green;"><strong>Horrible Scars of Penitence •</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
 
-You always feared that you wouldn’t have the time to learn everything you wanted about what’s truly important. Well, that’s one problem solved. The time to learn is not always now, though — you regretfully put a bookmark in your studies and attend to more life-threatening matters.
-
-At character creation, pick a topic that your character hungers to study. When your character comes across books, tutorial videos, college seminars, or other methods of learning about their chosen subject, make a Willpower roll at Difficulty 3 to resist chasing their obsession.
+Your devotion is writ large on your flesh in a mass of awful welts, the scarified marks of your faith, or the evidence of other tools of self-mortification emblazoned on your body. You are extremely distinctive in this respect, and anyone who looks at you can immediately recognize the signs of faith taken to an extreme — even if you cease to perform such physical acts of penitence. This Flaw is equivalent to the Repulsive Flaw (see Vampire: The Masquerade, p. 179), but only when you’re among vampires and mortals not from within your cult.
 
 </details>
 
 <details>
 
-<summary><mark style="color:green;"><strong>Illiterate •• (Core p.179)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Groveling Worm ••</strong></mark> <mark style="color:green;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
 
-You cannot read or write. Your Academics and Science Skills are capped at 1, and you can have no specialty in them incorporating modern knowledge.
+You don’t get affirmation from scourging your own flesh; rather, your utter self-loathing and abject terror of offending some higher power demands that you perform such acts regularly just to function at all. You must find the time in a session to scourge yourself once per session, suffering two points of Superficial Health damage, or else you will suffer a point of Aggravated Willpower damage at the beginning of the next session. Characters with the Penitence Merit cannot take this Flaw.
 
 </details>
 

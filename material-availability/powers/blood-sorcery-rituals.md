@@ -1309,3 +1309,15 @@ When the trespasser attempts to cross the circle, roll a contest of Intelligence
 **System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
 
 </details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Warding Circle Against Cainites, Level 5 (Core p.282)</strong></mark></summary>
+
+**Ingredients:** The caster draws the Warding Circle with a rowan wand dipped in the mixture of ash from a still-burning fire and Blood.
+
+**Process:** The caster paints the circle and pentacles, which can cover up to a three-meter radius. It takes one full night to cast and a Ritual roll made at the time (at +2 to Difficulty) if the caster wants it to last a year and a day; otherwise it dissipates at dawn.
+
+**System:** When the trespasser attempts to cross the circle, roll a contest of Intelligence + Blood Sorcery vs the trespasser’s Willpower. (If the Storyteller or player wrote down the result of the original Ritual roll used to cast a year-long Warding circle, they can use that result here.) If the Warding circle fails, the trespasser can enter it. If the caster wins, the trespasser takes three points of Superficial Health damage (three points of Aggravated damage on a critical win) and cannot enter. The trespasser must spend a point of Willpower to attempt to enter the circle again. If the trespasser wins the contest, enters the circle and leaves it again, they must repeat their half of the contest (the caster’s initial result remains) to re-enter it.
+
+</details>
