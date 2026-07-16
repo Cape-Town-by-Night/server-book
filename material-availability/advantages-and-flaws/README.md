@@ -574,7 +574,9 @@ Your breath and body odor are supernaturally foul, redolent of open graves and r
 
 <summary><mark style="color:green;"><strong>Transparent •</strong></mark> <mark style="color:green;"><strong>(Players Guide p.120)</strong></mark> </summary>
 
-Your breath and body odor are supernaturally foul, redolent of open graves and rotting flesh. Even Nosferatu object to your stink. You can take minor steps to minimize the stench, such as splashing on plenty of cologne, but that causes other problems. Lose one die from seduction and similar Social dice pools, and lose two dice from Stealth pools against opponents who can smell, unless you are upwind.
+For whatever reason, you aren’t a good liar, and it shows. You either have a terrible poker face or your parents instilled in you a strong urge to be truthful even when it hurts.
+
+Lose one die from any pools requiring Subterfuge. You cannot gain dots in Subterfuge.
 
 </details>
 
@@ -677,14 +679,6 @@ The vessels you feed from have a habit of sticking around with you. You don’t 
 <summary><mark style="color:green;"><strong>Resonance Sensitivity •</strong></mark> <mark style="color:green;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
 
 You’re sensitive to the secret flavors of blood, and one of them really messes with your head. Pick one Resonance, excepting Animal and Void. When you feed on a vessel with that Resonance at an Intense or higher Temperament, your Storyteller creates a unique Compulsion (Vampire, p. 208) based on that Resonance that must be carried out before the end of the story. This Compulsion persists even if you feed from a vessel with a different Resonance or the same Resonance with a lesser Temperament later in the story. If it isn’t resolved at the end of the story, these suppressed emotions are released in a messy, potentially violent way of the Storyteller’s choosing. You may select this Flaw again to be sensitive to an additional Resonance.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Resonance Mimic ••</strong></mark> <mark style="color:green;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
-
-The vessels you feed from have a habit of sticking around with you. You don’t just pick up the Resonances in their blood, you’re absorbing parts of their memories, personality, or maybe even their very soul. After you feed on a mortal of any Resonance at a Fleeting Temperament or higher, you experience vivid and distracting visions of your victim’s memories during the next scene, which inflicts a two-dice penalty to a test of the Storyteller’s choice. Killing someone through feeding has an additional effect: the victim’s personality and memories persist in your mind and might take over your body for a scene when your Willpower is Incapacitated. This effect lasts until your Willpower is Incapacitated or the end of the story.
 
 </details>
 

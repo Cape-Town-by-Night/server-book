@@ -2613,8 +2613,6 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 **Cost:** Free
 
-**Dice Pools:** Wits + Oblivion
-
 **System:** On activation, the user’s eyes become supernaturally attuned to darkness, allowing them to ignore all low-light penalties, including those of supernatural origin. They still need their eyes to see and are affected by blindfolds and the like as usual.
 
 If a ghost is present and not attempting stealth or using a power to conceal its presence, the spirit becomes visible to the vampire using Oblivion’s Sight. In such cases, ghosts appear as they wish to appear, whether as humans bearing the wounds that caused their death, as spectral monstrosities, or as perfectly immaculate corpses. Ghosts do not automatically realize when a vampire spots them, but if they do, many react with fear or anger rather than passivity.
@@ -2655,7 +2653,7 @@ This power does not grant the ability to make physical contact with ghosts, and 
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Arms of Oblivion, Oblivion 2 + Potence 2 (Players Guide pp.86-87)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Arms of Ahriman, Oblivion 2 + Potence 2 (Players Guide pp.86-87)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
@@ -2753,8 +2751,6 @@ The power is an aura that lasts for an entire scene before it fades away. Anyone
 
 **Cost:** One Rouse Check
 
-**Dice Pool:** Resolve + Oblivion vs. Resolve + Composure
-
 **System:** Following a Rouse Check, the presence of the vampire’s senses in the shadow is undetectable by anything but supernatural means. (Sense the Unseen, for example). While this power is active the vampire perceives both their surroundings as well as what can be gleaned from the Shadow Perspective, as if looking through a screen or hole.
 
 **Duration:** Up to one scene
@@ -2834,8 +2830,6 @@ If the user has a religious Conviction with this attack, the use of this Power i
 <summary><mark style="color:red;"><strong>Stygian Shroud, Oblivion 4 (Players Guide p.90)</strong></mark></summary>
 
 **Cost:** One Rouse Check
-
-**Dice Pools:** Manipulation + Oblivion vs. Composure + Resolve
 
 **System:** The user makes a Rouse Check and spends a turn concentrating, spreading the shadow over the desired surfaces. The effect covers a circular area with a radius equal to twice the user’s Oblivion rating in yards/meters. The area is centered on the user or a spot in their line of sight.
 
