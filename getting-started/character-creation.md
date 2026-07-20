@@ -160,7 +160,7 @@ Note that if you are playing a character who is pretending to be a clan that the
 
 </details>
 
-Additionally, Hecata characters may (but do not have to) the Shifts in the Blood options presented on page 202 of Cults of the Blood Gods. If you wish to take the replacement Discipline as a fourth in-clan, you may take the Shifts in the Blood merit. This must be taken at character creation.
+Additionally, Hecata characters may (but do not have to) the Shifts in the Blood options presented on page 202 of Cults of the Blood Gods. If you wish to take the replacement Discipline as a fourth in-clan, you may take the [Shifts in the Blood](https://wiki.capetownvtm.com/material-availability/advantages-and-flaws#shifts-in-the-blood-trails-of-ash-and-bone-p.202) merit. This must be taken at character creation.
 
 ## Deciding on Convictions
 
