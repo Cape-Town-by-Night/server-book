@@ -1226,7 +1226,7 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary><strong>Minneapolis</strong> (No. 2, p. 1)</summary>
+<summary><strong>Minneapolis</strong> <strong>(No. 2, p. 1)</strong></summary>
 
 <sup>_While St. Paul may claim the distinction of age over her twin sister city, Minneapolis has her beat on both size and population. Beginning life as a milling outpost along the Mississippi river, Minneapolis has swung back and forth on the pendulum of progress in nights since._</sup>
 
@@ -1258,13 +1258,33 @@ In 2003, a riot stemming from a University of Minneapolis hockey victory was bla
 
 <details>
 
-<summary><strong>St. Paul</strong> <em>(Camarilla Characters Only)</em> (No. 2, p. 2)</summary>
+<summary><strong>St. Paul </strong> <strong>(No. 2, p. 2)</strong></summary>
 
-**• Dirty Boot:** Allowed\
-&#xNAN;**•• The Caves:** Allowed\
-&#xNAN;**••• Criminal History:** Allowed\
-&#xNAN;**•••• Courtier:** Locked\
-&#xNAN;**••••• Dual Citizenship:** Locked
+Built upon native Dakota land, the kine have their various pseudonyms for it: Imnzaska, the Saintly City, the "Pig's Eye," and the Last City of the East. That final nickname is particularly true for the city's Kindred, who view St. Paul as the last bastion of American Camarilla power before one reaches the lupine-dominated Rockies and the chaotic battlegrounds of the so-called Anarch Free States Of late, even its sister city of Minneapolis has become more and more defiant of Camarilla authority. Nevertheless, those who claim praxis over St. Paul tend to claim the title happily: "Prince of the Twin Cities".
+
+To many within the Ivory Tower, St. Paul is little more than a bourgeois pretender, an up-jumped satellite domain to the realm of Chicago. But for those who have dwelled there through decades and centuries, St. Paul represents everything that Clan Toreador holds dear From its Gallic origins to the thriving (if humble) local arts scene, the Clan of the Rose fancy themselves as the bringers of culture and civilization to a raucous American frontier.
+
+For the past century the monarch of St. Paul has been Prince Samantha Merrain - a Toreador of seemingly ancient origins. Though her true age and generation are a closely guarded secret, Merrain has seemingly avoided the siren call of the Beckoning. A beloved protector of the arts and and culture to some and a spoiled, vapid tyrant to others, Merrain's direct influence over Minneapolis has waxed and waned with the tenacity of the local Anarch movement, yet her hold over St. Paul is all but absolute.
+
+**• Dirty Boot:** Allowed
+
+If there is anything that Prince Samantha values, it's talent. Those who are useful for furthering the Prince's goals often find themselves wash in superficial praises from Merrain and her court. However, word travels fast between the Twin Cities, and those who may find them selves celebrated in St. Paul may be marked with susp cion elsewhere. You gain one rank of Status (Ca marilla) within the domain of St. Paul, however, you gain the Flaw Shunned (Anarchs) when in the borders of Minneapolis.
+
+**•• The Caves:** Allowed
+
+An open secret to locals, the man-made caves Beated un-derneath the otherwise innocuous Wabasha Street have plaved host to miners, mushroom farmers, bootleggers and nightclubs throughout the years. Suffice it to say their subterranean location has made them the ideal haven for Kindred, and many an Elysium has been held in the spacious, sandstone dancehall carved into the un-derground tunnels. As one of the denizens of the caves you gain Haven (\*\*) with the merits Postern (+) and Luxury.
+
+**••• Criminal History:** Allowed
+
+Though the age of Prohibition and gangsters may be over, organized crime still finds a foothold in St. Paul. From Babyface Nelson, to John Dillinger, to Machine Gun Kelly, you repensent a heritage of underworld cul ture that lives on to the modern nights Yim gain a dice bonus in all Streetwise rolls made to gather infor mation on local criminal activity, and a specialty of your choice in Larceny
+
+**•••• Courtier:** Locked&#x20;
+
+Those who know to cater to a Toreador Prince's whims have learned to make themselves not only little worker bees, but beautiful social butterflies You gain the specialty Etiquette (High Society) and may add + dive to any Social Conflict roll made within an Elysium or Courtly setting once per session
+
+**••••• Dual Citizenship:** Locked
+
+Perhaps your Prince Merrain has been so subtle as to not attract the ire of your fellow Kindred across the river. Or perhaps you've become so well-em-besidest as an Anarch within St. Paul that none would dare question your presence in either city You gain a cover identity, in the form of Mask (\*), for the purposes of undercover travelling within whichever Twin City you do not reside That isdentity may also gain two ranks of Status with either the Camarilla (for St. Paul) or the Anarchs (for Minneapolis) Once per story any egre gious benaking of the Masquerade (or that city's Tradi tions) may be blamed upon that false identity (and by extension, that Sect), leaving you to suffer little to consequences. This is an ideal strategy for both infiltre-tors and Agents Provocateur within both secta
 
 </details>
 
