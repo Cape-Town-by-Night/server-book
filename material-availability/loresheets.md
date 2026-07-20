@@ -1320,25 +1320,61 @@ You directly serve one of the anziani, and you know that they are on the Board o
 
 <details>
 
-<summary><strong>Blood Asceticism</strong> (p. 89)</summary>
+<summary><mark style="color:yellow;"><strong>Blood Asceticism</strong></mark> <mark style="color:yellow;"><strong>(p. 89)</strong></mark></summary>
 
-**• The Starveling Path:** Allowed\
-&#xNAN;**•• Glade of the Sleeping Beast:** Allowed\
-&#xNAN;**••• Lesser Vessels:** Allowed\
-&#xNAN;**•••• Bloodless Pedestal:** Locked\
-&#xNAN;**••••• Leash the Beast:** Locked
+<sup>_If blood is an addiction for the Kindred, then it’s no surprise that some vampires try to kick the habit. Of course, you can’t just go cold turkey; that’s a quick route to torpor, or ravenous frenzy and waking up covered in someone else’s blood. Those who take this endeavor seriously model themselves on mortal ascetics, trying to slowly starve their Beast into submission or to reduce their reliance on the red stuff over years or even centuries. Some see it as a potential path to Golconda._</sup>
+
+<sup>_Blood asceticism is a harsh path to follow, demanding the vampire reject the satisfaction and pleasure of sanguine satiation. This requires great willpower, and practitioners often resort to distracting their hungry Beast through the agony of self-mortification or fully embrace isolation and privation. Most Kindred reject such asceticism out of hand, since those who succeed are usually starving hermits and those who fail serve as fearsome lessons in the folly of denying your hunger when they snap and go on a rampage._</sup>
+
+**• The Starveling Path:** Allowed
+
+You’re not quiet about your dedication to blood asceticism and your desire to conquer the red thirst. Other Kindred may think you’re mad or a fool, but they can’t doubt your devotion. Once per session, providing you’ve not fed that night, you may add two dice to any roll to prove your strength of will, or to convince others of your dedication.
+
+**•• Glade of the Sleeping Beast:** Allowed
+
+You have found a place of quiet solitude to contemplate the shackles of your immortal hunger. It may be your haven, if you have one, or it may be a more remote location. While in your place of contemplation, as long as you are alone, you can re-roll one Rouse Check per session.
+
+**••• Lesser Vessels:** Allowed
+
+To subdue your thirst for human blood, you have learned to subsist on the lesser vitae of base animals. While you are alone, feeding from animals rather than humans slakes one more point of Hunger than it usually would for you, but never more than one level per scene. However, you also gain the Infamy Flaw: (•) Animal Drinker (Vampire: The Masquerade, p. 187) if news of your reliance on animal vitae gets out. Some Kindred may not care, but plenty will look down on you with contempt for being more like one of the kine than a real vampire.
+
+**•••• Bloodless Pedestal:** Locked
+
+Whether or not you’ve really managed to conquer your hunger, your displays of ascetic self-denial have attracted other Kindred who desperately want your claims to be true. This provides you with the equivalent of five dots of Status solely among vampires who see you as some sort of holy figure. You lose the benefits of these dots for the duration of any scene in which they witness you drinking blood, and the following scene thereafter.
+
+**••••• Leash the Beast:** Locked
+
+You’ve starved your Beast so often that it’s a weakened, feeble thing, bound beneath the chains of your willpower. Few other Kindred possess this level of self-control. The Difficulty of your Hunger frenzy rolls is always 2, regardless of the provocation.
 
 </details>
 
 <details>
 
-<summary><strong>Gehenna Cults</strong> (p. 90)</summary>
+<summary><mark style="color:green;"><strong>Gehenna Cults</strong></mark> <mark style="color:green;"><strong>(p. 90)</strong></mark></summary>
 
-**• Mark the Bloody Trail:** Allowed\
-&#xNAN;**•• Faithful Bloodhound:** Allowed\
-&#xNAN;**••• Dogma:** Allowed\
-&#xNAN;**•••• Cult Breaker:** Locked\
-&#xNAN;**••••• Red Truths:** Banned
+<sup>_Depending on whom you ask, Gehenna will soon befall the Kindred, or it’s happening right now, or it’s happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers._</sup>
+
+<sup>_The creeds of these new blood cults come in a dizzying variety of hatreds, anxieties, and hungers. The most successful spread their black wings from one city to the next, forming something like a cohesive doctrine even as feuding Kindred splinter off new schisms and heresies. Charting out the spread of such subversive elements requires an agile mind to keep track of the shifting tapestry, not to mention a strong stomach even by vampire standards. All too many Gehenna cults delve into stomach-churning practices._</sup>
+
+**• Mark the Bloody Trail:** Allowed
+
+Once per session when you begin investigating or researching the presence of a blood cult you’ve not previously used this lore for, the Storyteller gives you one free clue to help locate the cult or to understand their current plans.
+
+**•• Faithful Bloodhound:** Allowed
+
+You’re a proven investigator; you’ve exposed and taken down at least one Gehenna cult already, and shown your mettle in the eyes of the sects. Either the Camarilla or the Anarchs trust you as an expert on Gehenna cults. You wield three dots of Status while taking action to investigate or persecute a cult on behalf of that sect.
+
+**••• Dogma:** Allowed
+
+You’re steeped in the lore of Gehenna, and you’ve learned many permutations of warped faiths that your fellow Kindred wrap themselves in. Once per session, when you discuss a vampire’s faith with them or observe them practicing their faith, you can extrapolate the rough nature of the doctrines, Convictions, or code that the religion focuses on. The Storyteller does not need to give you the exact wording, but must convey the primary themes, limitations, and beliefs, even those that are not evident in what the vampire has said or done.
+
+**•••• Cult Breaker:** Allowed
+
+The charlatans and demagogues of millenarian cults rely on charisma and their followers’ desperate need for someone else to provide answers, direction, and justification for their dark indulgences. Such self-deception is hard to overcome, but you know how to shatter their illusions and tear apart the foundations of their faith. Once per story for a scene, while socially interacting with you, cult members do not benefit from any dots in Status they may have within their own cult. If they are unable to overcome you in a conflict, they lose any such Status dots for the rest of the story as you shake the cult’s faith in them to the core.
+
+**••••• Red Truths:** Allowed
+
+Investigating the rising tide of blood cults and Gehenna worshipers has put you in a prime position to sift a few precious grains of truth from the bloated clot of lies that sits at the heart of most of these misbegotten faiths. Whether you want to believe it or not, you can’t deny the evidence you’ve gathered — and why not exploit it for yourself, rather than leaving it in the blood-stained hands of frothing zealots? Once you have studied the practices or texts of any blood cult, you are able to learn any Rituals or other unusual supernatural capabilities they possess without need of a teacher, although you must pay any experience point costs as normal.
 
 </details>
 
