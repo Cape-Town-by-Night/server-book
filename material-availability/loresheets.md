@@ -1226,7 +1226,7 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary><strong>Minneapolis</strong> <strong>(No. 2, p. 1)</strong></summary>
+<summary><mark style="color:red;"><strong>Minneapolis</strong></mark> <mark style="color:red;"><strong>(No. 2, p. 1)</strong></mark></summary>
 
 <sup>_While St. Paul may claim the distinction of age over her twin sister city, Minneapolis has her beat on both size and population. Beginning life as a milling outpost along the Mississippi river, Minneapolis has swung back and forth on the pendulum of progress in nights since._</sup>
 
@@ -1234,94 +1234,153 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <sup>_When the Camarilla arrived in Minneapolis, they had already laid claim to the sister city of St. Paul. Despite Anarch protestations, Prince Samantha Merrain has claimed praxis over both of the Twin Cities and considers all Kindred dwelling within to be her subjects. However, cooler heads within the Camarilla of the domains are wary to directly support her reign, having grown fearful of uprisings in similarly fractured domains, such as Berlin. Some within the Anarch movement have also noticed certain similarities to those of their German brethren, and rumors of a possible revolt have begun to propagate the night.._</sup>
 
-**• The Nod Lot:** _Allowed_
+**• The Nod Lot:** _Banned_
 
-This unofficial district located in the northwest of the city is known among the local Kindred as the "Nod Lot." Though the hunting there is just as bountiful as it is in more posh locales such as the Rack, the population of the Nod Lot consists of the discarded, forgotten, and despairing. You have cultivated a small Herd (••), whose blood resonance varies from the melancholic to completely absent. Additionally, feeding from such victims presents a high-risk of transferring blood-borne pathogens, potentially poisoning the well. You must take the Flaw Addiction (•) or Dark Secret, Plague Bearer (•).
+This unofficial district located in the northwest of the city is known among the local Kindred as the "Nod Lot." Though the hunting there is just as bountiful as it is in more posh locales such as the Rack, the population of the Nod Lot consists of the discarded, forgotten, and despairing. You have cultivated a small Herd (••), whose blood resonance varies from the Melancholic to completely absent. Additionally, feeding from such victims presents a high-risk of transferring blood-borne pathogens, potentially poisoning the well. You must take the Flaw Addiction (•) or Dark Secret, Plague Bearer (•).
 
-**•• The Artist Formerly Known As...:** _Allowed_
+**•• The Artist Formerly Known As...:** _Banned_
 
 You are one of the lucky few who has managed to make a name for themselves within the music industry as a performing artist. Unfortunately, since your Embrace, your renown has become a double-edged sword, especially after the highly publicized reports of your death. You gain Fame (•••), however, must also take the flaw Mask, Known Corpse (•).
 
-**••• The Revolution:** _Allowed_
+**••• The Revolution:** _Banned_
 
-Minneapolis, like many American cities, is plagued with a history of racism and societal injustice, whose wounds still bleed well into the modern nights. However, Minneapolis also has a strong tradition of those who fight for equal rights and representation. Perhaps you were once an active force for change within your community, or have otherwise become familiar to those who are, currently. You gain four dots to spend among Allies, Contacts, or Influence, to represent your affiliation with prominent grassroots movements, local leaders, or institutions. This activism among mortals has made you a target among your elite Camarilla enemies, however -- you must take the flaw Status, Shunned (Camarilla) (•)
+Minneapolis, like many American cities, is plagued with a history of racism and societal injustice, whose wounds still bleed well into the modern nights. However, Minneapolis also has a strong tradition of those who fight for equal rights and representation. Perhaps you were once an active force for change within your community, or have otherwise become familiar to those who are, currently. You gain four dots to spend among Allies, Contacts, or Influence, to represent your affiliation with prominent grassroots movements, local leaders, or institutions. This activism among mortals has made you a target among your elite Camarilla enemies, however -- you must take the Status flaw, Shunned (Camarilla) (•)
 
-**•••• The River Rats:** _Allowed_
+**•••• The River Rats:** _Banned_
 
-The Kindred of Clan Nosferatu infest the city of Minneapolis from the sewers and the riverfront, to the dark corners of the skywalk and the ruins of ancient flour mills. While many object to their loathsome presence, few can deny the invaluable intel that information brokers within the Clan of the Hidden will provide for the right price. You have somehow managed to ingratiate yourself to this cabal of secret-seekers; you may distribute three dots between Contacts and Mawla (Nosferatu only), and, once per story, you may gain one valuable piece of information relevant to your characters Ambition.
+The Kindred of Clan Nosferatu infest the city of Minneapolis from the sewers and the riverfront, to the dark corners of the skywalk and the ruins of ancient flour mills. While many object to their loathsome presence, few can deny the invaluable intel that information brokers within the Clan of the Hidden will provide for the right price. You have somehow managed to ingratiate yourself to this cabal of secret-seekers; you may distribute three dots between Contacts and Mawla, and, once per story, you may gain one valuable piece of information relevant to your characters Ambition.
 
-**••••• The Minneapolis Six:** _Allowed_
+**••••• The Minneapolis Six:** _Banned_
 
-In 2003, a riot stemming from a University of Minneapolis hockey victory was blamed on the Anarch community. Prince Merrain capitalized upon the opportunity to cripple Minneapolis' Anarch leadership, and had three of the six perpetrators put to Final Death. The remaining three were forcibly blood bound to the Prince to ensure their continued loyalty. You are one of the surviving three. Your blood bond has broken, and now, you and your kin hunger for retribution. Once per chronicle, you may evoke the memory of the Minneapolis Six in order to sway the Anarch community to your cause, a the discretion of the Storyteller.
-
-</details>
-
-<details>
-
-<summary><strong>St. Paul </strong> <strong>(No. 2, p. 2)</strong></summary>
-
-Built upon native Dakota land, the kine have their various pseudonyms for it: Imnzaska, the Saintly City, the "Pig's Eye," and the Last City of the East. That final nickname is particularly true for the city's Kindred, who view St. Paul as the last bastion of American Camarilla power before one reaches the lupine-dominated Rockies and the chaotic battlegrounds of the so-called Anarch Free States Of late, even its sister city of Minneapolis has become more and more defiant of Camarilla authority. Nevertheless, those who claim praxis over St. Paul tend to claim the title happily: "Prince of the Twin Cities".
-
-To many within the Ivory Tower, St. Paul is little more than a bourgeois pretender, an up-jumped satellite domain to the realm of Chicago. But for those who have dwelled there through decades and centuries, St. Paul represents everything that Clan Toreador holds dear From its Gallic origins to the thriving (if humble) local arts scene, the Clan of the Rose fancy themselves as the bringers of culture and civilization to a raucous American frontier.
-
-For the past century the monarch of St. Paul has been Prince Samantha Merrain - a Toreador of seemingly ancient origins. Though her true age and generation are a closely guarded secret, Merrain has seemingly avoided the siren call of the Beckoning. A beloved protector of the arts and and culture to some and a spoiled, vapid tyrant to others, Merrain's direct influence over Minneapolis has waxed and waned with the tenacity of the local Anarch movement, yet her hold over St. Paul is all but absolute.
-
-**• Dirty Boot:** Allowed
-
-If there is anything that Prince Samantha values, it's talent. Those who are useful for furthering the Prince's goals often find themselves wash in superficial praises from Merrain and her court. However, word travels fast between the Twin Cities, and those who may find them selves celebrated in St. Paul may be marked with susp cion elsewhere. You gain one rank of Status (Ca marilla) within the domain of St. Paul, however, you gain the Flaw Shunned (Anarchs) when in the borders of Minneapolis.
-
-**•• The Caves:** Allowed
-
-An open secret to locals, the man-made caves Beated un-derneath the otherwise innocuous Wabasha Street have plaved host to miners, mushroom farmers, bootleggers and nightclubs throughout the years. Suffice it to say their subterranean location has made them the ideal haven for Kindred, and many an Elysium has been held in the spacious, sandstone dancehall carved into the un-derground tunnels. As one of the denizens of the caves you gain Haven (\*\*) with the merits Postern (+) and Luxury.
-
-**••• Criminal History:** Allowed
-
-Though the age of Prohibition and gangsters may be over, organized crime still finds a foothold in St. Paul. From Babyface Nelson, to John Dillinger, to Machine Gun Kelly, you repensent a heritage of underworld cul ture that lives on to the modern nights Yim gain a dice bonus in all Streetwise rolls made to gather infor mation on local criminal activity, and a specialty of your choice in Larceny
-
-**•••• Courtier:** Locked&#x20;
-
-Those who know to cater to a Toreador Prince's whims have learned to make themselves not only little worker bees, but beautiful social butterflies You gain the specialty Etiquette (High Society) and may add + dive to any Social Conflict roll made within an Elysium or Courtly setting once per session
-
-**••••• Dual Citizenship:** Locked
-
-Perhaps your Prince Merrain has been so subtle as to not attract the ire of your fellow Kindred across the river. Or perhaps you've become so well-em-besidest as an Anarch within St. Paul that none would dare question your presence in either city You gain a cover identity, in the form of Mask (\*), for the purposes of undercover travelling within whichever Twin City you do not reside That isdentity may also gain two ranks of Status with either the Camarilla (for St. Paul) or the Anarchs (for Minneapolis) Once per story any egre gious benaking of the Masquerade (or that city's Tradi tions) may be blamed upon that false identity (and by extension, that Sect), leaving you to suffer little to consequences. This is an ideal strategy for both infiltre-tors and Agents Provocateur within both secta
+In 2003, a riot stemming from a University of Minneapolis hockey victory was blamed on the Anarch community. Prince Merrain capitalized upon the opportunity to cripple Minneapolis' Anarch leadership, and had three of the six perpetrators put to Final Death. The remaining three were forcibly blood bound to the Prince to ensure their continued loyalty. You are one of the surviving three. Your blood bond has broken, and now, you and your kin hunger for retribution. Once per chronicle, you may evoke the memory of the Minneapolis Six in order to sway the Anarch community to your cause, at the discretion of the Storyteller.
 
 </details>
 
 <details>
 
-<summary><strong>Wolves in Sheep's Clothing</strong> (No. 3, p. 1)</summary>
+<summary><mark style="color:red;"><strong>St. Paul </strong></mark> <mark style="color:red;"><strong>(No. 2, p. 2)</strong></mark></summary>
 
-**• What Big Teeth You Have!:** Allowed\
-&#xNAN;**•• Huntsman:** Allowed\
-&#xNAN;**••• Carrion Preservation:** Allowed\
-&#xNAN;**•••• A Wolf in the Fold:** Locked\
-&#xNAN;**••••• The Shepherd:** Locked
+<sup>_Built upon native Dakota land, the kine have their various pseudonyms for it: Imnzaska, the Saintly City, the "Pig's Eye," and the Last City of the East. That final nickname is particularly true for the city's Kindred who view St. Paul as the last bastion of American Camarilla power before one reaches the lupine-dominated Rockies and the chaotic battlegrounds of the so-called Anarch Free States. Of late, even its sister city of Minneapolis has become more and more defiant of Camarilla authority. Nevertheless, those who claim praxis over St. Paul tend to claim the title happily: "Prince of the Twin Cities"._</sup>
+
+<sup>_To many within the Ivory Tower, St. Paul is little more than a bourgeois pretender, an up-jumped satellite domain to the realm of Chicago. But for those who have dwelled there through decades and centuries, St. Paul represents everything that Clan Toreador holds dear From its Gallic origins to the thriving (if humble) local arts scene, the Clan of the Rose fancy themselves as the bringers of culture and civilization to a raucous American frontier._</sup>
+
+<sup>_For the past century the monarch of St. Paul has been Prince Samantha Merrain - a Toreador of seemingly ancient origins. Though her true age and generation are a closely guarded secret, Merrain has seemingly avoided the siren call of the Beckoning. A beloved protector of the arts and and culture to some and a spoiled, vapid tyrant to others, Merrain's direct influence over Minneapolis has waxed and waned with the tenacity of the local Anarch movement, yet her hold over St. Paul is all but absolute._</sup>
+
+**• Dirty Boot:** _Banned_
+
+If there is anything that Prince Samantha values, it's talent. Those who are useful for furthering the Prince's goals often find themselves wash in superficial praises from Merrain and her court. However, word travels fast between the Twin Cities, and those who may find themselves celebrated in St. Paul may be marked with suspiscion elsewhere. You gain one dot of Status (Camarilla) within the domain of St. Paul, however, you gain the Status flaw, Shunned (Anarchs) (•) when in the borders of Minneapolis.
+
+**•• The Caves:** _Banned_
+
+An open secret to locals, the man-made caves located underneath the otherwise innocuous Wabasha Street have played host to miners, mushroom farmers, bootleggers and nightclubs throughout the years. Suffice it to say their subterranean location has made them the ideal haven for Kindred, and many an Elysium has been held in the spacious, sandstone dancehall carved into the underground tunnels. As one of the denizens of the caves you gain Haven (**••**) with the merits Postern (**•**) and Luxury (•).
+
+**••• Criminal History:** _Banned_
+
+Though the age of Prohibition and gangsters may be over, organized crime still finds a foothold in St. Paul. From Babyface Nelson, to John Dillinger, to Machine Gun Kelly, you repensent a heritage of underworld culture that lives on to the modern nights You gain a two-dice bonus in all Streetwise rolls made to gather information on local criminal activity, and a specialty of your choice in Larceny.
+
+**•••• Courtier:** _Banned_&#x20;
+
+Those who know to cater to a Toreador Prince's whims have learned to make themselves not only little worker bees, but beautiful social butterflies You gain the specialty Etiquette (High Society) and may add two dice to any Social Conflict roll made within an Elysium or Courtly setting once per session.
+
+**••••• Dual Citizenship:** _Banned_
+
+Perhaps your service to Prince Merrain has been so subtle as to not attract the ire of your fellow Kindred across the river. Or perhaps you've become so well-embedded as an Anarch within St. Paul that none would dare question your presence in either city. You gain a cover identity, in the form of Mask (**••**), for the purposes of undercover travelling within whichever Twin City you do not reside. That identity may also gain two dots of Status with either the Camarilla (for St. Paul) or the Anarchs (for Minneapolis). Once per story any egregious breaking of the Masquerade (or that city's Traditions) may be blamed upon that false identity (and by extension, that Sect), leaving you to suffer little to no consequences. This is an ideal strategy for both infiltrators and Agents Provocateur within both sects.
 
 </details>
 
 <details>
 
-<summary><strong>The Nictuku</strong> <em>(Nosferatu Characters Only)</em> (No. 3, p. 4)</summary>
+<summary><mark style="color:red;"><strong>Wolves in Sheep's Clothing</strong></mark> <mark style="color:red;"><strong>(No. 3, p. 1)</strong></mark></summary>
 
-**• Signal-To-Noise:** Allowed\
-&#xNAN;**•• Morbid Curiosity:** Allowed\
-&#xNAN;**••• Blindspot:** Allowed\
-&#xNAN;**•••• Deathmark:** Locked\
-&#xNAN;_&#x54;he Adversary has been reduced to 3 dots from 4._\
-&#xNAN;**••••• Hunted-Becomes-Hunter:** Locked
+<sup>_Discarded and disenfranchised ghouls forming themselves into confederations and cults is no new phenomenon. Animosity between servant and master is a tale as old as the practice of servitude itself, and woe to the vampire who carelessly abuses his faithful retainer. More than one city in the modern nights are plagued with hands of independent ghouls, stalking their former domitors to feast upon the vitae that fuels their unearthly addiction using the gifts bestowed upon them to bite the hand that feeds._</sup>
+
+<sup>_Though this practice is hardly novel, the cabal that calls itself the Wolves in Sheep's Clothing has personalized this poetic justice in unique and perverse ways. The Wolves use their augmented blood coupled with a strange and blasphemous form of mortal Hedge Magic to technomantically graft preserved kindred body parts onto themselves. By harvesting, say, the eyes of a Kindred, they may in turn temporarily harness a semblance of that Kindred's ability to control the minds of others into the depths of the through eye contact or to see into the depths of the soul._</sup>
+
+<sup>_No one truly knows from where these reprehensible mongrels first gained their taste of vitae, (though their passing familiarity with some form of necromancy implies a possible connection to a certain family of the Hecata) and any Kindred found responsible for such a blunder would surely find themselves upon the Red List. It is only their relatively small number and covert activities that keep them from being perceived as a bigger threat  - instead, they are merely another faction of dangerous mortals to watch out for in the modern nights._</sup>
+
+**• What Big Teeth You Have!:** _Banned_
+
+As their names suggest, the Wolves in Sheep's Clothing are deadly simply because - as ghouled mortals - Kindred have a tendency to underestimate them, allowing them to get in close enough to strike with lethal precision. You have learned to recognize the telltale signs of these abominations as your Beast instinctively finds itself agitated around these callous usurpers.
+
+**•• Huntsman:** _Banned_
+
+You have engaged in a deadly game of cat-and-mouse with the Wolves in Sheep's Clothing for years. The lines between predator and prey have become blurred as you seek out these deadly foes while simultaneously ensuring your own safety during daylight hours. You gain an extra die to all Investigation rolls made to track down or investigate the Wolves in Sheep's Clothing, in addition to gaining an extra die to all rolls made to act during the daytime.
+
+**••• Carrion Preservation:** _Banned_&#x20;
+
+You have managed to replicate the way in which the Wolves harvest vampiric body parts without them immediately decaying into dust. While you are certain to not gain the benefits they do by grafting such parts onto yourself, such a talent can nevertheless prove useful when it comes to preserving evidence, or grisly keepsakes. By dousing the organ or extremity into one Rouse Check's worth of vitae and succeeding at a Resolve + Occult roll (difficulty 3), the vampire may embalm the object for a year, at which time the preservation needs to be renewed. Final Death of the caster, however, immediately renders this preservation null.
+
+**•••• A Wolf in the Fold:** _Banned_&#x20;
+
+You have been victimized by the Wolves in Sheep's Clothing, though have managed to escape. To this night, some up-jumped ghoul stalks the streets, wielding pieces of your body as their own. While this may serve them for now, you have managed to turn this plunder into a Trojan Horse. Once per Chronicle, you may attempt to inhabit the perception of your assailant, as per the Auspex power [Share the Senses](https://wiki.capetownvtm.com/material-availability/powers#share-the-senses-auspex-3-core-p.250). Should you already possess [Share the Senses](https://wiki.capetownvtm.com/material-availability/powers#share-the-senses-auspex-3-core-p.250), you instead reduce the difficulty of the roll by two.
+
+**••••• The Shepherd:** _Banned_
+
+You have made yourself a mysterious benefactor to the Wolves in Sheep's Clothing to such a degree that they have become your loyal, if ignorant, hounds. You gain Allies (••••) representing a cell of these redoubtable ghouls. Once per Chronicle, you may send this cell to dispatch a Kindred enemy. However, should the Wolves discover your true nature, said Allies may very easily become Enemies (••••) instead, not to mention any objections your local Camarilla may take to those who willingly aid and abet anathemas such as these.
 
 </details>
 
 <details>
 
-<summary><strong>The Mortician's Army</strong> (No. 9, p. 1)</summary>
+<summary><mark style="color:red;"><strong>The Nictuku </strong></mark><em><mark style="color:red;"><strong>(Nosferatu Characters Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(No. 3, p. 4)</strong></mark></summary>
 
-**• Mortician's Hammer:** Allowed\
-&#xNAN;**•• Marked For Death:** Allowed\
-&#xNAN;**••• Eyes-On:** Allowed\
-&#xNAN;**•••• The Sleeper Agent:** Locked\
-&#xNAN;**••••• The Unseen:** Locked
+<sup>_In the underground tunnels of the Clan of the Hidden, there are whispered legends and cautionary tales shared among the Sewer Rats. Sires warn their childer of dangers lurking in the darkest corners of night, and of monstrosities that would chill the vitae of even the most hideous of horrors._</sup>
+
+<sup>_Nictuku._</sup>
+
+<sup>_That single word is enough to spread like wildfire throughout the ranks of the Nosferatu rumor mill, sending neonates and elders alike scuttling back to their warrens in paranoid dread. To some, they are believed to be the vengeful offspring of the clan progenitor - a vindictive and cannibalistic bloodline whose thirst can only be sated by the blood of the Antediluvian's lesser childer. To others, it is the colorful sobriquet applied to those Nosferatu who have succumbed to their Beasts - a less existential, if similarly harrowing, threat  - and now stalk the caverns and catacombs of the world as they hunt their own kind. Even others maintain that it is a title taken by the eldest of the clan, merely another mask adopted to feed upon their own._</sup>
+
+<sup>_Whatever the truth may be, no Kindred currently active in the modern nights knows for sure, and those who are unlucky enough to actually encounter one of the Nictuku are certain never to survive to tell about it. You, however, have managed to piece together key pieces of knowledge that may, one night, save your unlife._</sup>
+
+**• Signal-To-Noise:** _Banned_
+
+More than one mysterious death or disappearance has been attributed to be the work of the dreaded Nictuku by conspiracy-minded Sewer Rats. Whether it's a scouting party that has vanished beneath the streets of Manhattan, or a warren in St. Louis suddenly going dark, time and resources are often wasted on wild goose chases. Once per story, by examining the tell-tale signs (or lack thereof), you may definitively know whether such a crime was committed by your ancestral enemy, or some other circumstance.
+
+**•• Morbid Curiosity:** _Banned_
+
+Whether through legend, gossip, or indirect exposure, you have grown obsessed with the concept of these ancestral nemeses and have devoted your unlife to the study of the Nictuku. When making an Occult or Investigation roll regarding the Nictuku you may add two dice to the roll.
+
+**••• Blindspot:** _Banned_
+
+Most Nosferatu believe the most powerful weapon in their arsenal is the Discipline of Obfuscate. However, while this may make them all but imperceptible to humans, Kindred and other supernatural beings have senses that extend beyond mortal means. In keeping with their name, the Hidden have had to hone their skills to counter not only the perceptive Tremere regent on whom they are spying, but also the unknown shadows that haunt their every step. Once per session, you may add two dice to your Obfuscate roll when contesting against a power such as Sense the Unseen.
+
+**•••• Deathmark:** _Banned_
+
+Just because you're paranoid doesn't mean they're not out to get you. You've managed to attract the attention of one of the Nictuku (or something that appears as one), and now it is but a matter of time before they catch up with you. You gain Adversary (••••) however, you may spend an equal number of points on Haven Merits relating to the added security measures taken against your phantom nemesis. Once per story, you may permanently sacrifice up to three dots in Backgrounds to make a clean getaway, at the Storyteller's discretion.
+
+**••••• Hunted-Becomes-Hunter:** _Banned_
+
+You have developed skills of survival and combat against more than just the Nictuku. Indeed, you have managed to hone yourself into a defensive weapon against any Kindred who would seek to consume the vitae within you. You gain the specialization Brawl (Kindred) and may add an additional two-dice to all conflicted rolls against cannibalistic Kindred (diablerists, Blood Leeches, and the like).
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>The Mortician's Army</strong></mark> <mark style="color:red;"><strong>(No. 9, p. 1)</strong></mark></summary>
+
+<sup>_Rafael Deluna was a pathologist working for the Medical Examiner's office in downtown Minneapolis when tragedy befell his family and changed his life forever. In the winter of 2010, conditions in the Midwest proved particularly lethal as dozens of homeless in the Twin Cities died of exposure due to the extreme cold. Of the many dead bodies unclaimed by friends or family, one turned out to be the body of a freshly embraced fledgling who, in their frenzy, murdered DeLuna's wife._</sup>
+
+<sup>_That night, upon his horrific awakening to the dark truth of the world. Rafael was consumed with a singular purpose all vampires must die. Rafael's fellow survivors were quick to join his cause and from there his influence grew throughout the Midwest. Little by little, small-time hunter cells began to coordinate their tactics with one another until several pockets of previously independent units grew into a vampire-hunting network known (perhaps erroneously) as "The Mortician's Army"._</sup>
+
+**• Mortician's Hammer:** _Banned_
+
+Though their means and methods may be as varied as the individual members of the Army themselves, all of the Mortician's soldiers carry this unique item with them. Half weapon, half calling-card, members of the Mortician's Army carry these hammer-hook hybrids to recognize one another and - in a pinch - to slay Kindred. Whether through sheer coincidence or as a spoil of war, you've managed to procure one of these instruments. The Mortician's Hammer counts as a +2 Heavy bludgeoning or piercing weapon, depending upon how it is used. Carrying it will also automatically grant you -1 Difficulty on all interactions with members of the Mortician's Army, provided they do not know you are Kindred.
+
+**•• Marked For Death:** _Banned_
+
+You have tangled with the Mortician's Army before and have managed to come out ahead. While the Mortician's Army may never forgive, you never forget and have come to adapt against their methods, attacks, and techniques. You gain the Enemy flaw (••). However, you gain a one-die bonus on all contested rolls made against the hunters of the Mortician's Army.
+
+**••• Eyes-On:** _Banned_
+
+You have sniffed out the presence of the Mortician's Army within your domain and have been able to keep a consistent eye on their movements and tactics. Once per story, you may ask the storyteller if any of your surveillance suggests an impending attack on a vampire within your city Whether you choose to warn them or not is up to you...
+
+**•••• The Sleeper Agent:** _Banned_
+
+In life, you served as a soldier in The Mortician's Army. In undeath, you continue to serve their agenda as a spy within the Kindred community. You gain four dots to be spent within the Allies or Contacts representing your affiliation with the mortal hunters. You also gain the Dark Secret flaw (•) relating to your involvement in the Army. Once per story, you may call upon the full support of the Mortician's Army to bear against your enemies, though doing so will forever reveal your true identity.
+
+**••••• The Unseen:** _Banned_&#x20;
+
+You are one of the few who has betrayed their kind and embraced a mortal hunter. Whether a calculated move in a long game against those who have slighted you or something committed under duress, you now have learned how to deftly manipulate your childe and their network of contacts. You gain Mawla (•) to represent your new progeny and Allies (•••••) representing a faction of the Mortician's Army that you have bent, perhaps unknowingly, to your undead will. You gain the Dark Secret flaw (•) as your secret childe is likely a punishable offense in most domains, and the truth about them is likely even more forbidden.
 
 </details>
 
