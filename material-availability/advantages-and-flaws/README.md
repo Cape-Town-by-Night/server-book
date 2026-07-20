@@ -296,13 +296,11 @@ Duskborn vampires who engage in pack diablerie can spend experience on purchasin
 
 <details>
 
-<summary><mark style="color:green;"><strong>Shifts in the Blood ••••</strong></mark> <mark style="color:green;"><strong>(Trails of Ash and Bone p.202)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Shifts in the Blood ••••</strong></mark> <mark style="color:green;"><strong>(Cults of the Blood Gods p.202)</strong></mark></summary>
 
 The Hecata have long been interested in the malleability of the Blood, and how their favored Disciplines in these nights differ from those of their ancestors and their ancestors before them. While they speculate it may be due to the formation of the Hecata and destruction of many Giovanni elders in recent years, Necromancers still guess at why some Giovanni favor forceful Disciplines and the _nasyon san an_ prioritize subterfuge. Why the ability for heightened senses is the power so often lost, even the most accomplished Necromancers cannot say.
 
-At the Storyteller’s discretion, Hecata of the Giovanni line may replace Auspex with Dominate, Samedi may replace Auspex with Obfuscate, Lamiae may replace Auspex with Potence, and Nagaraja may replace Fortitude with Dominate. Note that this option may make certain Amalgams unavailable to these vampires, so the default treatment and amalgams common to the Clan of Death treat Auspex, Fortitude, and Oblivion as their clan Disciplines.
-
-Alternatively, the Storyteller may see fit to offer an exclusive 4-dot Merit which allows Hecata to purchase their bloodline’s replacement Discipline as a fourth in-clan.
+When you purchase this merit, your character's bloodline replacement Discipline counts as a fourth in-clan Discipline. Giovanni have access to Dominate, _nasyon san an_ have access to Obfuscate, Lamiae have access to Potence, and Nagaraja have access to Dominate.
 
 </details>
 
