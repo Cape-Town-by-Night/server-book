@@ -160,6 +160,8 @@ Note that if you are playing a character who is pretending to be a clan that the
 
 </details>
 
+Additionally, Hecata characters may (but do not have to) the Shifts in the Blood options presented on page 202 of Cults of the Blood Gods. If you wish to take the replacement Discipline as a fourth in-clan, you may take the Shifts in the Blood merit. This must be taken at character creation.
+
 ## Deciding on Convictions
 
 Convictions are a set of beliefs that assist in defining a character’s worldview and morals. There are examples of Convictions in Players Guide (p.207) and in Core (p.172). Each conviction must be linked to a living human, or “touchstone”, that exemplifies the belief. Touchstones must live in Cape Town and can be background characters gained from Advantages or Flaws (Contacts, Allies, Enemies, etc.).
@@ -194,7 +196,7 @@ By the rules as written, fledglings do not get Predator types, though you charac
 
 <summary>Custom Predator Type Guidelines</summary>
 
-Custom Predator Types will only be approved if an already existing Predator Type doesn't suit the character. You may not get everything you want at character creation and that's okay!
+Custom Predator Types will only be approved if an already existing Predator Type doesn't suit the character. You may not get everything you want at your character to have at creation and that's okay!
 
 * Gain one specialty that makes sense for the predator type. This does not necessarily need to improve the hunt pool itself.
 * Gain one Discipline dot that relates to the hunting style.

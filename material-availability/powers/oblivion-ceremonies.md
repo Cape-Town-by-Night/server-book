@@ -359,7 +359,7 @@ Bind to Mortal Form can be performed several times on the same mortal; however, 
 
 <summary><mark style="color:purple;"><strong>Death Rattle (</strong><strong>Trails of Ash and Bone p.174</strong><strong>)</strong></mark></summary>
 
-**Prerequisite Power:** [<mark style="color:purple;">Fatal Prediction</mark>](https://wiki.capetownvtm.com/material-availability/powers#fatal-prediction-oblivion-2--auspex-2-players-guide-p.87)
+**Prerequisite Power:** [<mark style="color:purple;">Fatal Precognition</mark>](https://wiki.capetownvtm.com/material-availability/powers#fatal-precognition-oblivion-2--auspex-2-players-guide-p.87)
 
 **Ingredients:** A wraith’s fetter, a personal item owned by the intended target (living or undead, but not another wraith), the caster’s vitae, over proof rum, a black candle, a clay bowl large enough to hold the fetter and target’s personal belonging.
 
