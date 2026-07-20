@@ -1226,14 +1226,33 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary><strong>Minneapolis</strong> <em>(Anarch Characters Only)</em> (No. 2, p. 1)</summary>
+<summary><strong>Minneapolis</strong> (No. 2, p. 1)</summary>
 
-**• The Nod Lot:** Allowed\
-&#xNAN;_&#x4F;nly the Addiction Flaw may be chosen._\
-&#xNAN;**•• The Artist Formerly Known As...:** Allowed\
-&#xNAN;**••• The Revolution:** Allowed\
-&#xNAN;**•••• The River Rats:** Locked\
-&#xNAN;**••••• The Minneapolis Six:** Banned
+<sup>_While St. Paul may claim the distinction of age over her twin sister city, Minneapolis has her beat on both size and population. Beginning life as a milling outpost along the Mississippi river, Minneapolis has swung back and forth on the pendulum of progress in nights since._</sup>
+
+<sup>_Skyscrapers loom proudly over the downtown district while soft, yellow streetlights illuminate the fine dining of the riverfront. Between the city's expansive sculpture garden and the Minneapolis Institute of Art, an appreciation for the fine arts has been blended into the city's soul. Outside of New York City, Minneapolis boasts the largest number of theaters per capita in the United States. Even pop culture has been shaped by the City of Lakes, who can claim famed musicians such as Bob Dylan and Prince as native sons._</sup>
+
+<sup>_When the Camarilla arrived in Minneapolis, they had already laid claim to the sister city of St. Paul. Despite Anarch protestations, Prince Samantha Merrain has claimed praxis over both of the Twin Cities and considers all Kindred dwelling within to be her subjects. However, cooler heads within the Camarilla of the domains are wary to directly support her reign, having grown fearful of uprisings in similarly fractured domains, such as Berlin. Some within the Anarch movement have also noticed certain similarities to those of their German brethren, and rumors of a possible revolt have begun to propagate the night.._</sup>
+
+**• The Nod Lot:** _Allowed_
+
+This unofficial district located in the northwest of the city is known among the local Kindred as the "Nod Lot." Though the hunting there is just as bountiful as it is in more posh locales such as the Rack, the population of the Nod Lot consists of the discarded, forgotten, and despairing. You have cultivated a small Herd (••), whose blood resonance varies from the melancholic to completely absent. Additionally, feeding from such victims presents a high-risk of transferring blood-borne pathogens, potentially poisoning the well. You must take the Flaw Addiction (•) or Dark Secret, Plague Bearer (•).
+
+**•• The Artist Formerly Known As...:** _Allowed_
+
+You are one of the lucky few who has managed to make a name for themselves within the music industry as a performing artist. Unfortunately, since your Embrace, your renown has become a double-edged sword, especially after the highly publicized reports of your death. You gain Fame (•••), however, must also take the flaw Mask, Known Corpse (•).
+
+**••• The Revolution:** _Allowed_
+
+Minneapolis, like many American cities, is plagued with a history of racism and societal injustice, whose wounds still bleed well into the modern nights. However, Minneapolis also has a strong tradition of those who fight for equal rights and representation. Perhaps you were once an active force for change within your community, or have otherwise become familiar to those who are, currently. You gain four dots to spend among Allies, Contacts, or Influence, to represent your affiliation with prominent grassroots movements, local leaders, or institutions. This activism among mortals has made you a target among your elite Camarilla enemies, however -- you must take the flaw Status, Shunned (Camarilla) (•)
+
+**•••• The River Rats:** _Allowed_
+
+The Kindred of Clan Nosferatu infest the city of Minneapolis from the sewers and the riverfront, to the dark corners of the skywalk and the ruins of ancient flour mills. While many object to their loathsome presence, few can deny the invaluable intel that information brokers within the Clan of the Hidden will provide for the right price. You have somehow managed to ingratiate yourself to this cabal of secret-seekers; you may distribute three dots between Contacts and Mawla (Nosferatu only), and, once per story, you may gain one valuable piece of information relevant to your characters Ambition.
+
+**••••• The Minneapolis Six:** _Allowed_
+
+In 2003, a riot stemming from a University of Minneapolis hockey victory was blamed on the Anarch community. Prince Merrain capitalized upon the opportunity to cripple Minneapolis' Anarch leadership, and had three of the six perpetrators put to Final Death. The remaining three were forcibly blood bound to the Prince to ensure their continued loyalty. You are one of the surviving three. Your blood bond has broken, and now, you and your kin hunger for retribution. Once per chronicle, you may evoke the memory of the Minneapolis Six in order to sway the Anarch community to your cause, a the discretion of the Storyteller.
 
 </details>
 
