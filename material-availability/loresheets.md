@@ -1296,23 +1296,23 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <sup>_You’re an agent of the Chamber’s will, somewhere directly on the operations flowchart that cascades down from the so-called Board of Directors. Maybe your sire’s sire sits in the Chamber; maybe you backed one of the up-and-coming bosses in the uprising against their complacent superiors; maybe you’ve just got the talent that the Board looks for in this new age of unity within the clan. Someone up there has invested trust and responsibility in you. Don’t disappoint them._</sup>
 
-**• Shadow of the Chamber:** Allowed
+**• Shadow of the Chamber:** _Allowed_
 
 Other Hecata know that at least one member of the Chamber trusts you to carry out their will — and no one wants to cross one of the ancient monsters who sit at the heart of the Clan of Death’s web. You have the equivalent of two additional dots of Status within the Hecata clan, but only for the purposes of forcing compliance or intimidating other Hecata.
 
-**•• Mercenary Work:** Allowed
+**•• Mercenary Work:** _Allowed_
 
 When outsiders need the Clan of Death’s expertise, you’re a go-between trusted to pursue the Chamber’s agenda. Once per story, you can arrange the mercenary services of your fellow Hecata for a vampire who is not part of your coterie or clan, calling up to three dots in any appropriate Background that represents the mercenaries’ talents.
 
-**••• Gilded Promises:** Allowed
+**••• Gilded Promises:** _Allowed_
 
 If there’s one thing the Hecata aren’t short of, it’s money. If you satisfy the Chamber with your performance, you have access to four dots of Resources. The Clan of Death has little patience for talented students who fail to live up to their promise though; disappoint your patron, and you lose these dots until you make things right.
 
-**•••• Deathly Slave:** Locked
+**•••• Deathly Slave:** _Locked_
 
 Never forget that the Chamber comprise the most powerful concentration of vampiric necromancers in existence. Once per story, you can request the service of a spectre or another form of wraith, naming a specific task; unless it contravenes your patron’s agenda, they will compel a single such ghost to perform that service for you.
 
-**••••• Anziani Patron:** Banned
+**••••• Anziani Patron:** _Banned_
 
 You directly serve one of the anziani, and you know that they are on the Board of Directors — making you one of the trusted few they confide in. As their agent in the outside world, you can’t rely on their direct influence to help you on a night-to-night basis, but when the Chamber wills it, the whole Clan of Death moves as one. Once per chronicle, you can call upon your patron to push the 1444 Chamber into action and call all loyal Hecata in the region to your aid regardless of their other priorities, as long as it does not contravene the agenda of your patron or the Chamber. The Chamber will expect you to repay this debt to them.
 
@@ -1326,23 +1326,23 @@ You directly serve one of the anziani, and you know that they are on the Board o
 
 <sup>_Blood asceticism is a harsh path to follow, demanding the vampire reject the satisfaction and pleasure of sanguine satiation. This requires great willpower, and practitioners often resort to distracting their hungry Beast through the agony of self-mortification or fully embrace isolation and privation. Most Kindred reject such asceticism out of hand, since those who succeed are usually starving hermits and those who fail serve as fearsome lessons in the folly of denying your hunger when they snap and go on a rampage._</sup>
 
-**• The Starveling Path:** Allowed
+**• The Starveling Path:** _Allowed_
 
 You’re not quiet about your dedication to blood asceticism and your desire to conquer the red thirst. Other Kindred may think you’re mad or a fool, but they can’t doubt your devotion. Once per session, providing you’ve not fed that night, you may add two dice to any roll to prove your strength of will, or to convince others of your dedication.
 
-**•• Glade of the Sleeping Beast:** Allowed
+**•• Glade of the Sleeping Beast:** _Allowed_
 
 You have found a place of quiet solitude to contemplate the shackles of your immortal hunger. It may be your haven, if you have one, or it may be a more remote location. While in your place of contemplation, as long as you are alone, you can re-roll one Rouse Check per session.
 
-**••• Lesser Vessels:** Allowed
+**••• Lesser Vessels:** _Allowed_
 
 To subdue your thirst for human blood, you have learned to subsist on the lesser vitae of base animals. While you are alone, feeding from animals rather than humans slakes one more point of Hunger than it usually would for you, but never more than one level per scene. However, you also gain the Infamy Flaw: (•) Animal Drinker (Vampire: The Masquerade, p. 187) if news of your reliance on animal vitae gets out. Some Kindred may not care, but plenty will look down on you with contempt for being more like one of the kine than a real vampire.
 
-**•••• Bloodless Pedestal:** Locked
+**•••• Bloodless Pedestal:** _Locked_
 
 Whether or not you’ve really managed to conquer your hunger, your displays of ascetic self-denial have attracted other Kindred who desperately want your claims to be true. This provides you with the equivalent of five dots of Status solely among vampires who see you as some sort of holy figure. You lose the benefits of these dots for the duration of any scene in which they witness you drinking blood, and the following scene thereafter.
 
-**••••• Leash the Beast:** Locked
+**••••• Leash the Beast:** _Locked_
 
 You’ve starved your Beast so often that it’s a weakened, feeble thing, bound beneath the chains of your willpower. Few other Kindred possess this level of self-control. The Difficulty of your Hunger frenzy rolls is always 2, regardless of the provocation.
 
@@ -1350,69 +1350,89 @@ You’ve starved your Beast so often that it’s a weakened, feeble thing, bound
 
 <details>
 
-<summary><mark style="color:green;"><strong>Gehenna Cults</strong></mark> <mark style="color:green;"><strong>(p. 90)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Plagues of Gehenna</strong></mark> <mark style="color:green;">(p. 91)</mark></summary>
 
-<sup>_Depending on whom you ask, Gehenna will soon befall the Kindred, or it’s happening right now, or it’s happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers._</sup>
+<sup>_Vampire and disease have been intertwined since the dawn of time. It’s inevitable; the blood-drinking parasite spreads sickness with her bite, weakens her victims before the advent of illness, and in a very real way is a disease upon the heaving throng of humanity. Minor cults of Kindred who embrace this ruinous connection have emerged throughout history, but the tumultuous modern nights see many more such plaguebringers springing up than ever before. The most base and simplistic of these cults embrace disease at the most literal level, believing that vampires are the harbingers of plague upon humanity and that they must spread sickness to usher in — or finish off — Gehenna itself. More sophisticated groups like the Third Day develop elaborate nuances or justifications, connecting disease upon the kine with the Beckoning that now seizes elders, or hoping to afflict Kindred themselves through corrupting the herd upon which they feed. Whatever the reasoning, the outcome is usually the same; heaps of putrefying bodies, vampires retching up tainted vitae, and swarms of flies. It’s no wonder that most sect-aligned Kindred try to stamp out blisters as soon as possible._</sup>
 
-<sup>_The creeds of these new blood cults come in a dizzying variety of hatreds, anxieties, and hungers. The most successful spread their black wings from one city to the next, forming something like a cohesive doctrine even as feuding Kindred splinter off new schisms and heresies. Charting out the spread of such subversive elements requires an agile mind to keep track of the shifting tapestry, not to mention a strong stomach even by vampire standards. All too many Gehenna cults delve into stomach-churning practices._</sup>
+**• Blister Marks:** _Allowed_
 
-**• Mark the Bloody Trail:** Allowed
+You’re a member of a new, loose association of Kindred keeping vigil for any signs of blisters — those Kindred who willingly or ignorantly spread disease among the kine. Whenever you succeed on a Medicine roll to examine the health of a mortal, living or postmortem, you also discern whether any disease they may have was inflicted on them by a Kindred.
 
-Once per session when you begin investigating or researching the presence of a blood cult you’ve not previously used this lore for, the Storyteller gives you one free clue to help locate the cult or to understand their current plans.
+**•• Autoclave:** _Allowed_
 
-**•• Faithful Bloodhound:** Allowed
+Fearful of becoming a disease vector, you have three dots in Herd that will remain clean and uninfected even should sickness run rampant through the local population. However, you must maintain the purity of this blood source and shepherd it carefully, which means that no one can draw upon the Herd more than once per story. If you share it with anyone, even once, you lose access to it yourself for the remainder of the story.
 
-You’re a proven investigator; you’ve exposed and taken down at least one Gehenna cult already, and shown your mettle in the eyes of the sects. Either the Camarilla or the Anarchs trust you as an expert on Gehenna cults. You wield three dots of Status while taking action to investigate or persecute a cult on behalf of that sect.
+**••• Fire in the Blood:** _Allowed_
 
-**••• Dogma:** Allowed
+Strange diseases infected you once, bringing a delirium that wracked even your Kindred physiology with fever and filled your waking hours with bizarre phantasmagoria. While the sickness passed, it has left its mark upon you. Once per scene when you feed on a mortal and contract a disease that you could then spread on to future victims, you mend one Superficial Health damage and one Superficial Willpower damage; you also immediately become aware whenever the blood of a vessel you feed from bears infectious disease.
 
-You’re steeped in the lore of Gehenna, and you’ve learned many permutations of warped faiths that your fellow Kindred wrap themselves in. Once per session, when you discuss a vampire’s faith with them or observe them practicing their faith, you can extrapolate the rough nature of the doctrines, Convictions, or code that the religion focuses on. The Storyteller does not need to give you the exact wording, but must convey the primary themes, limitations, and beliefs, even those that are not evident in what the vampire has said or done.
+**•••• Firebreak:** _Allowed_
 
-**•••• Cult Breaker:** Allowed
+You’ve studied disease outbreaks in mortals and vampires alike and understand how far an infection can slither through Kindred society before being detected. You possess five dots in Influence solely for the purpose of controlling and quelling disease outbreaks among the kine that would affect the Kindred; when you exercise this Influence and succeed, you gain two dots in Status with your sect for the remainder of the story.
 
-The charlatans and demagogues of millenarian cults rely on charisma and their followers’ desperate need for someone else to provide answers, direction, and justification for their dark indulgences. Such self-deception is hard to overcome, but you know how to shatter their illusions and tear apart the foundations of their faith. Once per story for a scene, while socially interacting with you, cult members do not benefit from any dots in Status they may have within their own cult. If they are unable to overcome you in a conflict, they lose any such Status dots for the rest of the story as you shake the cult’s faith in them to the core.
+**••••• Plague Sample:** _Allowed_
 
-**••••• Red Truths:** Allowed
-
-Investigating the rising tide of blood cults and Gehenna worshipers has put you in a prime position to sift a few precious grains of truth from the bloated clot of lies that sits at the heart of most of these misbegotten faiths. Whether you want to believe it or not, you can’t deny the evidence you’ve gathered — and why not exploit it for yourself, rather than leaving it in the blood-stained hands of frothing zealots? Once you have studied the practices or texts of any blood cult, you are able to learn any Rituals or other unusual supernatural capabilities they possess without need of a teacher, although you must pay any experience point costs as normal.
+In your possession is a phial of blood drawn from a sick, maddened elder while in the throes of the Beckoning. It seethes with the contagious power of a plague that will affect Kindred with lethal results. What exactly it does to vampire victims, how it spreads, and what link it has to the Beckoning is up to the Storyteller, if you are ever desperate, brave, or mad enough to unleash the disease upon your fellow undead.
 
 </details>
 
 <details>
 
-<summary><strong>Plagues of Gehenna</strong> (p. 91)</summary>
+<summary><mark style="color:yellow;"><strong>Praepositor </strong></mark><em><mark style="color:yellow;"><strong>(Tremere Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p. 92)</strong></mark></summary>
 
-**• Blister Marks:** Banned\
-&#xNAN;**•• Autoclave:** Banned\
-&#xNAN;**••• Fire in the Blood:** Allowed\
-&#xNAN;_&#x54;o find the prey cited in this Lore Sheet, roll Resolve + Awareness at DC 4._\
-&#xNAN;**•••• Firebreak:** Banned\
-&#xNAN;**••••• Plague Sample:** Banned
+You’re a Praepositor, one of the militant Tremere of the Praesidium devoted to restoring the clan’s old power — by force, if necessary. The cult looks back to the Pyramid of authority and blood that once united Clan Tremere as the ideal to which they must once again aspire, but the realities of the modern nights demand that they adapt if they are to achieve this goal. Praepositors have become eldritch soldiers of fortune, trading their services for the occult and secular resources the House needs.
+
+House and clan need you, and you stand ready to answer their call. Your every success reinforces Praesidium’s position within the Camarilla, but Praepositors aren’t picky; your superiors expect you to take up contracts with Anarchs or even in domains of Autarkis, if it serves the cult’s purposes. As for the old Blood Bonds that once tied the clan together, the Praesidium sees their restoration as one of its end goals — and expects you to act with the same devotion and swiftness as those bonds once assured.
+
+**• Chastise the Wayward:** _Allowed_
+
+You embrace the cult’s ideology of war against those who oppose the clan — including the renegades within the Tremere. You may reroll a single die in any dice pool to cause direct harm to another Tremere character if you believe them to be a renegade.
+
+**•• Discreet Professionalism:** _Allowed_
+
+You’ve been at the cutting edge of Praesidium efforts to build a network of clients and contracts that will prop up a reinvigorated Clan Tremere. Once per story, you can draw on favors due or debts yet to be paid to acquire two dots in Status with any sect or clan for a single interaction. You can expect the person you leverage to want something in return for their assistance in the next story, if not before.
+
+**••• Guard the Clan:** _Allowed_
+
+You joined this cult because you wanted to rebuild and protect what had gone before. Whenever you Rouse the Blood to protect your clan’s members and secrets, you may roll two dice and pick the highest result.
+
+**•••• Expert Security:** _Allowed_
+
+You’re one of the cult’s top experts in security and protection and have a team of Praepositor specialists on speed-dial. Once per story, you can spend a scene establishing a safehouse or strong-point to grant yourself or another character up to five dots of Haven that lasts until the end of the scene. This Lore drains the use of three dots of Resources for the remainder of the story, requiring you to obtain outside funding if you do not possess these dots yourself.
+
+**••••• Blood Loyalty:** _Locked_
+
+The Praesidium’s early experiments to rebuild the clan’s Blood Bond bear unexpected discoveries — mere shadows of a true bond but, perhaps, more useful in the House’s current state. If you and another participant (mortal or vampire) signs a contract you write using their blood or vitae, you must make one Rouse Check per level of Blood Bond you intend to initiate. Once signed, treat the contracted service as if the co-signee was Blood Bound to it; to attempt to breach the contract, they must succeed in a contest of Resolve + Intelligence vs. Bond Strength. Once the contract is complete or you destroy the contract, the simulated Blood Bond immediately ends. This power supercedes an actual Blood Bond, but that Blood Bond returns once the contract concludes.
 
 </details>
 
 <details>
 
-<summary><strong>Praepositor</strong> <em>(Tremere Characters Only)</em> (p. 92)</summary>
+<summary><mark style="color:yellow;"><strong>Spear of Orthia </strong></mark><em><mark style="color:yellow;"><strong>(Ventrue Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p. 93)</strong></mark></summary>
 
-**• Chastise the Wayward:** Allowed\
-&#xNAN;**•• Discreet Professionalism:** Allowed\
-&#xNAN;**••• Guard the Clan:** Allowed\
-&#xNAN;**•••• Expert Security:** Locked\
-&#xNAN;**••••• Blood Loyalty:** Locked
+Clan scholars believe that Artemis Orthia is the first childe of Ventrue, and say that she once held sway over Sparta in the guise of its patron goddess. She burned with the desire to destroy her foes and acted decisively — but her headstrong hunger for conflict would prove her downfall at the hands of the Brujah of Carthage. The cultists of the Shattered Spear venerate this ancestor-figure, hiding in the shadows of Clan Ventrue and conducting their worship in defiance of Camarilla dictates. Now the cult waxes in strength and gathers new adherents to its banner, drawn by the whispered gospel of Artemis’ divine nature and the rediscovery of her torpid remains.
 
-</details>
+You are a member of the Shattered Spear, a descendant of Orthia, and a believer in the sacred nature of your forebearer. Carrying the torch of the Spear means that you are a warrior, and the cult expects you to fight against the Second Inquisition, the Sabbat, and any other groups that threaten Kindred society. You are to revile passive indolence, but your peers and leaders laud your decisive action and willingness to spring into battle.
 
-<details>
+**• Tip of the Spear:** _Allowed_
 
-<summary><strong>Spear of Orthia</strong> (p. 93)</summary>
+You are a member of the new wave of Shattered Spear adherents spreading through Clan Ventrue and bearing the tidings of Elena Andreas’ ground-breaking discoveries. Once per session, when interacting with another Ventrue character, you may ask the Storyteller whether the Ventrue will be receptive to your faith, tolerant of it, or will be opposed to it should you reveal your allegiance to them.
 
-**• Tip of the Spear:** Allowed\
-&#xNAN;**•• Soldier’s Code:** Allowed\
-&#xNAN;_&#x59;ou may not take the Conviction "Always seek to live, not to die"._\
-&#xNAN;**••• The Enduring Faith:** Allowed\
-&#xNAN;**•••• Witness to Orthia:** Locked\
-&#xNAN;**••••• Splinter of the Spear:** Locked
+**•• Soldier’s Code:** _Allowed_
+
+You have embraced the liturgy of the Spear with ardent zeal. Choose one of the Convictions of the Spear. Once per story, you may use it to mitigate Stains as if it was one of yours.
+
+**••• The Enduring Faith:** _Allowed_
+
+You know one or more of the Ventrue in the region are secretly followers of Orthia. If you can contact them and enlist their aid, they will provide you with four dots of either Allies or Mawla.
+
+**•••• Witness to Orthia:** _Allowed_
+
+You went down beneath Lisbon with Elena, and you saw the revelation of Orthia with your own undead eyes. You speak with the conviction of the Voice herself, and your testimony stirs those of Ventrue Blood. Once per scene, after rolling the dice to convince one or more Ventrue of your beliefs, exhort them to violence, or lead them in battle, you may turn all 1s rolled into 10s.
+
+**••••• Splinter of the Spear:** Locked
+
+You possess a splinter of the spear of Orthia itself. This fragment of such a legendary weapon doubtless possesses great power, and is a relic of great importance. As long as you have it about your person, channeling the power of Artemis Orthia grants you two automatic successes on Melee rolls when wielding spears or other piercing weapons — including stakes. However, committing an act of cowardice such as retreating before a foe or falling to terror frenzy is an insult to its legacy. You suffer one point of Aggravated Willpower damage should such happen. Furthermore, actually losing the splinter would be an utter disaster for you and for the Shattered Spear.
 
 </details>
 
@@ -1424,23 +1444,23 @@ Investigating the rising tide of blood cults and Gehenna worshipers has put you 
 
 The dominant Kindred in Hartford and New Haven were the Gemini League, an elected consortium predominantly consisting of Ventrue and Tremere, who manage the domains of Connecticut, engage in the cryptic passwords, handshakes, and rituals of mortal secret societies, and wish for nothing more than splendid isolation away from the Kindred politicking of “lesser vampires.” When dragged into events beyond their realm, they respond with ferocity and frustration. In these nights, the Gemini League’s natural successor is the Hartford Chantry, though links between the Tremere of Hartford and Ventrue of New Haven remain strong.
 
-**• Arcane Authority:** Banned
+**• Arcane Authority:** _Banned_
 
 Once per story, you may select an object, and tell the Storyteller you want to discover if it was constructed through mundane or sorcerous means. You gain three bonus dice to an Intelligence + Occult roll to determine the object’s makings, with a critical success conveying exactly the manner of sorcery involved (if present). Revealing this knowledge can of course make this item highly sought-after, such as by an Enemy or Adversary.
 
-**•• Cryptic Politics:** Banned
+**•• Cryptic Politics:** _Banned_
 
 Once per session, during a social conflict you are a part of or observing, you gain two bonus dice in an attempt to determine whether one of the participants is a member of a mortal secret society, such as the Freemasons, Rosicrucians, or Skull and Bones Club. Revealing this information at the wrong moment could put a target on yours, or the target’s back. You need to know of the society to identify it, otherwise your roll just tells you the participant/s belong to a society with coded gestures and cryptic sayings.
 
-**••• On The Square:** Banned
+**••• On The Square:** _Banned_
 
 You benefit from a four-dot Ally from a secret society, such as the Knights Templar or a tradition of mages. However, to maintain this alliance you must attend a meeting with this ally at least once per story, and provide the society with one dot of Resources (deducted from your Resources for the remainder of, or at the start of the next story) in the form of an arcane artifact or intelligence. This Lore also provides you with token membership in this society, though if you wish to join fully, it requires a greater expenditure and should be handled under the Backgrounds of Contacts and Influence.
 
-**•••• The Chantry:** Banned
+**•••• The Chantry:** _Banned_
 
 You may use the Hartford Chantry as a three dot Haven with access to the library, which in turn reduces the cost of learning new Blood Sorcery Rituals to new Blood Sorcery Ritual ×3 (−1). In order to maintain this benefit, you must be a member in good standing of your faction. This benefit applies regardless of your clan.
 
-**••••• Blood Loyalty:** Banned
+**••••• Blood Loyalty:** _Banned_
 
 You’ve been elected to a position of authority in your faction, conveying four dots of Status in all domains within New England (or wherever your faction is present), and a two dot Retainer of complete loyalty. You gain a two dice bonus on attempts to use Intimidation, Leadership, and Persuasion-related rolls on anyone in the financial industry of New England (or appropriate locality), and all subordinate members of the faction. In order to maintain this Lore, you must court votes from other vampires in your faction and not embarrass the faction. If you are seen to frenzy, your position is stripped immediately.
 
@@ -1452,24 +1472,25 @@ You’ve been elected to a position of authority in your faction, conveying four
 
 The Kindred of Liberty fought a long series of wars against the British Camarilla, the Sabbat, and the Hecata, and whether through skill or just being the last faction standing, they survived. They dissolved in recent nights, abandoning their factional name and becoming the Boston Camarilla, though many “coals” still cling to the memory of the K.O.L. Now they govern Boston and intend to reach beyond the domain, absorbing the other cities of New England into their widening praxis. They do not suffer attempts to manipulate them or take what they’ve spent so long trying to capture.
 
-**• Comrades in Arms:** Banned
+**• Comrades in Arms:** _Banned_
 
 You’re strengthened when alongside your comrades. Once per story, when announcing your identity as a member of your faction among your fellow factioneers, you may add three dice to a Resolve, Composure, or Willpower-based roll.
 
-**•• Sic Semper Tyranis:** Banned
+**•• Sic Semper Tyranis:** _Banned_
 
 The Kindred of Liberty fought against tyrants and foreign invaders for over a century (despite themselves being, in large part, foreign invaders). Once per story, after identifying by sight an enemy of your coterie, you may make a staking maneuver in combat without the traditional −2 called shot penalty. You must have a staking device on you to fulfill this Lore.
 
-**••• Unification:** Banned
+**••• Unification:** _Banned_
 
 You just have a way of drawing people to the negotiating table. Once per story, you can send out invitations to courts in up to four neighboring domains, and expect them to send a high-ranking representative to your domain for a sit- down, even if they don’t like or respect you. You must succeed on a Manipulation + Etiquette roll when crafting this invitation, with Difficulty 6 succeeding in attracting a Herald, Difficulty 7 attracting a Primogen, and Difficulty 8 attracting a Prince or Baron. Additionally, once they’re in your presence, you gain a once per story two dice bonus to an attempt at diplomacy or negotiation with this group, even if what you’re selling is bunk. On the flipside of this Lore, if you fail in your negotiations with any of the attendees, the same individual won’t return to your domain, and could become your Adversary (variable dot rating, depending on the individual) as if you offended them.
 
-**•••• Heart is Where the Home Is:** Banned
+**•••• Heart is Where the Home Is:** _Banned_
 
-Your territory (agree with the Storyteller beforehand over what location constitutes your territory) is vitally important to you, as are the people who live there. You have a Conviction as follows: Suffer no crimes against the people of my territory. This Lore enables you to enact violent reprisals against violators of this Conviction without fear of accumulating Stains. As well as a Touchstone character you must name and choose who lives on your territory, you gain a two dot Contact from persons on your territory (who may also be your Touchstone).\
+Your territory (agree with the Storyteller beforehand over what location constitutes your territory) is vitally important to you, as are the people who live there. You have a Conviction as follows: Suffer no crimes against the people of my territory. This Lore enables you to enact violent reprisals against violators of this Conviction without fear of accumulating Stains. As well as a Touchstone character you must name and choose who lives on your territory, you gain a two dot Contact from persons on your territory (who may also be your Touchstone).
+
 This Lore also creates a one or two dot Adversary, in the form of an intruder’s domitor, sire, or coterie-mate, if you destroy them just for stepping on your turf.
 
-**••••• Levers and Pulleys:** Banned
+**••••• Levers and Pulleys:** _Banned_
 
 You benefit from a three dot Retainer in the midst of the domain’s political backroom dealings, both mortal and undead, who regularly supplies you with information as a two dot Contact. However, this individual needs to be kept sweet — or they might reveal your identity as their master — and secure — as they’ll divulge a lot of information about you, if they’re caught ratting people out. At any time, you can pull this individual from their position and just keep them as a three dot Retainer, providing you keep supplying them with cash, vitae, or whatever their need happens to be.
 
@@ -1577,11 +1598,11 @@ You’re not just read in on Vienna Zero, you’re a valued member of the team. 
 
 <summary><mark style="color:green;"><strong>The Book of Nod p.37</strong></mark></summary>
 
-The Book of Nod collects oral histories, text fragments, and other media detailing the history of Caine and his childer, with additional poems and prophecies regarding Gehenna and the Final Nights. Its author — or authors — are unknown, though many Kindred believe Caine, Malkav, and Saulot contributed significant portions of the text. The stories and fragments have been carefully passed down through the generations; those who own physical pieces of the book take great pains to ensure they don’t end up in non-Cainite hands. The Book of Nod also provides the theological basis for the Sabbat’s worship of Caine.
+<sup>_The Book of Nod collects oral histories, text fragments, and other media detailing the history of Caine and his childer, with additional poems and prophecies regarding Gehenna and the Final Nights. Its author — or authors — are unknown, though many Kindred believe Caine, Malkav, and Saulot contributed significant portions of the text. The stories and fragments have been carefully passed down through the generations; those who own physical pieces of the book take great pains to ensure they don’t end up in non-Cainite hands. The Book of Nod also provides the theological basis for the Sabbat’s worship of Caine._</sup>
 
-The first and largest section of the book, the Chronicle of Caine, recounts the tale of the first vampire, his childer, and the rise and rebellion of the Antediluvians. The Chronicle of Shadows lays out a series of laws attributed to Caine, though some Kindred doubt its veracity and view it as the work of Carthaginian scholars. The Chronicle of Secrets is the shortest and most enigmatic section. Its highly symbolic passages describe the author’s visions of Gehenna. Some Noddists have dedicated their entire unlives to attempting to interpret the predictions and apply them to their modern nights. Additionally, some scholars view the Erciyes Fragments as another version of Caine’s story, while others dismiss the Fragments as apocryphal and relegate mention of them to a footnote in their dissertations, if they’re acknowledged at all.
+<sup>_The first and largest section of the book, the Chronicle of Caine, recounts the tale of the first vampire, his childer, and the rise and rebellion of the Antediluvians. The Chronicle of Shadows lays out a series of laws attributed to Caine, though some Kindred doubt its veracity and view it as the work of Carthaginian scholars. The Chronicle of Secrets is the shortest and most enigmatic section. Its highly symbolic passages describe the author’s visions of Gehenna. Some Noddists have dedicated their entire unlives to attempting to interpret the predictions and apply them to their modern nights. Additionally, some scholars view the Erciyes Fragments as another version of Caine’s story, while others dismiss the Fragments as apocryphal and relegate mention of them to a footnote in their dissertations, if they’re acknowledged at all._</sup>
 
-The Book of Nod’s collectors, translators, and editors have introduced myriad inconsistencies and contradictions over the millennia, and no two scholarly analyses ever completely agree on its true content. Many among the Camarilla denounce the book and ban, confiscate, or destroy any related texts they discover their fledglings passing around.
+<sup>_The Book of Nod’s collectors, translators, and editors have introduced myriad inconsistencies and contradictions over the millennia, and no two scholarly analyses ever completely agree on its true content. Many among the Camarilla denounce the book and ban, confiscate, or destroy any related texts they discover their fledglings passing around._</sup>
 
 **• Precis:** _Allowed_
 
@@ -1609,9 +1630,9 @@ Other Noddists look to you for insight and interpretation on the texts, and your
 
 <summary><mark style="color:green;"><strong>Gehenna Cults p.38</strong></mark></summary>
 
-Depending on whom you ask, Gehenna will soon befall the Kindred, or it’s happening right now, or it’s happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers.
+<sup>_Depending on whom you ask, Gehenna will soon befall the Kindred, or it’s happening right now, or it’s happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers._</sup>
 
-The creeds of these new blood cults come in a dizzying variety of hatreds, anxieties and hungers. The most successful spread their black wings from one city to the next, forming something like a cohesive doctrine even as feuding Kindred splinter off new schisms and heresies. Charting out the spread of such subversive elements requires an agile mind to keep track of the shifting tapestry, not to mention a strong stomach even by vampire standards. All too many Gehenna cults delve into stomach-churning practices.
+<sup>_The creeds of these new blood cults come in a dizzying variety of hatreds, anxieties and hungers. The most successful spread their black wings from one city to the next, forming something like a cohesive doctrine even as feuding Kindred splinter off new schisms and heresies. Charting out the spread of such subversive elements requires an agile mind to keep track of the shifting tapestry, not to mention a strong stomach even by vampire standards. All too many Gehenna cults delve into stomach-churning practices._</sup>
 
 **• Mark the Bloody Trail:** _Allowed_
 
@@ -1639,11 +1660,11 @@ Investigating the rising tide of blood cults and Gehenna worshipers has put you 
 
 <summary><mark style="color:green;"><strong>Machinations of Saulot </strong></mark><em><mark style="color:green;"><strong>(Tremere and Salubri only)</strong></mark></em><mark style="color:green;"><strong> </strong><strong>p.39</strong></mark></summary>
 
-While some Noddists regard Saulot as a veritable saint, others who study the history of the Salubri and Saulot see him as a dangerous player in the eternal struggle: possibly the most sinister of all antediluvians. Clans Salubri and Tremere, among others, have studied the travels and words of Saulot, and fear the mastermind that may lurk behind the façade of saintliness.
+<sup>_While some Noddists regard Saulot as a veritable saint, others who study the history of the Salubri and Saulot see him as a dangerous player in the eternal struggle: possibly the most sinister of all antediluvians. Clans Salubri and Tremere, among others, have studied the travels and words of Saulot, and fear the mastermind that may lurk behind the façade of saintliness._</sup>
 
-Saulot is rumored to have sired the Salubri as a means of testing his knowledge and creating goodwill towards his fellow antediluvians, with no qualms about discarding them as he vanished, a victim of diablerie by Tremere. Rumors spread among those in the know that Tremere may have lost the battle of wills when committing diablerie on Saulot and Saulot’s diablerie may have been simply another move in the Jyhad.
+<sup>_Saulot is rumored to have sired the Salubri as a means of testing his knowledge and creating goodwill towards his fellow antediluvians, with no qualms about discarding them as he vanished, a victim of diablerie by Tremere. Rumors spread among those in the know that Tremere may have lost the battle of wills when committing diablerie on Saulot and Saulot’s diablerie may have been simply another move in the Jyhad._</sup>
 
-If Saulot’s ultimate goal is mastery over his fellow Antediluvians and all Kindred, he would manipulate a small remnant of philosophers, healers, and warriors as well as a world-spanning authoritarian cabal of once blood-bound sorcerers. With the recent fractures in the Tremere clan’s pyramid structure, the Beckoning, and the Gehenna Crusade, Saulot’s ultimate plans seem increasingly inscrutable. This does not stop many from speculation, however.
+<sup>_If Saulot’s ultimate goal is mastery over his fellow Antediluvians and all Kindred, he would manipulate a small remnant of philosophers, healers, and warriors as well as a world-spanning authoritarian cabal of once blood-bound sorcerers. With the recent fractures in the Tremere clan’s pyramid structure, the Beckoning, and the Gehenna Crusade, Saulot’s ultimate plans seem increasingly inscrutable. This does not stop many from speculation, however._</sup>
 
 **• Rumors and Signs:** _Allowed_
 
@@ -1671,9 +1692,9 @@ Your expertise in Saulot’s ways gives you an advantage few others have. You po
 
 <summary><mark style="color:green;"><strong>Servitor of Irad p.40</strong></mark></summary>
 
-According to the Book of Nod, Irad the Strong was the third childe of Caine, and he served as his sire’s enforcer and military leader in the First City. The Kindred of the Servitors of Irad seek to emulate that mythological vampire, who is said to have pledged to serve the Antediluvians in all things before his kin or his childer destroyed him. They hope that, if they spend their existence showing they serve the Antediluvians, they will be spared when the ancients rise. Irad believed it, but received the revelation too late to preserve himself.
+<sup>_According to the Book of Nod, Irad the Strong was the third childe of Caine, and he served as his sire’s enforcer and military leader in the First City. The Kindred of the Servitors of Irad seek to emulate that mythological vampire, who is said to have pledged to serve the Antediluvians in all things before his kin or his childer destroyed him. They hope that, if they spend their existence showing they serve the Antediluvians, they will be spared when the ancients rise. Irad believed it, but received the revelation too late to preserve himself._</sup>
 
-The cult doesn’t actually have any contact with the Third Generation, but they assume that the Antediluvians would want the elders of Kindred society to be weak and divided. As such, they infiltrate any vampiric organization they can find — Camarilla cities, Anarch gatherings, and even other cults — to sow dissension and shatter fragile alliances. And now you’re one such deep cover member. You’re cut off from the other members of your cult, trying to enact a hazily understood plan set down by mythological figures with whom you have no direct contact, with the knowledge that if any other vampire ever found out, you’d be immediately and painfully killed. But you have faith, and that’s enough.
+<sup>_The cult doesn’t actually have any contact with the Third Generation, but they assume that the Antediluvians would want the elders of Kindred society to be weak and divided. As such, they infiltrate any vampiric organization they can find — Camarilla cities, Anarch gatherings, and even other cults — to sow dissension and shatter fragile alliances. And now you’re one such deep cover member. You’re cut off from the other members of your cult, trying to enact a hazily understood plan set down by mythological figures with whom you have no direct contact, with the knowledge that if any other vampire ever found out, you’d be immediately and painfully killed. But you have faith, and that’s enough._</sup>
 
 **• Shield of Irad:** _Allowed_
 
@@ -1703,11 +1724,11 @@ When the Third Generation eventually rise, you know that most of Caine’s erran
 
 <summary><mark style="color:green;"><strong>Beckett p.157</strong></mark></summary>
 
-_According to Kindred cultures that acknowledge the generation model, the fourth generation of vampires was a kind of Cambrian explosion, increasing and solidifying emerging vampiric strains in the previous generation. Sometimes nicknamed methuselah due to their age, most of the known Kindred of such low Generation have been Beckoned or chose to serve in the Gehenna War, but some lie dormant in domains outside its battlefields._
+<sup>_According to Kindred cultures that acknowledge the generation model, the fourth generation of vampires was a kind of Cambrian explosion, increasing and solidifying emerging vampiric strains in the previous generation. Sometimes nicknamed methuselah due to their age, most of the known Kindred of such low Generation have been Beckoned or chose to serve in the Gehenna War, but some lie dormant in domains outside its battlefields._</sup>
 
-_One of the greatest seekers of Kindred lore, most knowledgeable about the resting places and graves of the ancient dead, is the Gangrel Cuthbert Beckett. Where some Kindred scholars are content to theorize from the comfort of their libraries, Beckett has always gone out to look for himself._
+<sup>_One of the greatest seekers of Kindred lore, most knowledgeable about the resting places and graves of the ancient dead, is the Gangrel Cuthbert Beckett. Where some Kindred scholars are content to theorize from the comfort of their libraries, Beckett has always gone out to look for himself._</sup>
 
-_As the Gehenna War intensifies, there’s a sudden demand for those with the specialized knowledge to know what the Kindred of various domains are really facing. Beckett is not the only Kindred archaeologist who has suddenly started to receive invitations to the courts of mighty vampire Princes._
+<sup>_As the Gehenna War intensifies, there’s a sudden demand for those with the specialized knowledge to know what the Kindred of various domains are really facing. Beckett is not the only Kindred archaeologist who has suddenly started to receive invitations to the courts of mighty vampire Princes._</sup>
 
 **• Bloody Ancestry:** _Allowed_
 
@@ -1735,11 +1756,11 @@ If you seek out the Ancients, you risk finding them. Once per story, if facing a
 
 <summary><mark style="color:green;"><strong>The Eternal Arena p.158</strong></mark></summary>
 
-Kindred society needs activity and entertainment. It gets them in the lulls between hunts. Some take solace in accumulating knowledge; others try their hand at taking up art or engaging in indulgent social manipulation. Then there are the vampires that beat the shit out of each other. One venue for such things is the Eternal Arena in a small town in Greece, where a violent Kindred tournament has taken place for decades, perhaps centuries. (See p. 126.)
+<sup>_Kindred society needs activity and entertainment. It gets them in the lulls between hunts. Some take solace in accumulating knowledge; others try their hand at taking up art or engaging in indulgent social manipulation. Then there are the vampires that beat the shit out of each other. One venue for such things is the Eternal Arena in a small town in Greece, where a violent Kindred tournament has taken place for decades, perhaps centuries. (See p. 126.)_</sup>
 
-Higher-minded Kindred may scoff, but they can’t deny the excitement of watching two or more vampires in a bare-knuckle brawl. Some domains sanction the activity, forming underground fight clubs where their opponents are their peers, unsuspecting mortals, or animals on vitae. Other places do it openly, like the Eternal Arena. Blood sports aren’t only fist-to-fist events, bladed weapons and firearms are sometimes used. Vampire blood sports require incredible resilience and push Hunger to the limit. At the Arena, the fighters agree beforehand on weapons but all Kindred powers are allowed. The only limit is that the fight has to take place within the Arena and can’t involve friends or allies unless it’s coterie versus coterie.
+<sup>_Higher-minded Kindred may scoff, but they can’t deny the excitement of watching two or more vampires in a bare-knuckle brawl. Some domains sanction the activity, forming underground fight clubs where their opponents are their peers, unsuspecting mortals, or animals on vitae. Other places do it openly, like the Eternal Arena. Blood sports aren’t only fist-to-fist events, bladed weapons and firearms are sometimes used. Vampire blood sports require incredible resilience and push Hunger to the limit. At the Arena, the fighters agree beforehand on weapons but all Kindred powers are allowed. The only limit is that the fight has to take place within the Arena and can’t involve friends or allies unless it’s coterie versus coterie._</sup>
 
-You’re involved in these blood sports, either as a fighter or an organizer. You may even have had a connection to the Arena itself. You know the best techniques to shatter a vampire’s body. Should a mortal get on your bad side, you know how to rend them into bits.
+<sup>_You’re involved in these blood sports, either as a fighter or an organizer. You may even have had a connection to the Arena itself. You know the best techniques to shatter a vampire’s body. Should a mortal get on your bad side, you know how to rend them into bits._</sup>
 
 **• Champion’s Aura:** _Allowed_
 
@@ -1767,27 +1788,27 @@ In your time in the pit, you’ve brushed up against final death many times. One
 
 <summary><mark style="color:orange;"><strong>Tegyrius the Vizier p.159</strong></mark></summary>
 
-From his soldiering days on the battlefields with Alexander the Great to his time as Vizier of the Banu Haqim stronghold Alamut, Tegyrius has prioritized his ideals over personal self-interest. Instead of claiming the Black Throne for himself, he ceded the privilege to Jamal and used his wise counsel like a guiding hand to shape the destiny of the clan. And when Ur-Shulgi the Shepherd awoke and demanded the Banu Haqim abandon their mortal faiths, Tegyrius refused to take part in his violent tyranny. Alongside his friend and colleague, al-Ashrad, the pair abandoned Ur-Shulgi to safeguard their clanmates and led them out of Alamut.
+<sup>_From his soldiering days on the battlefields with Alexander the Great to his time as Vizier of the Banu Haqim stronghold Alamut, Tegyrius has prioritized his ideals over personal self-interest. Instead of claiming the Black Throne for himself, he ceded the privilege to Jamal and used his wise counsel like a guiding hand to shape the destiny of the clan. And when Ur-Shulgi the Shepherd awoke and demanded the Banu Haqim abandon their mortal faiths, Tegyrius refused to take part in his violent tyranny. Alongside his friend and colleague, al-Ashrad, the pair abandoned Ur-Shulgi to safeguard their clanmates and led them out of Alamut._</sup>
 
-In the tumultuous years that followed, Tegyrius solidified his position within the Ashirra and opened negotiations with the Camarilla, culminating in the Vermillion Wedding to Victoria Ash. On the surface, it seemed the marriage was a purely political union. And at first, it was. Yet, what many failed to realize is that during their brief courtship, despite his best efforts, Tegyrius experienced something akin to love. Since the consummation of their mutual Blood Bond, those feelings have only intensified.
+<sup>_In the tumultuous years that followed, Tegyrius solidified his position within the Ashirra and opened negotiations with the Camarilla, culminating in the Vermillion Wedding to Victoria Ash. On the surface, it seemed the marriage was a purely political union. And at first, it was. Yet, what many failed to realize is that during their brief courtship, despite his best efforts, Tegyrius experienced something akin to love. Since the consummation of their mutual Blood Bond, those feelings have only intensified._</sup>
 
-**• The Art of Negotiation:** Discuss With Storytellers
+**• The Art of Negotiation:** _Discuss With Storytellers_
 
 As a skilled diplomat, advisor, or negotiator, the legacy of Tegyrius is reflected in you. When you mediate between two opposing individuals or groups, you receive a two-dice bonus to Intimidation or Persuasion skill tests.
 
-**•• The Pen is Mightier:** Discuss With Storytellers
+**•• The Pen is Mightier:** _Discuss With Storytellers_
 
 Following in the footsteps of Tegyrius, you value knowledge and choose to hone your mental abilities just as much as you do your fighting skills. As a protégé of Tegyrius, you have access to a Banu Haqim library transplanted from Alamut during the Schism. The library counts as a two-dot Haven (••) with a two-dot Library (••), but its contents are being sought after by one of the Shepherds of Ur-Shulgi, counting as a two-dot Adversary.
 
-**••• Hear My Words:** Discuss With Storytellers
+**••• Hear My Words:** _Discuss With Storytellers_
 
 You are a known ally of Tegyrius, and when you speak, others listen. As a source of wisdom and restraint, you get three additional dice for any social test against another Banu Haqim of the same sect, and two additional dice for any social test against a Banu Haqim of a different sect.
 
-**•••• Perception is Power&#x20;**_**(Banu Haqim only)**_**:** Discuss With Storytellers
+**•••• Perception is Power&#x20;**_**(Banu Haqim only)**_**:** _Discuss With Storytellers_
 
 In the hallowed halls of Alamut, the Council of Scrolls dedicated their unlives to the pursuit of academic knowledge. But when Ur-Shulgi awoke and seized the Black Throne, the Council disbanded. You sat on the Council, and under Tegyrius’ guidance, learned that one cannot fight what one cannot see. You have access to the Auspex Discipline and may buy dots using experience points as if it was one of your clan Disciplines.
 
-**••••• A Matter of Honor:** Discuss With Storytellers
+**••••• A Matter of Honor:** _Discuss With Storytellers_
 
 Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himself owes you a debt of gratitude. Perhaps you assisted in his negotiations with the Camarilla, or maybe you saved his life several years ago. Once per chronicle, Tegyrius functions as a five-dot Mawla, and uses his lofty position to aid you as best he can (short of violating the alliance between the Camarilla and the Ashirra).
 
@@ -1797,29 +1818,29 @@ Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himse
 
 <details>
 
-<summary><strong>Birth of the Anarch Free States p.149</strong></summary>
+<summary><mark style="color:red;"><strong>Birth of the Anarch Free States p.149</strong></mark></summary>
 
 <sup>_The Second Anarch Revolt started with the toppling of the old Camarilla Prince in Los Angeles in 1944. Soon violence gripped the city, with Anarch gangs seeking out Camarilla holdouts, those loyal to the old order seeking to escape or make a glorious last stand. Havens burned, Kindred met their ends, and the Anarchs triumphed. Due to the legendary nature of those nights of revolution, many of the Kindred who were there enjoy bragging about it. Some of those who were not there have made up invented histories for themselves, pretending that they too were part of this great event._</sup>
 
 <sup>_Now in the wake of the Third Anarch Revolt, being connected to the birth of the Anarch Free States in Los Angeles carries a certain cachet. You are an original revolutionary._</sup>
 
-<mark style="color:red;">**• Fake Revolutionary**</mark>
+**• Fake Revolutionary:** _Banned_
 
 You’ve been telling people stories of your exploits in Los Angeles in the fateful first nights of the Revolt. They’re not true, but who cares? You’ll take the status that comes with being a revolutionary hero. You get a bonus die to all attempts to rally, cajole, and manipulate Anarchs. However, if you meet someone who genuinely was in Los Angeles at that time, you must succeed at a Manipulation + Subterfuge test (Difficulty 4) to convince them you are what you claim you are.
 
-<mark style="color:red;">**•• Connections**</mark>
+**•• Connections:** _Banned_
 
 You were not there for the Revolt, but you know someone who was. Once per story, you can contact them and ask a question related to Anarch politics or the history of the Free States and get an honest answer.
 
-<mark style="color:red;">**••• Original Rebel**</mark>
+**••• Original Rebel:** _Banned_
 
 You were in Los Angeles at the time of the Second Anarch Revolt. You fought to free your city from the oppression of the Camarilla. You know how to rebel and receive a bonus die to all tests involving a revolution against Camarilla hegemony.
 
-<mark style="color:red;">**•••• Hero of the Revolution**</mark>
+**•••• Hero of the Revolution:** _Banned_
 
 Not only were you in Los Angeles, you were pivotal to the success of the Revolt and your compatriots know it. You fought in a crucial battle or stopped an important VIP from escaping. Once per story, you may call on former allies to summon an Anarch gang to your aid. There’s five of them, all neonates, with 4 dots in Disciplines each (with no power higher than level three) and a General Difficulty of 4/3. They only help if the action can be presented as part of the righteous struggle against the Camarilla.
 
-<mark style="color:red;">**••••• Legacy of the Revolution**</mark>
+**••••• Legacy of the Revolution:** _Banned_
 
 What has happened before can happen again. Once per chronicle, you can ignite a proper, domain-wide Anarch Revolt in any city you visit, subject to Storyteller approval. The Revolt has a decent chance of success but you will need to participate in decisive battles and risk your unlife to make sure.
 
@@ -1827,29 +1848,29 @@ What has happened before can happen again. Once per chronicle, you can ignite a 
 
 <details>
 
-<summary><strong>Childe of the Revolution p.150</strong></summary>
+<summary><mark style="color:red;"><strong>Childe of the Revolution p.150</strong></mark></summary>
 
 <sup>_The French Revolution was a time of tremendous upheaval, unleashed brutality, and political change. The elite Camarilla old guard lost a lot of control from their old aristocratic and landlord roots, while the newly formed Bohemians rallied entrepreneurial and reformist younger generations to tip the balance of power. The infighting, rioting, and war escalation allowed the Anarchs to roam Paris unimpeded for several years and to recruit in numbers. The Camarilla elite worked towards culling these upstarts and driving them out after the Restoration._</sup>
 
 <sup>_Kindred who made it through the Revolution can tell many stories of this unique time, its careless brutality, its vibrant hope for change, its dark memories of the dead and dying, and streets running with blood._</sup>
 
-<mark style="color:red;">**• Rousing Speech**</mark>
+**• Rousing Speech:** _Banned_
 
 You underwent a time of unique political change and breathed an atmosphere of contestation. When arguing in favor of going against the established order, you can add two dice to a Persuasion or Leadership test.
 
-<mark style="color:red;">**•• Under the Guillotine**</mark>
+**•• Under the Guillotine:** _Banned_
 
 You participated in frantic celebrations under the Guillotine, where people would slather themselves with blood. You have learned to keep a cool head amid complete crowd chaos. Once per story, you may reroll a failed Hunger Frenzy test.
 
-<mark style="color:red;">**••• Bal des Victimes**</mark>
+**••• Bal des Victimes:** _Banned_
 
 After the Revolution, you attended the famed Bal des Victimes, where mourners of revolutionary violence could connect and share their grief over the death of their loved ones. You might be mourning someone yourself or just used the meetings for connections. You can get +2 dice on social tests if you find a way to connect to your target through grief, or +3 if the target was another Bal des Victimes participant.
 
-<mark style="color:red;">**•••• Friend of Beaumont**</mark>
+**•••• Friend of Beaumont:** _Banned_
 
 You were close to Félicien Beaumont and helped him advance his political agenda and secure important positions in the heat of the Revolution. You have remained in his circle of proteges ever since. Beaumont counts as a five-dot Mawla, but once per story, he’ll request something from you in return, the equivalence of one minor boon.
 
-<mark style="color:red;">**••••• Bohemian Affinities**</mark>
+**••••• Bohemian Affinities:** _Banned_
 
 Your influence with the reformist Revolutionary faction is extensive, as you provided help to their cause, or maybe you were Embraced in their group. You get five dots to distribute among Haven, Contacts, and Resources. Furthermore, and can access the Halls of Montmartre location (p. 42), using it as a hideout from time to time.
 
@@ -1857,29 +1878,29 @@ Your influence with the reformist Revolutionary faction is extensive, as you pro
 
 <details>
 
-<summary><strong>The Order of Repentants p.152</strong></summary>
+<summary><mark style="color:green;"><strong>The Order of Repentants p.152</strong></mark></summary>
 
 <sup>_The Repentants are Kindred who lost much of their humanity but regained enough to maintain control. They now devote themselves to repenting the vile actions they performed while the Beast controlled them. To join their ranks, you must convince the order of your will to pay for your sins, usually by prostrating yourself in front of a whole chapter of other Repentants. In many ways, being one of the Repentants is similar to belonging to a monastic order as the rules are strict and many. A Repentant exists in fear for what happens if they give in to the whispers of the Beast, and some take extreme measures to stay on that narrow path of self-control. This may involve self-inflicted pain, asceticism, or extensive meditation. Some become self-absorbed in their martyrdom, finding a sort of enjoyment in the constant punishment._</sup>
 
 <sup><sub>_To be a Repentant, something must’ve happened that caused the character to drop in Humanity and to regain it again. If there isn’t already something in your backstory that fits, you committed an atrocity and have since saved more lives than you took. Choose a method for how your character keeps on the right track and how they’re trying to make amends. You could also include a goal that would make the character leave the Order of Repentants._<sub></sup>
 
-<mark style="color:green;">**• Sponsorship**</mark>
+**• Sponsorship:** _Allowed_
 
 Repenting is easier with someone to support you and keep you focused on the horror’s you’ve committed. You gain a three-dot Mawla from the Order who’ll help you once per story. They may also interfere in other ways if they hear of you straying from your path.
 
-<mark style="color:green;">**•• Surface Empathy**</mark>
+**•• Surface Empathy:** _Allowed_
 
 Being part of a community that requires you to lay bare your worst regrets has taught you to look beyond the surface. Once per session, you get +2 dice in an Insight or Persuasion test.
 
-<mark style="color:green;">**••• Flagellation**</mark>
+**••• Flagellation:** _Allowed_
 
 Self-punishment is the key to keeping the Beast in check. You get one extra die to resist Frenzy but need to severely punish yourself for it later that night, inflicting 1 Aggravated damage. If you forget, you automatically fail your next Frenzy test.
 
-<mark style="color:green;">**•••• Superior Focus**</mark>
+**•••• Superior Focus:** _Allowed_
 
 Monastic methods of self-regulation have taught you to focus on what you want, whether it’s obsessing over your own evil or moving towards a goal. You can reroll one bestial failure roll per story without sacrificing Willpower.
 
-<mark style="color:green;">**••••• Benevolence**</mark>
+**••••• Benevolence:** _Allowed_
 
 You are devoted to saving your immortal soul, or at least acting as though you could. You can reroll one failed Remorse test per story or let another player reroll theirs.
 
@@ -1887,27 +1908,27 @@ You are devoted to saving your immortal soul, or at least acting as though you c
 
 <details>
 
-<summary><strong>The Red Lady p.153</strong></summary>
+<summary><mark style="color:orange;"><strong>The Red Lady p.153</strong></mark></summary>
 
 <sup>_There is a Toreador ancilla somewhere in Prague called “the Red Lady.” She’s important in the local Camarilla, but not the strictest when it comes to her alliances, since she’s famous for her parties where no one asks questions about what affiliation you belong to. It’s a perfect place to disappear into a crowd, make deals with people you shouldn’t do business with, or just give in to some base, carnal desires. What happens in her parties, stays in her parties. But break that agreement, and you’ll never be invited again, or worse._</sup>
 
-<mark style="color:orange;">**• You Gotta Know Somebody**</mark>
+**• You Gotta Know Somebody:** _Discuss With Storytellers_
 
 You have a contact who can get you into one of the Red Lady’s famous parties.
 
-<mark style="color:orange;">**•• Person of Interest**</mark>
+**•• Person of Interest:** _Discuss With Storytellers_
 
 The Red Lady is known for her tastes in younger Kindred, even though her particular preferences vary and shift, and many opportunities arise if you embody what she currently favors. You happen to possess some quality she likes. Add one die in Charisma tests when in her presence or toward her partygoers.
 
-<mark style="color:orange;">**••• A Pretty Pet**</mark>
+**••• A Pretty Pet:** _Discuss With Storytellers_
 
 To be one of the Red Lady’s favorites comes with a long list of perks, as she happily shares her vast resources with you. You are one of her current pets. She is the equivalent of a two-dot Mawla, and you also gain a dot in Herd and one in Resources. These dots will stay as long as you have her good graces and disappear if you lose them.
 
-<mark style="color:orange;">**•••• A Trusted Friend**</mark>
+**•••• A Trusted Friend:** _Discuss With Storytellers_
 
 You are one of her recruiters and a trusted enforcer of her will. Once per story, the Red Lady will attend one of your gatherings, and as a token of goodwill and your glorious mutual history, she will grant you a favor. When this occurs, also add one dot in Status (Camarilla).
 
-<mark style="color:orange;">**••••• Red Haze**</mark>
+**••••• Red Haze:** _Discuss With Storytellers_
 
 The Red Lady’s tastes are broad, ranging from the pedestrian to the exotic to the forbidden—the amaranth. Of course, it wouldn’t befit one of her station to display these telltale signs of a murderous appetite, so she had one of her devoted acolytes develop a method to remove these pesky marks. Once per story, the Red Lady will cleanse your Blood and aura of any evidence of diablerie.
 
@@ -1917,7 +1938,7 @@ The Red Lady’s tastes are broad, ranging from the pedestrian to the exotic to 
 
 <details>
 
-<summary><strong>Succubus Club Copycat p.162</strong></summary>
+<summary><mark style="color:yellow;"><strong>Succubus Club Copycat p.162</strong></mark></summary>
 
 <sup>_The legendary Succubus Club of Chicago set the gold standard for hiding in plain sight, with kindred from all over the world going out of their way to visit when possible. Following a series of devastating attacks on the local Camarilla in the mid-nineties, the club shuttered its doors, and the never-ending beat that once drew thousands through its doors was finally silenced._</sup>
 
@@ -1925,23 +1946,23 @@ The Red Lady’s tastes are broad, ranging from the pedestrian to the exotic to 
 
 <sup>_Business, like the ever-present beat, is booming._</sup>
 
-<mark style="color:green;">**• Finger on the Pulse**</mark>
+**• Finger on the Pulse:** _Allowed_
 
 The club acts as the nexus point for anyone who’s anyone, and as the owner, you know them all. You receive a one-die bonus to Social pools involving important mortals (even if only in their own minds), as they seek to curry your favor (or discretion).
 
-<mark style="color:green;">**•• Energizing Beat**</mark>
+**•• Energizing Beat:** _Allowed_
 
 A success owes much to its hedonistic vibe and world-class set lists, and for the Kindred guests, this makes for a rich hunting ground. All blood Resonance is considered Intense for you when hunting in the club.
 
-<mark style="color:green;">**••• Damage Control**</mark>
+**••• Damage Control:** _Allowed_
 
 Trained staff are on standby to negate the worst impacts of a feed gone wrong, no questions asked. Once per session, while hunting in the club, if you get a Messy Critical on a test or fail a Frenzy test, you can reroll all dice.
 
-<mark style="color:yellow;">**•••• Loyalty**</mark>
+**•••• Loyalty:** _Allowed_
 
 Your staff are dedicated to you in a way that’s hard to explain, almost as if the club itself had got its hooks into them to ensure their unwavering loyalty. Any attempts by other Kindred to blood bond, Dominate, or sway your staff with Presence automatically fail if it would negatively impact you or the club.
 
-<mark style="color:yellow;">**••••• Destination of Choice**</mark>
+**••••• Destination of Choice:** _Locked_
 
 The reputation and mystique of the Succubus Club is legendary, so much so that even its clones carry that same seductive atmosphere of excess, edge, and danger. This unique cocktail of ingredients marks it as the place to be, and it’s common to see the city’s kindred in attendance. If the city’s undead leaders are hosting a gathering, you can successfully petition to have it hosted in your club, should you wish, once per session.
 
@@ -1949,7 +1970,7 @@ The reputation and mystique of the Succubus Club is legendary, so much so that e
 
 <details>
 
-<summary><strong>The Pony Express p.163</strong></summary>
+<summary><mark style="color:orange;"><strong>The Pony Express p.163</strong></mark></summary>
 
 <sup>_The Pony Express was founded by an enterprising group of Ventrue ancillae in response to the Camarilla’s abandonment of electronic communications in the aftermath of the Second Inquisition. Recognizing the need for a method of coordinating intercity communication across the sect, the group’s founder, Elliot Praxton, assembled a group of like-minded Ventrue to found what Praxton deemed “The Pony Express.”_</sup>
 
@@ -1957,23 +1978,23 @@ The reputation and mystique of the Succubus Club is legendary, so much so that e
 
 <sup>_Drivers brave the perils of the open road, handing off their packages to other drivers at pre-arranged drops or occasionally making long-hauls with particularly sensitive information. Anarchs, Lupines, and the Inquisition stand in their way, but they get the mail through, never taking the same route twice, and always covering their tracks. Working for the Express is dangerous on the best of nights, but it is vital to the Camarilla’s survival and Praxton pays extremely well._</sup>
 
-<mark style="color:orange;">**• Access to the Network**</mark>
+**• Access to the Network:** _Discuss With Storytellers_
 
 You have access to the Express and can send or receive a secure message or packet to or from any domain the Express operates in. The delivery will arrive within three nights to a week (Storyteller’s discretion).
 
-<mark style="color:orange;">**•• Station Agent**</mark>
+**•• Station Agent:** _Discuss With Storytellers_
 
 You collect the mail in your domain and facilitate the handoff to a driver. You have two-dots in Mask and are Zeroed. You also have access to the local Express station, a two-dot Haven with a one-dot Postern. It is owned by Paxton, but available to you while on official Express business. The obligation that comes with this Loresheet sees the vampire often chased or held accountable if expected deliveries do not make it to their recipients.
 
-<mark style="color:orange;">**••• Driver**</mark>
+**••• Driver:** _Discuss With Storytellers_
 
 You are a driver for the Express, granting you access to a wide array of vehicles and bolt holes across the nation. You can acquire a vehicle appropriate to your journey’s needs (Storyteller’s discretion) once per story. This is typically a car, truck, boat, small aircraft, or even motorcycle suitable to reach your destination. You also have access to the full Pony Express station network, representing a collection of two-dot Havens within one night’s travel of each other. They are owned by Praxton, but available to all his agents and drivers in time of need.
 
-<mark style="color:orange;">**•••• World Tour**</mark>
+**•••• World Tour:** _Discuss With Storytellers_
 
 Praxton recently took the Pony Express international, arranging secure stations at many of the world’s major air and seaports, and you are at the forefront of this new initiative. Once per story, you gain access to an international mode of travel specifically tailored to accommodate the unique needs of Kindred. This transportation is likely something fast and maneuverable, like a Lear jet, or slow and clandestine, like a birth on a faceless freighter. Two-dot Havens in the form of Express stations anchor each end of your journey.
 
-<mark style="color:orange;">**••••• Passenger Service**</mark>
+**••••• Passenger Service:** _Discuss With Storytellers_
 
 Always the innovator, Praxton operates a clandestine passenger service for “special” clients. Once per story, you and your coterie obtain passage from your domain to any destination the Express operates in (Storyteller’s discretion).
 
@@ -1981,30 +2002,30 @@ Always the innovator, Praxton operates a clandestine passenger service for “sp
 
 <details>
 
-<summary><strong>Road Courier p.164</strong></summary>
+<summary><mark style="color:green;"><strong>Road Courier p.164</strong></mark></summary>
 
 <sup>_Camarilla domains learned the hard way that online communication is a death trap for Kindred. To escape the fires of the Second Inquisition, vampires have turned to physical couriers. Europe can sometimes rely on rooftop runners and the discretion of sewer-dwelling Nosferatu, but the vast empty spaces of the continents, especially the New World, require messengers to brave the open road. While ghoul couriers have the advantage of operating during the day, they can be vulnerable whenever they stop, so Princes and Barons are sometimes forced to employ discreet and loyal Kindred to transport vital documents and artifacts._</sup>
 
 <sup>_Whether you travel alone on a Yamaha cruiser or with a whole crew in an armored van, you know how to survive the roads, and how to get under cover with your precious cargo before the sun rises._</sup>
 
-<mark style="color:green;">**• Bucket**</mark>
+**• Bucket:** _Allowed_
 
 As long as you’re in an urban area or along a major road, you rarely have problems finding a ride for the night. Add two extra dice to your Intelligence + Streetwise tests while looking for a temporary vehicle. Every success above the margin of difficulty gives some extra comfort and ensures you won’t instantly alert the police.
 
-<mark style="color:green;">**•• Six in the Morning**</mark>
+**•• Six in the Morning:** _Allowed_
 
 You know a hundred forgotten caves, empty garages, and abandoned warehouses. Once per story, receive a four-dice bonus to a Survival test to find shelter, as long as you’re on a road or street and have a vehicle. Your temporary haven is big enough for a large van.
 
-<mark style="color:green;">**••• Chosen Steed**</mark>
+**••• Chosen Steed:** _Allowed_
 
 Unlife is filled with uncertainties, but at least there’s one thing you know you can always count on. Select one vehicle that you’ve had for at least one entire story; the bonus for operating and working on this vehicle is three dice.
 
-<mark style="color:green;">**•••• Highway Harbinger**</mark>
+**•••• Highway Harbinger:** _Allowed_
 
 You’ve been delivering bad news long enough that vampires know your arrival spells trouble. For the first three nights in a new city after you announce yourself, you gain a three-dice bonus to all Intimidation, Investigation, and Streetwise tests with vampires, as people make stupid mistakes and rumors spread like wildfire.\
 However, your coming is now ominous enough that a paranoid Prince or other notable vampire makes it their business to end you or drive you out. Gain a two-dot Adversary for as long as you stay in the city.
 
-<mark style="color:green;">**••••• Midnight Express**</mark>
+**••••• Midnight Express:** _Allowed_
 
 You know spotters, scouts, and fellow couriers across the country. They function as two dots in Contacts. In addition, once per story, you can order them to watch and clear the roads ahead of you for a single night, letting you maintain a highway speed of 75 miles per hour in even the worst bucket and 150 miles per hour in a high-end cruising vehicle like a Mercedes or a sports car. You need to decide on a start and end point before you set out. Your spotters clear out any mundane problems, like speed traps. They can’t protect you from vampires, Lupines, or other supernatural threats, but they can usually warn you or provide you with alternate routes if you come under fire.
 
@@ -2012,28 +2033,28 @@ You know spotters, scouts, and fellow couriers across the country. They function
 
 <details>
 
-<summary><strong>Stories of the Daughters p.165</strong></summary>
+<summary><mark style="color:green;"><strong>Stories of the Daughters p.165</strong></mark></summary>
 
 <sup>_Not many young Kindred have heard of the Daughters of Cacophony, but stories of undead singers extraordinaire are occasionally told in Elysia by those who claim to have met one. A rumored bloodline (although rumormongers cannot agree whether of clan Malkavian, Toreador, or another), the legendary sirens can allegedly sway and hurt using their voice alone, capable of shattering much more than glass. Any appearance of a particularly vocally talented Kindred (of any gender, as “Daughters” is but a title) in the domain may spark gossip, and a few Kindred fear the legends enough to act preemptively on such news, turning rumor into danger for the alleged Siren. Some do not believe in Daughters’ existence, while others successfully pretend to be one, despite their sires knowing nothing of such connection._</sup>
 
-<mark style="color:green;">**• Aspiring Idol**</mark>
+**• Aspiring Idol:** _Allowed_
 
 Perhaps you trained your voice daily before your Embrace, and find the nightly routine a practice that helps you maintain some connection to your mortal past, or maybe you’re just naturally gifted with a pleasant voice and you like the sound of it. Receive two additional dice to any test involving singing, but if you fail, suffer an immediate Compulsion for the shame you brought on yourself.
 
-<mark style="color:green;">**•• Surprise Performance**</mark>
+**•• Surprise Performance:** _Allowed_
 
 The talent lies dormant within you, and comes to light in the most unexpected moments. Once per story, receive two extra successes on a test involving public speaking. This can be done after the test has been made, and can be paired with using Presence.
 
-<mark style="color:green;">**••• Wayward Daughter**</mark>
+**••• Wayward Daughter:** _Allowed_
 
 You’ve heard about Daughters of Cacophony, and whatever you’ve heard, you turned into your identity. You successfully (so far) pretend to be a Daughter in the domain you reside in. You’ve also convinced the local Kindred society to treat you like a big deal (though some individuals may argue). This comes with benefits—receive four dots to distribute among Status, Herd and Mawla.\
 However, someone - like your sire—knows your secret, and might use it against you if you give them a reason. Once that happens, lose your gained advantages and gain Flaw: Suspect among the faction you’re the most acquainted with.
 
-<mark style="color:green;">**•••• Songstress Supreme**</mark>
+**•••• Songstress Supreme:** _Allowed_
 
 Maybe the vitae of the Daughters really does flow in your undead veins, or maybe you’re just exceptionally talented. Regardless of the source, the beauty and power of your voice surpasses most mortal singers. Gain four additional dice to any vocal performances, but your talent has earned you some unwanted “fans.” Gain the Stalkers Flaw, and a single powerful Adversary who feels either jealous or possessive of you.
 
-<mark style="color:green;">**••••• Rejuvenating Voice**</mark>
+**••••• Rejuvenating Voice:** _Allowed_
 
 Your voice is almost supernaturally soothing. Gain two additional dice to your non-intimidation Presence tests, as well as while using Quell the Beast or Obeah. Additionally, once per story, you can restore three levels of Superficial Willpower damage to everyone capable of hearing your voice. This performance must last for one scene. If interrupted, all listeners suffer one point of Superficial Willpower damage.
 
@@ -2041,29 +2062,29 @@ Your voice is almost supernaturally soothing. Gain two additional dice to your n
 
 <details>
 
-<summary><strong>Temple of Boom Contract p.166</strong></summary>
+<summary><mark style="color:orange;"><strong>Temple of Boom Contract p.166</strong></mark></summary>
 
 <sup>_Victor Temple is, in his own words, the “Undisputed Baron of the Valley.” This Ventrue controls the largest Anarch territories in Los Angeles, and perhaps in North America. Victor’s enterprises include several popular nightclubs and an expanding music label business that he promotes under the name Temple of Boom. He also uses this entertainment empire to conceal his unlife — hiding in plain sight, as he likes to say._</sup>
 
 <sup>_Victor may be based in L.A., but his influence is beginning to extend beyond his home domain: having a connection to the Baron can open up opportunities of wealth, power, and fame, as long as you maintain loyalty to Victor Temple himself, and don’t mistake his affability for complacency._</sup>
 
-<mark style="color:orange;">**• Chocolate Drop**</mark>
+**• Chocolate Drop:** _Discuss With Storytellers_
 
 You’re the newest employee of Temple of Boom, either as a performer or promoter in your city. Gain a dot in Fame and a dot in Contacts. Your newfound status has a downside: Gain the Stalker Flaw
 
-<mark style="color:orange;">**•• I Got Connections**</mark>
+**•• I Got Connections:** _Discuss With Storytellers_
 
 The Temple of Boom is always looking for new talent, and they are not above poaching from competitors. At the Storyteller’s Discretion, you may request an advance on your salary, and add two dots of Resources or Contacts for the rest of the current Story, in exchange for procuring new talent for Temple of Boom.
 
-<mark style="color:orange;">**••• This is Fine**</mark>
+**••• This is Fine:** _Discuss With Storytellers_
 
 Once per Story, you may name-drop Victor Temple and gain 3 extra dice to Social tests in a business/entertainment environment, such as gaining entrance to a nightclub, for the remainder of the scene. Should you do this, however, you will automatically become a person of interest to someone who has beef with Victor Temple or the Temple of Boom in general. Gain the Enemy Flaw at one dot for the rest of the current Story.
 
-<mark style="color:orange;">**•••• Maharaja/Maharani**</mark>
+**•••• Maharaja/Maharani:** _Discuss With Storytellers_
 
 Temple of Boom isn’t just a recording label, but also a coveted name in the nightclub business. By demonstrating loyalty to the Temple of Boom business family, Victor Temple has granted you the right to open one of his clubs as a franchise in your city. Your Haven, Fame, Resources, and Herd all increase by one dot, and you receive a specialty in either Finance (accounting) or Performance (showmanship). Due to Victor Temple’s tactic of “hiding in plain sight”, your association with the club will gain you the Compromised Haven Flaw.
 
-<mark style="color:orange;">**••••• If Not Now, When?**</mark>
+**••••• If Not Now, When?:** _Discuss With Storytellers_
 
 Victor Temple owes you a Major Boon. Whether you obtained this from him personally, or got it through transfers, it is the most valuable currency you own. At Storyteller Discretion, you may personally request something significant from the wealthy, influential Ventrue, such as access to Hunter weapons or even the phone number of a local Werewolf. Should you do this, the Ivory Tower will not be able to ignore your connection to the Anarch Movement. Gain the Shunned (Camarilla) Flaw.
 
