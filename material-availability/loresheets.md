@@ -1119,7 +1119,7 @@ Starfall Ranch is well-known as one of the top ranches in the Northeastern Unite
 
 <details>
 
-<summary><strong>The Ruby Throat</strong> (p.170) *</summary>
+<summary><strong>The Ruby Throat (p.170)</strong></summary>
 
 Atlantic City has a reputation to uphold, and for those who travel to the shore to toy with the fickle whims of lady luck, there’s no reason that death need stop the fun. Originally established in the prohibition era as a member’s only roulette club by a popular boardwalk dancing girl, the Ruby Throat became a den of powerful people wagering far more than money. Rumor has it a well-known sea facing hotel was won over a single roll one night at the Ruby Throat.&#x20;
 
@@ -1127,44 +1127,117 @@ During the Second World War, the location the Ruby Throat operated out of was re
 
 Note: The Ruby Throat is easily moved to any other city with a history of gambling or organized crime, and switches locations from opulent sites to flea-bitten dens.
 
-**• Rubbing Shoulders:** You’ve sat at the table for a game or two at the Ruby Throat. You didn’t win, but you picked up a little knowledge on the other Kindred round the table. By name-dropping a significant individual around the streets of Atlantic City, you gain one die on rolls to get into places or acquire information otherwise out of your league, but pick the wrong name and it’s likely to get back to them.\
-&#xNAN;**•• What’s in your Sleeves:** Someone accused you of cheating at the Ruby Throat and you publicly put them in their place. You dealt with the situation so well, you were offered work as a bouncer. This role allows you a two dice bonus to all intimidate rolls when dealing with Kindred in the crime scene, and you can put names to faces of almost any Kin- dred who might frequent Atlantic City night spots.\
-&#xNAN;**••• Chicken Dinner:** A hand went your way recently and you got your choice of coveted prizes. Once per story you gain a human vessel with a Dyscrasia of your choice, to feed from as desired. Unless specified, the Dyscrasia does not fade after use. You are responsible for this retainer for the time you use them, and if anything happens to them, you will owe the house significant reparations.\
-&#xNAN;**•••• High Roller:** You’ve had a string of luck at the Ruby Throat that got attention, some even said it was unrealistic. Any existing Resources Background is increased by two (to a maximum of four), and you gain access to Herd (••) whenever you are within Atlantic City, each vessel has a resonance of your choosing. You also suffer the flaw Adversary (•), as a fellow Kindred thinks you’re gaming the house.\
-&#xNAN;**••••• Dead Man’s Hand:** You’ve been invited to play at the Johnson table, the highest risk game the Ruby Throat offers. The annual event draws spectators and is the talk of the Kindred underworld. The prizes of such an event are fabulously desirable and often unique. Winning or losing could be a matter of significant status gain, or terribly embarrassing loss. Word gets out about the players involved, and up until the game comes to pass, you benefit from Status (•••) among Kindred in Atlantic City and the ability to access any lesser games and gambits without a roll.
+**• Rubbing Shoulders:** _Allowed_
+
+You’ve sat at the table for a game or two at the Ruby Throat. You didn’t win, but you picked up a little knowledge on the other Kindred round the table. By name-dropping a significant individual around the streets of Atlantic City, you gain one die on rolls to get into places or acquire information otherwise out of your league, but pick the wrong name and it’s likely to get back to them.<br>
+
+**•• What’s in your Sleeves:** _Allowed_
+
+Someone accused you of cheating at the Ruby Throat and you publicly put them in their place. You dealt with the situation so well, you were offered work as a bouncer. This role allows you a two-dice bonus to all intimidate rolls when dealing with Kindred in the crime scene, and you can put names to faces of almost any Kindred who might frequent Atlantic City night spots.
+
+**••• Chicken Dinner:** _Allowed_
+
+A hand went your way recently and you got your choice of coveted prizes. Once per story you gain a human vessel with a Dyscrasia of your choice, to feed from as desired. Unless specified, the Dyscrasia does not fade after use. You are responsible for this retainer for the time you use them, and if anything happens to them, you will owe the house significant reparations.
+
+**•••• High Roller:** _Locked_
+
+You’ve had a string of luck at the Ruby Throat that got attention, some even said it was unrealistic. Any existing Resources Background is increased by two (to a maximum of four), and you gain access to Herd (••) whenever you are within Atlantic City, each vessel has a resonance of your choosing. You also suffer the flaw Adversary (•), as a fellow Kindred thinks you’re gaming the house.
+
+**••••• Dead Man’s Hand:** _Allowed_
+
+You’ve been invited to play at the Johnson table, the highest risk game the Ruby Throat offers. The annual event draws spectators and is the talk of the Kindred underworld. The prizes of such an event are fabulously desirable and often unique. Winning or losing could be a matter of significant status gain, or terribly embarrassing loss. Word gets out about the players involved, and up until the game comes to pass, you benefit from Status (•••) among Kindred in Atlantic City and the ability to access any lesser games and gambits without a roll.
 
 </details>
 
 <details>
 
-<summary><strong>Relics of the Veil</strong> (p.172)</summary>
+<summary><strong>Relics of the Veil (p.172)</strong></summary>
 
-**• Torn Shroud:** Allowed\
-&#xNAN;_&#x54;his Lore Sheet can be safely used once per story. If used more frequently, there is a chance that it can be lost._\
-&#xNAN;**•• Burning Effigy:** Allowed\
-&#xNAN;**••• The Gaunt Robe:** Allowed\
-&#xNAN;**•••• The Nails of Dismus:** Locked\
-&#xNAN;**••••• Codex Caecitus:** Locked
+When mortals speak of haunted rooms, of places where temperature drops and whispers tickle the senses, they are often unknowingly in the presence of a powerful fetter or relic connected closely to the realms of the dead. In the hands of mortals or Kindred without the proper understanding, relics connecting those in the world of the living to those beyond the veil provide nothing more than a feeling of unease, but in the right hands they can be powerful talismans assisting those who deal in the power of Oblivion. Strange objects, some found in passing, some passed down through families and bloodlines over centuries, each one is connected somehow to the world beyond the veil, and brings with them the attentions of wraiths and other entities.
+
+**• Torn Shroud:** _Allowed_
+
+This small fragment of torn material resembles a frail, semi-translucent shroud. It’s cold to the touch, and the fibrous, fleshy nature of the material gives it a feeling of almost biological consistency. The Shroud was of great importance to something once, and echoes of its old purpose remain. While holding the shroud, you gain one dice to your pools to use any Oblivion Discipline. The Shroud is delicate, and with too much use simply dissolves to nothing.
+
+**•• Burning Effigy:** _Allowed_
+
+The origin of this odd little doll is unknown. You came across it by chance, and although it’s made of nothing more than a jumble of sticks and colored string, something about it makes you think it looks a little like you. Once, you can ignite the doll and burn it to ashes. Upon waking next dusk, you heal up to two extra levels of Aggravated Health damage. Somewhere, possibly even a great distance away, this pain is felt by something else.
+
+**••• The Gaunt Robe:** _Allowed_
+
+The plain gray robe has existed in your family for generations. Its origin is unclear, and the thing is hardly worth holding onto. It’s threadbare and falling apart, and needs careful care to keep together for much longer. When the robe is around your shoulders, it’s oddly comforting, like being held closely. While wearing the robe, you can spend one Willpower point to gain two automatic successes in any roll to resist the abilities of wraiths. The robe is delicate, and must be taken care of to avoid being damaged beyond use.
+
+**•••• The Nails of Dismus:** _Allowed_
+
+Three of these 8 inch long, gnarled lengths of unidentifiable metal are known to exist, usually on display in a cathedral of the old world. Somehow you possess one of these coveted and cruel looking relics. They function as a light piercing weapon with a +2 damage value and can incapacitate a vampire as if it were made of wood. Any Kindred staked with the Nail of Dismus suffers a level of Aggravated Willpower damage at dawn every night they remain staked, as the nail drives their waking moments into constant visions of suffering and horror. The Nails of Dismus are known to be linked to an ancient and deeply hateful wraith.
+
+**••••• Codex Caecitus:** _Allowed_
+
+Bound in white flesh from a pig fed on human remains, this massive book is held shut with a locking brass latch. Page after page of the heavy tome is filled with maddened scrawling, nightmarish biological sketching, and blocks of seemingly incomprehensible text in an unknown cipher. Allegedly penned by a blind monk under the service of Cappadocius, the codex has been passed between monks and scholars for centuries, each of them seeking meaning in the yellow and cracking pages. Once per story the current owner can, after long hours of meditation over the book, decipher one of the hundreds of coded passages. The revelations contained therein could be any number of powerful secrets surrounding the realm of the dead, including the names of significant wraiths, the fetter of a particular wraith, or the knowledge of any chosen Oblivion ritual. If the codex is in the hands of a non-Hecata, the Necromancers aggressively seek to reclaim what they believe is rightfully theirs.
 
 </details>
 
-## The Fall of London
+## Fall of London
 
 <details>
 
-<summary><strong>Agent of Justicar Parr</strong> (p.233)</summary>
+<summary><mark style="color:red;"><strong>Agent of Justicar Parr (p.233)</strong></mark></summary>
 
-**• Information Drop:** Allowed\
-&#xNAN;**•• Camarilla Conditioning:** Allowed\
-&#xNAN;**••• Request Backup:** Allowed\
-&#xNAN;**•••• Favored Protégé:** Locked\
-&#xNAN;**••••• Camarilla Archon:** Banned
+Juliette Parr is the current Malkavian Justicar, given the authority to investigate traitors to the Camarilla, and to punish those that would flaunt or undermine its Traditions. Parr has a long-standing association with law enforcement; prior to her appointment she served as one of the Sheriffs of London. Her presence, knowledge, and charm are considerable, and her compulsive tendencies have served her well when interrogating suspects, examining crime scenes, and poring over other important evidence. The Justicar continues to maintain a Haven in her home city of London, and she can often be found there when she is not attending Camarilla matters overseas personally.
+
+You are a confidant of Justicar Parr, serving as her eyes and ears, and given the authority to command Camarilla resources in her name. She trusts your observations and recommendations, all in the name of the greater good, protecting the Camarilla from enemies within and without.
+
+**• Information Drop:** _Banned_
+
+You routinely provide information to Justicar Parr, reporting on the movements and conversations of other Kindred, but sometimes you receive useful information in return. Once per story you can ask the Storyteller for a piece of information relevant to an ongoing investigation, which could be reasonably provided by the Justicar’s wider network of agents and informants.
+
+**•• Camarilla Conditioning:** _Banned_
+
+Beyond your personal commitment to the Camarilla, you have also received training and indoctrination that ensures your loyalty to the sect. You gain 1 die in all Willpower tests performed in the course of your duties, and you also add 1 additional die to your pool when making tests to resist any attempts to intimidate or compel you away from your duties.
+
+**••• Request Backup:** _Banned_
+
+You are important enough to Justicar Parr that you may call upon other Camarilla assets in her network to assist you in your work. Once each story you may call upon a 4-dot Ally to back you up for the duration of a scene. They could grant you access to places you normally cannot go, introduce you to people you would not normally meet, perform a task beyond your own expertise and experience, or simply provide physical protection or escape in a high-risk situation.
+
+**•••• Favored Protégé:** _Banned_
+
+You are acquainted with Juliette Parr at a personal level, and you have a shared history beyond serving the Camarilla in an official capacity. You correspond with the Malkavian often, while she trusts you implicitly, her interest comes with a certain degree of possessiveness. You may consider Parr a 5-dot Mawla, but she also makes constant demands of you. It would be unwise to upset an elder of her power and influence.
+
+**••••• Camarilla Archon:** _Banned_
+
+You are publicly named as an Archon serving the Camarilla under Justicar Parr, and you hold a warrant that you can present to any Camarilla Kindred to demand their cooperation in your activities and investigations. Your position taints all your interactions with other vampires for better or worse. Sycophants will try to impress you, while others may resent you or avoid you. Enemies of the Camarilla will also consider you a target to make an example of, if possible.
 
 </details>
 
 <details>
 
-<summary><strong>Court of Shadows</strong> (p.234)</summary>
+<summary><strong>Court of Shadows (p.234)</strong></summary>
+
+<sup>_The King of Shadows is a mysterious figure in London’s supernatural society. Variously described as a vampire, a criminal kingpin, a champion of the downtrodden, and a ghostly agent of retribution, few know the truth. The darkest and ugliest corners of London now belong to the King, and they suffer no insult, and brook no competition. While the King is not known to foster friendships, they have many agents and allies that serve them across the city, both on the street and below it. These agents can be found everywhere: near train and tube stations, on street corners and bus stops, outside all-night convenience stores, in hostels, under bridges, and in other more downtrodden places._</sup>
+
+<sup>_Many mortals and Kindred alike are in the King’s debt, and those that are foolish enough to become their enemy are seldom seen for long. To be in the King’s favor is considered a blessing by many, and certainly not something to be scorned._</sup>
+
+<sup>_There are many benefits to serving the King of Shadows. They always look out for their own, ensuring their agents are never hungry, and never want for a roof over their heads. The King also offers security and sanctuary – many of London’s organized crime syndicates are aware of their existence, but few would dare to cross them._</sup>
+
+**• Free Meals:**&#x20;
+
+The King of Shadows is aware their Kindred associates need to remain well-fed, and to this end they employ mortals across the city as willing vessels who can be made available to those in need. Once per game session you may approach the Court of Shadow for sustenance. The vessel will be willing, and of a random Resonance with no Dyscrasias. If you have any feeding restrictions, then the vessel is compatible with your predilections.
+
+**•• Rumor Mill:**&#x20;
+
+The Court of Shadows encourages a lively trade of information and rumors. Once each game session you may approach the network to exchange useful information. The veracity and accuracy of the information given to you is left to the Storyteller’s discretion, but it should consider the value of the information that you trade in return. If you cannot pay in kind, then you may be asked to perform a service for the King instead.
+
+**••• Contraband:**&#x20;
+
+The Court of Shadows is also a place where you can find illegal narcotics, weapons, explosives, and other contraband. Once per story you may approach the Court of Shadows for what you need. They will be willing to provide, but always at a price, which can be paid in hard currency, or with barter – either information or other goods of an equivalently high value.
+
+**•••• Sanctuary:**&#x20;
+
+The Court has access to many buildings above ground across the city, and many structures below ground, all of which are claimed by the King as their domain. The King’s agents know many hiding places, located where few prying eyes would think to look. Once per story you may approach the Court of Shadow to request sanctuary. You will be blindfolded, and you will not know where you are taken, but you can be sure that you will be kept safe for as long a time as you need.
+
+**••••• Favored by the King:**
+
+You are one of the few Kindred in London who has ever been in the presence of the King of Shadows. For some reason they have taken an interest in you, and regularly correspond and meet with you. The King wears a mask and is still an enigmatic figure, but you know more about them than many others. Once per story you may call upon the King directly for aid. The manner and degree to which they respond is left to the Storyteller to determine, but it should materially serve your needs in some way.
 
 **• Free Meals:** Allowed\
 &#xNAN;**•• Rumor Mill:** Allowed\
@@ -1176,49 +1249,125 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary><strong>Hunt Club</strong> (p.235)</summary>
+<summary><strong>Hunt Club (p.235)</strong></summary>
 
-**• Huntsman’s Newsletter:** Allowed\
-&#xNAN;**•• Experienced Diablerist:** Allowed\
-&#xNAN;**••• Huntsman’s Dossier:** Allowed\
-&#xNAN;**•••• Huntsman’s Steed:** Locked\
-&#xNAN;**••••• Leader of the Hunt:** Banned
+<sup>_The organization known as the Hunt Club has been operating covertly in London since the end of the Second World War. Highly secretive in nature, the organization is dedicated to the pursuit of hunting Kindred for sport and is reputed to endorse the practice of diablerie. Members join using pseudonyms and disguises to protect their own reputations, and rumor has it that some are highly placed within Kindred society._</sup>
 
-</details>
+<sup>_The nominal leader of the Hunt Club is known simply as The Count, a title commonly believed to be a homage to Count Zaroff, a Russian vampire known to have hunted his peers in the mid- 20th century, but who has not been seen for decades. The organization’s practices have evolved over the years into baroque and theatrical affairs, teasing and taunting victims, and using regalia and calling cards that recall mortal Britain’s long history of fox and game hunting._</sup>
 
-<details>
+<sup>_Before London’s fall, the Hunt Club was quick to join in the action each time Queen Anne declared a Blood Hunt, and the organization was unscrupulous at identifying its own targets for sport during quiet times. London and the United Kingdom have proven to be a rich hunting ground, populated by many reclusive and antiquated elders with poor defenses but rich vitae for the taking. In modern nights the organization must be wary of Operation Antigen, but some members argue that getting closer to these mortal hunters may be a way of finding new quarry for their sport._</sup>
 
-<summary><strong>London Under London</strong> <em>(Nosferatu Characters Only)</em> (p.236)</summary>
+**• Huntsman’s Newsletter:**&#x20;
 
-**• Tube Safety:** Allowed\
-&#xNAN;**•• Somewhere to Hide:** Allowed\
-&#xNAN;**••• Network of Vermin:** Allowed\
-&#xNAN;**•••• Personal Bolt-Hole:** Locked\
-&#xNAN;**••••• Freedom of the City:** Locked
+As a fledgling member of the Hunt Club, you are notified when important events occur, including when Blood Hunts are declared in the various Kindred domains in Avalon and in the cities of western Europe. You can expect to receive such a notice once per story, but exactly when this might happen is left to the discretion of the Storyteller.
 
-</details>
+**•• Experienced Diablerist:**&#x20;
 
-<details>
+You have previously participated in a hunt, and in its culmination have committed the act of diablerie on another vampire. Due to your prior experience, you may add 1 die to your pool in all future Strength + Resolve tests when attempting the same act again in the future. This also means that the signs of diablerie may be visible in your aura, and you would be wise to avoid this being detected.
 
-<summary><strong>Operation Antigen</strong> (p.237)</summary>
+**••• Huntsman’s Dossier:**&#x20;
 
-**• Early Warning:** Allowed\
-&#xNAN;**•• Tactical Dossier:** Allowed\
-&#xNAN;**••• Sympathetic Insider:** Allowed\
-&#xNAN;**•••• Get Out of Jail Free:** Locked\
-&#xNAN;**••••• Official Credentials:** Locked
+The Hunt Club devotes significant resources to watching and researching elder vampires to assess their defenses and suitability as a target for sport. Not all these Kindred end up as victims, but the information gathered about their movements and nightly habits may still be interesting to other members. Once per story you may contact the organization to ask for information regarding the current whereabouts, or the favorite haunts, of a named Kindred that dwells in the local domain.
+
+**•••• Huntsman’s Steed:**&#x20;
+
+You have acquired and adapted a modern vehicle to perfectly complement your hunting pursuits. The exact make and model are left to the Storyteller’s discretion, but it will be a plain-colored van or truck with blacked-out windows. The exterior will be subtly armor-plated, and the interior will be sound-proofed and reinforced with metal cage strong enough to contain an angry Kindred. The vehicle can be registered to your name, or one of your Masks. As with any vehicle, you should take care not to let it get stolen or impounded by the authorities.
+
+**••••• Leader of the Hunt:**&#x20;
+
+Your good standing within the Hunt Club gives you the right to name any Kindred as the next quarry for the organization’s sport. Once per story you may circulate the name of your target, which will cause them to be taunted, harassed and attacked by members of the organization. This will prove to be a significant inconvenience and distraction, but whether they survive the assault is left to the discretion of the Storyteller.
 
 </details>
 
 <details>
 
-<summary><strong>Oskar Anasov</strong> (p.238)</summary>
+<summary><strong>London Under London, </strong><em><strong>Nosferatu Characters Only</strong></em><strong> (p.236)</strong></summary>
 
-**• Messaging Service:** Allowed\
-&#xNAN;**•• Personal Introduction:** Allowed\
-&#xNAN;**••• Safe Passage:** Allowed\
-&#xNAN;**•••• Mentor:** Locked\
-&#xNAN;**••••• Landlord Council:** Locked
+<sup>_The subterranean landscape underneath London’s streets could be considered an entire and separate city of its own. The tunnels of the underground rail system, bored over a century ago, worm alongside crypts and basements of much older structures, and more modern shafts dug to provide water, power, and telecommunications services to London’s residents above._</sup>
+
+<sup>_In the city center, within the approximate area marked as Zone 1 on transport maps, the underground infrastructure is particularly dense. New digging work associated with the groundbreaking Crossrail project – still incomplete at the time of writing – has come within centimeters of other existing structures. These underground pathways can be used to traverse the oldest parts of the city without ever setting foot on the street._</sup>
+
+**• Tube Safety:**&#x20;
+
+While it is not normally recommended for Kindred to use the Tube for transport or feeding purposes, your knowledge of this transport system places you at an advantage. You know the layout of each station and where all the CCTV cameras are placed. While you cannot control them, you can take care not to present your face to them, and you know the blind spots in their coverage. As a result, you may attempt a Wits + Stealth test at Difficulty 3, which, if successful, allows you to pass through or hunt in any tube station undetected. Anyone travelling with you can also benefit from your knowledge, should you choose to share it.
+
+**•• Somewhere to Hide:**&#x20;
+
+Your knowledge of London’s underground infrastructure is good enough to let you hide in desperate situations. Maybe you are being pursued, or maybe you just found yourself too far from your haven too close to dawn. Whatever the reason, you can attempt a Wits + Larceny test at Difficulty 3 to find a suitable hiding place below ground that will be overlooked by anyone not in possession of similar knowledge. The location could be an old sewer pipe, a maintenance hatch, or a less-used section of the London Underground tunnel system – the Storyteller may rule on how large or small your hiding place is, and how long you may be able to safely stay there.
+
+**••• Network of Vermin:**&#x20;
+
+You have spent enough time below ground in London to become familiar with the multitudes of vermin and other creepy-crawlies that live there. These creatures are more readily available to do your bidding, and more willing to defend you from intruders. Your chances of finding useful creatures in any scene situated underground are increased, and you may add 1 die to your pool when using any Animalism powers that concern the interaction with other bestial creatures below the surface of London, including Bond Famulus, Feral Whispers, Unliving Hive, and Animal Dominion.
+
+**•••• Personal Bolt-Hole:**
+
+In addition to your regular haven aboveground, you maintain a secret underground hideout that you can retreat to where no other Kindred can find you, and where you can store valuable items that you dare not leave anywhere else. You do not use it frequently, as to do so would risk its discovery, but here you are safe from traditional means of discovery (and the harmful rays of the sun). Note that this entirely mundane location will not conceal you from those that would use supernatural means to track you – e.g. Auspex or Blood Sorcery.
+
+**••••• Freedom of the City:**
+
+Your knowledge of the subterranean landscape of London is enough to let you travel and access important locations without ever needing to step above ground. Once per story you may transit between two surface locations using underground routes in a manner that would not be detected by anyone watching at ground level. This could mean accessing a private or public building illicitly – e.g. a bank vault, a secure office, or another Kindred’s Haven – but this would not protect you from any security measures you might encounter inside the building.
+
+</details>
+
+<details>
+
+<summary><strong>Operation Antigen (p.237)</strong></summary>
+
+<sup>_Operation Antigen is the name of the coalition of police, military, and intelligence assets that purged the city of London of organized vampire influence. Antigen is still active tonight, in a second phase dedicated to ensuring that supernatural criminal influence does not return. The success of the operation has led to similar anti-vampire initiatives being sponsored in other cities in the United Kingdom and abroad. You carefully cultivated allies and contacts that give you some insight into Operation Antigen and its ongoing efforts in London, and to similar activities elsewhere. You may also be able to exert some limited influence over its night-to-night affairs, to better protect yourself and the ones you love, or to set them upon your enemies and rivals. These interactions do not come without risk, however, as no Kindred can be considered truly safe from Antigen’s reach._</sup>
+
+**• Early Warning:**&#x20;
+
+You have a trusted insider who has made you a simple promise: if Antigen ever identifies you, or plans your capture, they will give you advanced warning. This is a one-time thing: they won’t stop or delay the agents, but they will do you the courtesy of letting you know that they are coming.
+
+**•• Tactical Dossier:**&#x20;
+
+You have acquired (or been leaked) a dossier which discusses typical Antigen operating procedures, covering surveillance protocols, how to plan raids, and tactical advice for engaging with IC0s. During a scene which involves Operation Antigen, you can use the contents of this dossier to predict and outwit their behavior. If the outcome of the scene results in Antigen being aware that they have been outmaneuvered (e.g. their agents are killed, or their mission objectives are thwarted), then they will change their operating methods and the dossier will become useless.
+
+**••• Sympathetic Insider:**&#x20;
+
+You have a relationship with someone placed high up on Antigen’s apparatus who knows a great deal about current operational activities and targets. This person has their own reasons for sharing information outside the chain of command – perhaps they do not agree with Antigen’s methods, or they are more curious about the supernatural? Regardless of their motives, they are also cautious and paranoid about being caught leaking information by their peers. Using suitably clandestine methods, you may reach out to this four-dot Contact once per story to ask them questions about Antigen’s current activities.
+
+**•••• Get Out of Jail Free:**&#x20;
+
+You have leverage over someone in the upper echelons of Operation Antigen. They do not know it yet, and what you have can only be used once – as soon as the organization knows this person is compromised, they will be cycled out and their clearance revoked. Whoever it is in the government, police or military, you can contact them and successfully blackmail them into performing one service for you once. This is a card that can be played in the event you are (or someone you know is) captured by Antigen forces, but it could also potentially be used to deflect resources or delete sensitive information. Once your leverage is used, not only will it become valueless, but your use of it will place you on Antigen’s watch list.
+
+**••••• Official Credentials:**&#x20;
+
+You have managed to obtain or manufacture false credentials that will give you temporary access to Antigen resources. You can use this identity to briefly take command of Antigen personnel at a location under surveillance, or at the scene of a raid. You can also use this identity to take custody of prisoners or evidence, or to infiltrate a location currently under Antigen control. How long your cover lasts depends on how well you can blend in, and how long it takes before people start to ask awkward questions. Once used, however, the cover is blown and it cannot be used again.
+
+</details>
+
+<details>
+
+<summary><strong>Oskar Anasov (p.238)</strong></summary>
+
+<sup>_Oskar Anasov is one of the most influential vampires active in London tonight. He is responsible for the analog communication systems which connect London’s Kindred Landlords, and he is a staunch believer and enforcer of the Compact. He can also arrange passage into or out of the city safely._</sup>
+
+<sup>_Embraced by the Nosferatu Boronisk in Prussia in the mid-19th century, Oskar was once a political revolutionary, with a hand in the upheavals that occurred in France, Italy, Germany, and Hungary. After the Russian Revolution, and subsequent purges, he traveled with many political exiles to London. Oskar joined with the Anarchs of London and instigated unrest against the Ventrue rule. He was caught painting Anarch graffiti on the walls of Elysium and was hauled before then-Seneschal Anne Bowesley. He had a choice to serve her or to be executed. For many years, he remained a loyal, if grudging, servant to the Court of London. When Anne succeeded Mithras as the Prince of London, Oskar became her Herald, issuing decrees across the domain of Avalon on her behalf._</sup>
+
+<sup>_Oskar was clever enough to survive the Fall of London, and was instrumental in devising the Compact. In addition to maintaining the network of carrier pigeons used to send messages between London’s Landlords, Oskar also devotes considerable time to studying and monitoring Operation Antigen._</sup>
+
+<sup>_Anasov’s services aren’t usually free, and each time you call upon him he will require payment for his efforts. He typically prefers to receive information and favors over hard currency – in each case the specifics of each payment are left to the Storyteller’s discretion._</sup>
+
+**• Messaging Service:**&#x20;
+
+You are acquainted with Anasov well enough to use his messaging network, which is a reliable method for contacting other Kindred in London, without risk of the communication being intercepted by Operation Antigen. Anasov promises successful delivery, regardless of how elusive the recipient might otherwise be.
+
+**•• Personal Introduction:**&#x20;
+
+For a higher fee Anasov can also arrange for a face-to-face meeting with any other Kindred resident in London. Once per story you can name any Kindred known to be in London – regardless of whether they hold domain or are just passing through – and the Nosferatu will arrange the meeting after receiving payment. Anasov facilitates the introduction, but cannot vouch this Kindred’s behavior or reaction to meeting you. If a meeting turns violent, or otherwise ends badly for the Kindred you named, then Anasov will refuse all your future requests, for the sake of his own reputation.
+
+**••• Safe Passage:**&#x20;
+
+Anasov has the means to smuggle mortals and Kindred in and out of the city of London without fear of detection by other vampires, or the agents of Operation Antigen. Once each story you may call upon the Nosferatu to perform this service for a group of up to six individuals. If entering the city, they will be delivered safely and securely to an address of your choice. If leaving the city, then you may name a destination outside of London’s borders. Typically, Anasov will arrange a pickup or drop off in a town or city in the south-east of the UK. Arranging international transit is possible for a higher fee, but Anasov will not vouch for the party’s reception or safety after they have been delivered to the requested destination.
+
+**•••• Mentor:**&#x20;
+
+You are personally acquainted with Anasov, and your interactions with him are more than just business. You may count him as a four-dot Mawla, and you receive a significant discount when paying to utilize his services. However, this also means that he may call on you at least once per story to help him with message delivery, people smuggling or another similar activity which furthers his interests.
+
+**••••• Landlord Council:**&#x20;
+
+Meetings of vampires from neighboring domains occur from time to time to settle debts, resolve disputes, and to recognize new Landlords. Larger gatherings of all of London’s domain holders are rare, and usually mark the need to discuss a great threat or opportunity that might affect them all. Through Anasov, you will be notified and invited to any meeting of Landlords that takes place in London. Once per story, if you have a suitable justification, you may also ask Anasov to use his influence to call the Kindred Landlords of London to a meeting. Note that these Kindred are paranoid, fickle, and prideful, and will mark you as a fool or as an enemy if they should decide that you are wasting their time.
 
 </details>
 
@@ -1226,7 +1375,7 @@ Note: The Ruby Throat is easily moved to any other city with a history of gambli
 
 <details>
 
-<summary><mark style="color:red;"><strong>Minneapolis</strong></mark> <mark style="color:red;"><strong>(No. 2, p. 1)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Minneapolis</strong></mark> <mark style="color:red;"><strong>(No.2, p.1)</strong></mark></summary>
 
 <sup>_While St. Paul may claim the distinction of age over her twin sister city, Minneapolis has her beat on both size and population. Beginning life as a milling outpost along the Mississippi river, Minneapolis has swung back and forth on the pendulum of progress in nights since._</sup>
 
@@ -1258,7 +1407,7 @@ In 2003, a riot stemming from a University of Minneapolis hockey victory was bla
 
 <details>
 
-<summary><mark style="color:red;"><strong>St. Paul </strong></mark> <mark style="color:red;"><strong>(No. 2, p. 2)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>St. Paul </strong></mark> <mark style="color:red;"><strong>(No.2, p.2)</strong></mark></summary>
 
 <sup>_Built upon native Dakota land, the kine have their various pseudonyms for it: Imnzaska, the Saintly City, the "Pig's Eye," and the Last City of the East. That final nickname is particularly true for the city's Kindred who view St. Paul as the last bastion of American Camarilla power before one reaches the lupine-dominated Rockies and the chaotic battlegrounds of the so-called Anarch Free States. Of late, even its sister city of Minneapolis has become more and more defiant of Camarilla authority. Nevertheless, those who claim praxis over St. Paul tend to claim the title happily: "Prince of the Twin Cities"._</sup>
 
@@ -1290,7 +1439,7 @@ Perhaps your service to Prince Merrain has been so subtle as to not attract the 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Wolves in Sheep's Clothing</strong></mark> <mark style="color:red;"><strong>(No. 3, p. 1)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Wolves in Sheep's Clothing</strong></mark> <mark style="color:red;"><strong>(No.3, p.1)</strong></mark></summary>
 
 <sup>_Discarded and disenfranchised ghouls forming themselves into confederations and cults is no new phenomenon. Animosity between servant and master is a tale as old as the practice of servitude itself, and woe to the vampire who carelessly abuses his faithful retainer. More than one city in the modern nights are plagued with hands of independent ghouls, stalking their former domitors to feast upon the vitae that fuels their unearthly addiction using the gifts bestowed upon them to bite the hand that feeds._</sup>
 
@@ -1322,7 +1471,7 @@ You have made yourself a mysterious benefactor to the Wolves in Sheep's Clothing
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Nictuku </strong></mark><em><mark style="color:red;"><strong>(Nosferatu Characters Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(No. 3, p. 4)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>The Nictuku, </strong></mark><em><mark style="color:red;"><strong>Nosferatu Characters Only</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(No.3, p.4)</strong></mark></summary>
 
 <sup>_In the underground tunnels of the Clan of the Hidden, there are whispered legends and cautionary tales shared among the Sewer Rats. Sires warn their childer of dangers lurking in the darkest corners of night, and of monstrosities that would chill the vitae of even the most hideous of horrors._</sup>
 
@@ -1356,7 +1505,7 @@ You have developed skills of survival and combat against more than just the Nict
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Mortician's Army</strong></mark> <mark style="color:red;"><strong>(No. 9, p. 1)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>The Mortician's Army</strong></mark> <mark style="color:red;"><strong>(No.9, p.1)</strong></mark></summary>
 
 <sup>_Rafael Deluna was a pathologist working for the Medical Examiner's office in downtown Minneapolis when tragedy befell his family and changed his life forever. In the winter of 2010, conditions in the Midwest proved particularly lethal as dozens of homeless in the Twin Cities died of exposure due to the extreme cold. Of the many dead bodies unclaimed by friends or family, one turned out to be the body of a freshly embraced fledgling who, in their frenzy, murdered DeLuna's wife._</sup>
 
@@ -1388,7 +1537,7 @@ You are one of the few who has betrayed their kind and embraced a mortal hunter.
 
 <details>
 
-<summary><mark style="color:red;"><strong>1444 Chamber </strong></mark><em><mark style="color:red;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(p. 88)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>1444 Chamber, </strong></mark><em><mark style="color:red;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(p.88)</strong></mark></summary>
 
 <sup>_The 1444 Chamber were once the closest advisors and confidantes to Augustus Giovanni, and the beating, black heart of the Clan of Death’s necromantic might. The more things change, the more they stay the same. It’s the Chamber that leads the clan these nights, not Augustus. Many of his old loyalists met their Final Death to make way for new members rising through the ranks or brought in from the cold with the clan’s formerly disparate splinters; but the 1444 Chamber is still the center of power and influence, even if some of the faces of its members have changed._</sup>
 
@@ -1418,7 +1567,7 @@ You directly serve one of the anziani, and you know that they are on the Board o
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Blood Asceticism</strong></mark> <mark style="color:yellow;"><strong>(p. 89)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Blood Asceticism </strong></mark><em><mark style="color:yellow;"><strong>(</strong></mark></em><mark style="color:yellow;"><strong>p.89)</strong></mark></summary>
 
 <sup>_If blood is an addiction for the Kindred, then it’s no surprise that some vampires try to kick the habit. Of course, you can’t just go cold turkey; that’s a quick route to torpor, or ravenous frenzy and waking up covered in someone else’s blood. Those who take this endeavor seriously model themselves on mortal ascetics, trying to slowly starve their Beast into submission or to reduce their reliance on the red stuff over years or even centuries. Some see it as a potential path to Golconda._</sup>
 
@@ -1448,7 +1597,7 @@ You’ve starved your Beast so often that it’s a weakened, feeble thing, bound
 
 <details>
 
-<summary><mark style="color:green;"><strong>Plagues of Gehenna</strong></mark> <mark style="color:green;">(p. 91)</mark></summary>
+<summary><mark style="color:green;"><strong>Plagues of Gehenna</strong></mark> <mark style="color:green;"><strong>(p.91)</strong></mark></summary>
 
 <sup>_Vampire and disease have been intertwined since the dawn of time. It’s inevitable; the blood-drinking parasite spreads sickness with her bite, weakens her victims before the advent of illness, and in a very real way is a disease upon the heaving throng of humanity. Minor cults of Kindred who embrace this ruinous connection have emerged throughout history, but the tumultuous modern nights see many more such plaguebringers springing up than ever before. The most base and simplistic of these cults embrace disease at the most literal level, believing that vampires are the harbingers of plague upon humanity and that they must spread sickness to usher in — or finish off — Gehenna itself. More sophisticated groups like the Third Day develop elaborate nuances or justifications, connecting disease upon the kine with the Beckoning that now seizes elders, or hoping to afflict Kindred themselves through corrupting the herd upon which they feed. Whatever the reasoning, the outcome is usually the same; heaps of putrefying bodies, vampires retching up tainted vitae, and swarms of flies. It’s no wonder that most sect-aligned Kindred try to stamp out blisters as soon as possible._</sup>
 
@@ -1476,7 +1625,7 @@ In your possession is a phial of blood drawn from a sick, maddened elder while i
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Praepositor </strong></mark><em><mark style="color:yellow;"><strong>(Tremere Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p. 92)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Praepositor, </strong></mark><em><mark style="color:yellow;"><strong>Tremere Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.92)</strong></mark></summary>
 
 You’re a Praepositor, one of the militant Tremere of the Praesidium devoted to restoring the clan’s old power — by force, if necessary. The cult looks back to the Pyramid of authority and blood that once united Clan Tremere as the ideal to which they must once again aspire, but the realities of the modern nights demand that they adapt if they are to achieve this goal. Praepositors have become eldritch soldiers of fortune, trading their services for the occult and secular resources the House needs.
 
@@ -1506,7 +1655,7 @@ The Praesidium’s early experiments to rebuild the clan’s Blood Bond bear une
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Spear of Orthia </strong></mark><em><mark style="color:yellow;"><strong>(Ventrue Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p. 93)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Spear of Orthia, </strong></mark><em><mark style="color:yellow;"><strong>Ventrue Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.93)</strong></mark></summary>
 
 Clan scholars believe that Artemis Orthia is the first childe of Ventrue, and say that she once held sway over Sparta in the guise of its patron goddess. She burned with the desire to destroy her foes and acted decisively — but her headstrong hunger for conflict would prove her downfall at the hands of the Brujah of Carthage. The cultists of the Shattered Spear venerate this ancestor-figure, hiding in the shadows of Clan Ventrue and conducting their worship in defiance of Camarilla dictates. Now the cult waxes in strength and gathers new adherents to its banner, drawn by the whispered gospel of Artemis’ divine nature and the rediscovery of her torpid remains.
 
@@ -1538,7 +1687,7 @@ You possess a splinter of the spear of Orthia itself. This fragment of such a le
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Hartford Chantry</strong></mark> <em><mark style="color:red;"><strong>(Tremere Characters Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(pp. 80-83)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>The Hartford Chantry</strong></mark> <mark style="color:red;"><strong>(pp.80-83)</strong></mark></summary>
 
 The dominant Kindred in Hartford and New Haven were the Gemini League, an elected consortium predominantly consisting of Ventrue and Tremere, who manage the domains of Connecticut, engage in the cryptic passwords, handshakes, and rituals of mortal secret societies, and wish for nothing more than splendid isolation away from the Kindred politicking of “lesser vampires.” When dragged into events beyond their realm, they respond with ferocity and frustration. In these nights, the Gemini League’s natural successor is the Hartford Chantry, though links between the Tremere of Hartford and Ventrue of New Haven remain strong.
 
@@ -1566,7 +1715,7 @@ You’ve been elected to a position of authority in your faction, conveying four
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Boston Camarilla</strong></mark> <em><mark style="color:red;"><strong>(Camarilla Characters Only)</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(pp. 84-87)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>The Boston Camarilla</strong></mark> <mark style="color:red;"><strong>(pp.84-87)</strong></mark></summary>
 
 The Kindred of Liberty fought a long series of wars against the British Camarilla, the Sabbat, and the Hecata, and whether through skill or just being the last faction standing, they survived. They dissolved in recent nights, abandoning their factional name and becoming the Boston Camarilla, though many “coals” still cling to the memory of the K.O.L. Now they govern Boston and intend to reach beyond the domain, absorbing the other cities of New England into their widening praxis. They do not suffer attempts to manipulate them or take what they’ve spent so long trying to capture.
 
@@ -1598,7 +1747,7 @@ You benefit from a three dot Retainer in the midst of the domain’s political b
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Student of Kirin Tauk </strong></mark><em><mark style="color:yellow;"><strong>(Thin-Blood Alchemists Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>p.178</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Student of Kirin Tauk, </strong></mark><em><mark style="color:yellow;"><strong>Thin-Blood Alchemists Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.178)</strong></mark></summary>
 
 Get a group of old alchemists together, and the conversation inevitably turns towards Kirin Taunk (p. 140). These conversations are always the same: some speak of her with admiration, and others with barely hidden jealousy. One of the celebrated alchemists of the 1990s, Taunk pioneered formula techniques still used to this day. Untouched by alchemist purges in other Domains and the horrors of the North American theatre of the Sect War, Taunk’s work served as a source of stability for the bourgeoning thin-blooded community. Her guile made her a role model and a folk legend among those hiding from the local Scourge. Since her Final Death in 1998, her legacy continues through the many alchemical flocks (p. 111) founded by her apprentices.
 
@@ -1628,7 +1777,7 @@ Kirin’s mysterious benefactor took an interest in you, and still has it to thi
 
 <details>
 
-<summary><mark style="color:green;"><strong>Veins of the Earth p.179</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Veins of the Earth (p.179)</strong></mark></summary>
 
 The Earth lives. It vibrates on frequencies far beyond human senses. As everyone carries on their day, as plants grow and animals thrive, the Earth’s power ebbs and flows across the surface like water. It’s in the air the kine breathes, and it’s in the ground everyone walks on. The rise of Tiamat, the Blood Serpent (p. 150) only makes clear what many have known for years. The earth carves a web of energy patterns into its flesh. It waits for someone to take hold of it.
 
@@ -1660,7 +1809,7 @@ Your knowledge of the veins of the Earth is so great that it feels like the Bloo
 
 <details>
 
-<summary><mark style="color:green;"><strong>Vienna Zero </strong></mark><em><mark style="color:green;"><strong>(Blood Sorcery Users Only)</strong></mark></em><mark style="color:green;"><strong> </strong><strong>p.180</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Vienna Zero, </strong></mark><em><mark style="color:green;"><strong>Blood Sorcery Users Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.180)</strong></mark></summary>
 
 Officially, it’s the United Nations Vienna Recovery Zone. The Magyar Arrow Brotherhood attack on the city was localized to three city blocks, but the damage was so devastating and thorough that since 2008, all that’s left is makeshift canvas buildings, light blue tarps, and disaster scene tape. Common theories on what occurred there include a missile strike, a dirty bomb, or a biological weapon.
 
@@ -1694,7 +1843,7 @@ You’re not just read in on Vienna Zero, you’re a valued member of the team. 
 
 <details>
 
-<summary><mark style="color:green;"><strong>The Book of Nod p.37</strong></mark></summary>
+<summary><mark style="color:green;"><strong>The Book of Nod (p.37)</strong></mark></summary>
 
 <sup>_The Book of Nod collects oral histories, text fragments, and other media detailing the history of Caine and his childer, with additional poems and prophecies regarding Gehenna and the Final Nights. Its author — or authors — are unknown, though many Kindred believe Caine, Malkav, and Saulot contributed significant portions of the text. The stories and fragments have been carefully passed down through the generations; those who own physical pieces of the book take great pains to ensure they don’t end up in non-Cainite hands. The Book of Nod also provides the theological basis for the Sabbat’s worship of Caine._</sup>
 
@@ -1726,7 +1875,7 @@ Other Noddists look to you for insight and interpretation on the texts, and your
 
 <details>
 
-<summary><mark style="color:green;"><strong>Gehenna Cults p.38</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Gehenna Cults (p.38)</strong></mark></summary>
 
 <sup>_Depending on whom you ask, Gehenna will soon befall the Kindred, or it’s happening right now, or it’s happened already and vampires are just play-acting in the crumbling ruins of their unlives while the world comes apart at the seams. While some deride the notion of Gehenna as an invention for duping the guileless, a feverish millenarianism has gripped many Kindred with the belief that these are indeed the Final Nights, one way or another. Blood cults and heresies spring up from the shadows in ever-growing numbers._</sup>
 
@@ -1756,7 +1905,7 @@ Investigating the rising tide of blood cults and Gehenna worshipers has put you 
 
 <details>
 
-<summary><mark style="color:green;"><strong>Machinations of Saulot </strong></mark><em><mark style="color:green;"><strong>(Tremere and Salubri only)</strong></mark></em><mark style="color:green;"><strong> </strong><strong>p.39</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Machinations of Saulot, </strong></mark><em><mark style="color:green;"><strong>Tremere and Salubri only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.39)</strong></mark></summary>
 
 <sup>_While some Noddists regard Saulot as a veritable saint, others who study the history of the Salubri and Saulot see him as a dangerous player in the eternal struggle: possibly the most sinister of all antediluvians. Clans Salubri and Tremere, among others, have studied the travels and words of Saulot, and fear the mastermind that may lurk behind the façade of saintliness._</sup>
 
@@ -1788,7 +1937,7 @@ Your expertise in Saulot’s ways gives you an advantage few others have. You po
 
 <details>
 
-<summary><mark style="color:green;"><strong>Servitor of Irad p.40</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Servitor of Irad (p.40)</strong></mark></summary>
 
 <sup>_According to the Book of Nod, Irad the Strong was the third childe of Caine, and he served as his sire’s enforcer and military leader in the First City. The Kindred of the Servitors of Irad seek to emulate that mythological vampire, who is said to have pledged to serve the Antediluvians in all things before his kin or his childer destroyed him. They hope that, if they spend their existence showing they serve the Antediluvians, they will be spared when the ancients rise. Irad believed it, but received the revelation too late to preserve himself._</sup>
 
@@ -1820,7 +1969,7 @@ When the Third Generation eventually rise, you know that most of Caine’s erran
 
 <details>
 
-<summary><mark style="color:green;"><strong>Beckett p.157</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Beckett (p.157)</strong></mark></summary>
 
 <sup>_According to Kindred cultures that acknowledge the generation model, the fourth generation of vampires was a kind of Cambrian explosion, increasing and solidifying emerging vampiric strains in the previous generation. Sometimes nicknamed methuselah due to their age, most of the known Kindred of such low Generation have been Beckoned or chose to serve in the Gehenna War, but some lie dormant in domains outside its battlefields._</sup>
 
@@ -1852,7 +2001,7 @@ If you seek out the Ancients, you risk finding them. Once per story, if facing a
 
 <details>
 
-<summary><mark style="color:green;"><strong>The Eternal Arena p.158</strong></mark></summary>
+<summary><mark style="color:green;"><strong>The Eternal Arena (p.158)</strong></mark></summary>
 
 <sup>_Kindred society needs activity and entertainment. It gets them in the lulls between hunts. Some take solace in accumulating knowledge; others try their hand at taking up art or engaging in indulgent social manipulation. Then there are the vampires that beat the shit out of each other. One venue for such things is the Eternal Arena in a small town in Greece, where a violent Kindred tournament has taken place for decades, perhaps centuries. (See p. 126.)_</sup>
 
@@ -1884,7 +2033,7 @@ In your time in the pit, you’ve brushed up against final death many times. One
 
 <details>
 
-<summary><mark style="color:orange;"><strong>Tegyrius the Vizier p.159</strong></mark></summary>
+<summary><mark style="color:orange;"><strong>Tegyrius the Vizier (p.159)</strong></mark></summary>
 
 <sup>_From his soldiering days on the battlefields with Alexander the Great to his time as Vizier of the Banu Haqim stronghold Alamut, Tegyrius has prioritized his ideals over personal self-interest. Instead of claiming the Black Throne for himself, he ceded the privilege to Jamal and used his wise counsel like a guiding hand to shape the destiny of the clan. And when Ur-Shulgi the Shepherd awoke and demanded the Banu Haqim abandon their mortal faiths, Tegyrius refused to take part in his violent tyranny. Alongside his friend and colleague, al-Ashrad, the pair abandoned Ur-Shulgi to safeguard their clanmates and led them out of Alamut._</sup>
 
@@ -1916,7 +2065,7 @@ Not only were you a guest of honor at the Vermillion Wedding, but Tegyrius himse
 
 <details>
 
-<summary><mark style="color:red;"><strong>Birth of the Anarch Free States p.149</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Birth of the Anarch Free States (p.149)</strong></mark></summary>
 
 <sup>_The Second Anarch Revolt started with the toppling of the old Camarilla Prince in Los Angeles in 1944. Soon violence gripped the city, with Anarch gangs seeking out Camarilla holdouts, those loyal to the old order seeking to escape or make a glorious last stand. Havens burned, Kindred met their ends, and the Anarchs triumphed. Due to the legendary nature of those nights of revolution, many of the Kindred who were there enjoy bragging about it. Some of those who were not there have made up invented histories for themselves, pretending that they too were part of this great event._</sup>
 
@@ -1946,7 +2095,7 @@ What has happened before can happen again. Once per chronicle, you can ignite a 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Childe of the Revolution p.150</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Childe of the Revolution (p.150)</strong></mark></summary>
 
 <sup>_The French Revolution was a time of tremendous upheaval, unleashed brutality, and political change. The elite Camarilla old guard lost a lot of control from their old aristocratic and landlord roots, while the newly formed Bohemians rallied entrepreneurial and reformist younger generations to tip the balance of power. The infighting, rioting, and war escalation allowed the Anarchs to roam Paris unimpeded for several years and to recruit in numbers. The Camarilla elite worked towards culling these upstarts and driving them out after the Restoration._</sup>
 
@@ -1976,7 +2125,7 @@ Your influence with the reformist Revolutionary faction is extensive, as you pro
 
 <details>
 
-<summary><mark style="color:green;"><strong>The Order of Repentants p.152</strong></mark></summary>
+<summary><mark style="color:green;"><strong>The Order of Repentants (p.152)</strong></mark></summary>
 
 <sup>_The Repentants are Kindred who lost much of their humanity but regained enough to maintain control. They now devote themselves to repenting the vile actions they performed while the Beast controlled them. To join their ranks, you must convince the order of your will to pay for your sins, usually by prostrating yourself in front of a whole chapter of other Repentants. In many ways, being one of the Repentants is similar to belonging to a monastic order as the rules are strict and many. A Repentant exists in fear for what happens if they give in to the whispers of the Beast, and some take extreme measures to stay on that narrow path of self-control. This may involve self-inflicted pain, asceticism, or extensive meditation. Some become self-absorbed in their martyrdom, finding a sort of enjoyment in the constant punishment._</sup>
 
@@ -2006,7 +2155,7 @@ You are devoted to saving your immortal soul, or at least acting as though you c
 
 <details>
 
-<summary><mark style="color:orange;"><strong>The Red Lady p.153</strong></mark></summary>
+<summary><mark style="color:orange;"><strong>The Red Lady (p.153)</strong></mark></summary>
 
 <sup>_There is a Toreador ancilla somewhere in Prague called “the Red Lady.” She’s important in the local Camarilla, but not the strictest when it comes to her alliances, since she’s famous for her parties where no one asks questions about what affiliation you belong to. It’s a perfect place to disappear into a crowd, make deals with people you shouldn’t do business with, or just give in to some base, carnal desires. What happens in her parties, stays in her parties. But break that agreement, and you’ll never be invited again, or worse._</sup>
 
@@ -2036,7 +2185,7 @@ The Red Lady’s tastes are broad, ranging from the pedestrian to the exotic to 
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Succubus Club Copycat p.162</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Succubus Club Copycat (p.162)</strong></mark></summary>
 
 <sup>_The legendary Succubus Club of Chicago set the gold standard for hiding in plain sight, with kindred from all over the world going out of their way to visit when possible. Following a series of devastating attacks on the local Camarilla in the mid-nineties, the club shuttered its doors, and the never-ending beat that once drew thousands through its doors was finally silenced._</sup>
 
@@ -2068,7 +2217,7 @@ The reputation and mystique of the Succubus Club is legendary, so much so that e
 
 <details>
 
-<summary><mark style="color:orange;"><strong>The Pony Express p.163</strong></mark></summary>
+<summary><mark style="color:orange;"><strong>The Pony Express (p.163)</strong></mark></summary>
 
 <sup>_The Pony Express was founded by an enterprising group of Ventrue ancillae in response to the Camarilla’s abandonment of electronic communications in the aftermath of the Second Inquisition. Recognizing the need for a method of coordinating intercity communication across the sect, the group’s founder, Elliot Praxton, assembled a group of like-minded Ventrue to found what Praxton deemed “The Pony Express.”_</sup>
 
@@ -2100,7 +2249,7 @@ Always the innovator, Praxton operates a clandestine passenger service for “sp
 
 <details>
 
-<summary><mark style="color:green;"><strong>Road Courier p.164</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Road Courier (p.164)</strong></mark></summary>
 
 <sup>_Camarilla domains learned the hard way that online communication is a death trap for Kindred. To escape the fires of the Second Inquisition, vampires have turned to physical couriers. Europe can sometimes rely on rooftop runners and the discretion of sewer-dwelling Nosferatu, but the vast empty spaces of the continents, especially the New World, require messengers to brave the open road. While ghoul couriers have the advantage of operating during the day, they can be vulnerable whenever they stop, so Princes and Barons are sometimes forced to employ discreet and loyal Kindred to transport vital documents and artifacts._</sup>
 
@@ -2131,7 +2280,7 @@ You know spotters, scouts, and fellow couriers across the country. They function
 
 <details>
 
-<summary><mark style="color:green;"><strong>Stories of the Daughters p.165</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Stories of the Daughters (p.165)</strong></mark></summary>
 
 <sup>_Not many young Kindred have heard of the Daughters of Cacophony, but stories of undead singers extraordinaire are occasionally told in Elysia by those who claim to have met one. A rumored bloodline (although rumormongers cannot agree whether of clan Malkavian, Toreador, or another), the legendary sirens can allegedly sway and hurt using their voice alone, capable of shattering much more than glass. Any appearance of a particularly vocally talented Kindred (of any gender, as “Daughters” is but a title) in the domain may spark gossip, and a few Kindred fear the legends enough to act preemptively on such news, turning rumor into danger for the alleged Siren. Some do not believe in Daughters’ existence, while others successfully pretend to be one, despite their sires knowing nothing of such connection._</sup>
 
@@ -2160,7 +2309,7 @@ Your voice is almost supernaturally soothing. Gain two additional dice to your n
 
 <details>
 
-<summary><mark style="color:orange;"><strong>Temple of Boom Contract p.166</strong></mark></summary>
+<summary><mark style="color:orange;"><strong>Temple of Boom Contract (p.166)</strong></mark></summary>
 
 <sup>_Victor Temple is, in his own words, the “Undisputed Baron of the Valley.” This Ventrue controls the largest Anarch territories in Los Angeles, and perhaps in North America. Victor’s enterprises include several popular nightclubs and an expanding music label business that he promotes under the name Temple of Boom. He also uses this entertainment empire to conceal his unlife — hiding in plain sight, as he likes to say._</sup>
 

@@ -23,7 +23,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Hardestadt</strong> <em>(Ventrue Characters Only)</em> (p.390)</summary>
+<summary><strong>Descendant of Hardestadt,</strong> <em>(Ventrue Characters Only)</em> (p.390)</summary>
 
 **• Voice of Hardestadt:** Allowed\
 &#xNAN;**•• Supreme Leader:** Allowed\
@@ -35,7 +35,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Helena</strong> <em>(Toreador Characters Only)</em> (p.391)</summary>
+<summary><strong>Descendant of Helena,</strong> <em>(Toreador Characters Only)</em> (p.391)</summary>
 
 **• Skin-Deep:** Allowed\
 &#xNAN;**•• Real Talent:** Allowed\
@@ -47,7 +47,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Tyler</strong> <em>(Brujah Characters Only)</em> (p.397)</summary>
+<summary><strong>Descendant of Tyler,</strong> <em>(Brujah Characters Only)</em> (p.397)</summary>
 
 **• Instigator:** Allowed\
 &#xNAN;**•• Champion of the Cause:** Allowed\
@@ -59,7 +59,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Zelios</strong> <em>(Nosferatu Characters Only)</em> (p.398)</summary>
+<summary><strong>Descendant of Zelios,</strong> <em>(Nosferatu Characters Only)</em> (p.398)</summary>
 
 **• Sanctuary:** Allowed\
 &#xNAN;**•• Saboteur:** Allowed\
@@ -71,7 +71,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Vasantasena</strong> <em>(Malkavian Characters Only)</em> (p.399)</summary>
+<summary><strong>Descendant of Vasantasena,</strong> <em>(Malkavian Characters Only)</em> (p.399)</summary>
 
 **• Agent of Chaos:** Allowed\
 &#xNAN;**•• Hear My Words:** Allowed\
@@ -83,7 +83,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Karl Schrekt</strong> <em>(Tremere Characters Only)</em> (p.405)</summary>
+<summary><strong>Descendant of Karl Schrekt,</strong> <em>(Tremere Characters Only)</em> (p.405)</summary>
 
 **• Remember the House:** Allowed\
 &#xNAN;**•• Hardliner:** Allowed\
@@ -95,7 +95,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Xaviar</strong> <em>(Gangrel Characters Only)</em> (p.406)</summary>
+<summary><strong>Descendant of Xaviar,</strong> <em>(Gangrel Characters Only)</em> (p.406)</summary>
 
 **• Martyred Ancestor:** Allowed\
 &#xNAN;**•• Where the Bodies Are Buried:** Allowed\
@@ -109,7 +109,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Lodin</strong> <em>(Ventrue Characters Only)</em> (p.273)</summary>
+<summary><strong>Descendant of Lodin,</strong> <em>(Ventrue Characters Only)</em> (p.273)</summary>
 
 **• Baby of the Family:** Allowed\
 &#xNAN;**•• Responsible Middle Childe:** Allowed\
@@ -121,7 +121,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Montano</strong> <em>(Lasombra Characters Only)</em> (p.274)</summary>
+<summary><strong>Descendant of Montano,</strong> <em>(Lasombra Characters Only)</em> (p.274)</summary>
 
 **• Deep Pockets:** Allowed\
 &#xNAN;**• The Shadow of Yesterday:** Allowed\
@@ -136,7 +136,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Menele</strong> <em>(Brujah Characters Only)</em> (p.160)</summary>
+<summary><strong>Descendant of Menele,</strong> <em>(Brujah Characters Only)</em> (p.160)</summary>
 
 **• Symposium:** Allowed\
 &#xNAN;**•• Carthago Delenda Est:** Allowed\
@@ -150,7 +150,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Little Siblings</strong> <em>(Hecata Characters Only)</em> (p.101)</summary>
+<summary><strong>Little Siblings,</strong> <em>(Hecata Characters Only)</em> (p.101)</summary>
 
 **• Grave Attitude:** Allowed\
 &#xNAN;**•• Ghostly Dominance:** Allowed\
@@ -162,7 +162,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Grudge Masters</strong> <em>(Hecata Characters Only)</em> (p.102)</summary>
+<summary><strong>Grudge Masters,</strong> <em>(Hecata Characters Only)</em> (p.102)</summary>
 
 **• You Know Who I Am:** Allowed\
 &#xNAN;**•• Family Bank:** Allowed\
@@ -176,13 +176,31 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Roger de Camden</strong> <em>(Hecata Characters Only)</em> (p.171)</summary>
+<summary><mark style="color:green;"><strong>Descendant of Roger de Camden, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.171)</strong></mark></summary>
 
-**• Proud Childe:** Allowed\
-&#xNAN;**•• Corpsense:** Allowed\
-&#xNAN;**••• Eye to Eye:** Allowed\
-&#xNAN;**•••• The Way of All Flesh:** Allowed\
-&#xNAN;**••••• Perchance to Dream:** Locked _(Only once per chronicle)_
+<sup>_Few figures among the foundations of the Clan of Death are as ancient and enigmatic as Roger de Camden. Known by many names throughout history, the shadowy Kindred who now rules as Prince of Edinburgh has spent lifetimes studying and honing an intimate understanding of the boundaries between life and death._</sup>
+
+<sup>_A scholar, martyr, and a survivor, de Camden walked among the eldest Cappadocians, his powerful vitae resonating down through the centuries all the way to tonight’s Hecata. To you. Whether through the boasts of your sire, or poring over a dusty book of names delivered to your haven, you have discovered that you are a descendant of Roger De Camden himself._</sup>
+
+**• Proud Childe:** _Allowed_
+
+Your grandsire is among the most storied and respected of any to walk among the Clan of Death. While within any Hecata controlled domain, haven, or social gathering, you have two dots of Status (••).
+
+**•• Corpsense:** _Allowed_
+
+You follow in your ancestor’s footsteps with a fascination and understanding of the deceased. You gain two dice to any pool for investigating the cause of injury or death of a body. At any time, if a nearby wraith chooses to, they can always communicate to you with ease.
+
+**••• Eye to Eye:** _Allowed_
+
+Roger de Camden’s relationship with the godlike Ventrue Mithras was deep, complex, and the gossip of generations. While the Blue Bloods respect little outside their own clan, they recognize how significant de Camden was to the lonely unlife of one of their greatest. You receive a benefit of two dice to all pools for Persuasion or Intimidation actions when dealing with Kindred of Clan Ventrue, and careful mentions of your lineage could get you through doors non-Ventrue might normally never pass.
+
+**•••• The Way of all Flesh:** _Allowed_
+
+The bloodline of de Camden screams out to the spirits of the recently deceased, dragging them back to the physical realm long after they should have departed forever. You can perform the Embrace as normal on an old corpse so long as it has not rotted beyond recognition. This rebirth is far more traumatic than usual, and the fledgling is deeply affected by whatever they experienced in their brief time between lives.
+
+**••••• Perchance to Dream:** _Allowed_
+
+Like your forefather before you, you are forever preoccupied with the world of the dead, their souls so close you can almost reach out to touch them. Occasionally during your daily rest, or indeed when lying in torpor, your spirit wanders into the Shadowlands (see Cults of the Blood Gods). What you may see there, or what wraiths may be drawn to your presence, is anyone’s guess. If you are attacked while in the Shadowlands, you are immediately returned to your physical form, suffering one level of Superficial Willpower damage.
 
 </details>
 
@@ -190,7 +208,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Bankers of Dunsirn </strong></mark><em><mark style="color:yellow;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.223)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Bankers of Dunsirn, </strong></mark><em><mark style="color:yellow;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.223)</strong></mark></summary>
 
 <sup>_Sometime around the 18th century, the Giovanni wanted a foothold in the markets of the New World. But all of their attempts were constantly blocked by a Scottish family of bankers who owned several shipping ventures. Impressed by their financial acumen, the Giovanni investigated bringing the family into the fold. What closed the deal was the discovery that the Dunsirn were cannibals as well as financiers. It was the perfect balance of money, depravity, and ability to keep a secret._</sup>
 
@@ -222,7 +240,7 @@ You are the head of the Dunsirn family accounts. You have your undead finger on 
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Children of Tenochtitlan </strong></mark><em><mark style="color:yellow;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.224)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Children of Tenochtitlan, </strong></mark><em><mark style="color:yellow;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.224)</strong></mark></summary>
 
 <sup>_In the early sixteenth century, Spanish Giovanni met representatives of the Aztec civilization as part of the Cortez expeditions. In the city of Tenochtitlan (now part of Mexico City), these Giovanni were introduced to a massive, formalized necromantic tradition. So naturally they killed, enslaved, and converted the “heathens,” bringing them into the fold. The Giovanni called these converts pisanob, a Mayan term that roughly translates to “ghosts of the dead that walk the Earth” (the fact that the Aztecs weren’t Maya didn’t concern the Europeans). That these vampires already had a name, a legacy, and their own beliefs mattered little to the Giovanni._</sup>
 
@@ -254,7 +272,7 @@ Now that Pochtli has sacrificed himself to the Hecata’s grand plan of unity, i
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Flesh-Eaters </strong></mark><em><mark style="color:yellow;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.225)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Flesh-Eaters, </strong></mark><em><mark style="color:yellow;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.225)</strong></mark></summary>
 
 <sup>_The Nagaraja are the most wayward of vampires in a clan now full of wayward vampires. They believe themselves to be the first ever necromancers. They revel in the fact that their lineage is not easy to trace back to one of the known Antediluvians. They believe they once mastered the lands of the dead, having converted their Blood to live in such a place. And, perhaps as a result of said Ceremony, they ate human flesh in lieu of drinking blood. They believe one night they can become masters of the Underworld again. The Nagaraja are rightly seen as bogeymen, as they number but few and advocate for the horrible practice of capturing mortals and stripping them of flesh and blood night after night, while keeping them alive through first aid and gifts of vitae. As a disparate group, they have little that binds them as a society beyond their affinity or ghosts (most master Oblivion ahead of any other Discipline) and their belief_</sup>\ <sup>_that torment of the body and spirit brings any witnesses (or victims) closer to the mysteries of life, death, and undeath._</sup>
 
@@ -284,7 +302,7 @@ When ready to attack or feed, your teeth extend to lengthy, splayed, and vicious
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Harbingers of Ashur </strong></mark><em><mark style="color:yellow;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.226)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Harbingers of Ashur, </strong></mark><em><mark style="color:yellow;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.226)</strong></mark></summary>
 
 <sup>_Holding the Jyhad’s longest grudge, the Cappadocians were the Clan of Death before they were usurped by the upstart Giovanni. Believed for centuries to be destroyed, the Cappadocians either took to wearing masks and calling themselves the “Harbingers of Skulls” or a subfaction of the clan named themselves “Harbingers” generations before. Whatever the truth, the majority joined the Sabbat and worked aggressively against Giovanni interests. For many years it was thought that both sides would never stop until one obliterated the other, but that appears to have changed with the Family Reunion._</sup>
 
@@ -314,7 +332,7 @@ You don the mask engraved in the image of one of the clan founders, for you know
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>La Famiglia Giovanni </strong></mark><em><mark style="color:yellow;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.227)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>La Famiglia Giovanni, </strong></mark><em><mark style="color:yellow;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.227)</strong></mark></summary>
 
 <sup>_Until recently, whenever an outsider Kindred thought about the Clan of Death, they pictured the Giovanni family. Their origins stretch back before the Roman Empire (when they were known as the Ioveanus or Jovians), and the entire time they’ve had their hands in Kindred affairs. The original Giovanni family knew how to play the game better than anyone, crafting an identity as “Devil Kindred” to strike the right balance of fear and respect in their rivals — and their relatives._</sup>
 
@@ -346,7 +364,7 @@ You have managed to work your way through the hidden politics of the Family Reun
 
 <details>
 
-<summary><mark style="color:green;"><strong>The Gorgons </strong></mark><em><mark style="color:green;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.228)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>The Gorgons, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.228)</strong></mark></summary>
 
 <sup>_The Lamiae were a bloodline of Kindred believed to be descended from Lilith as well as Caine — their founder and high priestess (named Lamia) claimed to be the daughter of the Dark Mother herself. In ancient times, a Cappadocian elder found Lamia performing sacred Bahari rites, and was so taken by her skin and resistance to pain that he Embraced her. From then on, the Lamiae were dedicated warriors protecting the Cappadocian clan, until the clan’s alleged destruction by the Giovanni. The last Lamia was believed destroyed in 1718._</sup>
 
@@ -374,7 +392,7 @@ The Lamiae most steeped in the bloodline’s mysteries hold a private power that
 
 <details>
 
-<summary><mark style="color:orange;"><strong>Nasyon San An </strong></mark><em><mark style="color:orange;"><strong>(Hecata Characters Only)</strong></mark></em><mark style="color:orange;"><strong> </strong><strong>(p.229)</strong></mark></summary>
+<summary><mark style="color:orange;"><strong>Nasyon San An, </strong></mark><em><mark style="color:orange;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:orange;"><strong> </strong><strong>(p.229)</strong></mark></summary>
 
 A young lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death.
 
@@ -406,7 +424,7 @@ No one is entirely sure who the Bloody Doctor is, but they do know you have his 
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Descendant of Al-Ashrad </strong></mark><em><mark style="color:yellow;"><strong>(Banu Haqim Only)</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.177)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Descendant of Al-Ashrad, </strong></mark><em><mark style="color:yellow;"><strong>Banu Haqim Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.177)</strong></mark></summary>
 
 <sup>_When Haqim and ur-Shulgi walked the earth, al-Ashrad walked with them. Legends say he knew magic when he was mortal, but after a violent disagreement with Haqim, ur-Shulgi Embraced al-Ashrad. As a vampire, al-Ashrad led them from the clan’s home in Alamut as Amr, the most learned and respected of the clan’s sorcerers._</sup>
 
