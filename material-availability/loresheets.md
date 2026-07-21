@@ -1043,75 +1043,181 @@ These nights, Modius’s name is most often whispered alongside his long-standin
 
 <details>
 
-<summary><strong>The Ashfinders</strong> <em>(Thin-Blooded Characters Only)</em> (p.103)</summary>
+<summary><strong>The Ashfinders, </strong><em><strong>Thin-Blooded Characters Only</strong></em><strong> (p.103)</strong></summary>
 
-**• Influencer:** Allowed\
-&#xNAN;**•• Shard Defense:** Allowed\
-&#xNAN;**••• Addiction Resistance:** Allowed\
-&#xNAN;**•••• Strange New Forms:** Locked\
-&#xNAN;**••••• Cook:** Locked
+<sup>_The Ashfinders is a cult for the modern era. Its word is spread over the internet, its holy land is the island of Ibiza, and its sacred ritual is developing designer drugs. The brainchild of a renegade Tremere and an influential Duskborn, the Ashfinders are a radical new form of Golconda cult. They seek transcendence through the creation and consumption of Ashe, formulated from the ashes of deceased full-blooded vampires. The drug is ineffective on mortals and full-blooded vampires, but in thin-blooded, it enhances their blood and can even grant them memories or abilities from the dead vampires mixed into the concoction. The cult hypes themselves with social media posts and advertises as a New Age solution to mortals, and an exciting journey into enlightenment to Mercurians. What the trendsetters don’t talk about is Ashe’s highly addictive nature, and the strange creatures the drug’s creation generates._</sup>
 
-</details>
+<sup>_As an initiate of the Ashfinders, you find yourself in a thrilling, dangerous time. You’re certain that you’ve found a new path out of your condition, even if some of your full-blooded peers consider your faith a complicated form of diablerie. Let those wizened old has-beens believe what they want. They can either get with the program or find themselves in your furnaces._</sup>
 
-<details>
+•Influencer:&#x20;
 
-<summary><strong>Amaranthan</strong> (p.104)</summary>
+As a member of the Cinder Institute, the Ashfinders’ mortal-facing front, you’ve developed some sway among mortals. This keeps your cult hidden in plain sight. Pick a local subculture. You receive two dots of Influence over that subculture.
 
-**• Judge:** Allowed\
-&#xNAN;**•• Jury:** Allowed\
-&#xNAN;**••• Executioner:** Allowed\
-&#xNAN;**•••• Tense Respect:** Locked\
-&#xNAN;**••••• The Final Hunt:** Locked
+•• Shard Defense:&#x20;
 
-</details>
+Beast Shards, known among the Ashfinders as “Shards,” are the monstrous remains of dead vampires used in the Ashe creation process. They flicker in and out of existence and manipulate human emotions. You’ve become an expert a hunting and destroying Shards, and it’s carried over to similar creatures. When you are hit by spectral claws or other forms of semi-material weaponry, you always take −1 damage.
 
-<details>
+••• Addiction Resistance:&#x20;
 
-<summary><strong>Cleopatras</strong> <em>(Nosferatu Characters Only)</em> (p.105)</summary>
+Ashe addiction (Cults of the Blood Gods, p. 46) drives a Duskborn into a vicious cycle of hunger and frenzy. You’ve developed a natural resistance to that cycle. When you use Ashe, you no longer make a Rouse Check.
 
-**• Close Examination:** Allowed\
-&#xNAN;**•• Clothed in Power:** Allowed\
-&#xNAN;**••• Dream Appearance:** Allowed\
-&#xNAN;**•••• Figure-in-Waiting:** Locked\
-&#xNAN;**••••• The Beauty Within:** Allowed
+•••• Strange New Forms:&#x20;
+
+Ashe is exclusively made using the fixatio distillation method (Vampire: The Masquerade, p. 284). Alchemists who join the Ashfinders quickly become versatile in multiple forms of distillation to accommodate, and you’re no different. When you learn an additional Thin-Blood Alchemy distillation, you may choose up to four formulae to carry over to that new form of distillation without having to spend experience points. Ashfinder Blood Alchemy (Cults of the Blood Gods, p. 44) cannot carry over to other forms of distillation.
+
+••••• Cook:&#x20;
+
+As an important part of the Ashfinders’ supply line, you’ve had plenty of opportunities to hone your craft. It’s improved your overall prowess with Thin-Blood Alchemy. All times to research formulae are halved.
 
 </details>
 
 <details>
 
-<summary><strong>Meneleans</strong> (p.106)</summary>
+<summary><strong>Amaranthan (p.104)</strong></summary>
 
-**• Mortal Empathy:** Allowed\
-&#xNAN;**•• Peacemaker:** Allowed\
-&#xNAN;**••• Show of Defiance:** Allowed\
-&#xNAN;**•••• Becoming the Mask:** Allowed\
-&#xNAN;**••••• Bond Breaker:** Locked
+<sup>_Legend states that Amarantha, a childe of the Toreador Antediluvian, was one of the first victims of diablerie. Her grieving lovers took vengeance upon the act’s first culprit, and as the practice came into fashion, swore to ensure anyone who drained a vampire would face Final Death. The Amaranthans survive to this very day hunting down diablerists with little mercy. While they had long been tolerated in Camarilla domains for their swift action against the Sabbat, the sect’s withdrawal has led many domains to reject the cult as their focus turns towards the Ivory Tower and the Anarch movement._</sup>
+
+<sup>_You were Embraced by an Amaranthan and indoctrinated. You know the true evils of diablerie, and what must be done once rumors of the act surfaces in your domain. You hunt without regard to allegiance or status. When you catch your quarry, you are courteous enough to deliver their final message, carry out any non-blasphemous final wish, or perhaps grant mercy. Your faith may clash with your coterie and domain, but you will see justice done._</sup>
+
+**• Judge:**&#x20;
+
+You know time and supernatural forces hide the telltale black veins in a diablerist’s aura. You’ve been taught to look for psychological signs, like panicked glances or smiles that are too haughty. Whenever you interrogate suspected diablerists, you receive three dice to all relevant rolls.
+
+**•• Jury:**&#x20;
+
+You are capable of granting clemency. It keeps your faith from being a glorified excuse to murder people. Once per story, when you catch a diablerist, expose their crime beyond any doubt, and argue truly for the sparing of their life, you may take that vampire (if they survive sentencing from a Prince or Archon) as a two dot Mawla until you feel their crime has been repaid.
+
+**••• Executioner:**&#x20;
+
+While you may take pleasure in turning diablerists to ash, there is a process to the execution that must be obeyed. That’s how you keep your conscience clean. When you deliver a diablerist’s final message or complete their final wish, you may erase one Stain from your Humanity tracker.
+
+**•••• Tense Respect:**&#x20;
+
+Your refusal to acquiesce to sect and domain traditions regarding diablerie doesn’t make you well-liked, but it does bring about grudging admiration. Even if you hold no position in your domain, you have a Status equivalent to three dots in the eyes of any Kindred who view diablerie in a negative way. Conversely, you earn a one dot Adversary, who holds the act of diablerie as sacred.
+
+**••••• The Final Hunt:**&#x20;
+
+Unlike other Amaranthans, you’re dedicated to hunt down and consume the cannibalistic descendants of Amarantha’s murderer. It’s dangerous, but you’re prepared to sacrifice your soul for justice. When you perform diablerie on a confirmed descendent of Amarantha’s diablerist, you do not suffer an automatic drop in Humanity, but may still lose Humanity if you roll poorly in the contest between souls. All other effects still apply.
 
 </details>
 
 <details>
 
-<summary><strong>The One True Way</strong> (p.107)</summary>
+<summary><strong>Cleopatras, </strong><em><strong>Nosferatu Characters Only</strong></em><strong> (p.105)</strong></summary>
 
-**• Trust Me:** Allowed\
-&#xNAN;**•• Secret Keeper:** Allowed\
-&#xNAN;**••• Beast Communion:** Allowed\
-&#xNAN;**•••• Calling the Wave:** Locked\
-&#xNAN;**••••• The Road from Hunedoara:** Locked
+<sup>_Long-lived Nosferatu know the story of Yima, the beautiful and virtuous childe of Absimilliard. She either sacrificed herself to take the full brunt of Caine’s curse, or was rejected by her sire when the curse refused to take hold in her. In the modern nights, some Nosferatu are visited in daysleep dreams by a woman who removes their blemishes and guides them to rule the Kindred. These Vagrants defy the clan’s stigmas and stereotypes, dressing in fine clothes and adorning themselves in oils and perfumes. The confidence and charisma they project brings them into positions of high society often denied to the clan. Though no one is sure if the dream woman is the influence of a Methuselah, the machinations of their Antediluvian, or the spirit of Yima herself, few can deny the results._</sup>
+
+<sup>_You are a Cleopatra, one of the few Nosferatu that receives these communal dreams. The woman who visits you in your slumber shows you the person you could be, and when you see them, you know it’s attainable. She tells you about the secret ugliness in your superiors, the kind that aesthetics just papers over. You can exploit them. With the woman’s counsel, you can conquer anything, even a clan’s Bane._</sup>
+
+• Close Examination:&#x20;
+
+You remember things the woman told you at just the right time. Once per story, you may select an SPC, and tell the Storyteller you want to discover their deepest flaw. You gain three bonus dice to a Wits + Insight roll against that individual, with a critical success conveying the desired information. Revealing this knowledge is a certain way to earn a long-term Adversary Background, however.
+
+•• Clothed in Power:&#x20;
+
+You know how to make the ideal self in your dreams a reality. Pick an outfit, perfume, hair style, make-up routine, or skin-care routine. When you use this, you may reroll a Social roll failure or roll to resist fury frenzy once per story.
+
+••• Dream Appearance:&#x20;
+
+Your Bane fades while you experience daysleep, allowing you to look like you did as a mortal until you wake, although you still bear wounds if you’re suffering damage. The return of your horrific appearance is incredibly traumatic, and if anyone witnesses your Bane return they undoubtedly know what you are.
+
+•••• Figure-in-Waiting:&#x20;
+
+Following your dreams paid off. Name a titled position in the domain. The current titleholder considers you next in line should something happen to them, granting four dots to spread between Mawla (the present titleholder) and Status. However, being second-in-line also earns you a one dot Adversary, in the form of a vampire who also wants the position.
+
+••••• The Beauty Within:&#x20;
+
+You are destined to rule the Kindred, and not even Caine’s curse hinders you. Once per story, when you are dressed in your finest clothes, you may negate your clan’s Bane entirely for the duration of a session for the purposes of interaction with other vampires. Your appearance has not changed, but your intense confidence radiates and negates your blemishes. This Lore has no effect on kine.
 
 </details>
 
 <details>
 
-<summary><strong>Starfall Ranch</strong> <em>(Malkavian Characters Only)</em> (p.108) *</summary>
+<summary><strong>Meneleans (p.106)</strong></summary>
 
-Starfall Ranch is well-known as one of the top ranches in the Northeastern United States. Its cat- tle are consistent state fair winners. Its horses have been seen at dressages and other equestrian sports events around the world. Owning these animals come at a high price, and part of that premium involves the quality service of Alberta Pennilee and the expert training of a man only known as “Dr. Starr.” Starr is Kindred. He serves the One Moon, a faith that believes that Clan Malkavian is actually one single person, experiencing themselves and the world around them through the lives and perspectives of those they Embrace. Aside from being a popular grange, Starfall Ranch serves as a halfway house for dispossessed Malkavians. There, they can work, feed, and learn their place as part of the One Moon. Starfall Ranch plays a major part in your life, whether you once worked there after your Embrace, or you still call it home. You might know the secrets of Starr’s ranch hands, or the basic philosophies of the One Moon. Perhaps you had the privilege of meeting the Methuselah that sleeps beneath the farmland.
+<sup>_The Meneleans once sought to rebuild Carthage. Under the guidance and vitae of Menele, their patron Methuselah, they learned the lost city’s secrets. They believed vampires had a higher purpose and enlightenment could be found through assimilation with humanity. They struggled for a fairer society for the Kindred. To the Meneleans, one of the greatest forms of tyranny was one that elders held over younger generations. When Menele vanished and the cult’s Blood Bonds shattered, his cultists were fully aware of the irony. Abandoned by their Methuselah, the Meneleans search for meaning. How much of their faith came from their own morals, and how much came from Menele’s direct influence? Though they may never know for sure, some press on._</sup>
 
-**• Herd Mindset:** Your time on the ranch brought you closer to your fellow wayward Malkavians. Sometimes this was a bit too close, and parts of their identities still linger within you. Once per session, you may either take two dots in a Skill you do not know for a single roll, or ask the Storyteller for one fact about an SPC that you do not know. The Storyteller decides on which fact is received.\
-&#xNAN;**•• Clarity of Mind:** Starfall Ranch is a peaceful place. Here, Malkavian from all levels of society can rest and reflect upon their future. Those that do find that they have a better chance of achieving their greater ambitions. When you start a Project at Starfall Ranch, you receive three bonus dice to the Launch roll.\
-&#xNAN;**••• New Perspectives:** You understand some basics of the One Moon, and you’re starting to discover how you are only a single aspect of a greater person. You can even borrow the talents and abilities of your faith’s other followers. Once per story, you may take one Skill rating and replace it with that of another One Moon cultist. This may either be another player’s character or an SPC. This Lore is in effect for the remainder of this story.\
-&#xNAN;**•••• Starr and Marta:** You’ve had the chance to see Marta with your own eyes, and it changed you forever. You may take Dr. Starr as a four dot Mawla. Once per story, Marta will speak through him. You may ask her any relevant question to the story, and she answers truthfully, to the best of her knowledge.\
-&#xNAN;**••••• But I Saw You Die:** Starr is infamous for cheating death. He’s shared his secret with you. Once, when you undergo final death, you may select another One Moon cultist SPC. This SPC is now you, even taking on your physical likeness if possible. Your Skills, Advantages, Flaws, and any out-of-clan Discipline dots remain, but you must redistribute your Attributes and your in-clan Discipline dots.
+<sup>_You are one of those adherents. You’ve set aside any questions of whether or not you’ve been manipulated, because you still feel that Menele had ideas worth spreading. You’ve come away from the experience with insights into the Blood Bond that the rest of the domain is keen to hear._</sup>
+
+• Mortal Empathy:&#x20;
+
+You believe in the importance of cleaving to humanity and ensure you see them as people, not just as food. Once per session, you may reroll up to three dice on a Social roll involving mortals without spending Willpower.
+
+•• Peacemaker:&#x20;
+
+Menele’s school taught you the importance of conflict resolution. Those around you tend to see you as a voice of reason. Once per session, when you are involved in a social or physical conflict, you gain two bonus dice in an attempt to resolve things through diplomacy. If one of your allies (such as a retainer or member of your coterie) then breaks the terms of your negotiation, you must roll to resist fury frenzy.
+
+••• Show of Defiance:&#x20;
+
+Tyranny is the enemy of peace. One of the best ways to prevent it is to humble the powerful. Once per story, when you chastise or humiliate someone in a higher position of authority than you, you may add the number of dots you possess in Status as bonus dice to your roll to cajole the individual or persuade the crowd to turn against them. The outcome of using this Loresheet is a likely Adversary possessing dots equivalent to your target’s power level.
+
+•••• Becoming the Mask:
+
+You’ve assimilated into humanity so well you have a separate, almost mortal life. You receive an identity represented by Mask 2 and may split two dots between Contacts, Resources, and Influence. When you take on this Mask, you take on mortal connections, including family and friends (assumed to have been cultivated in the build-up to this Loresheet), though they pose risks to your security and privacy as they’ll ask the usual questions of “where are you going to work these days?”, “why are you out all night?”, and “why did someone come to my door saying you’re a vampire and part of something called a charcuterie?”
+
+••••• Bond Breaker:
+
+The dissipation of Menele’s Blood Bond permanently changed you. You’ve become Unbondable (Vampire: The Masquerade, p. 181), and feeding a Rouse Check’s worth of vitae to a thrall immediately breaks the regent’s hold. However, you are incapable of creating your own Blood Bonds.
+
+</details>
+
+<details>
+
+<summary><strong>The One True Way (p.107)</strong></summary>
+
+<sup>_Led by the “Master of Ravens,” the One True Way encourages vampires to seek Golconda by mastering the Beast and becoming the ultimate predator._</sup>
+
+<sup>_Followers gather in meetings and encourage everyone, including curious newcomers, to openly discuss the lowest, darkest moments in their unlife. This is for two reasons: to advise the Kindred on how to overcome their inhuman natures, and to gather secrets the cult can use to gain followers and power. The One True Way is banned in many domains across the world, but this has only seemed to increase its popularity._</sup>
+
+<sup>_As a traveler on the One True Way, you know that Golconda isn’t about redemption, but about progression and mastery. You’ve learned much about the darkness within yourself and others. Taming the Beast is agonizing, and it resists at every turn, but you work at it the best you can. You know there’s times when the Beast must run free, but you take heart in knowing even this is under your control. You know the benefits of confession, which sooths the spirit and gives you secrets to hold over your friends and enemies. You hope you can fully understand your place as a human predator, and that one night your higher instincts and your Hunger will work in tandem._</sup>
+
+**• Trust Me:**
+
+Showing vulnerability is dangerous among Kindred, but it’s necessary for the One True Way. You know how to sidestep a vampire’s hesitance and get them to say things they’d never tell their closest friends. When you speak to a vampire with genuine empathy, the Difficulty of any roll to get them to tell the truth is lowered by one.
+
+**•• Secret Keeper:**&#x20;
+
+Attending or running meetings let you in on so many secrets the Nosferatu consider you a trusted source. Once per story, when you act on a secret, a single roll concerning that secret gains two extra dice.
+
+**••• Beast Communion:**&#x20;
+
+You see your Beast as a separate persona. When it comes to the surface, it finds details you’ve missed. Whenever you roll a Messy Critical or a Bestial Failure, you may ask one question about the situation to your character’s Beast. Your Storyteller gives you a truthful answer in the voice of the Beast.
+
+**•••• Calling the Wave:**&#x20;
+
+You see your Beast as a companion. It’d be wrong to keep a companion locked away forever, and so you release it on your own terms. Once per story, you spend a point of Willpower to immediately enter frenzy and Ride the Wave (Vampire: The Masquerade, p. 219).
+
+**••••• The Road from Hunedoara:**&#x20;
+
+When the Master of Ravens himself invited you to journey to Hunedoara, Romania to meet him, you accepted. He taught you much, and you have returned a near apex predator. No matter what heinous acts you commit in frenzy, you never suffer more than 1 Stain. This can only be applied once per story, and Convictions cannot further reduce these Stains.
+
+</details>
+
+<details>
+
+<summary><strong>Starfall Ranch, </strong><em><strong>Malkavian Characters Only</strong></em><strong> (p.108)</strong></summary>
+
+<sup>_Starfall Ranch is well-known as one of the top ranches in the Northeastern United States. Its cattle are consistent state fair winners. Its horses have been seen at dressages and other equestrian sports events around the world. Owning these animals come at a high price, and part of that premium involves the quality service of Alberta Pennilee and the expert training of a man only known as “Dr. Starr.” Starr is Kindred. He serves the One Moon, a faith that believes that Clan Malkavian is actually one single person, experiencing themselves and the world around them through the lives and perspectives of those they Embrace. Aside from being a popular grange, Starfall Ranch serves as a halfway house for dispossessed Malkavians. There, they can work, feed, and learn their place as part of the One Moon. Starfall Ranch plays a major part in your life, whether you once worked there after your Embrace, or you still call it home. You might know the secrets of Starr’s ranch hands, or the basic philosophies of the One Moon. Perhaps you had the privilege of meeting the Methuselah that sleeps beneath the farmland._</sup>
+
+**• Herd Mindset:**&#x20;
+
+Your time on the ranch brought you closer to your fellow wayward Malkavians. Sometimes this was a bit too close, and parts of their identities still linger within you. Once per session, you may either take two dots in a Skill you do not know for a single roll, or ask the Storyteller for one fact about an SPC that you do not know. The Storyteller decides on which fact is received.
+
+**•• Clarity of Mind:**&#x20;
+
+Starfall Ranch is a peaceful place. Here, Malkavian from all levels of society can rest and reflect upon their future. Those that do find that they have a better chance of achieving their greater ambitions. When you start a Project at Starfall Ranch, you receive three bonus dice to the Launch roll.
+
+**••• New Perspectives:**&#x20;
+
+You understand some basics of the One Moon, and you’re starting to discover how you are only a single aspect of a greater person. You can even borrow the talents and abilities of your faith’s other followers. Once per story, you may take one Skill rating and replace it with that of another One Moon cultist. This may either be another player’s character or an SPC. This Lore is in effect for the remainder of this story.
+
+**•••• Starr and Marta:**&#x20;
+
+You’ve had the chance to see Marta with your own eyes, and it changed you forever. You may take Dr. Starr as a four dot Mawla. Once per story, Marta will speak through him. You may ask her any relevant question to the story, and she answers truthfully, to the best of her knowledge.
+
+**••••• But I Saw You Die:**&#x20;
+
+Starr is infamous for cheating death. He’s shared his secret with you. Once, when you undergo final death, you may select another One Moon cultist SPC. This SPC is now you, even taking on your physical likeness if possible. Your Skills, Advantages, Flaws, and any out-of-clan Discipline dots remain, but you must redistribute your Attributes and your in-clan Discipline dots.
 
 </details>
 
@@ -1211,7 +1317,7 @@ You are publicly named as an Archon serving the Camarilla under Justicar Parr, a
 
 <details>
 
-<summary><strong>Court of Shadows (p.234)</strong></summary>
+<summary><mark style="color:green;"><strong>Court of Shadows (p.234)</strong></mark></summary>
 
 <sup>_The King of Shadows is a mysterious figure in London’s supernatural society. Variously described as a vampire, a criminal kingpin, a champion of the downtrodden, and a ghostly agent of retribution, few know the truth. The darkest and ugliest corners of London now belong to the King, and they suffer no insult, and brook no competition. While the King is not known to foster friendships, they have many agents and allies that serve them across the city, both on the street and below it. These agents can be found everywhere: near train and tube stations, on street corners and bus stops, outside all-night convenience stores, in hostels, under bridges, and in other more downtrodden places._</sup>
 
@@ -1219,23 +1325,23 @@ You are publicly named as an Archon serving the Camarilla under Justicar Parr, a
 
 <sup>_There are many benefits to serving the King of Shadows. They always look out for their own, ensuring their agents are never hungry, and never want for a roof over their heads. The King also offers security and sanctuary – many of London’s organized crime syndicates are aware of their existence, but few would dare to cross them._</sup>
 
-**• Free Meals:**&#x20;
+**• Free Meals:** _Allowed_
 
 The King of Shadows is aware their Kindred associates need to remain well-fed, and to this end they employ mortals across the city as willing vessels who can be made available to those in need. Once per game session you may approach the Court of Shadow for sustenance. The vessel will be willing, and of a random Resonance with no Dyscrasias. If you have any feeding restrictions, then the vessel is compatible with your predilections.
 
-**•• Rumor Mill:**&#x20;
+**•• Rumor Mill:** _Allowed_
 
 The Court of Shadows encourages a lively trade of information and rumors. Once each game session you may approach the network to exchange useful information. The veracity and accuracy of the information given to you is left to the Storyteller’s discretion, but it should consider the value of the information that you trade in return. If you cannot pay in kind, then you may be asked to perform a service for the King instead.
 
-**••• Contraband:**&#x20;
+**••• Contraband:** _Allowed_
 
 The Court of Shadows is also a place where you can find illegal narcotics, weapons, explosives, and other contraband. Once per story you may approach the Court of Shadows for what you need. They will be willing to provide, but always at a price, which can be paid in hard currency, or with barter – either information or other goods of an equivalently high value.
 
-**•••• Sanctuary:**&#x20;
+**•••• Sanctuary:** _Allowed_
 
 The Court has access to many buildings above ground across the city, and many structures below ground, all of which are claimed by the King as their domain. The King’s agents know many hiding places, located where few prying eyes would think to look. Once per story you may approach the Court of Shadow to request sanctuary. You will be blindfolded, and you will not know where you are taken, but you can be sure that you will be kept safe for as long a time as you need.
 
-**••••• Favored by the King:**
+**••••• Favored by the King:** _Allowed_
 
 You are one of the few Kindred in London who has ever been in the presence of the King of Shadows. For some reason they have taken an interest in you, and regularly correspond and meet with you. The King wears a mask and is still an enigmatic figure, but you know more about them than many others. Once per story you may call upon the King directly for aid. The manner and degree to which they respond is left to the Storyteller to determine, but it should materially serve your needs in some way.
 
@@ -1249,7 +1355,7 @@ You are one of the few Kindred in London who has ever been in the presence of th
 
 <details>
 
-<summary><strong>Hunt Club (p.235)</strong></summary>
+<summary><mark style="color:green;"><strong>Hunt Club (p.235)</strong></mark></summary>
 
 <sup>_The organization known as the Hunt Club has been operating covertly in London since the end of the Second World War. Highly secretive in nature, the organization is dedicated to the pursuit of hunting Kindred for sport and is reputed to endorse the practice of diablerie. Members join using pseudonyms and disguises to protect their own reputations, and rumor has it that some are highly placed within Kindred society._</sup>
 
@@ -1257,23 +1363,23 @@ You are one of the few Kindred in London who has ever been in the presence of th
 
 <sup>_Before London’s fall, the Hunt Club was quick to join in the action each time Queen Anne declared a Blood Hunt, and the organization was unscrupulous at identifying its own targets for sport during quiet times. London and the United Kingdom have proven to be a rich hunting ground, populated by many reclusive and antiquated elders with poor defenses but rich vitae for the taking. In modern nights the organization must be wary of Operation Antigen, but some members argue that getting closer to these mortal hunters may be a way of finding new quarry for their sport._</sup>
 
-**• Huntsman’s Newsletter:**&#x20;
+**• Huntsman’s Newsletter:** _Allowed_
 
 As a fledgling member of the Hunt Club, you are notified when important events occur, including when Blood Hunts are declared in the various Kindred domains in Avalon and in the cities of western Europe. You can expect to receive such a notice once per story, but exactly when this might happen is left to the discretion of the Storyteller.
 
-**•• Experienced Diablerist:**&#x20;
+**•• Experienced Diablerist:** _Allowed_
 
 You have previously participated in a hunt, and in its culmination have committed the act of diablerie on another vampire. Due to your prior experience, you may add 1 die to your pool in all future Strength + Resolve tests when attempting the same act again in the future. This also means that the signs of diablerie may be visible in your aura, and you would be wise to avoid this being detected.
 
-**••• Huntsman’s Dossier:**&#x20;
+**••• Huntsman’s Dossier:** _Allowed_
 
 The Hunt Club devotes significant resources to watching and researching elder vampires to assess their defenses and suitability as a target for sport. Not all these Kindred end up as victims, but the information gathered about their movements and nightly habits may still be interesting to other members. Once per story you may contact the organization to ask for information regarding the current whereabouts, or the favorite haunts, of a named Kindred that dwells in the local domain.
 
-**•••• Huntsman’s Steed:**&#x20;
+**•••• Huntsman’s Steed:** _Allowed_
 
 You have acquired and adapted a modern vehicle to perfectly complement your hunting pursuits. The exact make and model are left to the Storyteller’s discretion, but it will be a plain-colored van or truck with blacked-out windows. The exterior will be subtly armor-plated, and the interior will be sound-proofed and reinforced with metal cage strong enough to contain an angry Kindred. The vehicle can be registered to your name, or one of your Masks. As with any vehicle, you should take care not to let it get stolen or impounded by the authorities.
 
-**••••• Leader of the Hunt:**&#x20;
+**••••• Leader of the Hunt:** _Allowed_
 
 Your good standing within the Hunt Club gives you the right to name any Kindred as the next quarry for the organization’s sport. Once per story you may circulate the name of your target, which will cause them to be taunted, harassed and attacked by members of the organization. This will prove to be a significant inconvenience and distraction, but whether they survive the assault is left to the discretion of the Storyteller.
 
@@ -1281,29 +1387,29 @@ Your good standing within the Hunt Club gives you the right to name any Kindred 
 
 <details>
 
-<summary><strong>London Under London, </strong><em><strong>Nosferatu Characters Only</strong></em><strong> (p.236)</strong></summary>
+<summary><mark style="color:orange;"><strong>London Under London, </strong></mark><em><mark style="color:orange;"><strong>Nosferatu Characters Only</strong></mark></em><mark style="color:orange;"><strong> </strong><strong>(p.236)</strong></mark></summary>
 
 <sup>_The subterranean landscape underneath London’s streets could be considered an entire and separate city of its own. The tunnels of the underground rail system, bored over a century ago, worm alongside crypts and basements of much older structures, and more modern shafts dug to provide water, power, and telecommunications services to London’s residents above._</sup>
 
 <sup>_In the city center, within the approximate area marked as Zone 1 on transport maps, the underground infrastructure is particularly dense. New digging work associated with the groundbreaking Crossrail project – still incomplete at the time of writing – has come within centimeters of other existing structures. These underground pathways can be used to traverse the oldest parts of the city without ever setting foot on the street._</sup>
 
-**• Tube Safety:**&#x20;
+**• Tube Safety:** _Discuss With Storytellers_
 
 While it is not normally recommended for Kindred to use the Tube for transport or feeding purposes, your knowledge of this transport system places you at an advantage. You know the layout of each station and where all the CCTV cameras are placed. While you cannot control them, you can take care not to present your face to them, and you know the blind spots in their coverage. As a result, you may attempt a Wits + Stealth test at Difficulty 3, which, if successful, allows you to pass through or hunt in any tube station undetected. Anyone travelling with you can also benefit from your knowledge, should you choose to share it.
 
-**•• Somewhere to Hide:**&#x20;
+**•• Somewhere to Hide:** _Discuss With Storytellers_
 
 Your knowledge of London’s underground infrastructure is good enough to let you hide in desperate situations. Maybe you are being pursued, or maybe you just found yourself too far from your haven too close to dawn. Whatever the reason, you can attempt a Wits + Larceny test at Difficulty 3 to find a suitable hiding place below ground that will be overlooked by anyone not in possession of similar knowledge. The location could be an old sewer pipe, a maintenance hatch, or a less-used section of the London Underground tunnel system – the Storyteller may rule on how large or small your hiding place is, and how long you may be able to safely stay there.
 
-**••• Network of Vermin:**&#x20;
+**••• Network of Vermin:** _Allowed_
 
 You have spent enough time below ground in London to become familiar with the multitudes of vermin and other creepy-crawlies that live there. These creatures are more readily available to do your bidding, and more willing to defend you from intruders. Your chances of finding useful creatures in any scene situated underground are increased, and you may add 1 die to your pool when using any Animalism powers that concern the interaction with other bestial creatures below the surface of London, including Bond Famulus, Feral Whispers, Unliving Hive, and Animal Dominion.
 
-**•••• Personal Bolt-Hole:**
+**•••• Personal Bolt-Hole:** _Allowed_
 
-In addition to your regular haven aboveground, you maintain a secret underground hideout that you can retreat to where no other Kindred can find you, and where you can store valuable items that you dare not leave anywhere else. You do not use it frequently, as to do so would risk its discovery, but here you are safe from traditional means of discovery (and the harmful rays of the sun). Note that this entirely mundane location will not conceal you from those that would use supernatural means to track you – e.g. Auspex or Blood Sorcery.
+In addition to your regular haven above ground, you maintain a secret underground hideout that you can retreat to where no other Kindred can find you, and where you can store valuable items that you dare not leave anywhere else. You do not use it frequently, as to do so would risk its discovery, but here you are safe from traditional means of discovery (and the harmful rays of the sun). Note that this entirely mundane location will not conceal you from those that would use supernatural means to track you – e.g. Auspex or Blood Sorcery.
 
-**••••• Freedom of the City:**
+**••••• Freedom of the City:** _Discuss With Storytellers_
 
 Your knowledge of the subterranean landscape of London is enough to let you travel and access important locations without ever needing to step above ground. Once per story you may transit between two surface locations using underground routes in a manner that would not be detected by anyone watching at ground level. This could mean accessing a private or public building illicitly – e.g. a bank vault, a secure office, or another Kindred’s Haven – but this would not protect you from any security measures you might encounter inside the building.
 
@@ -1311,27 +1417,27 @@ Your knowledge of the subterranean landscape of London is enough to let you trav
 
 <details>
 
-<summary><strong>Operation Antigen (p.237)</strong></summary>
+<summary><mark style="color:green;"><strong>Operation Antigen (p.237)</strong></mark></summary>
 
 <sup>_Operation Antigen is the name of the coalition of police, military, and intelligence assets that purged the city of London of organized vampire influence. Antigen is still active tonight, in a second phase dedicated to ensuring that supernatural criminal influence does not return. The success of the operation has led to similar anti-vampire initiatives being sponsored in other cities in the United Kingdom and abroad. You carefully cultivated allies and contacts that give you some insight into Operation Antigen and its ongoing efforts in London, and to similar activities elsewhere. You may also be able to exert some limited influence over its night-to-night affairs, to better protect yourself and the ones you love, or to set them upon your enemies and rivals. These interactions do not come without risk, however, as no Kindred can be considered truly safe from Antigen’s reach._</sup>
 
-**• Early Warning:**&#x20;
+**• Early Warning:** _Allowed_
 
 You have a trusted insider who has made you a simple promise: if Antigen ever identifies you, or plans your capture, they will give you advanced warning. This is a one-time thing: they won’t stop or delay the agents, but they will do you the courtesy of letting you know that they are coming.
 
-**•• Tactical Dossier:**&#x20;
+**•• Tactical Dossier:** _Allowed_
 
 You have acquired (or been leaked) a dossier which discusses typical Antigen operating procedures, covering surveillance protocols, how to plan raids, and tactical advice for engaging with IC0s. During a scene which involves Operation Antigen, you can use the contents of this dossier to predict and outwit their behavior. If the outcome of the scene results in Antigen being aware that they have been outmaneuvered (e.g. their agents are killed, or their mission objectives are thwarted), then they will change their operating methods and the dossier will become useless.
 
-**••• Sympathetic Insider:**&#x20;
+**••• Sympathetic Insider:** _Allowed_
 
 You have a relationship with someone placed high up on Antigen’s apparatus who knows a great deal about current operational activities and targets. This person has their own reasons for sharing information outside the chain of command – perhaps they do not agree with Antigen’s methods, or they are more curious about the supernatural? Regardless of their motives, they are also cautious and paranoid about being caught leaking information by their peers. Using suitably clandestine methods, you may reach out to this four-dot Contact once per story to ask them questions about Antigen’s current activities.
 
-**•••• Get Out of Jail Free:**&#x20;
+**•••• Get Out of Jail Free:** _Allowed_
 
 You have leverage over someone in the upper echelons of Operation Antigen. They do not know it yet, and what you have can only be used once – as soon as the organization knows this person is compromised, they will be cycled out and their clearance revoked. Whoever it is in the government, police or military, you can contact them and successfully blackmail them into performing one service for you once. This is a card that can be played in the event you are (or someone you know is) captured by Antigen forces, but it could also potentially be used to deflect resources or delete sensitive information. Once your leverage is used, not only will it become valueless, but your use of it will place you on Antigen’s watch list.
 
-**••••• Official Credentials:**&#x20;
+**••••• Official Credentials:** _Allowed_
 
 You have managed to obtain or manufacture false credentials that will give you temporary access to Antigen resources. You can use this identity to briefly take command of Antigen personnel at a location under surveillance, or at the scene of a raid. You can also use this identity to take custody of prisoners or evidence, or to infiltrate a location currently under Antigen control. How long your cover lasts depends on how well you can blend in, and how long it takes before people start to ask awkward questions. Once used, however, the cover is blown and it cannot be used again.
 
@@ -1339,7 +1445,7 @@ You have managed to obtain or manufacture false credentials that will give you t
 
 <details>
 
-<summary><strong>Oskar Anasov (p.238)</strong></summary>
+<summary><mark style="color:orange;"><strong>Oskar Anasov (p.238)</strong></mark></summary>
 
 <sup>_Oskar Anasov is one of the most influential vampires active in London tonight. He is responsible for the analog communication systems which connect London’s Kindred Landlords, and he is a staunch believer and enforcer of the Compact. He can also arrange passage into or out of the city safely._</sup>
 
@@ -1349,23 +1455,23 @@ You have managed to obtain or manufacture false credentials that will give you t
 
 <sup>_Anasov’s services aren’t usually free, and each time you call upon him he will require payment for his efforts. He typically prefers to receive information and favors over hard currency – in each case the specifics of each payment are left to the Storyteller’s discretion._</sup>
 
-**• Messaging Service:**&#x20;
+**• Messaging Service:** _Discuss With Storytellers_
 
 You are acquainted with Anasov well enough to use his messaging network, which is a reliable method for contacting other Kindred in London, without risk of the communication being intercepted by Operation Antigen. Anasov promises successful delivery, regardless of how elusive the recipient might otherwise be.
 
-**•• Personal Introduction:**&#x20;
+**•• Personal Introduction:** _Discuss With Storytellers_
 
 For a higher fee Anasov can also arrange for a face-to-face meeting with any other Kindred resident in London. Once per story you can name any Kindred known to be in London – regardless of whether they hold domain or are just passing through – and the Nosferatu will arrange the meeting after receiving payment. Anasov facilitates the introduction, but cannot vouch this Kindred’s behavior or reaction to meeting you. If a meeting turns violent, or otherwise ends badly for the Kindred you named, then Anasov will refuse all your future requests, for the sake of his own reputation.
 
-**••• Safe Passage:**&#x20;
+**••• Safe Passage:** _Discuss With Storytellers_
 
 Anasov has the means to smuggle mortals and Kindred in and out of the city of London without fear of detection by other vampires, or the agents of Operation Antigen. Once each story you may call upon the Nosferatu to perform this service for a group of up to six individuals. If entering the city, they will be delivered safely and securely to an address of your choice. If leaving the city, then you may name a destination outside of London’s borders. Typically, Anasov will arrange a pickup or drop off in a town or city in the south-east of the UK. Arranging international transit is possible for a higher fee, but Anasov will not vouch for the party’s reception or safety after they have been delivered to the requested destination.
 
-**•••• Mentor:**&#x20;
+**•••• Mentor:** _Discuss With Storytellers_
 
 You are personally acquainted with Anasov, and your interactions with him are more than just business. You may count him as a four-dot Mawla, and you receive a significant discount when paying to utilize his services. However, this also means that he may call on you at least once per story to help him with message delivery, people smuggling or another similar activity which furthers his interests.
 
-**••••• Landlord Council:**&#x20;
+**••••• Landlord Council:** _Discuss With Storytellers_
 
 Meetings of vampires from neighboring domains occur from time to time to settle debts, resolve disputes, and to recognize new Landlords. Larger gatherings of all of London’s domain holders are rare, and usually mark the need to discuss a great threat or opportunity that might affect them all. Through Anasov, you will be notified and invited to any meeting of Landlords that takes place in London. Once per story, if you have a suitable justification, you may also ask Anasov to use his influence to call the Kindred Landlords of London to a meeting. Note that these Kindred are paranoid, fickle, and prideful, and will mark you as a fool or as an enemy if they should decide that you are wasting their time.
 
