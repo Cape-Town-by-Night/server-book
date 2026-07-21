@@ -1119,7 +1119,7 @@ Starfall Ranch is well-known as one of the top ranches in the Northeastern Unite
 
 <details>
 
-<summary><strong>The Ruby Throat (p.170)</strong></summary>
+<summary><mark style="color:green;"><strong>The Ruby Throat (p.170)</strong></mark></summary>
 
 Atlantic City has a reputation to uphold, and for those who travel to the shore to toy with the fickle whims of lady luck, there’s no reason that death need stop the fun. Originally established in the prohibition era as a member’s only roulette club by a popular boardwalk dancing girl, the Ruby Throat became a den of powerful people wagering far more than money. Rumor has it a well-known sea facing hotel was won over a single roll one night at the Ruby Throat.&#x20;
 
@@ -1151,7 +1151,7 @@ You’ve been invited to play at the Johnson table, the highest risk game the Ru
 
 <details>
 
-<summary><strong>Relics of the Veil (p.172)</strong></summary>
+<summary><mark style="color:green;"><strong>Relics of the Veil (p.172)</strong></mark></summary>
 
 When mortals speak of haunted rooms, of places where temperature drops and whispers tickle the senses, they are often unknowingly in the presence of a powerful fetter or relic connected closely to the realms of the dead. In the hands of mortals or Kindred without the proper understanding, relics connecting those in the world of the living to those beyond the veil provide nothing more than a feeling of unease, but in the right hands they can be powerful talismans assisting those who deal in the power of Oblivion. Strange objects, some found in passing, some passed down through families and bloodlines over centuries, each one is connected somehow to the world beyond the veil, and brings with them the attentions of wraiths and other entities.
 
