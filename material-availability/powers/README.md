@@ -1964,7 +1964,7 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Magnum Opus, Presence 4 + Auspex 3 (Core p.268)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Magnum Opus, Presence 4 + Auspex 3 (Winter's Teeth #3)</strong></mark></summary>
 
 **Cost:** One or more Rouse Checks
 
