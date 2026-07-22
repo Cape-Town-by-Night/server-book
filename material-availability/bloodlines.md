@@ -150,25 +150,61 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Little Siblings,</strong> <em>(Hecata Characters Only)</em> (p.101)</summary>
+<summary><strong>Little Siblings, </strong><em><strong>Hecata Characters Only</strong></em><strong> (p.101)</strong></summary>
 
-**• Grave Attitude:** Allowed\
-&#xNAN;**•• Ghostly Dominance:** Allowed\
-&#xNAN;**••• Necromantic Expertise:** Locked\
-&#xNAN;**•••• Stolen Will:** Locked\
-&#xNAN;**••••• Purge:** Locked
+<sup>_The Rossellini and the Giovanni were once rivals in necromancy. The Rossellini had more talent, but the Giovanni had more ambition. That led to the latter becoming the Clan of Death for 500 years, and the other becoming a minor bloodline. The two families share many traits, save for one: ghost manipulation. The Giovanni prefer to coax and cajole, with an occasional threat. The Rossellini begin with threats, browbeating, and dominating wraiths into doing their bidding. The Family takes a sadistic glee using Oblivion._</sup>
+
+<sup>_As a Rossellini, the Shadowlands are your playground. Sure, your enslaved wraiths were human, just like you were, but you conquered death. They are the pitiful remains, doomed to lament about what they once had. The least you can do is give purpose to their miserable unlives. One day you’ll die and join their sorrowful ranks, but for now, you will show your cousins the true depths of Oblivion._</sup>
+
+**• Grave Attitude:**&#x20;
+
+Your experience commanding wraiths taught you that even the Kindred will eventually cross the Shroud. This certainty gives you peace. In any attempt to intimidate or manipulate you, your aggressors always suffer a one die penalty, which stacks with other penalties.
+
+**•• Ghostly Dominance:**&#x20;
+
+You brook no tolerance for the pleas and threats of the intangible dead. They are your tools. If they don’t see it that way, you will remind them. When you damage a wraith’s fetter, loved ones, or ectoplasmic form, you receive three bonus dice to any rolls to command them.
+
+**••• Necromantic Expertise:**
+
+Your siblings in the Giovanni see Oblivion as a means to an end. You know Oblivion is more than that. It’s a wonderous art, one that rewards those with the patience and ruthlessness to examine its depths. When you perform an Oblivion Ceremony, decrease the Difficulty level by one.
+
+**•••• Stolen Will:**&#x20;
+
+Ghosts are bundles of emotion cased in an ectoplasmic shell. While some Hecata slake their hunger from ghosts, you know a more sustainable use. When you bite into the fetter of a ghost under your command hard enough to damage it or cause it injury, the fetter bleeds ectoplasm drawn from the ghost’s corpus. Consuming this bitter, stringy substance mends an amount of Aggravated or Superficial Willpower damage equivalent to the ghost’s current Willpower rating.
+
+**••••• Purge:**&#x20;
+
+You shred corpuses with ease. Any attack made on a ghost always causes Aggravated Health damage, even outside of the Shadowlands. You are also capable of striking them when they are intangible.
 
 </details>
 
 <details>
 
-<summary><strong>Grudge Masters,</strong> <em>(Hecata Characters Only)</em> (p.102)</summary>
+<summary><strong>Grudge Masters, </strong><em><strong>Hecata Characters Only</strong></em><strong> (p.102)</strong></summary>
 
-**• You Know Who I Am:** Allowed\
-&#xNAN;**•• Family Bank:** Allowed\
-&#xNAN;**••• Perfect Grudges:** Banned\
-&#xNAN;**•••• You Owe Me:** Banned\
-&#xNAN;**••••• Friends in High Places:** Locked
+<sup>_In the 1950s, the Milliner family joined Clan Giovanni out of spite. They weren’t known for their prowess with Oblivion, but their connections helped the clan survive major shifts in organized crime, and the rise of the Second Inquisition. Their only reward was more work and tighter restrictions on feeding and the Embrace, something the Family Reunion did little to rectify. The Milliners have the most responsibilities and the least respect._</sup>
+
+<sup>_As a Milliner, you’re not a household name like the Clintons or the Waltons, but the right people double-take when they hear it. You know that the Giovanni haven’t and won’t give you the credit you deserve, and it’s a deep and simmering grudge, one of the most important among the many you hold. Now everyone is one big happy family, it’s time to air all those grudges out. After all, you’ve got plenty of new cousins that’d just love payback._</sup>
+
+• You Know Who I Am:&#x20;
+
+The Milliners are a true American dynasty, and the name carries a power even now and outside of the United States. Once per story, when you invoke the legacy of the Milliner line, you may add three dice to a Social roll.
+
+•• Family Bank:&#x20;
+
+The family has plenty of money, but anyone that calls upon that fortune needs to repay with cash, blood, or labor. Once per story, you may borrow money from a new or existing Milliner SPC. You have Resources 5 for the rest of the story but owe that SPC a favor that must be fulfilled before the end of the story. Your Storyteller will tell you the favor, and the consequences you face if that debt isn’t repaid when the story ends.
+
+••• Perfect Grudges:&#x20;
+
+The Milliners are known for their grudges, but you’re the true poster child. When you are slighted or beaten on a roll by a SPC, you may create a Project (Vampire: The Masquerade, p. 415) dedicated to taking revenge. Its Launch Roll automatically succeeds, and you may add two dice to any Goal Rolls. The character can have as many grudge Projects as their dots in Composure. Any aspirations of revenge beyond that limit are regular Projects.
+
+•••• You Owe Me:&#x20;
+
+The Milliners always get their due, even at the worst possible times. Once per story, you may spend a Willpower and declare an SPC in the scene owes you a favor in secret, and it’s now due. The SPC must fulfill that favor to the best of their ability by the end of the story, as decided by the Storyteller.
+
+••••• Friends in High Places:&#x20;
+
+The Milliners’ connections in law enforcement turned them on would-be vampire hunters. This is more difficult these days, but you still have the little black books. Pick a faction within the Second Inquisition (FIRSTLIGHT, the Entity, a local intelligence agency, etc.). Once per story, when that faction acts against you, you may automatically redirect that action onto any enemy Kindred SPC. If they survive, that SPC will know you are to blame.
 
 </details>
 
