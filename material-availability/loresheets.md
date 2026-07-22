@@ -846,25 +846,61 @@ The Wolf Pack roams far and wide in their role as roving Archons, but are short 
 
 <details>
 
-<summary>Calling the Family Reunion (Hecata only) (p.228)</summary>
+<summary><strong>Calling the Family Reunion, </strong><em><strong>Hecata Characters Only</strong></em><strong> (p.228)</strong></summary>
 
-**• The Kids’ Table:** Allowed\
-&#xNAN;**•• Updating the Rolodex:** Allowed\
-&#xNAN;**••• Hiding the Bodies:** Allowed\
-&#xNAN;**•••• Dealmaker:** Locked\
-&#xNAN;**••••• Spiritual Assault:** Locked
+<sup>_The Clan of Death, in all its forms, has always had a gift for understatement. The latest, the so-called “Family Reunion,” was a combination of the strategic removal of some high-profile elders, the burying of some ancient axes — sometimes in another vampire’s head — and the subsequent unleashing of millions of outraged and ungrateful ghosts taking out centuries of pent-up ire on any necromancer they could find._</sup>
+
+<sup>_You are party to the hasty (by Kindred standards) discussion between ancient enemies of the necessity and utility of working together. You may have been involved in some of the acts that led to it, or you were present at the Reunion itself. In your own way, you’ve contributed to this new step in the Clan of Death. And even though you’ve become one big happy clan again, that doesn’t mean you just forgive and forget._</sup>
+
+**• The Kids’ Table:**&#x20;
+
+You were present at the dinner where the final details of the Reunion were discussed. You didn’t have any significant impact in the discussion, but you know what was debated, so you’re familiar with all the old animosities and arguments. You get two dice on any Persuasion checks against another Hecata who tries to resurrect old disagreements.
+
+**•• Updating the Rolodex:**
+
+Not everyone gets along in the new-and-improved Hecata, but since you were present during the initial dealmaking, you now have access to a lot of new contacts. When asking for information or small favors, you have the equivalent of three dots of Status within the Hecata clan.
+
+**••• Hiding the Bodies:**&#x20;
+
+Even the Clan of Death doesn’t have the luxury of flaunting all the corpses they’ve left along the way. You were involved in the cleanup of a key murder, and a Hecata elder is greatly in your debt as a result. Once per story, you may remind them of that debt to cash in the effects of a minor boon or less (see Vampire: The Masquerade, p. 315). Once per chronicle, you may clear the debt in return for the effects of a major boon. Call upon them more often, or for favors beyond their reach, and they will grudgingly comply... only to become a persistent Adversary once your business concludes.
+
+**•••• Dealmaker:**&#x20;
+
+For all the visible debates during the Family Reunion, there were just as many backroom deals made in order to make the reunification of the Hecata a success. You were a part of one of those deals, and an influential elder in the Hecata owes you as a result. That elder counts as a five-dot Mawla Background but will become a potent Adversary if the secrets are ever revealed.
+
+**••••• Spiritual Assault:**&#x20;
+
+You were involved in the murder of Augustus Giovanni, the methuselah responsible for the alleged destruction of the Cappadocians. As such, you know it was Augustus’ death that unleashed the maelstrom of wraiths coming after the Hecata. Anytime you or someone who consults you uses an Oblivion Ceremony to deal with a spectre or other antagonistic ghost, you gain two automatic successes.
 
 </details>
 
 <details>
 
-<summary><strong>Child of the Archangel Michael</strong> <em>(Unavailable to Nosferatu Characters)</em> (p.229)</summary>
+<summary><strong>Child of the Angel Michael, </strong><em><strong>Unavailable to Nosferatu Characters</strong></em><strong> (p.229)</strong></summary>
 
-**• The Great and the Good:** Allowed\
-&#xNAN;**•• Outer Beauty:** Allowed\
-&#xNAN;**••• Hedonistic Pleasure:** Allowed\
-&#xNAN;**•••• Michael’s Calling:** Locked\
-&#xNAN;**••••• Wiping Away the Stains:** Locked
+<sup>_That which is perfect is beautiful. That which is beautiful is good. That which is good leads to utopia. This is what the Nephilim believe — that if they can embody all that is beautiful and perfect, they can recreate the utopic dream of the perfect Kindred city: Constantinople. A recent cult chided in equal parts as a Toreador fever dream and an excuse for lavish parties, the Nephilim nevertheless draws in a large share of proponents, eager to ogle the great and the good, or to find ways to improve themselves toward their personal ideal._</sup>
+
+<sup>_Of course, the pursuit of ideal perfection shouldn’t be sullied by base concerns like money or power. Those that give up all that they hold dear to the Nephilim will be rewarded, becoming more perfect and more beautiful with each passing night. Besides, once the Dream of Constantinople comes to pass and all vampires are living in harmony, none of that will matter anyway. Right? You might be a seeker of beauty, or one of the beautiful yourself, but you’re definitely invested in the Dream, one way or another._</sup>
+
+**• The Great and the Good:**
+
+Even just being around perfect and beautiful people has its advantages, and you’ve been able to leverage your connection to fellow cultists into a few small gains yourself. You have two free dots to distribute between the Contacts, Fame, Herd, and Influence Backgrounds, though the kinds of followers you attract verge on the fanatical and dangerous to you and your loved ones.
+
+**•• Outer Beauty:**&#x20;
+
+You make trips to the local Nephilim temple, and the accentuation of your “inner beauty” leads to outer effects. Your skin becomes clear, your hair gains luster, and your limbs become long and firm. You get the Looks Merit at four dots, even after character creation. The negative side is you have to really disguise your appearance if you want to avoid attention. Inevitably, your face will be the one witnesses remember.
+
+**••• Hedonistic Pleasure:**&#x20;
+
+Of course, there’s no point being beautiful if you can’t enjoy it, right? Lots of long nights of excess have taught you a thing or two about having a good time, even when you’re not in a Nephilim temple. You gain two dice on any rolls to score drugs, get a date or sexual partner, or get yourself invited to a party. In addition, your exploits are legendary — take either two dots in Fame or two dots in Status.
+
+**•••• Michael’s Calling:**&#x20;
+
+You’ve been in past cults in which the childer of Michael were worshiped to bring about the Dream. While it’s novel and convenient that all of these fringe cults have come together under one roof, as it were, you see it all as the sham it is. That won’t stop you from leveraging it for your own gain, however. Once per story, you can use all of a cult member’s appropriate Backgrounds as if they were your own.
+
+**••••• Wiping Away the Stains:**&#x20;
+
+The most horrific and flawed parts of the Kindred are, of course, on the inside. Most of the cult claims they want inner beauty as well as outer perfection, but the sex and drugs tend to get in the way of true enlightenment. Luckily, you haven’t lost the true path. Once per story, you can spend a Willpower to remove a Stain from another vampire. The vampire must have sex with you, do drugs with you, or engage in some other hedonistic activity for at least an hour.
 
 </details>
 
@@ -872,11 +908,29 @@ The Wolf Pack roams far and wide in their role as roving Archons, but are short 
 
 <summary><strong>The Promise of 1528</strong> (p.231)</summary>
 
-**• Legal Scholar:** Allowed\
-&#xNAN;**•• Scrap of Information:** Allowed\
-&#xNAN;**••• Tick Tock:** Allowed\
-&#xNAN;**•••• Faulty Memory:** Locked\
-&#xNAN;**••••• Signatory:** Locked
+<sup>_After the Giovanni engineered the fall of the Cappadocians (or so they thought), the up-and-coming Camarilla expressed concerns about the so-called “Devil Clan.” The purge of the Cappadocians entered full force soon after the Anarch Revolt, and the Kindred of the Camarilla were worried that this was more of the same. With the upstart Anarchs forming into what would become the Sabbat, the Camarilla couldn’t afford a war on yet another front. So, Augustus Giovanni and the Inner Circle of the Camarilla met in Venice in 1528, and signed an agreement._</sup>
+
+<sup>_The problem is, no one really knows what’s in the agreement. For years, all that was known was that the Giovanni had some degree of autonomy in Camarilla domains, and that the clan was given ownership of the city of Venice (in exchange for the Inner Circle being allowed to hold their meetings there). After the Family Reunion, however, an additional detail has been revealed: The Promise has a limit of 500 years, meaning it will expire in 2028. Both the Camarilla and the Hecata are scrambling to find out the details of the agreement, as well as the consequences once it expires._</sup>
+
+**• Legal Scholar:**&#x20;
+
+You are an active student of the Promise. You don’t know much, but that’s more than most Kindred know. Even the fact that you know such a document exists gives you leverage. In legal disputes with Camarilla Kindred or members of the Hecata, you gain two dice on Persuasion rolls.
+
+**•• Scrap of Information:**
+
+You saw a scrap of a transcript of the Promise once. A lot of forgeries have circulated among the Kindred over the centuries, but you’re reasonably sure this one is genuine. This makes you a hot commodity among other Kindred who hunger to know what’s in the Promise. Once per story, if you allow Kindred access to your notes on the Promise fragment for research, you gain a temporary dot in Contacts, Herd, Influence, or Resources for the remainder of the story, and may call in a major boon (see Vampire: The Masquerade p. 315) from the vampire in future.
+
+**••• Tick Tock:**&#x20;
+
+You know, or believe you know, the consequences of allowing the Promise to expire, and they aren’t good. Once per story, you can give advice to members of your local faction (the Camarilla court if you are a Camarilla Kindred, or the local family if you are Hecata) and expect to be taken seriously. You will get an audience, and two automatic successes on any rolls which leverage your knowledge during the meeting.
+
+**•••• Faulty Memory:**&#x20;
+
+You read the Promise once, but for some reason you can never recall the text in full, even if you have advantages or powers that would normally allow you to remember things or uncover buried memories. But once in a while, snippets surface to help you at just the right time. Once per story, you can add three dice to an appropriate roll where memory of the Promise would help you.
+
+**••••• Signatory:**&#x20;
+
+You are directly related to one of the signatories of the Promise (or you are a signatory yourself). Once per chronicle, you can leverage your knowledge of the Promise to force a Camarilla Prince or a Hecata anziani to permanently change a ruling or local law in your favor, using your knowledge of the Promise to give you political clout. However, you must decide why you are unable to ever speak of the details of the Promise — perhaps it’s a thaumaturgical compulsion, the spirit of a loved one threatened with eternal torment, or a lot of Ventrue Dominate.
 
 </details>
 
