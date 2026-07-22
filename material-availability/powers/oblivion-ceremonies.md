@@ -133,7 +133,7 @@ dominated or influenced as they are bound to their master. They do not react to
 motion, words, or interference from anyone but their reanimator. Mindless corpses
 may always contribute to Teamwork (Core, p.122) for menial
 labor such as digging, lifting, or pushing even if they lack Skills.
-General Difficulties: 2/1to their master.
+General Difficulties: 2/1 to their master.
 General Difficulties: 3/1
 ```
 
@@ -290,11 +290,18 @@ As per the rules for temporary Advantages like these (Core, p.180), their contin
 
 **Aggressive Corpse Stat Block**
 
-**Standard Dice Pools:** Physical 4, Social 0, Mental 0\
-**Secondary Attributes:** Health 6, Willpower 0\
-**Exceptional Dice Pools:** Brawl 6; Intimidation 5\
-**Special:** Aggressive corpses take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. Bites from the aggressive dead inflict +2 Health damage which is Aggravated to mortals.\
-**General Difficulties:** 3/2
+```
+Standard Dice Pools: Physical 4, Social 0, Mental 0
+Secondary Attributes: Health 6, Willpower 0
+Exceptional Dice Pools: Brawl 6; Intimidation 5
+Special: Aggressive corpses take Superficial and Aggravated damage in the same way
+as vampires, except they are immune to sunlight. They cannot heal or mend damage.
+They cannot be mentally dominated or influenced as they are bound to their master.
+They do not need eyes or ears to perceive everything around them as someone with
+unimpeded vision and hearing might. Bites from the aggressive dead inflict +2 Health
+damage which is Aggravated to mortals.
+General Difficulties: 3/2
+```
 
 </details>
 
