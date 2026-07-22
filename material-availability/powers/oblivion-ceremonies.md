@@ -114,11 +114,11 @@ Most homunculi can scale walls, hop (even if it lacks the limbs to do so), and h
 
 **Homuncular Servant Stat Block**
 
-**Standard Dice Pools:** Physical 1, Social 0, Mental 1\
-**Secondary Attributes:** Health 3, Willpower 1\
-**Exceptional Dice Pools:** Athletics 4, Stealth 6; Intimidation 4\
-**Special:** Homuncular servants take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. They can telepathically broadcast a single image per scene to their master.\
-**General Difficulties:** 3/1
+**`Standard Dice Pools:`**` ``Physical 1, Social 0, Mental 1`\
+&#xNAN;**`Secondary Attributes:`**` ``Health 3, Willpower 1`\
+&#xNAN;**`Exceptional Dice Pools:`**` ``Athletics 4, Stealth 6; Intimidation 4`\
+&#xNAN;**`Special:`**` ``Homuncular servants take Superficial and Aggravated damage in the same way as vampires, except they are immune to sunlight. They cannot heal or mend damage. They cannot be mentally dominated or influenced as they are bound to their master. They do not need eyes or ears to perceive everything around them as someone with unimpeded vision and hearing might. They can telepathically broadcast a single image per scene to their master.`\
+&#xNAN;**`General Difficulties:`**` ``3/1`
 
 </details>
 
