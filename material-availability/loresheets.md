@@ -842,6 +842,301 @@ The Wolf Pack roams far and wide in their role as roving Archons, but are short 
 
 </details>
 
+## Let the Streets Run Red
+
+<details>
+
+<summary><strong>The Anubi (p.224)</strong></summary>
+
+<sup>_The Lupine attack on Chicago is a stark reminder of how vulnerable Kindred are to werewolf assault. The Princes of the Camarilla looked to Milwaukee, and its guardians the Anubi, for a solution. Led by Milwaukee’s Prince, Mark Decker, the Anubi are the Camarilla’s premier force of Lupine hunters. They are well organized, well equipped, and determined to repulse every Lupine incursion into the city._</sup>&#x20;
+
+<sup>_Other cities began emulating Milwaukee’s model with mixed results. Many coteries failed due to inexperience or left their posts when Clan Gangrel abandoned the Camarilla. Others overthrew their Princes or became the kingmakers of their domain. A few even sided with the Anarchs, defending the Baronies of the Free States and newly acquired Anarch cities._</sup>&#x20;
+
+<sup>_More successful Princes recruited Gangrel with greater loyalty to their city than to their clan, or built mixed-membership coteries by offering money, special privileges, hunting rights, or boons. Even the legendary Anubi had to offer grants of hunting grounds to young Kindred after many of their members abandoned Milwau-ee in the face of Sabbat invasion._</sup>
+
+<sup>_These newly formed coteries are as deadly as the Lupines they hunt. Some, like the Sun Devils of Phoenix or the all-Ventrue “Hunt Club” of Quebec, maintain the Anubi’s militant structure and battle Lupines nightly. Others, like “The Pack” of Vancouver or the mixed Lasombra/ Toreador “Order of Saint Sabastian” in Rio de Janeiro, wield diplomacy as effectively as silver to forge tentative (although not lasting) treaties with their local Lupines._</sup>
+
+**• Argent Fury:**&#x20;
+
+Your connection to the Anubi or a similar organization provides access to hidden caches of silver weapons and/or those who manufacture them. Once per story, you can equip yourself with a silver hand-held weapon or ammunition of your choice.
+
+**•• What Big Eyes You Have:**
+
+A Lupine must be located before it can be slain. Your organization has seeded your city with a web of informants, contacts, and surveillance devices to facilitate the hunt. Once per story, you gain two automatic successes on an Investigation roll related to locating Lupines within your domain.
+
+**••• Brick House:**&#x20;
+
+The hunter often becomes the hunted when Lupines are involved. You spend substantial resources outfitting your haven for just such occasions. You gain four points to spend on Haven and/ or Retainers relating to defense against Lupines.
+
+**•••• In the City, In the Woods (choose one):**
+
+* War Eternal:&#x20;
+
+Your organization takes the fight to the Lupines. Your advanced knowledge of Lupine hunting grants you two bonus damage from all Firearms and Athletics rolls when fighting Lupines.
+
+* Strange Bedfellows:&#x20;
+
+Your organization seeks peace with Lupines, forging strained but (mostly) effective truces with the werewolves in your area. Gain two bonus dice to all Persuasion rolls when dealing with Lupines and a two-dot werewolf Ally reflecting your contact in the local Lupine community. Your Ally is unlikely to risk their life for you but will at least listen to your side of the story before the howling starts.
+
+* Most Dangerous Game:&#x20;
+
+Your nightly hunt grants you access to a quantity of Lupine blood that may reflect an unhealthy addiction to werewolf blood. Once per story, you can slake two Hunger via a sip of werewolf blood with all the attendant benefits and drawbacks (Vampire: The Masquerade, p. 376).
+
+**••••• Summon the Pack:**&#x20;
+
+You are a formal member of the Anubi or a similar Lupine-hunting organization and can call on these Kindred for aid at a moment’s notice when Lupines are near. Situations not involving Lupines may require favor trading and/or boons, depending on your relationships with the individuals within the organization. Your membership grants you a temporary Mawla (•••) and four dots of Allies (Anubi Bikers), representing mortal bikers who follow the Anubi, who can be called on once per story when Lupines are involved.
+
+</details>
+
+<details>
+
+<summary><strong>Eletria (p.225)</strong></summary>
+
+<sup>_Eletria occupied an unassuming position among Chicago’s Kindred for decades prior to her recent disappearance. Few understood the immense power hidden behind the quiet strength of the enigmatic vampire that dotingly watched over “Portia” all those nights. Fewer still realize that Eletria was once Prince of Veracruz and one of the most talented artists in history. Born of Sparta, reborn of Helena, Eletria travelled the world, drowning herself in life’s myriad pleasures and always returned panting for more. Painting, sculpture, and music came effortlessly to her. The Kindred of Veracruz bent their knees to her will and were better for her presence. Her very passions conquered the hearts of all who met her, ensnaring Lodin’s sire, Datura, then Lodin himself, loving and losing both in the process. Her presence in Chicago had the potential to change everything, but in the end, she changed you._</sup>&#x20;
+
+<sup>_You knew Eletria. It might have been Chicago, Veracruz, or someplace more distant still, but you knew her. Lover, friend, subject, or slave: Her presence haunts you to this day._</sup>
+
+**• Muse:**&#x20;
+
+Eletria saw great potential in you and fanned the embers of your talent. All Craft (Painting or Sculpture) or Performance (Music) tests have their difficulty reduced by one.&#x20;
+
+**•• Portrait of a Woman:**&#x20;
+
+Eletria entrusted you with a rare and precious piece of art of deep importance to her. It could be her cherished portrait of Datura on the cliffs of Veracruz or another painting, sculpture, or piece of music created by her hand. Granting you this piece is a sign of her deepest trust and contains an almost literal part of her soul. Once per session, you can spend an hour meditating upon this piece and make a Resolve + Craft (Painting or Sculpture) or Performance (Music) test at Difficulty 4 before resting for the day. If successful, you awaken having recovered all Superficial Willpower damage.&#x20;
+
+**••• This is Sparta:**&#x20;
+
+You served under Eletria in Veracruz during her war against the Sabbat or fought by her side during the War of Chicago. You gain a bonus die to all Investigation, Academics, and Occult rolls related to defending your city against hostile sect incursions.&#x20;
+
+**•••• Ageless Beauty:**&#x20;
+
+You shared blood with Eletria and inherited a measure of her ability to see the past. You can see a person as they were at any point in their life (or unlife). If artistically inclined, you can render Kindred as they appeared centuries ago with shocking accuracy. Make a Wits + Resolve or Auspex test (difficulty assigned by Storyteller depending on how far back you attempt to see). Success means you have captured a photo- graphic image of the subject in your mind with perfect accuracy and gain two bonus dice to your relevant Craft test to replicate it. This ability can be used once per session.
+
+**••••• Conspicuous Consumption:**&#x20;
+
+Your search for Eletria leads to Helena. You become part of the circle of vampires used to slake her thirst and keep the Beckoning at bay. This arrange- ment is not without its benefits, as you gain five dots to distribute between Mawla, Resources, Allies, Herd, and Contacts. You also have access to Helena once per story, although she has compelled you not to reveal her presence. If lucky, your perilous association may reveal Eletria’s fate.
+
+</details>
+
+<details>
+
+<summary><strong>Kindred Social Media Influencer (p.226)</strong></summary>
+
+<sup>_Sometimes it’s worth risking the ire of those elders who have banned social media use, especially for fledglings Embraced in recent nights. Though the Second Inquisition makes having an online presence dangerous for vampires, having a large internet following brings potential benefits: information, influence, money, and food. When the choice is between feeding on a flash mob participant or frenzying from hunger, you pick the one that isn’t a sure breach of the Masquerade._</sup>
+
+<sup>_Often, a vampire can entirely avoid mentioning Kindred lifestyles on their social feeds. Maybe their Instagram account is all pictures of books artfully posed beside glasses of wine, or their Twitter timeline consists only of cat memes and dad jokes. Throughout the centuries, vampires have adopted mortal personas that give no whiff of their nighttime pursuits. Tonight’s fledglings aim to do the same, only with more likes, favorites, and followers._</sup>
+
+<sup>_Kindred can display authority in all kinds of areas on social media. Some present historical analyses on YouTube so insightful you’d swear they’d been at the events they’re describing. Exquisite Instagram accounts capture the city when most of its residents are asleep. This isn’t to suggest no one’s ever come close to breaching the Masquerade since SchreckNET came down: One scandalous (and highly anonymous) account displays cutting edge Kindred fashion, replete with the clans’ iconography. Mortal followers like and thumbs-up the posts, believing it experimental fashion or possibly a high-end LARP, while not knowing the messages the outfits send to their Kindred counterparts. Should any elders discover Kindred of their own clan are behind the account, however, it won’t be long before someone is blood hunted._</sup>
+
+**• Friends Everywhere:**&#x20;
+
+You have a small following, mostly consisting of friends and close acquaintances. Occasionally, someone with a larger social media footprint will boost or share one of your posts, bringing you a temporary increase in visibility. Once per chapter, you can crowdsource a solution to a problem, providing you have enough time to consult your followers, allowing you to roll two dice in a Skill you don’t possess or adding two automatic successes in an area you already have familiarity.
+
+**•• Niche Following:**&#x20;
+
+Your knowledge in a specific area grants you a degree of online authority. Your Twitter threads occasionally go viral, and you’ve been paid to write articles for newspapers and websites thanks to your unique voice. Gain two dots of Influence in your field. Once per story, you may temporarily increase your Resources by one dot when you pen an article or do a video hangout for a small audience.
+
+**••• Internet Famous:**&#x20;
+
+Your follower count is in the tens of thousands across several social media platforms. Loyal fans provide a small amount of ad revenue and buy branded swag, providing you with an additional two dots in Resources. Once per story, you can arrange a small, local meetup and feed from one of the attendees, granting you one dot in Herd.
+
+**•••• Collabs and Sponsorships:**&#x20;
+
+Everyone who’s interested in your particular subject matter knows your name. Companies offer to work with you to create branded products and attempt to woo you with freebies they hope you’ll promote. In addition to two dots in Fame, gain Allies (••) from among your fans and declare a two-dot Contact at one of the companies you’ve promoted.
+
+**••••• Superstar:**&#x20;
+
+Your social media presence makes you a household name. You set trends and pull in a sizable income from products, promotions, ad revenue, and patron donations. Maintaining your presence and place in the ever-changing hierarchy requires a full-time schedule of recording, posting, promoting. While this grants you three dots in both Fame and Resources, your notoriety also puts you in a precarious position with Kindred elders. Should they (or worse, FIRSTLIGHT) discover your vampiric identity, punishment will be swift and deadly.
+
+</details>
+
+<details>
+
+<summary><strong>Juggler (p.227)</strong></summary>
+
+<sup>_Juggler has been a pain in the Chicago Camarilla’s ass and a thorn in Modius’s side for the better part of a century. He ruled the Anarchs before Maldavis came along, and he directed much of their activity from Gary. During some of the tensest periods in the War of Chicago, Helena and the powerful Brujah Tyler controlled his actions. Juggler may have a sense of this, especially since Tyler’s disappeared from Chicago, but it’s not something he’d ever let slip to his followers._</sup>
+
+<sup>_In recent nights, he’s orchestrated the Anarchs’ takeover of Gary, relishing his rival Modius’s rage as the pauper Prince’s power ebbed away. Rumor had it he’d triumphantly captured Modius — whose own childe turned Anarch and gave him up — and may at last have destroyed his enemy. This move made Juggler the Baron of Gary at last, but a month into his reign, he disappeared._</sup>
+
+<sup>_Unlike his disorganized Camarilla counterpart, Juggler understands how to run a revolution. His childe, Evelyn Stephens, was privy to his plans. He kept some secrets, but he ensured that the schemes he’d set in motion could carry on in his absence. As much of a blow as it was to the Anarchs to lose their leader, Evelyn has stepped up and rallied them right back to the cause._</sup>
+
+**• For the Cause:**
+
+You’ve run with the Anarchs in Chicago under Juggler’s direction. Gain one reroll per session on Brawl, Melee, and Streetwise rolls when going up against members of the Camarilla.
+
+**•• Guns to a Knife Fight:**&#x20;
+
+When a Prince starts losing, he blames the Anarchs first and tries to wipe them out. Juggler learned that lesson with Lodin, and in more recent nights, when Modius ratted out his enemies to Sullivan Dane. Once per story, you have access to a weapons cache that Juggler has secreted away in Gary and can buy up to Resources (•••) worth of gear.
+
+**••• Rabble Rouser:**&#x20;
+
+You have a knack for dirty fighting. Juggler put you in charge of a group of Anarchs who Get Shit Done around Gary. Once per story, you can call upon a small group (3-5 people) to sow chaos in Gary’s streets or back you up in a brawl. This counts as a temporary Allies Background rated at an effectiveness of two dots, with the benefit of their being Kindred and carrying Disciplines. They cease following you for the rest of this story.
+
+**•••• Coordination is Key:**
+
+Juggler set you up as a key part of Anarch communications. Other Kindred slip you information about their activities, which you pass along to those who need to know. This grants you significant cachet in the Movement, manifesting as Status: Anarchs (•••) and Influence: Gary (•••). Once per story, ask your Storyteller for a piece of intel that’s recently come across your desk.
+
+**••••• Rust Never Sleeps:**&#x20;
+
+Juggler trusted you with his plans and valued your input in his strikes against the Camarilla and Modius. He is your four-dot Mawla (in his absence, Evelyn Stephens fills this role). Once per story, work with your Storyteller to name a member of the Movement in another city whose skills or access are useful to you. A friend of Juggler’s is a friend of theirs, and they’re eager to help the Anarchs rise. They act as a three-dot Contact for you until the end of that story.
+
+</details>
+
+<details>
+
+<summary><strong>Lost Secrets of the Milwaukee Chantry (p.228)</strong></summary>
+
+<sup>_The Tremere of Milwaukee were once one of the most exclusive coteries in the United States. Their sole purpose was to unravel the secrets of the strange mystical “Null Zone” near Marquette University, where magic does not function (see p. 231). Then Carna abandoned Milwaukee on the eve of a Sabbat invasion, and her fellow chantry members, Victor and Dr. Mortius, disappeared soon after. The Tremere have not reestablished their presence in Milwaukee, leaving their Chantry’s secrets vulnerable to outsiders._</sup>
+
+<sup>_Kindred from Chicago and beyond flock to Milwaukee to uncover its occult secrets before the Tremere return. Karl Schrekt is assembling an elite coterie to reestablish the Milwaukee Chantry before Carna and her allies can do the same. Interested parties race against time to recover whatever they can before their window closes forever._</sup>
+
+**• Carna’s Primogen Files:**
+
+While nominally apolitical, Carna managed to collect a significant amount of information about her fellow Kindred during her tenure as Primogen. You have access to Carna’s Primogen Files and gain a bonus die on all Politics rolls involving the Kindred of Milwaukee.
+
+**•• Abandoned Real Estate:**&#x20;
+
+Carna and Victor maintained numerous havens throughout the wealthier areas of Milwaukee. Your search uncovers one such haven, providing you with access to a two-dot Haven in Milwaukee, equipped with a two-dot Occult Library (Carna) or two-dot Hidden Armory (Victor), and potential clues to the location of additional havens or Tremere secrets (Storytellers discretion). Tremere agents are certain to follow, so take up permanent residence with extreme caution.
+
+**••• Victor’s Grimoire:**&#x20;
+
+Victor was the deadly enforcer of the Milwaukee Tremere and had access to a potent array of unique rituals. You have located Victor’s Grimoire and cache of occult rituals. Subject to Storyteller’s discretion, Blood Sorcerers may immediately learn one of the rituals located in The Chicago Folios, p. 174 and have a roleplaying justification to learn additional rituals from The Chicago Folios through the standard expenditure of time and experience. Non-Tremere are hunted mercilessly for mere possession of this knowledge. Learning these rituals still requires Experience expenditure.
+
+**•••• Objects of Desire:**&#x20;
+
+You have uncovered the subject of Tremere study in Milwaukee, a strange “Null Zone” where magic does not function, centered on Marquette University. Tremere records indicate that objects of incredible power are located somewhere in the zone and may be possible to recover, but opposition from Clan Tremere, Lupines, and/or Magi, is extremely likely. You gain a precarious Haven Background rated at four dots, though with it comes an Adversary at two dots and an Enemy at two dots.
+
+**••••• Dr. Mortius’s Haven:**&#x20;
+
+You have located Dr. Mortius’s haven, a “haunted” house near Marquette University. It is a three-dot haven with an awe-inspiring, yet utterly disorganized, occult library. The library grants you a three-dot bonus to all Academics and Occult rolls and is filled with a wide range of other secrets. At the Storyteller’s discretion, these secrets might include access to Blood Sorcery, innocuous magic items, information about Milwaukee’s magical “Null-Zone,” theories on ancient Kindred in Lake Michigan, and even a copy of “The Book of the Grave-War” — although missing half a page or so. At the Storyteller’s discretion, Mortius’s haven may contain a variety of mundane and mystical defenses to penetrate prior to entry.
+
+</details>
+
+<details>
+
+<summary><strong>Mark Decker (p.229)</strong></summary>
+
+<sup>_Mark Decker prefers hunting Lupines to ruling Milwaukee. He uses the position to protect the city, placing his Anubi in top-ranking jobs and strictly enforcing the Masquerade. In recent nights, he’s grown even more suspicious of the Kindred in his territory — who’s plotting against him? Who’s undermining his agenda? Breaking his strict new laws results in swift punishment, up to and including the final death._</sup>
+
+<sup>_He trusts very few people outside of his inner circle, and even those he watches warily. After all, he was unprepared both for Carna’s exodus from Milwaukee and his clan’s defection from the Camarilla. Who else, he wonders, is ready to turn on him? On occasion, he reaches out to Inyanga in Chicago to seek an outside perspective on local matters. These nights, those communications are fewer and longer between._</sup>
+
+<sup>_Decker keeps his city on constant high alert against werewolves and Anarchs, and respects those Kindred who display the same vigilance he does. Perhaps some night, if he can push the Lupines back far enough and strike a massive blow to the Anarchs, he’d consider relinquishing his throne. But that’s a long, long way off, and there’s much work to be done before then._</sup>
+
+**• Good Graces:**&#x20;
+
+Decker has put a small amount of trust in you, assigning you to patrol duty around the city and allowing you to act with his authority in minor breaches of his laws. Still, he requires you to enter a one-step Blood Bond in case that feeling is misplaced.
+
+**•• Tyrant’s Recognition:**&#x20;
+
+Decker is aware of the body count you’ve racked up protecting Milwaukee. He grants you feeding rights to a small rack, providing you with a two-dot Herd and a one-dot Haven.
+
+**••• One Strike:**&#x20;
+
+Your penchant for not only upholding but enforcing the Prince’s laws has caused Decker to loosen his reins on you. It’s still unwise to break them, but once per story he allows you to plead your case if you’re caught for a minor infraction. Rather than the final death, he’ll impose sanctions.
+
+**•••• The Prince’s Trust:**&#x20;
+
+You’ve fought at Decker’s side against the Lupines and rooted out Anarch incursions. You’ve learned how to talk to him without setting him off, or at least how to push those buttons without turning his suspicions on yourself. Decker listens to your counsel, and his trust in you gives you a little leeway in the city. Gain Mark Decker as a five-dot Mawla once per story. Additionally, once per story, you may dine with him at the Hyatt or join him in his private suite at Brewers Stadium for an audience.
+
+**••••• Childe of Mark Decker&#x20;**_**(Gangrel Only)**_**:**&#x20;
+
+Decker granted you the gift of his Embrace and expects you to treat such an honor accordingly. He’s trained you as one of his Anubi and placed you in a position of power in the city. Work with your Storyteller to determine where your authority lies. Decker provides you with a three-dot Haven, two-dot Status, and you gain one free Skill Specialty in Athletics, Brawl, or Melee. Many Kindred despise Decker, and this antipathy extends to his childer. You earn three dots in Adversaries, to be made into one vampire or split across two or three.
+
+</details>
+
+<details>
+
+<summary><strong>Maxwell (p.230)</strong></summary>
+
+<sup>_Maxwell’s been off the chess board a long time now. The one-time Prince of Chicago, a Brujah, might have ruled again after Lodin’s death, were it not for Kevin Jackson’s rise to power. He disappeared after that, though wise Kindred know better than to think he’s suffered his final death._</sup>
+
+<sup>_In fact, Maxwell still considers himself Chicago’s Prince, and suggests Kevin Jackson’s merely keeping the throne warm. He’s gotten a better handle on the modern world these last few years and dedicated time and resources to quietly shoring up his support. He still holds sway with Chicago PD’s Internal Affairs. In recent nights, he’s focused on building up the Vanguard, a group of Camarilla based in Gary, Indiana, who are loyal to him and his play for praxis. Gary is little more than a staging ground to him, a place from which to launch his strikes against Chicago before he reclaims his throne._</sup>
+
+<sup>_Maxwell’s opponents (and many of his supporters) recognize his penchant for violence. Signing on with him is a dangerous and probably bloody endeavor, but he’ll handsomely reward those who help him take Chicago._</sup>
+
+**• Tactician:**&#x20;
+
+You’ve studied Maxwell’s strategies as Prince of Chicago and sussed out some of the secrets of his rule. Add two bonus dice to an Academics, Politics, or Subterfuge roll relating to political planning or military maneuvers.
+
+**•• Travelling Companion:**&#x20;
+
+While Kindred considered him dead after Devil’s Night, Maxwell roamed the world building up allies in other countries. One thing he learned in these hyper-surveilled modern nights is how to evade detection while travelling. You traveled with him during this time, and he’s willing to share his contacts. Once per story, you can call on Maxwell’s allies for reliable and secure transportation between cities.
+
+**••• Vanguard:**&#x20;
+
+You’re a member of Gary’s Vanguard, trusted by Eric Sharpe and Maxwell alike. Gain Status: Gary (•••). Sharpe has granted you territory in the city, where you have a two-dot Haven and feeding rights. If not participating in Rusted Jungle (see p. 125), this lore gives you standing as a long-time, respected Kindred resident of Gary.
+
+**•••• The Art of Disappearing:**
+
+If your enemies think you’re dead, they stop worrying about how you’re plotting against them. Maxwell has taught you tricks for staying hidden and working from the shadows. Once per story, he’ll help you create a two-dot Mask under which you can anonymously further a goal. Alternately, he’ll help you convincingly fake the death of one of your current Masks and transfer its resources to a new identity without leaving a paper trail.
+
+**••••• The Once and Future Prince:**&#x20;
+
+You’re one of the highly placed Kindred Maxwell is counting on in Chicago. He’s guided and financed your rise among your clan’s ranks, helped rid you of enemies, and provided you with information about the machinations of Prince Jackson and the Primogen. Gain Resources (•••••); two dots must be spent securing Maxwell’s plans, but the remaining three are yours to spend as you like. You have a list of those Kindred in Chicago who owe Maxwell boons. Once per story, you can call in a minor boon from someone on the list. Once per chronicle, you can call in a major boon. Though you may use these for any purpose that suits you, Maxwell expects you to send him an account of how you’ve spent his favors. Using them foolishly will earn the soon-to-be Prince’s ire. He’s built you up; never doubt that he can tear you back down.
+
+</details>
+
+<details>
+
+<summary><strong>The Milwaukee "Null Zone" (pp.231-232)</strong></summary>
+
+<sup>_The “Null Zone” is a mystical dead zone centered on Marquette University and the surrounding area where magic simply ceases to function. This site was once the location of the final battle between the Lupine Usla and, Hrothulf’s Kindred wife, Chiclena and her allies. With his dying breath, Usla called upon the mighty spirits of his people, transforming parts of his very being into a pair of potent talismans, destroying Chiclena. Almost no one knows these talismans are buried under Marquette University, or that they are responsible for creating the “Null Zone.” Kindred, Lupines, and magi study the Zone with great vigor, but few outside the Lupines know its secret._</sup>
+
+**• Legends of Usla:**&#x20;
+
+You know the legend of the battle between Usla and Chiclena and discern something extremely important to the Lupines is buried inside the “Null Zone.” You don’t know exactly where the item is buried, but you are on the hunt. Gain one bonus die to all Investigation and Occult rolls related to the “Null Zone.”
+
+**•• Into the Zone:**&#x20;
+
+You have access to the Milwaukee “Null Zone” and can linger there for brief periods without observation or being assailed by outside forces. Within the zone, all uses of Auspex have their difficulty reduced by one. Uses of Protean do not require Rouse checks, but you must spend one Willpower per scene to prevent transformative powers like Feral Weapons and Shapechange from activating automatically. All Blood Sorcery rolls require seven successes to succeed and its attendant rituals fail automatically. Failure on any of the above uses of Auspex, Protean, or Blood Sorcery delivers levels of Aggravated damage equal to their margin of failure. Total Failure delivers the same amount of damage in addition to leaving a mystical mark on your aura that acts as a powerful beacon to all Lupines in the area.
+
+**••• St. Joan of Arc Chapel:**
+
+You discover that a powerful mage had the medieval St. Joan of Arc Chapel moved and reconstructed directly over the center of the “Null Zone” in the 1960s. While ultimately slain by Lupines, his legacy endures. The chapel is surrounded by extremely powerful wards against Lupines and the presence of the Joan of Arc Stone makes it almost unbearable to Kindred (the structure has the equivalent of True Faith 5). A secret staircase concealed under the stones behind the altar leads to a series of underground tunnels and excavations used by the mage to facilitate his investigation. The chapel is one of the primary reasons Kindred and Lupines have been unable to claim their prize, and it is warded by a variety of sorcerous and mundane protections. Any entrance to the chapel will be opposed by Lupines, magi, or agents of the Society of St. Leopold stationed on the Marquette campus.
+
+**•••• Church of Isis:**&#x20;
+
+Mount Mary College plays host to the Church of Isis, an occult society espousing radical feminist views composed of humans and magick users from the Cult of Isis. They are eager to recover Usla’s talismans and work with Kindred and Lupine alike to achieve their purpose. Formerly affiliated with Dr. Mortius prior to his disappearance, they seek new Kindred allies to further their quest. You forge an alliance with the Church of Isis, allowing you to call upon their aid once per Chronicle. They count as a five dot Ally group that can provide both mundane and sorcerous assistance.
+
+**••••• Usla’s Talismans (choose one):**
+
+* Eye of the Coyote: With Storyteller’s permission, you know where to find the Eye of the Coyote. You have the equivalent of five-dots of Auspex with all related abilities and the difficulty of single Blood Sorcery roll made against you is increased by four while the Eye is on your person. The Storyteller can grant the Eye additional abilities and you are hunted day and night by all Lupines until the Eye is recovered. The Eye is only usable once per story, but the lure attached to it is permanent.
+* Talon of the Eagle: With Storyteller’s permission, you know the location of the Talon of the Eagle. All your physical Attributes are doubled (up to a maximum of five) once per story, and you have the equivalent of five dots of Protean with all related abilities while the Talon is on your person. The Storyteller can grant the Talon additional abilities, and you are hunted day and night by all Lupines until the Talon is recovered. The Talon is only usable once per story, but the lure attached to it is permanent.
+
+</details>
+
+<details>
+
+<summary><strong>Modius (p.233)</strong></summary>
+
+<sup>_Modius has never been content. Not in his mortal days, when he yearned toward greatness even as he traded furs and toiled in the fields. Not in all his waking nights, when the throne of Chicago has eluded him at every turn. It’s certainly not for lack of trying — he’s gone to war for Chicago. He vies to lift Gary from the mire Lodin sank it into. He’s yanked the city back from Juggler and his Anarchs time and again. Modius could be transcendent, if only his fellow Kindred opened their eyes._</sup>
+
+<sup>_Though many vampires dismiss Modius as a pauper Prince, he’s done his damnedest to revive Gary, even as his enemies in Chicago push it deeper into decline. He’s built up alliances in the city he rules and gathered followers who admire him — or who at least lie about it convincingly. He keeps up correspondence with his sire, Toreador Primogen Annabelle, keeping her abreast of his achievements should she spot an opportunity for him in Chicago. His letters go mostly unanswered._</sup>
+
+<sup>_These nights, Modius’s name is most often whispered alongside his long-standing enemy, Juggler. The two revel in their ongoing hostilities, letting their violent conflict add to Gary’s already abominable crime rate._</sup>
+
+**• Followers:**&#x20;
+
+You believe in Modius’s capability, even if most others don’t understand why. You’re in contact with a few other like-minded Kindred. Once per chapter, you can call on one of them to do a small favor for you in Gary.
+
+**•• Windy City Ally:**&#x20;
+
+You were one of the few who backed the idea of naming Modius as Prince of Chicago this last go-round. It earned you sneers and enmity within the city, but word of your support got back to the pauper Prince. As thanks, he sent one of his employees to you and permitted you to make them your two-dot Retainer.
+
+**••• Keys to the Mansion:**
+
+Modius values your strategic mind, especially when it comes to out thinking the Anarchs. He’s provided you with keys to the guest quarters at the governor’s mansion (Haven •••) and access to his files, with intel on Juggler’s plans. Once per story, ask your Storyteller for a piece of information on recent Anarch movements in the city.
+
+**•••• Since 1913:**&#x20;
+
+You were part of Modius’s original attempt at seizing praxis and took part in some of the attacks on Lodin’s loyalists. He’s never forgotten your service and made sure the vampires in Gary heard about your deeds. Gain Status: Gary Camarilla (••••). Modius has also declared that you may feed anywhere in Gary, though the Anarchs are unlikely to abide by that if you wander into their territory.
+
+**••••• Pauper Dynasty:**&#x20;
+
+Whatever Chicago’s Kindred think, Modius is a Prince and has been one for over half a century now. He has insight into what it takes to rule and imparts that wisdom to you in the hopes you’ll seize praxis in some other domain — provided it’s neither Gary nor Chicago. Gain Modius as a five-dot Mawla, and gain Influence (••) in a city of your choosing to reflect the groundwork he’s helped you lay there.
+
+</details>
+
 ## Cults of the Blood Gods
 
 <details>
@@ -906,7 +1201,7 @@ The most horrific and flawed parts of the Kindred are, of course, on the inside.
 
 <details>
 
-<summary><strong>The Promise of 1528</strong> (p.231)</summary>
+<summary><strong>The Promise of 1528 (p.231)</strong></summary>
 
 <sup>_After the Giovanni engineered the fall of the Cappadocians (or so they thought), the up-and-coming Camarilla expressed concerns about the so-called “Devil Clan.” The purge of the Cappadocians entered full force soon after the Anarch Revolt, and the Kindred of the Camarilla were worried that this was more of the same. With the upstart Anarchs forming into what would become the Sabbat, the Camarilla couldn’t afford a war on yet another front. So, Augustus Giovanni and the Inner Circle of the Camarilla met in Venice in 1528, and signed an agreement._</sup>
 
@@ -931,161 +1226,6 @@ You read the Promise once, but for some reason you can never recall the text in 
 **••••• Signatory:**&#x20;
 
 You are directly related to one of the signatories of the Promise (or you are a signatory yourself). Once per chronicle, you can leverage your knowledge of the Promise to force a Camarilla Prince or a Hecata anziani to permanently change a ruling or local law in your favor, using your knowledge of the Promise to give you political clout. However, you must decide why you are unable to ever speak of the details of the Promise — perhaps it’s a thaumaturgical compulsion, the spirit of a loved one threatened with eternal torment, or a lot of Ventrue Dominate.
-
-</details>
-
-## Let the Streets Run Red
-
-<details>
-
-<summary><strong>The Anubi</strong> (p.224) *</summary>
-
-The Lupine attack on Chicago is a stark reminder of how vulnerable Kindred are to werewolf assault. The Princes of the Camarilla looked to Milwaukee, and its guardians the Anubi, for a solution. Led by Milwaukee’s Prince, Mark Decker, the Anubi are the Camarilla’s premier force of Lupine hunters. They are well organized, well equipped, and determined to repulse every Lupine incursion into the city.&#x20;
-
-Other cities began emulating Milwaukee’s model with mixed results. Many coteries failed due to inexperience or left their posts when Clan Gangrel abandoned the Camarilla. Others overthrew their Princes or became the kingmakers of their domain. A few even sided with the Anarchs, defending the Baronies of the Free States and newly acquired Anarch cities.&#x20;
-
-More successful Princes recruited Gangrel with greater loyalty to their city than to their clan, or built mixed-membership coteries by offering money, special privileges, hunting rights, or boons. Even the legendary Anubi had to offer grants of hunting grounds to young Kindred after many of their members abandoned Milwau-ee in the face of Sabbat invasion.
-
-These newly formed coteries are as deadly as the Lupines they hunt. Some, like the Sun Devils of Phoenix or the all-Ventrue “Hunt Club” of Quebec, maintain the Anubi’s militant structure and battle Lupines nightly. Others, like “The Pack” of Vancouver or the mixed Lasombra/ Toreador “Order of Saint Sabastian” in Rio de Janeiro, wield diplomacy as effectively as silver to forge tentative (although not lasting) treaties with their local Lupines.
-
-**• Argent Fury:** Your connection to the Anubi or a similar organization provides access to hidden caches of silver weapons and/or those who manufacture them. Once per story, you can equip yourself with a silver hand-held weapon or ammunition of your choice.\
-&#xNAN;**•• What Big Eyes You Have:** A Lupine must be located before it can be slain. Your organization has seeded your city with a web of informants, contacts, and surveillance devices to facilitate the hunt. Once per story, you gain two automatic successes on an Investigation roll related to locating Lupines within your domain.\
-&#xNAN;**••• Brick House:** House: The hunter often becomes the hunted when Lupines are involved. You spend substantial resources outfitting your haven for just such occasions. You gain four points to spend on Haven and/or Retainers relating to defense against Lupines.\
-&#xNAN;**•••• In the City, In the Woods:** _**War Eternal:**_ Your organization takes the fight to the Lupines. Your advanced knowledge of Lupine hunting grants you two bonus damage from all Firearms and Athletics rolls when fighting Lupines.\
-&#x20;                                                       _**Strange Bedfellows:**_ Your organization seeks peace with Lupines, forging strained but (mostly) effective truces with the werewolves in your area. Gain two bonus dice to all Persuasion rolls when dealing with Lupines and a two-dot werewolf Ally reflecting your contact in the local Lupine community. Your Ally is unlikely to risk their life for you but will at least listen to your side of the story before the howling starts.\
-&#x20;                                                      _**Most Dangerous Game**_: Your nightly hunt grants you access to a quantity of Lupine blood that may reflect an unhealthy addiction to werewolf blood. Once per story, you can slake two Hunger via a sip of werewolf blood with all the attendant benefits and drawbacks (Vampire: The Masquerade, p. 376).\
-&#xNAN;**••••• Summon the Pack:** You are a formal member of the Anubi or a similar Lupine-hunting organization and can call on these Kindred for aid at a moment’s notice when Lupines are near. Situations not involving Lupines may require favor trading and/or boons, depending on your relationships with the individuals within the organization. Your membership grants you a temporary Mawla (•••) and four dots of Allies (Anubi Bikers), representing mortal bikers who follow the Anubi, who can be called on once per story when Lupines are involved.
-
-</details>
-
-<details>
-
-<summary><strong>Eletria</strong> (p.225) *</summary>
-
-Eletria occupied an unassuming position among Chicago’s Kindred for decades prior to her recent disappearance. Few understood the immense power hidden behind the quiet strength of the enigmatic vampire that dotingly watched over “Portia” all those nights. Fewer still realize that Eletria was once Prince of Veracruz and one of the most talented artists in history. Born of Sparta, reborn of Helena, Eletria travelled the world, drowning herself in life’s myriad pleasures and always returned panting for more. Painting, sculpture, and music came effortlessly to her. The Kindred of Veracruz bent their knees to her will and were better for her presence. Her very passions conquered the hearts of all who met her, ensnaring Lodin’s sire, Datura, then Lodin himself, loving and losing both in the process. Her presence in Chicago had the potential to change everything, but in the end, she changed you.&#x20;
-
-You knew Eletria. It might have been Chicago, Veracruz, or someplace more distant still, but you knew her. Lover, friend, subject, or slave: Her presence haunts you to this day.
-
-**• Muse:** Eletria saw great potential in you and fanned the embers of your talent. All Craft (Painting or Sculpture) or Performance (Music) tests have their difficulty reduced by one.\
-&#xNAN;**•• Portrait of a Woman:** Woman: Eletria entrusted you with a rare and precious piece of art of deep importance to her. It could be her cherished portrait of Datura on the cliffs of Veracruz or another painting, sculpture, or piece of music created by her hand. Granting you this piece is a sign of her deepest trust and contains an almost literal part of her soul. Once per session, you can spend an hour meditating upon this piece and make a Resolve + Craft (Painting or Sculpture) or Performance (Music) test at Difficulty 4 before resting for the day. If successful, you awaken having recovered all Superficial Willpower damage.\
-&#xNAN;**••• This is Sparta:** You served under Eletria in Veracruz during her war against the Sabbat or fought by her side during the War of Chicago. You gain a bonus die to all Investigation, Academics, and Occult rolls related to defending your city against hostile sect incursions.\
-&#xNAN;**•••• Ageless Beauty:** You shared blood with Eletria and inherited a measure of her ability to see the past. You can see a person as they were at any point in their life (or unlife). If artistically inclined, you can render Kindred as they appeared centuries ago with shocking accuracy. Make a Wits + Resolve or Auspex test (difficulty assigned by Storyteller depending on how far back you attempt to see). Success means you have captured a photographic image of the subject in your mind with perfect accuracy and gain two bonus dice to your relevant Craft test to replicate it. This ability can be used once per session.\
-&#xNAN;**••••• Conspicuous Consumption:** Your search for Eletria leads to Helena. You become part of the circle of vampires used to slake her thirst and keep the Beckoning at bay. This arrangement is not without its benefits, as you gain five dots to distribute between Mawla, Resources, Allies, Herd, and Contacts. You also have access to Helena once per story, although she has compelled you not to reveal her presence. If lucky, your perilous association may reveal Eletria’s fate.
-
-</details>
-
-<details>
-
-<summary><strong>Kindred Social Media Influencer</strong> (p.226)</summary>
-
-**• Friends Everywhere:** Allowed\
-&#xNAN;**•• Niche Following:** Allowed\
-&#xNAN;**••• Internet Famous:** Allowed\
-&#xNAN;**•••• Collabs and Sponsorships:** Locked\
-&#xNAN;**••••• Superstar:** Locked
-
-</details>
-
-<details>
-
-<summary><strong>Juggler</strong> (p.227) *</summary>
-
-Juggler has been a pain in the Chicago Camarilla’s ass and a thorn in Modius’s side for the better part of a century. He ruled the Anarchs before Maldavis came along, and he directed much of their activity from Gary. During some of the tensest periods in the War of Chica- go, Helena and the powerful Brujah Tyler controlled his actions. Juggler may have a sense of this, especially since Tyler’s disappeared from Chicago, but it’s not something he’d ever let slip to his followers.&#x20;
-
-In recent nights, he’s orchestrated the Anarchs’ takeover of Gary, relishing his rival Modius’s rage as the pauper Prince’s power ebbed away. Rumor had it he’d triumphantly captured Modius — whose own childe turned Anarch and gave him up — and may at last have destroyed his enemy. This move made Juggler the Baron of Gary at last, but a month into his reign, he disappeared.&#x20;
-
-Unlike his disorganized Camarilla counterpart, Juggler understands how to run a revolution. His childe, Evelyn Stephens, was privy to his plans. He kept some secrets, but he ensured that the schemes he’d set in motion could carry on in his absence. As much of a blow as it was to the Anarchs to lose their leader, Evelyn has stepped up and rallied them right back to the cause.
-
-**• For the Cause:** You’ve run with the Anarchs in Chicago under Juggler’s direction. Gain one reroll per session on Brawl, Melee, and Streetwise rolls when going up against members of the Camarilla.\
-&#xNAN;**•• Guns to a Knife Fight:** When a Prince starts losing, he blames the Anarchs first and tries to wipe them out. Juggler learned that les- son with Lodin, and in more recent nights, when Modius ratted out his enemies to Sullivan Dane. Once per story, you have access to a weapons cache that Juggler has secreted away in Gary and can buy up to Resources (•••) worth of gear.\
-&#xNAN;**••• Rabble Rouser:** You have a knack for dirty fighting. Juggler put you in charge of a group of Anarchs who Get Shit Done around Gary. Once per story, you can call upon a small group (3-5 people) to sow chaos in Gary’s streets or back you up in a brawl. This counts as a temporary Allies Background rated at an effectiveness of two dots, with the benefit of their being Kindred and carrying Disciplines. They cease following you for the rest of this story.\
-&#xNAN;**•••• Coordination is Key:** Juggler set you up as a key part of Anarch communications. Other Kindred slip you information about their activities, which you pass along to those who need to know. This grants you significant cachet in the Movement, manifesting as Status: Anarchs (•••) and Influence: Gary (•••). Once per story, ask your Storyteller for a piece of intel that’s recently come across your desk.\
-&#xNAN;**••••• Rust Never Sleeps:** Juggler trusted you with his plans and valued your input in his strikes against the Camarilla and Modius. He is your four-dot Mawla (in his absence, Evelyn Stephens fills this role). Once per story, work with your Storyteller to name a member of the Movement in another city whose skills or access are useful to you. A friend of Juggler’s is a friend of theirs, and they’re eager to help the Anarchs rise. They act as a three-dot Contact for you until the end of that story.
-
-</details>
-
-<details>
-
-<summary><strong>Lost Secrets of the Milwaukee Chantry</strong> (p.228) *</summary>
-
-The Tremere of Milwaukee were once one of the most exclusive coteries in the United States. Their sole purpose was to unravel the secrets of the strange mystical “Null Zone” near Marquette University, where magic does not function (see p. 231). Then Carna abandoned Milwaukee on the eve of a Sabbat invasion, and her fellow chantry members, Victor and Dr. Mortius, disappeared soon after. The Tremere have not reestablished their presence in Milwaukee, leaving their Chantry’s secrets vulnerable to outsiders.
-
-Kindred from Chicago and beyond flock to Milwaukee to uncover its occult secrets before the Tremere return. Karl Schrekt is assembling an elite coterie to reestablish the Milwaukee Chantry before Carna and her allies can do the same. Interested parties race against time to recover whatever they can before their window closes forever.
-
-**• Carna’s Primogen Files:** While nominally apolitical, Carna managed to collect a significant amount of information about her fellow Kindred during her tenure as Primogen. You have access to Carna’s Primogen Files and gain a bonus die on all Politics rolls involving the Kindred of Milwaukee.\
-&#xNAN;**•• Abandoned Real Estate:** Carna and Victor maintained numerous havens throughout the wealthier areas of Milwaukee. Your search uncovers one such haven, providing you with access to a two-dot Haven in Milwaukee, equipped with a two-dot Occult Library (Carna) or two-dot Hidden Armory (Victor), and potential clues to the location of additional havens or Tremere secrets (Storytellers discretion). Tremere agents are certain to follow, so take up permanent residence with extreme caution.\
-&#xNAN;**••• Victor’s Grimoire:** Victor was the deadly enforcer of the Milwaukee Tremere and had access to a potent array of unique rituals. You have located Victor’s Grimoire and cache of occult rituals. Subject to Storyteller’s discretion, Blood Sorcerers may immediately learn one of the rituals located in The Chicago Folios, p. 174 and have a roleplaying justification to learn additional rituals from The Chicago Folios through the standard expenditure of time and experience. Non-Tremere are hunted mercilessly for mere possession of this knowledge. Learning these rituals still requires Experience expenditure.\
-&#xNAN;**•••• Objects of Desire:** You have uncovered the subject of Tremere study in Milwaukee, a strange “Null Zone” where magic does not function, centered on Marquette University. Tremere records indicate that objects of incredible power are located somewhere in the zone and may be possible to recover, but opposition from Clan Tremere, Lupines, and/or Magi, is extremely likely. You gain a precarious Haven Background rated at four dots, though with it comes an Adversary at two dots and an Enemy at two dots.\
-&#xNAN;**••••• Dr. Mortius’s Haven:** You have located Dr. Mortius’s haven, a “haunted” house near Marquette University. It is a three-dot haven with an awe-inspiring, yet utterly disorganized, occult library. The library grants you a three-dot bonus to all Academics and Occult rolls and is filled with a wide range of other secrets. At the Storyteller’s discretion, these secrets might include access to Blood Sorcery, innocuous magic items, information about Milwaukee’s magical “Null-Zone,” theories on ancient Kindred in Lake Michigan, and even a copy of “The Book of the Grave-War” — although missing half a page or so. At the Storyteller’s discretion, Mortius’s haven may contain a variety of mundane and mystical defenses to penetrate prior to entry.
-
-</details>
-
-<details>
-
-<summary><strong>Mark Decker</strong> (p.229) *</summary>
-
-Mark Decker prefers hunting Lupines to ruling Milwaukee. He uses the position to protect the city, placing his Anubi in top-ranking jobs and strictly enforcing the Masquerade. In recent nights, he’s grown even more suspicious of the Kindred in his territory — who’s plotting against him? Who’s undermining his agenda? Breaking his strict new laws results in swift punishment, up to and including the final death.&#x20;
-
-He trusts very few people outside of his inner circle, and even those he watches warily. After all, he was unprepared both for Carna’s exodus from Milwaukee and his clan’s defection from the Camarilla. Who else, he wonders, is ready to turn on him? On occasion, he reaches out to Inyanga in Chicago to seek an outside perspective on local matters. These nights, those communications are fewer and longer between. Decker keeps his city on constant high alert against werewolves and Anarchs, and respects those Kindred who display the same vigilance he does. Perhaps some night, if he can push the Lupines back far enough and strike a massive blow to the Anarchs, he’d consider relinquishing his throne. But that’s a long, long way off, and there’s much work to be done before then.
-
-**• Good Graces:** Decker has put a small amount of trust in you, assigning you to patrol duty around the city and allowing you to act with his authority in minor breaches of his laws. Still, he requires you to enter a one-step Blood Bond in case that feeling is misplaced.\
-&#xNAN;**•• Tyrant’s Recognition:** Decker is aware of the body count you’ve racked up protecting Milwaukee. He grants you feeding rights to a small rack, providing you with a two-dot Herd and a one-dot Haven.\
-&#xNAN;**••• One Strike:** Your penchant for not only upholding but enforcing the Prince’s laws has caused Decker to loosen his reins on you. It’s still unwise to break them, but once per story he allows you to plead your case if you’re caught for a minor infraction. Rather than the final death, he’ll impose sanctions.\
-&#xNAN;**•••• The Prince’s Trust:** You’ve fought at Decker’s side against the Lupines and rooted out Anarch incursions. You’ve learned how to talk to him without setting him off, or at least how to push those buttons without turning his suspicions on yourself. Decker listens to your counsel, and his trust in you gives you a little leeway in the city. Gain Mark Decker as a five-dot Mawla once per story. Additionally, once per story, you may dine with him at the Hyatt or join him in his private suite at Brewers Stadium for an audience.\
-&#xNAN;**••••• Childe of Mark Decker (Gangrel Only):** Decker granted you the gift of his Embrace and expects you to treat such an honor accordingly. He’s trained you as one of his Anubi and placed you in a position of power in the city. Work with your Storyteller to determine where your authority lies. Decker provides you with a three-dot Haven, two-dot Status, and you gain one free Skill Specialty in Athletics, Brawl, or Melee. Many Kindred despise Decker, and this antipathy extends to his childer. You earn three dots in Adversaries, to be made into one vampire or split across two or three.
-
-</details>
-
-<details>
-
-<summary><strong>Maxwell</strong> (p.230) *</summary>
-
-Maxwell’s been off the chess board a long time now. The one-time Prince of Chicago, a Brujah, might have ruled again after Lodin’s death, were it not for Kevin Jackson’s rise to power. He disappeared after that, though wise Kindred know better than to think he’s suffered his final death.
-
-In fact, Maxwell still considers himself Chicago’s Prince, and suggests Kevin Jackson’s merely keeping the throne warm. He’s gotten a better handle on the modern world these last few years and dedicated time and resources to quietly shoring up his support. He still holds sway with Chicago PD’s Internal Affairs. In recent nights, he’s focused on building up the Vanguard, a group of Camarilla based in Gary, Indiana, who are loyal to him and his play for praxis. Gary is little more than a staging ground to him, a place from which to launch his strikes against Chicago before he reclaims his throne.&#x20;
-
-Maxwell’s opponents (and many of his supporters) recognize his penchant for violence. Signing on with him is a dangerous and probably bloody endeavor, but he’ll handsomely reward those who help him take Chicago.
-
-**• Tactician:** You’ve studied Maxwell’s strategies as Prince of Chicago and sussed out some of the secrets of his rule. Add two bonus dice to an Academics, Politics, or Subterfuge roll relating to political planning or military maneuvers.\
-&#xNAN;**•• Travelling Companion:** While Kindred considered him dead after Devil’s Night, Maxwell roamed the world building up allies in other countries. One thing he learned in these hyper-surveilled modern nights is how to evade detection while travelling. You traveled with him during this time, and he’s willing to share his contacts. Once perstory, you can call on Maxwell’s allies for reliable and secure transportation between cities.\
-&#xNAN;**••• Vanguard:** You’re a member of Gary’s Vanguard, trusted by Eric Sharpe and Maxwell alike. Gain Status: Gary (•••). Sharpe has granted you territory in the city, where you have a two-dot Haven and feeding rights. If not participating in Rusted Jungle (see p. 125), this lore gives you standing as a long-time, respected Kindred resident of Gary.\
-&#xNAN;**•••• The Art of Disappearing:** If your enemies think you’re dead, they stop worrying about how you’re plotting against them. Maxwell has taught you tricks for staying hidden and working from the shadows. Once per story, he’ll help you create a two-dot Mask under which you can anonymously further a goal. Alternately, he’ll help you convincingly fake the death of one of your current Masks and transfer its resources to a new identity without leaving a paper trail.\
-&#xNAN;**••••• The Once and Future Prince:** You’re one of the highly placed Kindred Maxwell is counting on in Chicago. He’s guided and financed your rise among your clan’s ranks, helped rid you of enemies, and provided you with information about the machinations of Prince Jackson and the Primogen. Gain Resources (•••••); two dots must be spent securing Maxwell’s plans, but the remaining three are yours to spend as you like. You have a list of those Kindred in Chicago who owe Maxwell boons. Once per story, you can call in a minor boon from someone on the list. Once per chronicle, you can call in a major boon. Though you may use these for any purpose that suits you, Maxwell expects you to send him an account of how you’ve spent his favors. Using them foolishly will earn the soon-to-be Prince’s ire. He’s built you up; never doubt that he can tear you back down.
-
-</details>
-
-<details>
-
-<summary><strong>The Milwaukee "Null Zone"</strong> (pp.231-232) *</summary>
-
-The “Null Zone” is a mystical dead zone centered on Marquette University and the surrounding area where magic simply ceases to function. This site was once the location of the final battle between the Lupine Usla and, Hrothulf’s Kindred wife, Chiclena and her allies. With his dying breath, Usla called upon the mighty spirits of his people, transforming parts of his very being into a pair of potent talismans, destroying Chiclena. Almost no one knows these talismans are buried under Marquette University, or that they are responsible for creating the “Null Zone.” Kindred, Lupines, and magi study the Zone with great vigor, but few outside the Lupines know its secret.
-
-**• Legends of Usla:** You know the legend of the battle between Usla and Chiclena and discern something extremely important to the Lupines is buried inside the “Null Zone.” You don’t know exactly where the item is buried, but you are on the hunt. Gain one bonus die to all Investigation and Occult rolls related to the “Null Zone.”\
-&#xNAN;**•• Into the Zone:** You have access to the Milwaukee “Null Zone” and can linger there for brief periods without observation or being assailed by outside forces. Within the zone, all uses of Auspex have their difficulty reduced by one. Uses of Protean do not require Rouse checks, but you must spend one Willpower per scene to prevent transformative powers like Feral Weapons and Shapechange from activating automatically. All Blood Sorcery rolls require seven successes to succeed and its attendant rituals fail automatically. Failure on any of the above uses of Auspex, Protean, or Blood Sorcery delivers levels of Aggravated damage equal to their margin of failure. Total Failure delivers the same amount of damage in addition to leaving a mystical mark on your aura that acts as a powerful beacon to all Lupines in the area.\
-&#xNAN;**••• St. Joan of Arc Chapel:** You discover that a powerful mage had the medieval St. Joan of Arc Chapel moved and reconstructed directly over the center of the “Null Zone” in the 1960s. While ultimately slain by Lupines, his legacy endures. The chapel is surrounded by extremely powerful wards against Lupines and the presence of the Joan of Arc Stone makes it almost unbearable to Kindred (the structure has the equivalent of True Faith 5). A secret staircase concealed under the stones behind the altar leads to a series of underground tunnels and excavations used by the mage to facilitate his investigation. The chapel is one of the primary reasons Kindred and Lupines have been unable to claim their prize, and it is warded by a variety of sorcerous and mundane protections. Any entrance to the chapel will be opposed by Lupines, magi, or agents of the Society of St. Leopold stationed on the Marquette campus.\
-&#xNAN;**•••• Church of Isis:** Mount Mary College plays host to the Church of Isis, an occult society espousing radical feminist views composed of humans and magick users from the Cult of Isis. They are eager to recover Usla’s talismans and work with Kindred and Lupine alike to achieve their purpose. Formerly affiliated with Dr. Mortius prior to his disappearance, they seek new Kindred allies to further their quest. You forge an alliance with the Church of Isis, allowing you to call upon their aid once per Chronicle. They count as a five dot Ally group that can provide both mundane and sorcerous assistance.\
-&#xNAN;**••••• Usla’s Talismans:** _**Eye of the Coyote:**_ With Storyteller’s permission, you know where to find the Eye of the Coyote. You have the equivalent of five-dots of Auspex with all related abilities and the difficulty of single Blood Sorcery roll made against you is increased by four while the Eye is on your person. The Storyteller can grant the Eye additional abilities and you are hunted day and night by all Lupines until the Eye is recovered. The Eye is only usable once per story, but the lure attached to it is permanent.\
-&#x20;                                           _**Talon of the Eagle:**_ With Storyteller’s permission, you know the location of the Talon of the Eagle. All your physical Attributes are doubled (up to a maximum of five) once per story, and you have the equivalent of five dots of Protean with all related abilities while the Talon is on your person. The Storyteller can grant the Talon additional abilities, and you are hunted day and night by all Lupines until the Talon is recovered. The Talon is only usable once per story, but the lure attached to it is permanent.
-
-</details>
-
-<details>
-
-<summary><strong>Modius</strong> (p.233) *</summary>
-
-Modius has never been content. Not in his mortal days, when he yearned toward greatness even as he traded furs and toiled in the fields. Not in all his waking nights, when the throne of Chicago has eluded him at every turn. It’s certainly not for lack of trying — he’s gone to war for Chicago. He vies to lift Gary from the mire Lodin sank it into. He’s yanked the city back from Juggler and his Anarchs time and again.&#x20;
-
-Modius could be transcendent, if only his fellow Kindred opened their eyes.&#x20;
-
-Though many vampires dismiss Modius as a pauper Prince, he’s done his damnedest to revive Gary, even as his enemies in Chicago push it deeper into decline. He’s built up alliances in the city he rules and gathered followers who admire him — or who at least lie about it convincingly. He keeps up correspondence with his sire, Toreador Primogen Annabelle, keeping her abreast of his achievements should she spot an opportunity for him in Chicago. His letters go mostly unanswered.&#x20;
-
-These nights, Modius’s name is most often whispered alongside his long-standing enemy, Juggler. The two revel in their ongoing hostilities, letting their violent conflict add to Gary’s already abominable crime rate.
-
-**• Followers:** You believe in Modius’s capability, even if most others don’t understand why. You’re in contact with a few other like-minded Kindred. Once per chapter, you can call on one of them to do a small favor for you in Gary.\
-&#xNAN;**•• Windy City Ally:** You were one of the few who backed the idea of naming Modius as Prince of Chicago this last go-round. It earned you sneers and enmity within the city, but word of your support got back to the pauper Prince. As thanks, he sent one of his employees to you and permitted you to make them your two-dot Retainer.\
-&#xNAN;**••• Keys to the Mansion:** Modius values your strategic mind, especially when it comes to out thinking the Anarchs. He’s provided you with keys to the guest quarters at the governor’s mansion (Haven •••) and access to his files, with intel on Juggler’s plans. Once per story, ask your Storyteller for a piece of information on recent Anarch movements in the city.\
-&#xNAN;**•••• Since 1913:** You were part of Modius’s original attempt at seizing praxis and took part in some of the attacks on Lodin’s loyalists. He’s never forgotten your service and made sure the vampires in Gary heard about your deeds. Gain Status: Gary Camarilla (••••). Modius has also declared that you may feed anywhere in Gary, though the Anarchs are unlikely to abide by that if you wander into their territory.\
-&#xNAN;**••••• Pauper Dynasty:** Whatever Chicago’s Kindred think, Modius is a Prince and has been one for over half a century now. He has insight into what it takes to rule and imparts that wisdom to you in the hopes you’ll seize praxis in some other domain — provided it’s neither Gary nor Chicago. Gain Modius as a five-dot Mawla, and gain Influence (••) in a city of your choosing to reflect the groundwork he’s helped you lay there.
 
 </details>
 
