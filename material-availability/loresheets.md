@@ -828,11 +828,11 @@ Damien is canny and self-reliant. He carved out a living for himself as a teenag
 
 <details>
 
-<summary><strong>The Wolf Pack</strong> (p.169) *</summary>
+<summary><strong>The Wolf Pack (p.169)</strong></summary>
 
-Wind whips through their hair as the Wolf Pack stalks the lonely roads and cities of southern Illinois. They strike quickly, their presence marked by the roar of engines and wild laughter, leaving only vanishing pavement and broken Anarchs in their wake. The Wolf Pack has served the Camarilla for decades, rebels for a cause that reject their clan’s abandonment of the Ivory Tower to bend rules and crack heads in service of the Traditions.&#x20;
+<sup>_Wind whips through their hair as the Wolf Pack stalks the lonely roads and cities of southern Illinois. They strike quickly, their presence marked by the roar of engines and wild laughter, leaving only vanishing pavement and broken Anarchs in their wake. The Wolf Pack has served the Camarilla for decades, rebels for a cause that reject their clan’s abandonment of the Ivory Tower to bend rules and crack heads in service of the Traditions._</sup>&#x20;
 
-The Wolf Pack roams far and wide in their role as roving Archons, but are short a few members after the brutal War of Chicago against the Lupines. Maybe you met them on the open highway and rode with them a spell? Maybe they saw something in you and decided to make you a prospect? Whatever your interaction, it probably made you a little bit stronger, and a whole lot meaner.
+<sup>_The Wolf Pack roams far and wide in their role as roving Archons, but are short a few members after the brutal War of Chicago against the Lupines. Maybe you met them on the open highway and rode with them a spell? Maybe they saw something in you and decided to make you a prospect? Whatever your interaction, it probably made you a little bit stronger, and a whole lot meaner._</sup>
 
 **• Prospect:** Surviving Tyrus’ “initiation” into the Wolf Pack requires a certain degree of resilience. Reduce the difficulty of all Survival rolls related to travel and outdoorsmanship by one.\
 &#xNAN;**•• Member:** Rule one of joining the Wolf Pack is that you have to be able to ride. Your association with the Pack grants you a two-die bonus to all Drive tests while riding a motorcycle.\
