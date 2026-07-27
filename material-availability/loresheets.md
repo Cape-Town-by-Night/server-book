@@ -692,137 +692,273 @@ This vast network of secrets secures Wauneka’s continued survival in Chicago, 
 
 <details>
 
-<summary><strong>Archons</strong> (p.158)</summary>
+<summary><strong>Archons (p.158)</strong></summary>
 
-**• Undercover:** Allowed\
-&#xNAN;**•• Watcher in the Dark:** Allowed\
-&#xNAN;**••• Red Phone:** Banned\
-&#xNAN;**•••• Color of Authority:** Banned\
-&#xNAN;**••••• Justicar’s Blood:** Banned
+<sup>_Archons are the bogeymen of the Camarilla, the unliving extension of their Justicar’s will. They are the watchful eye at the Anarch gathering, the fly on the Prince’s wall, and blade in the dark to all who violate the Traditions._</sup>
 
-</details>
+<sup>_Archons are the Camarilla’s elite guardians, inquisitors, and spies. They relentlessly prosecute all violations of the Traditions uncovered during their nightly vigil and have the authority to destroy all Kindred who stand in their way. So fearsome is their reputation that entire domains tremble at word of their passage. And tremble they should, for even the greatest Prince bends the knee in their presence._</sup>
 
-<details>
+<sup>_Life is hard, if not lethal, for most Archons, but the authority they wield and rewards they reap can be great. A vampire with this Loresheet is not automatically an Archon, but through narrative, is more likely to be recruited as one._</sup>
 
-<summary><strong>The Convention of Chicago</strong> (p.159) *</summary>
+• Undercover:&#x20;
 
-The Convention of Chicago was the first large-scale gathering of the Camarilla in almost a century. Born of the fires of the Second Inquisition, the Convention gathered representatives of Princes and Primogen the world over to discuss the Camarilla’s path forward in its time of crisis. Publically, the Convention was a resounding success, a show of unity, and sterling example of everything the Camarilla has to offer. Privately, the Convention succeeded by the narrowest of margins. Intrigue between the delegates and interference by Anarchs nearly derailed the entire event, but swift action by the Archons and Anarch disunity saved the convention from an ignominious end.&#x20;
+You perform your work undercover, assuming a false identity to get close to your prey. You maintain a false identity as a minor member of the faction you are investigating and gain one bonus die to all rolls related to maintaining your cover. Additional work is needed to make your cover foolproof against intense scrutiny, but Undercover will buy you the time necessary to get your foot in the door without being killed on sight. This advantage may be purchased multiple times to represent a range of false identities.
 
-You attended the convention as a Chicago native or were a representative from afar. Camarilla, Anarch, or independent, you took this rare opportunity to gather information, make new allies, and further your schemes. Many profited from the convention, and you are not the least of them.
+•• Watcher in the Dark:&#x20;
 
-**• Rabble Rouser:** Prince Jackson and his allies were extremely efficient at thwarting Anarch plots to disrupt the convention, except in your case. You managed to disrupt one of the convention’s important after parties, embarrassing the host, humiliating their security detail, and damaging the status of multiple Kindred. Success breeds success, and once per story, you can assemble a small group of fledgling Anarchs to your cause. They count as a three-dot Ally group that will perform one dangerous action for you once per story. They respect your rep, but will not sell their lives needlessly.\
-&#xNAN;**•• Convention Attendee:** You attended the convention and participated in its formal sessions, working groups, and more importantly, after parties. You navigated this web of intrigue successfully and gain two-dots to distribute between Allies and Contacts in addition to being able to ask the Storyteller once per story for a piece of information related to the convention. This information can be part of the public record or a juicy behind the scenes detail (Storyteller’s discretion).\
-&#xNAN;**••• Troubleshooter:** Conventions have a way of bringing out the rabble, and Chicago was no exception. You are an agent of Prince Jackson, the Archons, or some other group whose best interests were served by the convention’s success. You gain two-dots of Status among the Kindred of Chicago and a “get out of jail free” card from the Prince. Once per chronicle, you can use your service at the convention to have the authorities of your domain turn a blind eye toward a minor violation of the Traditions out of respect for services rendered.\
-&#xNAN;**•••• Formal Delegate:** You were one of the formal delegates to the convention and successfully prosecuted the objectives of your patron Prince or Primogen. Your wild success grants you four-dots to distribute among Allies, Contacts, Retainers, and Resources related to the convention. You also have a standing invitation to Elysium events in Chicago or your home domain.\
-&#xNAN;**••••• Mover and Shaker:** You played an active role in the Convention of Chicago’s success. Your rhetoric purchased many a vote during the formal sessions, and your whispers purchased many more during the after parties. These votes are a byproduct of your love affair with uncovering your fellow delegate’s secrets. You know who sleeps with who, which closets hide skeletons, and why the trunk of that BMW sounds like its moaning. You use this information and the power it provides to enlist the (grudging) aid of your betters. Once per story, you can collect a Major Boon from a convention attendee in your debt. Work with the Storyteller to determine the identity of the Kindred in question and nature of their aid.
+Like many Archons, you are just as formidable a scholar and investigator as you are a warrior. You have access to a vast repository of Camarilla contacts, records, and informants when prosecuting your duties. Once per game, you gain two automatic successes on any Investigation or Academics test concerning the subject of your investigation.
 
-</details>
+••• Red Phone:&#x20;
 
-<details>
+You have a reliable way of contacting your patron Justicar. This can be via sorcerous means, trusted messenger, or almost any covert method that matches your Justicar’s particular preference. Their response to your message varies depending on their current workload and can range from silence, to providing valuable information, exerting political influence, or even deployment of further Archons. The precise game effects of Red Phone are up to the Storyteller and overuse or abuse of this ability may cause your Justicar to reconsider their choice to make you an Archon.
 
-<summary><strong>Goblin Roads</strong> (p.161) *</summary>
+•••• Color of Authority:&#x20;
 
-Travelling between Chicago and Milwaukee is perilous in the extreme. Lupines infest the roads and towns that connect the great cities and far stranger things inhabit the eerie wetlands, forests, and quiet spots between. The safest way to avoid these perils is to navigate the “Weird,” a collection of lonely roads, switchbacks, and roadside alters that tortuously thread their way between “oasis” of spiritually unnerving ground repulsive to Lupines. Dubbed “Goblin Roads” by local Kindred, Prince Decker of Milwaukee and Elder Inyanga of Chicago organized a group of intrepid Gangrel known as the “Psychopomps” to ferry Kindred between their cities.&#x20;
+Your Status as a duly appointed Archon of the Camarilla gives you sweeping powers, including the right of destruction. You may sit in, and pronounce formal judgement over, any Camarilla Kindred without retaliation from your fellow sect members. You hold the equivalent of four dots of Status in most Camarilla domains, but stand the risk of earning Adversaries if you judge other Kindred arbitrarily. Note that Archons who abuse their authority often fall victim to unfortunate “accidents.”
 
-Unusual on the best of nights, the Psychopomps know the secrets of the Goblin Roads and have a unique sense of the Weird that surrounds and infuses them. They perceive the Weird’s presence constantly, always feeling its eyes in the darkness, never deviating from their well-marked paths. Passage along the Goblin Roads is a lonely and terrifying experience as the Psychopomp leapfrogs from oasis to oasis, offering sacrifices of blood, alcohol, or prayer to forces un- known. Many Psychopomps go mad, wandering off the road and vanishing forever. Others simply disappear. But none have abandoned their charges mid journey, always dropping their passengers off at their destination before vanishing back into the Weird to begin their journey anew.
+••••• Justicar’s Blood:&#x20;
 
-Kindred seeking passage between the two great cities have only to call upon Prince Decker or his newly-minted counterpart Rosa Hernandez. Survival is never guaranteed, but few things truly are.
-
-**• Night Rider:** You are a frequent passenger on the Goblin Roads and have become accustomed to their nature. Your knowledge grants you an additional two dice to all Survival tests related to surviving the Goblin Roads if you become isolated in the Weird.\
-&#xNAN;**•• Summon the Ferryman:** You have arranged passage on the Goblin Roads with Prince Decker, Rosa Hernandez, or one of their Psychopomps. The price of this arrangement can take the form of cash, a minor boon, or something else entirely (Storyteller’s discretion). Once per story, you can enlist a Psychopomp to ferry yourself and your coterie between Chicago and Milwaukee.\
-&#xNAN;**••• Psychopomp:** You are a Psychopomp and travel the Goblin Roads at will. This journey requires 24 hours preparation to attune yourself to the proper rites and sacrifices necessary for safe passage and you gain two-dots of Status reflecting your occupation.\
-&#xNAN;**•••• Weird Ally:** You led an expedition into the Weird or were separated from your Psychopomp for a protracted period of time. During that time, you encountered and formed a pact or alliance with a supernatural denizen of the Weird. This creature is unusual at the best of times, but will come when called. You gain a four-dot Ally that is a werewolf, mage, wraith, changeling, or something stranger still (see Vampire: The Masquerade p. 376 and p. 377 or the Storyteller creates the monster). Once per game, your Ally will come to your aid within 10 hours of your summons.\
-&#xNAN;**••••• One with the Weird:** You spent many nights looking into the Weird, and one evening, it looked back. You have unraveled one of the deeper mysteries of the Weird. It might be the hidden nature of the Goblin Roads oasis, the true name of a powerful spirit, a potent ritual, the dark secret of a mist-shrouded town, or the location of an artifact of great power. Work with the Storyteller to define the exact nature of your secret, but remember, the Weird does not reveal its secrets casually and there will be a price.
+You have access to the potent vitae of the Justicar you serve and are authorized to use it in the line of duty. This vitae may be derived from a blood bond with your Justicar or be an award for meritorious service. Either way, you gain three bonus dice for rolls related to one of the three clan Disciplines (player’s choice) of your patron Justicar for the remainder of the night. You may use this once per chronicle.
 
 </details>
 
 <details>
 
-<summary><strong>Justicar Lucinde</strong> (p.162)</summary>
+<summary><strong>The Convention of Chicago (p.159)</strong></summary>
 
-**• Snake Charmer:** Allowed\
-&#xNAN;**•• Patient Hunter:** Allowed\
-&#xNAN;**••• Legend Killer:** Allowed\
-&#xNAN;**•••• Lucinda's Revenge:** Banned\
-&#xNAN;**••••• Alastor:** Banned
+<sup>_The Convention of Chicago was the first large-scale gathering of the Camarilla in almost a century. Born of the fires of the Second Inquisition, the Convention gathered representatives of Princes and Primogen the world over to discuss the Camarilla’s path forward in its time of crisis. Publically, the Convention was a resounding success, a show of unity, and sterling example of everything the Camarilla has to offer. Privately, the Convention succeeded by the narrowest of margins. Intrigue between the delegates and interference by Anarchs nearly derailed the entire event, but swift action by the Archons and Anarch disunity saved the convention from an ignominious end._</sup>&#x20;
 
-</details>
+<sup>_You attended the convention as a Chicago native or were a representative from afar. Camarilla, Anarch, or independent, you took this rare opportunity to gather information, make new allies, and further your schemes. Many profited from the convention, and you are not the least of them._</sup>
 
-<details>
+**• Rabble Rouser:**&#x20;
 
-<summary><strong>Khalid Al-Rashid</strong> (p.163) *</summary>
+Prince Jackson and his allies were extremely efficient at thwarting Anarch plots to disrupt the convention, except in your case. You managed to disrupt one of the convention’s important after parties, embarrassing the host, humiliating their security detail, and damaging the status of multiple Kindred. Success breeds success, and once per story, you can assemble a small group of fledgling Anarchs to your cause. They count as a three-dot Ally group that will perform one dangerous action for you once per story. They respect your rep, but will not sell their lives needlessly.
 
-Ancient and powerful, Khalid was a well-respected member of Chicago’s Primogen, and still is to those who believe Cedrick Calhoun’s subterfuge. Khalid walked the earth for nearly a thousand years in continual battle against his Beast, always seeking, yet never achieving, Golconda. Khalid’s quests led him to Chicago in search of a legendary Inconnu. What he found was a city firmly in the grip of an unending Jyhad between Helena and Me- nele. Taking to the shadows, Khalid managed to remain unbeholden to either Methuselah and managed to identify a circle of Kindred equally free from their influence. Digging deeper, he found something else entirely, and may well be in hiding, met the final death, or worse.&#x20;
+**•• Convention Attendee:**&#x20;
 
-Khalid is your Primogen, Mawla, or even sire. You pity his inability to attain Golconda, but admire the fact that Khalid never, ever, quits.
+You attended the convention and participated in its formal sessions, working groups, and more importantly, after parties. You navigated this web of intrigue successfully and gain two-dots to distribute between Allies and Contacts in addition to being able to ask the Storyteller once per story for a piece of information related to the convention. This information can be part of the public record or a juicy behind the scenes detail (Storyteller’s discretion).
 
-**• Safe Haven:** Khalid’s tutelage provides two dots to divide between the Haven Merits of Postern and Security System.\
-&#xNAN;**•• Deadly Stroke:** Khalid was a master swordsman in life, and more so in death. You may have fought beside him during the War of Chicago, or studied at his feet as your Mawla. Either way, you learned well. Once per chronicle, you gain three dice to a single Melee test while using a sword.\
-&#xNAN;**••• Khalid’s Notebook:** Khalid recorded his suspicions about the eternal war between Helena and Menele in a notebook filled with coded pages. He tore out many pages of this notebook and secreted them about Chicago and beyond. You have acquired pages from this book and the secrets they contain. Once per story, you may ask the Storyteller for one secret Khalid would have access to about Helena, Menele, or the identity of one Kindred under (or formerly under, in the case of Menele) their control.\
-&#xNAN;**•••• Wicked Garden:** You learned from Khalid or discover notes he left behind about strange entities living in Lake Michigan with oblique references to his sightings and suspicions about the creature known as Nerissa Blackwater. Once per story, this knowledge reduces the difficulty of all Investigation tests involving Nerissa Blackwater or the being she serves by four. Total Failure means Nerissa becomes aware of your inquiry.\
-&#xNAN;**••••• Unbeholden:** Khalid knew about Helena and Menele and assembled a coterie of “wild card” Kindred free from their influence. You are not presently under the control or dominion of Helena, Menele, or a similarly ancient vampire. Once per chronicle, you automatically escape one attempt by an ancient to ensnare you in their Jyhad. Work with the Storyteller to determine exactly how this feat occurs, but you manage to retain your freedom, for now.
+**••• Troubleshooter:**&#x20;
 
-</details>
+Conventions have a way of bringing out the rabble, and Chicago was no exception. You are an agent of Prince Jackson, the Archons, or some other group whose best interests were served by the convention’s success. You gain two-dots of Status among the Kindred of Chicago and a “get out of jail free” card from the Prince. Once per chronicle, you can use your service at the convention to have the authorities of your domain turn a blind eye toward a minor violation of the Traditions out of respect for services rendered.
 
-<details>
+**•••• Formal Delegate:**&#x20;
 
-<summary><strong>Kindred Dueling</strong> (p.164)</summary>
+You were one of the formal delegates to the convention and successfully prosecuted the objectives of your patron Prince or Primogen. Your wild success grants you four-dots to distribute among Allies, Contacts, Retainers, and Resources related to the convention. You also have a standing invitation to Elysium events in Chicago or your home domain.
 
-**• Honorable Combatant:** Allowed\
-&#xNAN;**•• Fight Club:** Allowed\
-&#xNAN;**••• Stake Fighter:** Allowed\
-&#xNAN;**•••• Fire Eater:** Allowed\
-&#xNAN;**••••• Trials of Death:** Allowed
+**••••• Mover and Shaker:**&#x20;
+
+You played an active role in the Convention of Chicago’s success. Your rhetoric purchased many a vote during the formal sessions, and your whispers purchased many more during the after parties. These votes are a byproduct of your love affair with uncovering your fellow delegate’s secrets. You know who sleeps with who, which closets hide skeletons, and why the trunk of that BMW sounds like its moaning. You use this information and the power it provides to enlist the (grudging) aid of your betters. Once per story, you can collect a Major Boon from a convention attendee in your debt. Work with the Storyteller to determine the identity of the Kindred in question and nature of their aid.
 
 </details>
 
 <details>
 
-<summary><strong>Malkavian Family</strong> <em>(Malkavian Characters Only)</em> (p.165) *</summary>
+<summary><strong>Goblin Roads (p.161)</strong></summary>
 
-Being Embraced as a Malkavian in Chicago brings with it an almost instantaneous new family. Many of their number look upon one another as kin: Jason Newberry’s sire considered him like her own son; Bronwyn and Corbin grew up like sisters in their mortal days.&#x20;
+<sup>_Travelling between Chicago and Milwaukee is perilous in the extreme. Lupines infest the roads and towns that connect the great cities and far stranger things inhabit the eerie wetlands, forests, and quiet spots between. The safest way to avoid these perils is to navigate the “Weird,” a collection of lonely roads, switchbacks, and roadside alters that tortuously thread their way between “oasis” of spiritually unnerving ground repulsive to Lupines. Dubbed “Goblin Roads” by local Kindred, Prince Decker of Milwaukee and Elder Inyanga of Chicago organized a group of intrepid Gangrel known as the “Psychopomps” to ferry Kindred between their cities._</sup>&#x20;
 
-While other clans allow their members their autonomy, Son wields his authority as Primogen to micromanage his clanmates’ lives. He hosts mandatory group counselling sessions, which he leads. Attendees bare their souls at his behest, providing information the others could use against them. Son also requires the Malkavians under his control to share territories and havens, giving them little respite from one another. They know one another’s weaknesses the way only a close-knit family can, and Jason Newberry positions himself as their domineering patriarch.&#x20;
+<sup>_Unusual on the best of nights, the Psychopomps know the secrets of the Goblin Roads and have a unique sense of the Weird that surrounds and infuses them. They perceive the Weird’s presence constantly, always feeling its eyes in the darkness, never deviating from their well-marked paths. Passage along the Goblin Roads is a lonely and terrifying experience as the Psychopomp leapfrogs from oasis to oasis, offering sacrifices of blood, alcohol, or prayer to forces un- known. Many Psychopomps go mad, wandering off the road and vanishing forever. Others simply disappear. But none have abandoned their charges mid journey, always dropping their passengers off at their destination before vanishing back into the Weird to begin their journey anew._</sup>
 
-These ties have also caused some Malkavians in Chicago to form close bonds. Having many members of the clan in the same territory makes guarding it easier, and when one of their number puts out a call via the Web, chances are someone is close by to answer. Though Son has duped outsiders into thinking he’s an upstanding member of Kindred society, his abuse of power within the clan gives its members someone to unite against, should the time come to get rid of him.
+<sup>_Kindred seeking passage between the two great cities have only to call upon Prince Decker or his newly-minted counterpart Rosa Hernandez. Survival is never guaranteed, but few things truly are._</sup>
 
-**• Family Secrets:** Attending Son’s therapy sessions gives you glimpses into your clanmates’ schemes and goals. As careful as most attendees are not to spill everything, over time the shapes of their plans come clear. Gain two dice on an Awareness or Insight roll involving another Malkavian.\
-&#xNAN;**•• Sibling Bond:** You’ve grown extremely close to another member of your clan, someone who is like a favorite sibling to you. You share a two-dot Haven and a one-dot Herd, and once per story can call on this person for a significant favor. However, they will ask for your assistance in turn and may lay their burdens at your door.\
-&#xNAN;**••• Tangled Web:** Your frequent contact with other Oracles has heightened your ability to sense and use the Cobweb. Once per story, you may extend your perceptions along it to locate a specific clan member in the city. You may either catch a short glimpse of where they are and who they’re with, or deliver one short sentence (“Meet me at the Blue Velvet,” “A Hound came looking for you.”) into their mind.\
-&#xNAN;**•••• A Little Peace and Quiet:** With Son constantly forcing you to share space and secrets with other Malkavians, you’ve had to carve out creative ways to get some alone time. Once per story, you may use an Auspex, Dominate, or Obfuscate power you haven’t yet learned (at your current level or below) to hide in plain sight, escape a crowded area, or avoid detection.\
-&#xNAN;**••••• Favorite Childe:** A respected elder member of the clan has taken a shine to you and appointed themselves your surrogate parent, your favorite aunt or uncle, or doting grandparent. They’re intensely interested in helping you achieve your goals, possibly cloyingly so. Gain them as a five-dot Mawla. Once per story, this person will act as a buffer between you and Son, relieving you of whatever obligation the Primogen was attempting to impose.
+**• Night Rider:**&#x20;
+
+You are a frequent passenger on the Goblin Roads and have become accustomed to their nature. Your knowledge grants you an additional two dice to all Survival tests related to surviving the Goblin Roads if you become isolated in the Weird.
+
+**•• Summon the Ferryman:**&#x20;
+
+You have arranged passage on the Goblin Roads with Prince Decker, Rosa Hernandez, or one of their Psychopomps. The price of this arrangement can take the form of cash, a minor boon, or something else entirely (Storyteller’s discretion). Once per story, you can enlist a Psychopomp to ferry yourself and your coterie between Chicago and Milwaukee.
+
+**••• Psychopomp:**&#x20;
+
+You are a Psychopomp and travel the Goblin Roads at will. This journey requires 24 hours preparation to attune yourself to the proper rites and sacrifices necessary for safe passage and you gain two-dots of Status reflecting your occupation.
+
+**•••• Weird Ally:**&#x20;
+
+You led an expedition into the Weird or were separated from your Psychopomp for a protracted period of time. During that time, you encountered and formed a pact or alliance with a supernatural denizen of the Weird. This creature is unusual at the best of times, but will come when called. You gain a four-dot Ally that is a werewolf, mage, wraith, changeling, or something stranger still (see Vampire: The Masquerade p. 376 and p. 377 or the Storyteller creates the monster). Once per game, your Ally will come to your aid within 10 hours of your summons.
+
+**••••• One with the Weird:**&#x20;
+
+You spent many nights looking into the Weird, and one evening, it looked back. You have unraveled one of the deeper mysteries of the Weird. It might be the hidden nature of the Goblin Roads oasis, the true name of a powerful spirit, a potent ritual, the dark secret of a mist-shrouded town, or the location of an artifact of great power. Work with the Storyteller to define the exact nature of your secret, but remember, the Weird does not reveal its secrets casually and there will be a price.
 
 </details>
 
 <details>
 
-<summary><strong>Occult Artifacts</strong> <em>(Tremere and Banu Haqim Characters Only)</em> (p.166)</summary>
+<summary><strong>Justicar Lucinde (p.162)</strong></summary>
 
-**• Rowan Ring:** Allowed\
-&#xNAN;**•• Cloak of Abalone:** Allowed\
-&#xNAN;**••• Powder of Rigidity:** Allowed\
-&#xNAN;**•••• Monocle of Clarity:** Locked\
-&#xNAN;**••••• Tapestry of Blood:** Locked
+<sup>_Lucinde is one of the most formidable members of Clan Ventrue, advancing from Archon, to Alastor, to Justicar. Her role as the first Alastor, or hunter of Kindred declared Anathema by the Camarilla, led to the creation of the Camarilla’s infamous “Red List” of most wanted Kindred. As Alastor, Lucinde and her fellow Archon’s routinely went deep undercover to stalk their prey, a practice she maintains in her present role as Justicar. Named “Justicar for Unlife” in recent years, Lucinde and her agents have vanished once again into the dark underbelly of vampire society to stalk all who would challenge the Camarilla._</sup>
+
+<sup>_Lucinde’s Archons and other agents frequently visit Chicago while prosecuting their duties. You might have worked directly with these agents, or even Lucinde herself at some point in her long career. You may even be an Archon or Alastor in Lucinde’s employ. Whatever the case, you stood in Lucinde’s shadow and were transformed by the experience._</sup>
+
+• Snake Charmer: Lucinde bears a unique ire for members of the Ministry and knows them well. You gain one additional die for all Investigation rolls related to the Ministers.
+
+•• Patient Hunter: Lucinde’s investigation skills are legendary, skills she imparted to you. Once per story, you automatically succeed on one Investigation check related to a member of the Anathema or other Kindred who poses a threat to the day-to-day existence of the Camarilla. This success will not necessarily reveal the immediate location of said Kindred, but it will definitely point you in the right direction (Storyteller’s discretion).
+
+••• Legend Killer: You have destroyed, or participated in the destruction, of a member of the Red List. This fame (or notoriety) precedes you wherever you go and allows you to automatically succeed on one test per chronicle, where the tale of this event might be of assistance.
+
+•••• Lucinde’s Revenge:
+
+Lucinde has astonishing resistance to the effects of Presence. Formerly exclusive to her descendants, Lucinde has begun to instruct other Kindred in this supernatural resistance. Once per chronicle, Lucinde’s Revenge renders you immune to a single use of Presence wielded against you as long as the vampire assailing you is of equal-to or lower generation. Vampires of a higher generation than you are unaffected by Lucinde’s Revenge and can assail you regularly. Lucinde only teaches this ability to her Archons, Alastors, and chosen allies who have assisted in one of her hunts, or who have been of great service to the Camarilla.
+
+••••• Alastor: You have joined Lucinde as an Alastor and hunt Kindred on the “Red List.” You operate under deep cover and enjoy immunity from prosecution by any Prince. You report solely to the Camarilla’s Inner Circle and have a mystical mark on your right palm identifying you as an Alastor when revealing your rank and station becomes necessary. You have a two-dot Mask and have been Zeroed. Additionally, you receive three additional dice to resist all attempts to uncover your identity. Should you reveal your identity, you gain the equivalent of four-dots of Status. You have also earned the undying enmity of all who oppose the Camarilla and are in turn hunted by an Anathema the Storyteller designates as your Adversary.
 
 </details>
 
 <details>
 
-<summary><strong>Sheriff Damien</strong> (p.168) *</summary>
+<summary><strong>Khalid Al-Rashid (p.163)</strong></summary>
 
-Damien never wanted to be Sheriff of Chicago, but now that he’s accepted the position he takes it damned seriously. The Brujah was at his most content onstage as the lead singer of the punk band Baby Chorus. The War of Chicago tore that away from him, shattering his found family, sending the surviving band members on a long hiatus, and leaving him adrift. Damien’s lack of allegiance to the likes of Annabelle, Ballard, and DuSable drew Prince Jackson to him. Who better to serve as Sheriff than someone who knew the city and its power players, but was beholden to none of them?&#x20;
+<sup>_Ancient and powerful, Khalid was a well-respected member of Chicago’s Primogen, and still is to those who believe Cedrick Calhoun’s subterfuge. Khalid walked the earth for nearly a thousand years in continual battle against his Beast, always seeking, yet never achieving, Golconda. Khalid’s quests led him to Chicago in search of a legendary Inconnu. What he found was a city firmly in the grip of an unending Jyhad between Helena and Me- nele. Taking to the shadows, Khalid managed to remain unbeholden to either Methuselah and managed to identify a circle of Kindred equally free from their influence. Digging deeper, he found something else entirely, and may well be in hiding, met the final death, or worse._</sup>&#x20;
 
-Before he assumed the mantle, Damien traveled the United States on an unofficial solo tour, playing Baby Chorus’ music and his own in cities across the country. Doing so, he’s made contacts from coast to coast in both Camarilla- and Anarch-controlled cities.&#x20;
+<sup>_Khalid is your Primogen, Mawla, or even sire. You pity his inability to attain Golconda, but admire the fact that Khalid never, ever, quits._</sup>
 
-Tonight, Damien’s loyalties lie with Prince Jackson and the recently reunited Baby Chorus. He keeps dossiers on Chicago’s Kindred, and sends his Hounds after those who threaten the Prince’s agenda. In addition to those enforcers he inherited when he took the job, Damien continues to build up the Hound roster with fierce fighters, should the Lasombra prove a problem or his former Anarch associates make a move.&#x20;
+**• Safe Haven:**&#x20;
 
-Damien is canny and self-reliant. He carved out a living for himself as a teenager and cobbled a family together out of those he trusted. He did the same after his Embrace, running with the Nihilists. Tonight, he fiercely protects the people he’s closest to. He’s lost enough family over the years. Now that he’s Sheriff, he intends to use that power to keep the ones who remain safe.
+Khalid’s tutelage provides two dots to divide between the Haven Merits of Postern and Security System.
 
-**• Fan Club:** You’ve been a Baby Chorus fan for decades. You’ve collected their albums and have boxes full of bootlegged tapes and CDs from their shows. Damien recognizes you as a frequent face in the front row, and other fans see you as an authority on the band, giving you two dots of Influence among other Baby Chorus devotees.\
-&#xNAN;**•• Patroller:** Patroller: Damien frequently taps you for patrol duty, sending you out among Chicago’s feeding grounds to keep an eye on Kindred activity. Your reports are clear and concise, alerting the Sheriff to potential trouble well before it lands on his — or worse, Prince Jackson’s — plate. Once per story, add three dice to an Insight, Intimidation, or Streetwise roll. While this position grants you some authority, others consider you a snitch.\
-&#xNAN;**••• Guest Artist:** Though its current roster is fairly solid, Damien spent several years trying to resurrect Baby Chorus without Kathy Glens and the other surviving members. You played with the band in one or several of those interim incarnations, and Damien occasionally invites you to open for them, or play a set. Once per story, you may use Damien as a three-dot Contact in the entertainment world.\
-&#xNAN;**•••• Postcards From the Road:** You’ve made a deep connection with Damien. Perhaps you’ve bonded over music, or had his back in a particularly ugly brawl. You have his respect, and Damien acts as your four-dot Mawla. Once per story, you may also ask him to put you in touch with one of his varying contacts around the country.\
-&#xNAN;**••••• Loyal Hound:** Prince Jackson handed Damien a crew full of wannabe diplomat Hounds, but the Sheriff wants fighters and you’ve got a reputation for solving problems with your fists. Gain Contacts: Sheriff Damien (••••), Status: Camarilla (••). You may act with the Sheriff’s authority on Kindred matters, and must respond when Damien requires your assistance.
+**•• Deadly Stroke:**&#x20;
+
+Khalid was a master swordsman in life, and more so in death. You may have fought beside him during the War of Chicago, or studied at his feet as your Mawla. Either way, you learned well. Once per chronicle, you gain three dice to a single Melee test while using a sword.
+
+**••• Khalid’s Notebook:**&#x20;
+
+Khalid recorded his suspicions about the eternal war between Helena and Menele in a notebook filled with coded pages. He tore out many pages of this notebook and secreted them about Chicago and beyond. You have acquired pages from this book and the secrets they contain. Once per story, you may ask the Storyteller for one secret Khalid would have access to about Helena, Menele, or the identity of one Kindred under (or formerly under, in the case of Menele) their control.
+
+**•••• Wicked Garden:**&#x20;
+
+You learned from Khalid or discover notes he left behind about strange entities living in Lake Michigan with oblique references to his sightings and suspicions about the creature known as Nerissa Blackwater. Once per story, this knowledge reduces the difficulty of all Investigation tests involving Nerissa Blackwater or the being she serves by four. Total Failure means Nerissa becomes aware of your inquiry.
+
+**••••• Unbeholden:**&#x20;
+
+Khalid knew about Helena and Menele and assembled a coterie of “wild card” Kindred free from their influence. You are not presently under the control or dominion of Helena, Menele, or a similarly ancient vampire. Once per chronicle, you automatically escape one attempt by an ancient to ensnare you in their Jyhad. Work with the Storyteller to determine exactly how this feat occurs, but you manage to retain your freedom, for now.
+
+</details>
+
+<details>
+
+<summary><strong>Kindred Dueling (p.164)</strong></summary>
+
+<sup>_Formal duels between Kindred have taken many forms over the ages, halting only with the rise of the Camarilla and its formal proscriptions against them. Since that time, duels have gone underground were largely confined to the domains of Anarchs, the Sabbat, secretive dueling societies, and cities with permissive princes like Milwaukee. Ancient duels known as “Trials of Death” were fought with strength and fang, two Kindred draining one another until one succumbs to desiccation or destruction. Contemporary duels employ swords, guns, stakes, or even flaming brands. Whatever the form, these turbulent nights have seen a resurgence in Kindred dueling — one that is unlikely to abate anytime soon._</sup>
+
+**• Honorable Combatant:**
+
+You are familiar with the rules, strictures, and customs of Kindred Dueling. You gain +2 dice to all Etiquette tests related to Kindred Dueling.
+
+**•• Fight Club:**&#x20;
+
+You have established a flourishing Kindred dueling society in your domain. This society is a lucrative venture and excellent way for Kindred to settle their differences but is frowned upon by the Prince and/or Primogen of your domain. Gain three dots to distribute between Resources, Allies, or Contacts reflecting the profits and connections made through your society.
+
+**••• Stake Fighter:**&#x20;
+
+You honed your stake fighting skills to a razor’s edge through years of Camarilla honor duels or Anarch street fights. You ignore the ‒2 penalty for called shots when attempting to stake another vampire.
+
+**•••• Fire Eater:**&#x20;
+
+Duels with torches and flaming brands are increasingly popular among young Kindred out to demonstrate their courage. They have even become a rite of passage for many Anarchs. These duels are fought with one or two torches around a blazing bonfire, each participant fighting until one succumbs to their wounds or the terrors of Rötschreck. Once per game, you can call upon your experience with fire duels, ignoring the regular provocation to terror frenzy provided by a bonfire. The difficulty to resist terror frenzy induced by being burned is also reduced by one for the scene.
+
+**••••• Trials of Death:**&#x20;
+
+You are a veteran of countless Trials of Death or learned at the feet of a true master. You only remove one die from your pool when making a bite attack. Opponents directing bite attacks against you remove three dice from their pools. The Beast is particularly strong in you during these trials and slakes its thirst with wild abandon. After a successful bite attack, your opponent increases their Hunger by two instead of one.
+
+</details>
+
+<details>
+
+<summary><strong>Malkavian Family </strong><em><strong>(Malkavian Characters Only)</strong></em><strong> (p.165)</strong></summary>
+
+<sup>_Being Embraced as a Malkavian in Chicago brings with it an almost instantaneous new family. Many of their number look upon one another as kin: Jason Newberry’s sire considered him like her own son; Bronwyn and Corbin grew up like sisters in their mortal days._</sup>&#x20;
+
+<sup>_While other clans allow their members their autonomy, Son wields his authority as Primogen to micromanage his clanmates’ lives. He hosts mandatory group counselling sessions, which he leads. Attendees bare their souls at his behest, providing information the others could use against them. Son also requires the Malkavians under his control to share territories and havens, giving them little respite from one another. They know one another’s weaknesses the way only a close-knit family can, and Jason Newberry positions himself as their domineering patriarch._</sup>&#x20;
+
+<sup>_These ties have also caused some Malkavians in Chicago to form close bonds. Having many members of the clan in the same territory makes guarding it easier, and when one of their number puts out a call via the Web, chances are someone is close by to answer. Though Son has duped outsiders into thinking he’s an upstanding member of Kindred society, his abuse of power within the clan gives its members someone to unite against, should the time come to get rid of him._</sup>
+
+**• Family Secrets:**&#x20;
+
+Attending Son’s therapy sessions gives you glimpses into your clanmates’ schemes and goals. As careful as most attendees are not to spill everything, over time the shapes of their plans come clear. Gain two dice on an Awareness or Insight roll involving another Malkavian.
+
+**•• Sibling Bond:**&#x20;
+
+You’ve grown extremely close to another member of your clan, someone who is like a favorite sibling to you. You share a two-dot Haven and a one-dot Herd, and once per story can call on this person for a significant favor. However, they will ask for your assistance in turn and may lay their burdens at your door.
+
+**••• Tangled Web:**&#x20;
+
+Your frequent contact with other Oracles has heightened your ability to sense and use the Cobweb. Once per story, you may extend your perceptions along it to locate a specific clan member in the city. You may either catch a short glimpse of where they are and who they’re with, or deliver one short sentence (“Meet me at the Blue Velvet,” “A Hound came looking for you.”) into their mind.
+
+**•••• A Little Peace and Quiet:**&#x20;
+
+With Son constantly forcing you to share space and secrets with other Malkavians, you’ve had to carve out creative ways to get some alone time. Once per story, you may use an Auspex, Dominate, or Obfuscate power you haven’t yet learned (at your current level or below) to hide in plain sight, escape a crowded area, or avoid detection.
+
+**••••• Favorite Childe:**&#x20;
+
+A respected elder member of the clan has taken a shine to you and appointed themselves your surrogate parent, your favorite aunt or uncle, or doting grandparent. They’re intensely interested in helping you achieve your goals, possibly cloyingly so. Gain them as a five-dot Mawla. Once per story, this person will act as a buffer between you and Son, relieving you of whatever obligation the Primogen was attempting to impose.
+
+</details>
+
+<details>
+
+<summary><strong>Occult Artifacts </strong><em><strong>(Tremere and Banu Haqim Characters Only)</strong></em><strong> (p.166)</strong></summary>
+
+<sup>_The 21st century saw a great decline in the use of occult artifacts among the Kindred outside the chantries of Clan Tremere. As the Age of Reason flowered, the Age of Magic withered, and occult objects once prized among the Kindred were cast aside in favor of modern innovation. The destruction wrought by the Second Inquisition, the Beckoning, and Tremere schism, combined with the Camarilla’s edicts against technology have begun to reverse this trend._</sup>
+
+<sup>_Many elders’ havens are now abandoned, or in the hands of “trusted” ancillae. Entire Tremere chantries lay fallow, and prized artifacts from an older time lay forgotten in slumbering elders’ collections, ripe for the taking._</sup>
+
+<sup>_You have gained access to, or knowledge of, one or more precious occult artifacts. These were likely entrusted to Nicolai for safekeeping in the Chicago Chantry or may be located elsewhere. Note that all are powerful in their own way and are likely sought by others, which can make them more trouble than they are worth. It is unlikely that more than one of these will be available to any given coterie._</sup>
+
+**• Rowan Ring:**
+
+Rowan Rings are feared tools of assassination employed by elder members of the Banu Haqim or their trusted neonates. They appear to be simple wooden rings, though they are detectable as magical with Auspex or other occult means. After making a Rouse Check, the ring mystically sharpens and elongates into a wooden stake that can be used to make a stake attack (Vampire: The Masquerade, p. 221). The stake detaches after use and the ring falls off its wielder’s finger. A simple thought transforms the stake back into a ring when not in use.
+
+**•• Cloak of Abalone:**&#x20;
+
+Woven by the Tremere as a powerful weapon against Toreador, the Cloak of Abalone is dull black, brown, or gray on the outside, but opens to reveal a lining that forms a scintillating shower of mesmerizing color. The wearer must make a Rouse Check to activate the cloak, after which the targeted Toreador is immediately treated as if they rolled a Bestial Failure and are afflicted as if their Toreador Obsession was in effect (Vampire: The Masquerade, p. 210). Note that the cloak only works on one target at a time, and there is seldom more than one cloak per Tremere Chantry.
+
+**••• Powder of Rigidity:**&#x20;
+
+This uncommon mixture of rare herbs, Gangrel blood, and wolfsbane is increasingly sought after in the wake of the War in Chicago and Clan Gangrel’s defection from the Camarilla. Coming in long tubes, the concoction is hurled on the target in an opposed Dexterity + Athletics test. If the thrower succeeds, the tube shatters on the target and coats them in a viscous purple dust. As the magical effects take hold, the target, whether they be a user of Protean, Lupine, or other shape changer, loses all ability to change shape for the next four hours.
+
+**•••• Monocle of Clarity:**&#x20;
+
+Designed by the Tremere to detect Obfuscated spies, the Monocle of Clarity is a beautifully etched monocle set into a delicately filigreed gold and silver frame. The user makes a Rouse Check to activate and rolls Wits or Resolve + five dice against the Targets Wits + Obfuscate. Success pierces the targets Obfuscate. Total Failure pierces the veil between this world and the next, exposing the user to “things” best left unseen, inflicting one point of superficial Willpower damage.
+
+**••••• Tapestry of Blood:**&#x20;
+
+A rare and powerful artifact highly sought after by all. The Tapestry of Blood is a massive medieval tapestry said to have graced the halls of the Vienna Chantry before its transfer to Chicago. The user must make five Rouse Checks and spend a full evening contemplating the weave of the tapestry. As the first rays of dawn strike, the user makes a Wits or Resolve + Occult check with each success granting them greater clarity of vision. This vision can take almost any form, from glimpses of ancient civilizations to glimpses of the future. The only certainty is that the subject of each vision will directly relate to the fate of the user. Total Failure indicates the user saw something truly unsettling about their fate and immediately triggers a compulsion as detailed in the Vampire: The Masquerade core book.
+
+</details>
+
+<details>
+
+<summary><strong>Sheriff Damien (p.168)</strong></summary>
+
+<sup>_Damien never wanted to be Sheriff of Chicago, but now that he’s accepted the position he takes it damned seriously. The Brujah was at his most content onstage as the lead singer of the punk band Baby Chorus. The War of Chicago tore that away from him, shattering his found family, sending the surviving band members on a long hiatus, and leaving him adrift. Damien’s lack of allegiance to the likes of Annabelle, Ballard, and DuSable drew Prince Jackson to him. Who better to serve as Sheriff than someone who knew the city and its power players, but was beholden to none of them?_</sup>&#x20;
+
+<sup>_Before he assumed the mantle, Damien traveled the United States on an unofficial solo tour, playing Baby Chorus’ music and his own in cities across the country. Doing so, he’s made contacts from coast to coast in both Camarilla- and Anarch-controlled cities._</sup>&#x20;
+
+<sup>_Tonight, Damien’s loyalties lie with Prince Jackson and the recently reunited Baby Chorus. He keeps dossiers on Chicago’s Kindred, and sends his Hounds after those who threaten the Prince’s agenda. In addition to those enforcers he inherited when he took the job, Damien continues to build up the Hound roster with fierce fighters, should the Lasombra prove a problem or his former Anarch associates make a move._</sup>&#x20;
+
+<sup>_Damien is canny and self-reliant. He carved out a living for himself as a teenager and cobbled a family together out of those he trusted. He did the same after his Embrace, running with the Nihilists. Tonight, he fiercely protects the people he’s closest to. He’s lost enough family over the years. Now that he’s Sheriff, he intends to use that power to keep the ones who remain safe._</sup>
+
+**• Fan Club:**&#x20;
+
+You’ve been a Baby Chorus fan for decades. You’ve collected their albums and have boxes full of bootlegged tapes and CDs from their shows. Damien recognizes you as a frequent face in the front row, and other fans see you as an authority on the band, giving you two dots of Influence among other Baby Chorus devotees.
+
+**•• Patroller:**&#x20;
+
+Patroller: Damien frequently taps you for patrol duty, sending you out among Chicago’s feeding grounds to keep an eye on Kindred activity. Your reports are clear and concise, alerting the Sheriff to potential trouble well before it lands on his — or worse, Prince Jackson’s — plate. Once per story, add three dice to an Insight, Intimidation, or Streetwise roll. While this position grants you some authority, others consider you a snitch.
+
+**••• Guest Artist:**&#x20;
+
+Though its current roster is fairly solid, Damien spent several years trying to resurrect Baby Chorus without Kathy Glens and the other surviving members. You played with the band in one or several of those interim incarnations, and Damien occasionally invites you to open for them, or play a set. Once per story, you may use Damien as a three-dot Contact in the entertainment world.
+
+**•••• Postcards From the Road:**&#x20;
+
+You’ve made a deep connection with Damien. Perhaps you’ve bonded over music, or had his back in a particularly ugly brawl. You have his respect, and Damien acts as your four-dot Mawla. Once per story, you may also ask him to put you in touch with one of his varying contacts around the country.
+
+**••••• Loyal Hound:**&#x20;
+
+Prince Jackson handed Damien a crew full of wannabe diplomat Hounds, but the Sheriff wants fighters and you’ve got a reputation for solving problems with your fists. Gain Contacts: Sheriff Damien (••••), Status: Camarilla (••). You may act with the Sheriff’s authority on Kindred matters, and must respond when Damien requires your assistance.
 
 </details>
 
@@ -834,11 +970,25 @@ Damien is canny and self-reliant. He carved out a living for himself as a teenag
 
 <sup>_The Wolf Pack roams far and wide in their role as roving Archons, but are short a few members after the brutal War of Chicago against the Lupines. Maybe you met them on the open highway and rode with them a spell? Maybe they saw something in you and decided to make you a prospect? Whatever your interaction, it probably made you a little bit stronger, and a whole lot meaner._</sup>
 
-**• Prospect:** Surviving Tyrus’ “initiation” into the Wolf Pack requires a certain degree of resilience. Reduce the difficulty of all Survival rolls related to travel and outdoorsmanship by one.\
-&#xNAN;**•• Member:** Rule one of joining the Wolf Pack is that you have to be able to ride. Your association with the Pack grants you a two-die bonus to all Drive tests while riding a motorcycle.\
-&#xNAN;**••• White Line Nightmare:** The Wolf Pack lives frugally, but spares no expense on its bikes. Once per game, you can call on the Wolf Pack’s contacts in the motorcycle community across the country to obtain immediate access to a custom motorcycle.\
-&#xNAN;**•••• Dread Riders:** Your association with Anthius gives you access to a veritable army of Midwestern motorcycle gangs. Once per chronicle, you can call on Anthius’ influence to assemble hundreds of Hell’s Angels anywhere in the continental United States within three nights (although the first groups arrive within hours). These bikers provide you with a five-dot Ally group that can be roughly direct- ed toward a single objective of your choosing. Be forewarned the potential for massive collateral damage and government involvement are high.\
-&#xNAN;**••••• Gives no...:** Tyrus infuses you with a measure of his hard-headed, hard-hearted, and hard-riding personality. You never take anything from anybody and are willing to stare down Caine himself if he has the balls to challenge you. Once per session, you can ignore even the most formidable attempt to intimidate you. You become immune to any single attempt to intimidate, cow, or make you back down or retreat (mundane or supernatural). This ability disappears at the start of the next scene.
+**• Prospect:**&#x20;
+
+Surviving Tyrus’ “initiation” into the Wolf Pack requires a certain degree of resilience. Reduce the difficulty of all Survival rolls related to travel and outdoorsmanship by one.
+
+**•• Member:**&#x20;
+
+Rule one of joining the Wolf Pack is that you have to be able to ride. Your association with the Pack grants you a two-die bonus to all Drive tests while riding a motorcycle.
+
+**••• White Line Nightmare:**&#x20;
+
+The Wolf Pack lives frugally, but spares no expense on its bikes. Once per game, you can call on the Wolf Pack’s contacts in the motorcycle community across the country to obtain immediate access to a custom motorcycle.
+
+**•••• Dread Riders:**&#x20;
+
+Your association with Anthius gives you access to a veritable army of Midwestern motorcycle gangs. Once per chronicle, you can call on Anthius’ influence to assemble hundreds of Hell’s Angels anywhere in the continental United States within three nights (although the first groups arrive within hours). These bikers provide you with a five-dot Ally group that can be roughly direct- ed toward a single objective of your choosing. Be forewarned the potential for massive collateral damage and government involvement are high.
+
+**••••• Gives no...:**&#x20;
+
+Tyrus infuses you with a measure of his hard-headed, hard-hearted, and hard-riding personality. You never take anything from anybody and are willing to stare down Caine himself if he has the balls to challenge you. Once per session, you can ignore even the most formidable attempt to intimidate you. You become immune to any single attempt to intimidate, cow, or make you back down or retreat (mundane or supernatural). This ability disappears at the start of the next scene.
 
 </details>
 
@@ -846,7 +996,7 @@ Damien is canny and self-reliant. He carved out a living for himself as a teenag
 
 <details>
 
-<summary><strong>The Anubi (p.224)</strong></summary>
+<summary><mark style="color:red;"><strong>The Anubi (p.224)</strong></mark></summary>
 
 <sup>_The Lupine attack on Chicago is a stark reminder of how vulnerable Kindred are to werewolf assault. The Princes of the Camarilla looked to Milwaukee, and its guardians the Anubi, for a solution. Led by Milwaukee’s Prince, Mark Decker, the Anubi are the Camarilla’s premier force of Lupine hunters. They are well organized, well equipped, and determined to repulse every Lupine incursion into the city._</sup>&#x20;
 
@@ -856,19 +1006,19 @@ Damien is canny and self-reliant. He carved out a living for himself as a teenag
 
 <sup>_These newly formed coteries are as deadly as the Lupines they hunt. Some, like the Sun Devils of Phoenix or the all-Ventrue “Hunt Club” of Quebec, maintain the Anubi’s militant structure and battle Lupines nightly. Others, like “The Pack” of Vancouver or the mixed Lasombra/ Toreador “Order of Saint Sabastian” in Rio de Janeiro, wield diplomacy as effectively as silver to forge tentative (although not lasting) treaties with their local Lupines._</sup>
 
-**• Argent Fury:**&#x20;
+**• Argent Fury:** _Banned_
 
 Your connection to the Anubi or a similar organization provides access to hidden caches of silver weapons and/or those who manufacture them. Once per story, you can equip yourself with a silver hand-held weapon or ammunition of your choice.
 
-**•• What Big Eyes You Have:**
+**•• What Big Eyes You Have:** _Banned_
 
 A Lupine must be located before it can be slain. Your organization has seeded your city with a web of informants, contacts, and surveillance devices to facilitate the hunt. Once per story, you gain two automatic successes on an Investigation roll related to locating Lupines within your domain.
 
-**••• Brick House:**&#x20;
+**••• Brick House:** _Banned_
 
 The hunter often becomes the hunted when Lupines are involved. You spend substantial resources outfitting your haven for just such occasions. You gain four points to spend on Haven and/ or Retainers relating to defense against Lupines.
 
-**•••• In the City, In the Woods (choose one):**
+**•••• In the City, In the Woods (choose one):** _Banned_
 
 * War Eternal:&#x20;
 
@@ -882,7 +1032,7 @@ Your organization seeks peace with Lupines, forging strained but (mostly) effect
 
 Your nightly hunt grants you access to a quantity of Lupine blood that may reflect an unhealthy addiction to werewolf blood. Once per story, you can slake two Hunger via a sip of werewolf blood with all the attendant benefits and drawbacks (Vampire: The Masquerade, p. 376).
 
-**••••• Summon the Pack:**&#x20;
+**••••• Summon the Pack:** _Banned_
 
 You are a formal member of the Anubi or a similar Lupine-hunting organization and can call on these Kindred for aid at a moment’s notice when Lupines are near. Situations not involving Lupines may require favor trading and/or boons, depending on your relationships with the individuals within the organization. Your membership grants you a temporary Mawla (•••) and four dots of Allies (Anubi Bikers), representing mortal bikers who follow the Anubi, who can be called on once per story when Lupines are involved.
 
@@ -890,29 +1040,29 @@ You are a formal member of the Anubi or a similar Lupine-hunting organization an
 
 <details>
 
-<summary><strong>Eletria (p.225)</strong></summary>
+<summary><mark style="color:green;"><strong>Eletria (p.225)</strong></mark></summary>
 
 <sup>_Eletria occupied an unassuming position among Chicago’s Kindred for decades prior to her recent disappearance. Few understood the immense power hidden behind the quiet strength of the enigmatic vampire that dotingly watched over “Portia” all those nights. Fewer still realize that Eletria was once Prince of Veracruz and one of the most talented artists in history. Born of Sparta, reborn of Helena, Eletria travelled the world, drowning herself in life’s myriad pleasures and always returned panting for more. Painting, sculpture, and music came effortlessly to her. The Kindred of Veracruz bent their knees to her will and were better for her presence. Her very passions conquered the hearts of all who met her, ensnaring Lodin’s sire, Datura, then Lodin himself, loving and losing both in the process. Her presence in Chicago had the potential to change everything, but in the end, she changed you._</sup>&#x20;
 
 <sup>_You knew Eletria. It might have been Chicago, Veracruz, or someplace more distant still, but you knew her. Lover, friend, subject, or slave: Her presence haunts you to this day._</sup>
 
-**• Muse:**&#x20;
+**• Muse:** _Allowed_
 
 Eletria saw great potential in you and fanned the embers of your talent. All Craft (Painting or Sculpture) or Performance (Music) tests have their difficulty reduced by one.&#x20;
 
-**•• Portrait of a Woman:**&#x20;
+**•• Portrait of a Woman:** _Allowed_
 
 Eletria entrusted you with a rare and precious piece of art of deep importance to her. It could be her cherished portrait of Datura on the cliffs of Veracruz or another painting, sculpture, or piece of music created by her hand. Granting you this piece is a sign of her deepest trust and contains an almost literal part of her soul. Once per session, you can spend an hour meditating upon this piece and make a Resolve + Craft (Painting or Sculpture) or Performance (Music) test at Difficulty 4 before resting for the day. If successful, you awaken having recovered all Superficial Willpower damage.&#x20;
 
-**••• This is Sparta:**&#x20;
+**••• This is Sparta:** _Allowed_
 
 You served under Eletria in Veracruz during her war against the Sabbat or fought by her side during the War of Chicago. You gain a bonus die to all Investigation, Academics, and Occult rolls related to defending your city against hostile sect incursions.&#x20;
 
-**•••• Ageless Beauty:**&#x20;
+**•••• Ageless Beauty:** _Allowed_
 
 You shared blood with Eletria and inherited a measure of her ability to see the past. You can see a person as they were at any point in their life (or unlife). If artistically inclined, you can render Kindred as they appeared centuries ago with shocking accuracy. Make a Wits + Resolve or Auspex test (difficulty assigned by Storyteller depending on how far back you attempt to see). Success means you have captured a photo- graphic image of the subject in your mind with perfect accuracy and gain two bonus dice to your relevant Craft test to replicate it. This ability can be used once per session.
 
-**••••• Conspicuous Consumption:**&#x20;
+**••••• Conspicuous Consumption:** _Allowed_
 
 Your search for Eletria leads to Helena. You become part of the circle of vampires used to slake her thirst and keep the Beckoning at bay. This arrange- ment is not without its benefits, as you gain five dots to distribute between Mawla, Resources, Allies, Herd, and Contacts. You also have access to Helena once per story, although she has compelled you not to reveal her presence. If lucky, your perilous association may reveal Eletria’s fate.
 
@@ -920,7 +1070,7 @@ Your search for Eletria leads to Helena. You become part of the circle of vampir
 
 <details>
 
-<summary><strong>Kindred Social Media Influencer (p.226)</strong></summary>
+<summary><mark style="color:green;"><strong>Kindred Social Media Influencer (p.226)</strong></mark></summary>
 
 <sup>_Sometimes it’s worth risking the ire of those elders who have banned social media use, especially for fledglings Embraced in recent nights. Though the Second Inquisition makes having an online presence dangerous for vampires, having a large internet following brings potential benefits: information, influence, money, and food. When the choice is between feeding on a flash mob participant or frenzying from hunger, you pick the one that isn’t a sure breach of the Masquerade._</sup>
 
@@ -928,23 +1078,23 @@ Your search for Eletria leads to Helena. You become part of the circle of vampir
 
 <sup>_Kindred can display authority in all kinds of areas on social media. Some present historical analyses on YouTube so insightful you’d swear they’d been at the events they’re describing. Exquisite Instagram accounts capture the city when most of its residents are asleep. This isn’t to suggest no one’s ever come close to breaching the Masquerade since SchreckNET came down: One scandalous (and highly anonymous) account displays cutting edge Kindred fashion, replete with the clans’ iconography. Mortal followers like and thumbs-up the posts, believing it experimental fashion or possibly a high-end LARP, while not knowing the messages the outfits send to their Kindred counterparts. Should any elders discover Kindred of their own clan are behind the account, however, it won’t be long before someone is blood hunted._</sup>
 
-**• Friends Everywhere:**&#x20;
+**• Friends Everywhere:** _Allowed_
 
 You have a small following, mostly consisting of friends and close acquaintances. Occasionally, someone with a larger social media footprint will boost or share one of your posts, bringing you a temporary increase in visibility. Once per chapter, you can crowdsource a solution to a problem, providing you have enough time to consult your followers, allowing you to roll two dice in a Skill you don’t possess or adding two automatic successes in an area you already have familiarity.
 
-**•• Niche Following:**&#x20;
+**•• Niche Following:** _Allowed_
 
 Your knowledge in a specific area grants you a degree of online authority. Your Twitter threads occasionally go viral, and you’ve been paid to write articles for newspapers and websites thanks to your unique voice. Gain two dots of Influence in your field. Once per story, you may temporarily increase your Resources by one dot when you pen an article or do a video hangout for a small audience.
 
-**••• Internet Famous:**&#x20;
+**••• Internet Famous:** _Allowed_
 
 Your follower count is in the tens of thousands across several social media platforms. Loyal fans provide a small amount of ad revenue and buy branded swag, providing you with an additional two dots in Resources. Once per story, you can arrange a small, local meetup and feed from one of the attendees, granting you one dot in Herd.
 
-**•••• Collabs and Sponsorships:**&#x20;
+**•••• Collabs and Sponsorships:** _Allowed_
 
 Everyone who’s interested in your particular subject matter knows your name. Companies offer to work with you to create branded products and attempt to woo you with freebies they hope you’ll promote. In addition to two dots in Fame, gain Allies (••) from among your fans and declare a two-dot Contact at one of the companies you’ve promoted.
 
-**••••• Superstar:**&#x20;
+**••••• Superstar:** _Allowed_
 
 Your social media presence makes you a household name. You set trends and pull in a sizable income from products, promotions, ad revenue, and patron donations. Maintaining your presence and place in the ever-changing hierarchy requires a full-time schedule of recording, posting, promoting. While this grants you three dots in both Fame and Resources, your notoriety also puts you in a precarious position with Kindred elders. Should they (or worse, FIRSTLIGHT) discover your vampiric identity, punishment will be swift and deadly.
 
@@ -952,7 +1102,7 @@ Your social media presence makes you a household name. You set trends and pull i
 
 <details>
 
-<summary><strong>Juggler (p.227)</strong></summary>
+<summary><mark style="color:green;"><strong>Juggler (p.227)</strong></mark></summary>
 
 <sup>_Juggler has been a pain in the Chicago Camarilla’s ass and a thorn in Modius’s side for the better part of a century. He ruled the Anarchs before Maldavis came along, and he directed much of their activity from Gary. During some of the tensest periods in the War of Chicago, Helena and the powerful Brujah Tyler controlled his actions. Juggler may have a sense of this, especially since Tyler’s disappeared from Chicago, but it’s not something he’d ever let slip to his followers._</sup>
 
@@ -960,23 +1110,23 @@ Your social media presence makes you a household name. You set trends and pull i
 
 <sup>_Unlike his disorganized Camarilla counterpart, Juggler understands how to run a revolution. His childe, Evelyn Stephens, was privy to his plans. He kept some secrets, but he ensured that the schemes he’d set in motion could carry on in his absence. As much of a blow as it was to the Anarchs to lose their leader, Evelyn has stepped up and rallied them right back to the cause._</sup>
 
-**• For the Cause:**
+**• For the Cause:** _Allowed_
 
 You’ve run with the Anarchs in Chicago under Juggler’s direction. Gain one reroll per session on Brawl, Melee, and Streetwise rolls when going up against members of the Camarilla.
 
-**•• Guns to a Knife Fight:**&#x20;
+**•• Guns to a Knife Fight:** _Allowed_
 
 When a Prince starts losing, he blames the Anarchs first and tries to wipe them out. Juggler learned that lesson with Lodin, and in more recent nights, when Modius ratted out his enemies to Sullivan Dane. Once per story, you have access to a weapons cache that Juggler has secreted away in Gary and can buy up to Resources (•••) worth of gear.
 
-**••• Rabble Rouser:**&#x20;
+**••• Rabble Rouser:** _Allowed_
 
 You have a knack for dirty fighting. Juggler put you in charge of a group of Anarchs who Get Shit Done around Gary. Once per story, you can call upon a small group (3-5 people) to sow chaos in Gary’s streets or back you up in a brawl. This counts as a temporary Allies Background rated at an effectiveness of two dots, with the benefit of their being Kindred and carrying Disciplines. They cease following you for the rest of this story.
 
-**•••• Coordination is Key:**
+**•••• Coordination is Key:** _Allowed_
 
 Juggler set you up as a key part of Anarch communications. Other Kindred slip you information about their activities, which you pass along to those who need to know. This grants you significant cachet in the Movement, manifesting as Status: Anarchs (•••) and Influence: Gary (•••). Once per story, ask your Storyteller for a piece of intel that’s recently come across your desk.
 
-**••••• Rust Never Sleeps:**&#x20;
+**••••• Rust Never Sleeps:** _Allowed_
 
 Juggler trusted you with his plans and valued your input in his strikes against the Camarilla and Modius. He is your four-dot Mawla (in his absence, Evelyn Stephens fills this role). Once per story, work with your Storyteller to name a member of the Movement in another city whose skills or access are useful to you. A friend of Juggler’s is a friend of theirs, and they’re eager to help the Anarchs rise. They act as a three-dot Contact for you until the end of that story.
 
@@ -984,29 +1134,29 @@ Juggler trusted you with his plans and valued your input in his strikes against 
 
 <details>
 
-<summary><strong>Lost Secrets of the Milwaukee Chantry (p.228)</strong></summary>
+<summary><mark style="color:red;"><strong>Lost Secrets of the Milwaukee Chantry (p.228)</strong></mark></summary>
 
 <sup>_The Tremere of Milwaukee were once one of the most exclusive coteries in the United States. Their sole purpose was to unravel the secrets of the strange mystical “Null Zone” near Marquette University, where magic does not function (see p. 231). Then Carna abandoned Milwaukee on the eve of a Sabbat invasion, and her fellow chantry members, Victor and Dr. Mortius, disappeared soon after. The Tremere have not reestablished their presence in Milwaukee, leaving their Chantry’s secrets vulnerable to outsiders._</sup>
 
 <sup>_Kindred from Chicago and beyond flock to Milwaukee to uncover its occult secrets before the Tremere return. Karl Schrekt is assembling an elite coterie to reestablish the Milwaukee Chantry before Carna and her allies can do the same. Interested parties race against time to recover whatever they can before their window closes forever._</sup>
 
-**• Carna’s Primogen Files:**
+**• Carna’s Primogen Files:** _Banned_
 
 While nominally apolitical, Carna managed to collect a significant amount of information about her fellow Kindred during her tenure as Primogen. You have access to Carna’s Primogen Files and gain a bonus die on all Politics rolls involving the Kindred of Milwaukee.
 
-**•• Abandoned Real Estate:**&#x20;
+**•• Abandoned Real Estate:** _Banned_
 
 Carna and Victor maintained numerous havens throughout the wealthier areas of Milwaukee. Your search uncovers one such haven, providing you with access to a two-dot Haven in Milwaukee, equipped with a two-dot Occult Library (Carna) or two-dot Hidden Armory (Victor), and potential clues to the location of additional havens or Tremere secrets (Storytellers discretion). Tremere agents are certain to follow, so take up permanent residence with extreme caution.
 
-**••• Victor’s Grimoire:**&#x20;
+**••• Victor’s Grimoire:** _Banned_
 
 Victor was the deadly enforcer of the Milwaukee Tremere and had access to a potent array of unique rituals. You have located Victor’s Grimoire and cache of occult rituals. Subject to Storyteller’s discretion, Blood Sorcerers may immediately learn one of the rituals located in The Chicago Folios, p. 174 and have a roleplaying justification to learn additional rituals from The Chicago Folios through the standard expenditure of time and experience. Non-Tremere are hunted mercilessly for mere possession of this knowledge. Learning these rituals still requires Experience expenditure.
 
-**•••• Objects of Desire:**&#x20;
+**•••• Objects of Desire:** _Banned_
 
 You have uncovered the subject of Tremere study in Milwaukee, a strange “Null Zone” where magic does not function, centered on Marquette University. Tremere records indicate that objects of incredible power are located somewhere in the zone and may be possible to recover, but opposition from Clan Tremere, Lupines, and/or Magi, is extremely likely. You gain a precarious Haven Background rated at four dots, though with it comes an Adversary at two dots and an Enemy at two dots.
 
-**••••• Dr. Mortius’s Haven:**&#x20;
+**••••• Dr. Mortius’s Haven:** _Banned_
 
 You have located Dr. Mortius’s haven, a “haunted” house near Marquette University. It is a three-dot haven with an awe-inspiring, yet utterly disorganized, occult library. The library grants you a three-dot bonus to all Academics and Occult rolls and is filled with a wide range of other secrets. At the Storyteller’s discretion, these secrets might include access to Blood Sorcery, innocuous magic items, information about Milwaukee’s magical “Null-Zone,” theories on ancient Kindred in Lake Michigan, and even a copy of “The Book of the Grave-War” — although missing half a page or so. At the Storyteller’s discretion, Mortius’s haven may contain a variety of mundane and mystical defenses to penetrate prior to entry.
 
@@ -1014,7 +1164,7 @@ You have located Dr. Mortius’s haven, a “haunted” house near Marquette Uni
 
 <details>
 
-<summary><strong>Mark Decker (p.229)</strong></summary>
+<summary><mark style="color:orange;"><strong>Mark Decker (p.229)</strong></mark></summary>
 
 <sup>_Mark Decker prefers hunting Lupines to ruling Milwaukee. He uses the position to protect the city, placing his Anubi in top-ranking jobs and strictly enforcing the Masquerade. In recent nights, he’s grown even more suspicious of the Kindred in his territory — who’s plotting against him? Who’s undermining his agenda? Breaking his strict new laws results in swift punishment, up to and including the final death._</sup>
 
@@ -1022,23 +1172,23 @@ You have located Dr. Mortius’s haven, a “haunted” house near Marquette Uni
 
 <sup>_Decker keeps his city on constant high alert against werewolves and Anarchs, and respects those Kindred who display the same vigilance he does. Perhaps some night, if he can push the Lupines back far enough and strike a massive blow to the Anarchs, he’d consider relinquishing his throne. But that’s a long, long way off, and there’s much work to be done before then._</sup>
 
-**• Good Graces:**&#x20;
+**• Good Graces:** _Discuss With Storytellers_
 
 Decker has put a small amount of trust in you, assigning you to patrol duty around the city and allowing you to act with his authority in minor breaches of his laws. Still, he requires you to enter a one-step Blood Bond in case that feeling is misplaced.
 
-**•• Tyrant’s Recognition:**&#x20;
+**•• Tyrant’s Recognition:** _Discuss With Storytellers_
 
 Decker is aware of the body count you’ve racked up protecting Milwaukee. He grants you feeding rights to a small rack, providing you with a two-dot Herd and a one-dot Haven.
 
-**••• One Strike:**&#x20;
+**••• One Strike:** _Discuss With Storytellers_
 
 Your penchant for not only upholding but enforcing the Prince’s laws has caused Decker to loosen his reins on you. It’s still unwise to break them, but once per story he allows you to plead your case if you’re caught for a minor infraction. Rather than the final death, he’ll impose sanctions.
 
-**•••• The Prince’s Trust:**&#x20;
+**•••• The Prince’s Trust:** _Discuss With Storytellers_
 
 You’ve fought at Decker’s side against the Lupines and rooted out Anarch incursions. You’ve learned how to talk to him without setting him off, or at least how to push those buttons without turning his suspicions on yourself. Decker listens to your counsel, and his trust in you gives you a little leeway in the city. Gain Mark Decker as a five-dot Mawla once per story. Additionally, once per story, you may dine with him at the Hyatt or join him in his private suite at Brewers Stadium for an audience.
 
-**••••• Childe of Mark Decker&#x20;**_**(Gangrel Only)**_**:**&#x20;
+**••••• Childe of Mark Decker&#x20;**_**(Gangrel Only)**_**:** _Discuss With Storytellers_
 
 Decker granted you the gift of his Embrace and expects you to treat such an honor accordingly. He’s trained you as one of his Anubi and placed you in a position of power in the city. Work with your Storyteller to determine where your authority lies. Decker provides you with a three-dot Haven, two-dot Status, and you gain one free Skill Specialty in Athletics, Brawl, or Melee. Many Kindred despise Decker, and this antipathy extends to his childer. You earn three dots in Adversaries, to be made into one vampire or split across two or three.
 
@@ -1046,7 +1196,7 @@ Decker granted you the gift of his Embrace and expects you to treat such an hono
 
 <details>
 
-<summary><strong>Maxwell (p.230)</strong></summary>
+<summary><mark style="color:orange;"><strong>Maxwell (p.230)</strong></mark></summary>
 
 <sup>_Maxwell’s been off the chess board a long time now. The one-time Prince of Chicago, a Brujah, might have ruled again after Lodin’s death, were it not for Kevin Jackson’s rise to power. He disappeared after that, though wise Kindred know better than to think he’s suffered his final death._</sup>
 
@@ -1054,23 +1204,23 @@ Decker granted you the gift of his Embrace and expects you to treat such an hono
 
 <sup>_Maxwell’s opponents (and many of his supporters) recognize his penchant for violence. Signing on with him is a dangerous and probably bloody endeavor, but he’ll handsomely reward those who help him take Chicago._</sup>
 
-**• Tactician:**&#x20;
+**• Tactician:** _Discuss With Storytellers_
 
 You’ve studied Maxwell’s strategies as Prince of Chicago and sussed out some of the secrets of his rule. Add two bonus dice to an Academics, Politics, or Subterfuge roll relating to political planning or military maneuvers.
 
-**•• Travelling Companion:**&#x20;
+**•• Travelling Companion:** _Discuss With Storytellers_
 
 While Kindred considered him dead after Devil’s Night, Maxwell roamed the world building up allies in other countries. One thing he learned in these hyper-surveilled modern nights is how to evade detection while travelling. You traveled with him during this time, and he’s willing to share his contacts. Once per story, you can call on Maxwell’s allies for reliable and secure transportation between cities.
 
-**••• Vanguard:**&#x20;
+**••• Vanguard:** _Discuss With Storytellers_
 
 You’re a member of Gary’s Vanguard, trusted by Eric Sharpe and Maxwell alike. Gain Status: Gary (•••). Sharpe has granted you territory in the city, where you have a two-dot Haven and feeding rights. If not participating in Rusted Jungle (see p. 125), this lore gives you standing as a long-time, respected Kindred resident of Gary.
 
-**•••• The Art of Disappearing:**
+**•••• The Art of Disappearing:** _Discuss With Storytellers_
 
 If your enemies think you’re dead, they stop worrying about how you’re plotting against them. Maxwell has taught you tricks for staying hidden and working from the shadows. Once per story, he’ll help you create a two-dot Mask under which you can anonymously further a goal. Alternately, he’ll help you convincingly fake the death of one of your current Masks and transfer its resources to a new identity without leaving a paper trail.
 
-**••••• The Once and Future Prince:**&#x20;
+**••••• The Once and Future Prince:** _Discuss With Storytellers_
 
 You’re one of the highly placed Kindred Maxwell is counting on in Chicago. He’s guided and financed your rise among your clan’s ranks, helped rid you of enemies, and provided you with information about the machinations of Prince Jackson and the Primogen. Gain Resources (•••••); two dots must be spent securing Maxwell’s plans, but the remaining three are yours to spend as you like. You have a list of those Kindred in Chicago who owe Maxwell boons. Once per story, you can call in a minor boon from someone on the list. Once per chronicle, you can call in a major boon. Though you may use these for any purpose that suits you, Maxwell expects you to send him an account of how you’ve spent his favors. Using them foolishly will earn the soon-to-be Prince’s ire. He’s built you up; never doubt that he can tear you back down.
 
@@ -1078,27 +1228,27 @@ You’re one of the highly placed Kindred Maxwell is counting on in Chicago. He�
 
 <details>
 
-<summary><strong>The Milwaukee "Null Zone" (pp.231-232)</strong></summary>
+<summary><mark style="color:red;"><strong>The Milwaukee "Null Zone" (pp.231-232)</strong></mark></summary>
 
 <sup>_The “Null Zone” is a mystical dead zone centered on Marquette University and the surrounding area where magic simply ceases to function. This site was once the location of the final battle between the Lupine Usla and, Hrothulf’s Kindred wife, Chiclena and her allies. With his dying breath, Usla called upon the mighty spirits of his people, transforming parts of his very being into a pair of potent talismans, destroying Chiclena. Almost no one knows these talismans are buried under Marquette University, or that they are responsible for creating the “Null Zone.” Kindred, Lupines, and magi study the Zone with great vigor, but few outside the Lupines know its secret._</sup>
 
-**• Legends of Usla:**&#x20;
+**• Legends of Usla:** _Banned_
 
 You know the legend of the battle between Usla and Chiclena and discern something extremely important to the Lupines is buried inside the “Null Zone.” You don’t know exactly where the item is buried, but you are on the hunt. Gain one bonus die to all Investigation and Occult rolls related to the “Null Zone.”
 
-**•• Into the Zone:**&#x20;
+**•• Into the Zone:** _Banned_
 
 You have access to the Milwaukee “Null Zone” and can linger there for brief periods without observation or being assailed by outside forces. Within the zone, all uses of Auspex have their difficulty reduced by one. Uses of Protean do not require Rouse checks, but you must spend one Willpower per scene to prevent transformative powers like Feral Weapons and Shapechange from activating automatically. All Blood Sorcery rolls require seven successes to succeed and its attendant rituals fail automatically. Failure on any of the above uses of Auspex, Protean, or Blood Sorcery delivers levels of Aggravated damage equal to their margin of failure. Total Failure delivers the same amount of damage in addition to leaving a mystical mark on your aura that acts as a powerful beacon to all Lupines in the area.
 
-**••• St. Joan of Arc Chapel:**
+**••• St. Joan of Arc Chapel:** _Banned_
 
 You discover that a powerful mage had the medieval St. Joan of Arc Chapel moved and reconstructed directly over the center of the “Null Zone” in the 1960s. While ultimately slain by Lupines, his legacy endures. The chapel is surrounded by extremely powerful wards against Lupines and the presence of the Joan of Arc Stone makes it almost unbearable to Kindred (the structure has the equivalent of True Faith 5). A secret staircase concealed under the stones behind the altar leads to a series of underground tunnels and excavations used by the mage to facilitate his investigation. The chapel is one of the primary reasons Kindred and Lupines have been unable to claim their prize, and it is warded by a variety of sorcerous and mundane protections. Any entrance to the chapel will be opposed by Lupines, magi, or agents of the Society of St. Leopold stationed on the Marquette campus.
 
-**•••• Church of Isis:**&#x20;
+**•••• Church of Isis:** _Banned_
 
 Mount Mary College plays host to the Church of Isis, an occult society espousing radical feminist views composed of humans and magick users from the Cult of Isis. They are eager to recover Usla’s talismans and work with Kindred and Lupine alike to achieve their purpose. Formerly affiliated with Dr. Mortius prior to his disappearance, they seek new Kindred allies to further their quest. You forge an alliance with the Church of Isis, allowing you to call upon their aid once per Chronicle. They count as a five dot Ally group that can provide both mundane and sorcerous assistance.
 
-**••••• Usla’s Talismans (choose one):**
+**••••• Usla’s Talismans (choose one):** _Banned_
 
 * Eye of the Coyote: With Storyteller’s permission, you know where to find the Eye of the Coyote. You have the equivalent of five-dots of Auspex with all related abilities and the difficulty of single Blood Sorcery roll made against you is increased by four while the Eye is on your person. The Storyteller can grant the Eye additional abilities and you are hunted day and night by all Lupines until the Eye is recovered. The Eye is only usable once per story, but the lure attached to it is permanent.
 * Talon of the Eagle: With Storyteller’s permission, you know the location of the Talon of the Eagle. All your physical Attributes are doubled (up to a maximum of five) once per story, and you have the equivalent of five dots of Protean with all related abilities while the Talon is on your person. The Storyteller can grant the Talon additional abilities, and you are hunted day and night by all Lupines until the Talon is recovered. The Talon is only usable once per story, but the lure attached to it is permanent.
@@ -1107,7 +1257,7 @@ Mount Mary College plays host to the Church of Isis, an occult society espousing
 
 <details>
 
-<summary><strong>Modius (p.233)</strong></summary>
+<summary><mark style="color:red;"><strong>Modius (p.233)</strong></mark></summary>
 
 <sup>_Modius has never been content. Not in his mortal days, when he yearned toward greatness even as he traded furs and toiled in the fields. Not in all his waking nights, when the throne of Chicago has eluded him at every turn. It’s certainly not for lack of trying — he’s gone to war for Chicago. He vies to lift Gary from the mire Lodin sank it into. He’s yanked the city back from Juggler and his Anarchs time and again. Modius could be transcendent, if only his fellow Kindred opened their eyes._</sup>
 
@@ -1115,23 +1265,23 @@ Mount Mary College plays host to the Church of Isis, an occult society espousing
 
 <sup>_These nights, Modius’s name is most often whispered alongside his long-standing enemy, Juggler. The two revel in their ongoing hostilities, letting their violent conflict add to Gary’s already abominable crime rate._</sup>
 
-**• Followers:**&#x20;
+**• Followers:** _Banned_
 
 You believe in Modius’s capability, even if most others don’t understand why. You’re in contact with a few other like-minded Kindred. Once per chapter, you can call on one of them to do a small favor for you in Gary.
 
-**•• Windy City Ally:**&#x20;
+**•• Windy City Ally:** _Banned_
 
 You were one of the few who backed the idea of naming Modius as Prince of Chicago this last go-round. It earned you sneers and enmity within the city, but word of your support got back to the pauper Prince. As thanks, he sent one of his employees to you and permitted you to make them your two-dot Retainer.
 
-**••• Keys to the Mansion:**
+**••• Keys to the Mansion:** _Banned_
 
 Modius values your strategic mind, especially when it comes to out thinking the Anarchs. He’s provided you with keys to the guest quarters at the governor’s mansion (Haven •••) and access to his files, with intel on Juggler’s plans. Once per story, ask your Storyteller for a piece of information on recent Anarch movements in the city.
 
-**•••• Since 1913:**&#x20;
+**•••• Since 1913:** _Banned_
 
 You were part of Modius’s original attempt at seizing praxis and took part in some of the attacks on Lodin’s loyalists. He’s never forgotten your service and made sure the vampires in Gary heard about your deeds. Gain Status: Gary Camarilla (••••). Modius has also declared that you may feed anywhere in Gary, though the Anarchs are unlikely to abide by that if you wander into their territory.
 
-**••••• Pauper Dynasty:**&#x20;
+**••••• Pauper Dynasty:** _Banned_
 
 Whatever Chicago’s Kindred think, Modius is a Prince and has been one for over half a century now. He has insight into what it takes to rule and imparts that wisdom to you in the hopes you’ll seize praxis in some other domain — provided it’s neither Gary nor Chicago. Gain Modius as a five-dot Mawla, and gain Influence (••) in a city of your choosing to reflect the groundwork he’s helped you lay there.
 
@@ -1141,29 +1291,29 @@ Whatever Chicago’s Kindred think, Modius is a Prince and has been one for over
 
 <details>
 
-<summary><strong>Calling the Family Reunion, </strong><em><strong>Hecata Characters Only</strong></em><strong> (p.228)</strong></summary>
+<summary><mark style="color:green;"><strong>Calling the Family Reunion, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.228)</strong></mark></summary>
 
 <sup>_The Clan of Death, in all its forms, has always had a gift for understatement. The latest, the so-called “Family Reunion,” was a combination of the strategic removal of some high-profile elders, the burying of some ancient axes — sometimes in another vampire’s head — and the subsequent unleashing of millions of outraged and ungrateful ghosts taking out centuries of pent-up ire on any necromancer they could find._</sup>
 
 <sup>_You are party to the hasty (by Kindred standards) discussion between ancient enemies of the necessity and utility of working together. You may have been involved in some of the acts that led to it, or you were present at the Reunion itself. In your own way, you’ve contributed to this new step in the Clan of Death. And even though you’ve become one big happy clan again, that doesn’t mean you just forgive and forget._</sup>
 
-**• The Kids’ Table:**&#x20;
+**• The Kids’ Table:** _Allowed_
 
 You were present at the dinner where the final details of the Reunion were discussed. You didn’t have any significant impact in the discussion, but you know what was debated, so you’re familiar with all the old animosities and arguments. You get two dice on any Persuasion checks against another Hecata who tries to resurrect old disagreements.
 
-**•• Updating the Rolodex:**
+**•• Updating the Rolodex:** _Allowed_
 
 Not everyone gets along in the new-and-improved Hecata, but since you were present during the initial dealmaking, you now have access to a lot of new contacts. When asking for information or small favors, you have the equivalent of three dots of Status within the Hecata clan.
 
-**••• Hiding the Bodies:**&#x20;
+**••• Hiding the Bodies:** _Allowed_
 
 Even the Clan of Death doesn’t have the luxury of flaunting all the corpses they’ve left along the way. You were involved in the cleanup of a key murder, and a Hecata elder is greatly in your debt as a result. Once per story, you may remind them of that debt to cash in the effects of a minor boon or less (see Vampire: The Masquerade, p. 315). Once per chronicle, you may clear the debt in return for the effects of a major boon. Call upon them more often, or for favors beyond their reach, and they will grudgingly comply... only to become a persistent Adversary once your business concludes.
 
-**•••• Dealmaker:**&#x20;
+**•••• Dealmaker:** _Allowed_
 
 For all the visible debates during the Family Reunion, there were just as many backroom deals made in order to make the reunification of the Hecata a success. You were a part of one of those deals, and an influential elder in the Hecata owes you as a result. That elder counts as a five-dot Mawla Background but will become a potent Adversary if the secrets are ever revealed.
 
-**••••• Spiritual Assault:**&#x20;
+**••••• Spiritual Assault:** _Allowed_
 
 You were involved in the murder of Augustus Giovanni, the methuselah responsible for the alleged destruction of the Cappadocians. As such, you know it was Augustus’ death that unleashed the maelstrom of wraiths coming after the Hecata. Anytime you or someone who consults you uses an Oblivion Ceremony to deal with a spectre or other antagonistic ghost, you gain two automatic successes.
 
@@ -1171,29 +1321,29 @@ You were involved in the murder of Augustus Giovanni, the methuselah responsible
 
 <details>
 
-<summary><strong>Child of the Angel Michael, </strong><em><strong>Unavailable to Nosferatu Characters</strong></em><strong> (p.229)</strong></summary>
+<summary><mark style="color:green;"><strong>Child of the Angel Michael, </strong></mark><em><mark style="color:green;"><strong>Unavailable to Nosferatu Characters</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.229)</strong></mark></summary>
 
 <sup>_That which is perfect is beautiful. That which is beautiful is good. That which is good leads to utopia. This is what the Nephilim believe — that if they can embody all that is beautiful and perfect, they can recreate the utopic dream of the perfect Kindred city: Constantinople. A recent cult chided in equal parts as a Toreador fever dream and an excuse for lavish parties, the Nephilim nevertheless draws in a large share of proponents, eager to ogle the great and the good, or to find ways to improve themselves toward their personal ideal._</sup>
 
 <sup>_Of course, the pursuit of ideal perfection shouldn’t be sullied by base concerns like money or power. Those that give up all that they hold dear to the Nephilim will be rewarded, becoming more perfect and more beautiful with each passing night. Besides, once the Dream of Constantinople comes to pass and all vampires are living in harmony, none of that will matter anyway. Right? You might be a seeker of beauty, or one of the beautiful yourself, but you’re definitely invested in the Dream, one way or another._</sup>
 
-**• The Great and the Good:**
+**• The Great and the Good:** _Allowed_
 
 Even just being around perfect and beautiful people has its advantages, and you’ve been able to leverage your connection to fellow cultists into a few small gains yourself. You have two free dots to distribute between the Contacts, Fame, Herd, and Influence Backgrounds, though the kinds of followers you attract verge on the fanatical and dangerous to you and your loved ones.
 
-**•• Outer Beauty:**&#x20;
+**•• Outer Beauty:** _Allowed_
 
 You make trips to the local Nephilim temple, and the accentuation of your “inner beauty” leads to outer effects. Your skin becomes clear, your hair gains luster, and your limbs become long and firm. You get the Looks Merit at four dots, even after character creation. The negative side is you have to really disguise your appearance if you want to avoid attention. Inevitably, your face will be the one witnesses remember.
 
-**••• Hedonistic Pleasure:**&#x20;
+**••• Hedonistic Pleasure:** _Allowed_
 
 Of course, there’s no point being beautiful if you can’t enjoy it, right? Lots of long nights of excess have taught you a thing or two about having a good time, even when you’re not in a Nephilim temple. You gain two dice on any rolls to score drugs, get a date or sexual partner, or get yourself invited to a party. In addition, your exploits are legendary — take either two dots in Fame or two dots in Status.
 
-**•••• Michael’s Calling:**&#x20;
+**•••• Michael’s Calling:** _Allowed_
 
 You’ve been in past cults in which the childer of Michael were worshiped to bring about the Dream. While it’s novel and convenient that all of these fringe cults have come together under one roof, as it were, you see it all as the sham it is. That won’t stop you from leveraging it for your own gain, however. Once per story, you can use all of a cult member’s appropriate Backgrounds as if they were your own.
 
-**••••• Wiping Away the Stains:**&#x20;
+**••••• Wiping Away the Stains:** _Allowed_
 
 The most horrific and flawed parts of the Kindred are, of course, on the inside. Most of the cult claims they want inner beauty as well as outer perfection, but the sex and drugs tend to get in the way of true enlightenment. Luckily, you haven’t lost the true path. Once per story, you can spend a Willpower to remove a Stain from another vampire. The vampire must have sex with you, do drugs with you, or engage in some other hedonistic activity for at least an hour.
 
@@ -1201,29 +1351,29 @@ The most horrific and flawed parts of the Kindred are, of course, on the inside.
 
 <details>
 
-<summary><strong>The Promise of 1528 (p.231)</strong></summary>
+<summary><mark style="color:red;"><strong>The Promise of 1528 (p.231)</strong></mark></summary>
 
 <sup>_After the Giovanni engineered the fall of the Cappadocians (or so they thought), the up-and-coming Camarilla expressed concerns about the so-called “Devil Clan.” The purge of the Cappadocians entered full force soon after the Anarch Revolt, and the Kindred of the Camarilla were worried that this was more of the same. With the upstart Anarchs forming into what would become the Sabbat, the Camarilla couldn’t afford a war on yet another front. So, Augustus Giovanni and the Inner Circle of the Camarilla met in Venice in 1528, and signed an agreement._</sup>
 
 <sup>_The problem is, no one really knows what’s in the agreement. For years, all that was known was that the Giovanni had some degree of autonomy in Camarilla domains, and that the clan was given ownership of the city of Venice (in exchange for the Inner Circle being allowed to hold their meetings there). After the Family Reunion, however, an additional detail has been revealed: The Promise has a limit of 500 years, meaning it will expire in 2028. Both the Camarilla and the Hecata are scrambling to find out the details of the agreement, as well as the consequences once it expires._</sup>
 
-**• Legal Scholar:**&#x20;
+**• Legal Scholar:** _Banned_
 
 You are an active student of the Promise. You don’t know much, but that’s more than most Kindred know. Even the fact that you know such a document exists gives you leverage. In legal disputes with Camarilla Kindred or members of the Hecata, you gain two dice on Persuasion rolls.
 
-**•• Scrap of Information:**
+**•• Scrap of Information:** _Banned_
 
 You saw a scrap of a transcript of the Promise once. A lot of forgeries have circulated among the Kindred over the centuries, but you’re reasonably sure this one is genuine. This makes you a hot commodity among other Kindred who hunger to know what’s in the Promise. Once per story, if you allow Kindred access to your notes on the Promise fragment for research, you gain a temporary dot in Contacts, Herd, Influence, or Resources for the remainder of the story, and may call in a major boon (see Vampire: The Masquerade p. 315) from the vampire in future.
 
-**••• Tick Tock:**&#x20;
+**••• Tick Tock:** _Banned_
 
 You know, or believe you know, the consequences of allowing the Promise to expire, and they aren’t good. Once per story, you can give advice to members of your local faction (the Camarilla court if you are a Camarilla Kindred, or the local family if you are Hecata) and expect to be taken seriously. You will get an audience, and two automatic successes on any rolls which leverage your knowledge during the meeting.
 
-**•••• Faulty Memory:**&#x20;
+**•••• Faulty Memory:** _Banned_
 
 You read the Promise once, but for some reason you can never recall the text in full, even if you have advantages or powers that would normally allow you to remember things or uncover buried memories. But once in a while, snippets surface to help you at just the right time. Once per story, you can add three dice to an appropriate roll where memory of the Promise would help you.
 
-**••••• Signatory:**&#x20;
+**••••• Signatory:** _Banned_
 
 You are directly related to one of the signatories of the Promise (or you are a signatory yourself). Once per chronicle, you can leverage your knowledge of the Promise to force a Camarilla Prince or a Hecata anziani to permanently change a ruling or local law in your favor, using your knowledge of the Promise to give you political clout. However, you must decide why you are unable to ever speak of the details of the Promise — perhaps it’s a thaumaturgical compulsion, the spirit of a loved one threatened with eternal torment, or a lot of Ventrue Dominate.
 
