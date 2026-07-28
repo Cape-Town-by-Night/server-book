@@ -23,7 +23,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Hardestadt,</strong> <em>(Ventrue Characters Only)</em> (p.390)</summary>
+<summary><strong>Descendant of Hardestadt,</strong> <em>Ventrue Characters Only</em> (p.390)</summary>
 
 **• Voice of Hardestadt:** Allowed\
 &#xNAN;**•• Supreme Leader:** Allowed\
@@ -35,7 +35,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Helena,</strong> <em>(Toreador Characters Only)</em> (p.391)</summary>
+<summary><strong>Descendant of Helena,</strong> <em>Toreador Characters Only</em> (p.391)</summary>
 
 **• Skin-Deep:** Allowed\
 &#xNAN;**•• Real Talent:** Allowed\
@@ -47,7 +47,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Tyler,</strong> <em>(Brujah Characters Only)</em> (p.397)</summary>
+<summary><strong>Descendant of Tyler,</strong> <em>Brujah Characters Only</em> (p.397)</summary>
 
 **• Instigator:** Allowed\
 &#xNAN;**•• Champion of the Cause:** Allowed\
@@ -59,7 +59,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Zelios,</strong> <em>(Nosferatu Characters Only)</em> (p.398)</summary>
+<summary><strong>Descendant of Zelios,</strong> <em>Nosferatu Characters Only</em> (p.398)</summary>
 
 **• Sanctuary:** Allowed\
 &#xNAN;**•• Saboteur:** Allowed\
@@ -71,7 +71,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Vasantasena,</strong> <em>(Malkavian Characters Only)</em> (p.399)</summary>
+<summary><strong>Descendant of Vasantasena,</strong> <em>Malkavian Characters Only</em> (p.399)</summary>
 
 **• Agent of Chaos:** Allowed\
 &#xNAN;**•• Hear My Words:** Allowed\
@@ -83,7 +83,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Karl Schrekt,</strong> <em>(Tremere Characters Only)</em> (p.405)</summary>
+<summary><strong>Descendant of Karl Schrekt,</strong> <em>Tremere Characters Only</em> (p.405)</summary>
 
 **• Remember the House:** Allowed\
 &#xNAN;**•• Hardliner:** Allowed\
@@ -95,7 +95,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Xaviar,</strong> <em>(Gangrel Characters Only)</em> (p.406)</summary>
+<summary><strong>Descendant of Xaviar,</strong> <em>Gangrel Characters Only</em> (p.406)</summary>
 
 **• Martyred Ancestor:** Allowed\
 &#xNAN;**•• Where the Bodies Are Buried:** Allowed\
@@ -109,7 +109,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Lodin,</strong> <em>(Ventrue Characters Only)</em> (p.273)</summary>
+<summary><strong>Descendant of Lodin,</strong> <em>Ventrue Characters Only</em> (p.273)</summary>
 
 **• Baby of the Family:** Allowed\
 &#xNAN;**•• Responsible Middle Childe:** Allowed\
@@ -121,7 +121,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Montano,</strong> <em>(Lasombra Characters Only)</em> (p.274)</summary>
+<summary><strong>Descendant of Montano,</strong> <em>Lasombra Characters Only</em> (p.274)</summary>
 
 **• Deep Pockets:** Allowed\
 &#xNAN;**• The Shadow of Yesterday:** Allowed\
@@ -136,7 +136,7 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Menele, </strong><em><strong>(Brujah Characters Only)</strong></em><strong> (p.160)</strong></summary>
+<summary><mark style="color:green;"><strong>Descendant of Menele, </strong></mark><em><mark style="color:green;"><strong>Brujah Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.160)</strong></mark></summary>
 
 <sup>_Menele has walked the Earth since his breathing days as a philosopher-king in ancient Greece. His insatiable lust for enlightenment led him first to India, then to Carthage, a utopia purportedly built on the ideal of peaceful coexistence between Kindred and kine. A utopia reduced to ash by the treachery of Helena._</sup>
 
@@ -144,23 +144,23 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <sup>_Many of Menele’s descendants inherited his passion for philosophy, enlightenment, and greater ideals, while others became fearsome warriors selected for their ability to defend Menele from Helena’s agents. Both were needed to realize Menele’s weary dream of founding a new Carthage based on ancient Brujah ideals. Now, Menele’s descendants are free to choose their destiny for the first time in millennia. The question is: What will they do with it?_</sup>
 
-**• Symposium:**&#x20;
+**• Symposium:** _Allowed_
 
 Menele always liked a good argument and sired many childer after debating the mysteries of life for evenings on end. All of your Persuasion rolls have their difficulty reduced by one.
 
-**•• Carthago Delenda Est:**&#x20;
+**•• Carthago Delenda Est:** _Allowed_
 
 Menele maintained an elaborate network of spies, informants, and retainers. His network fragmented upon his destruction, but you managed to claim a portion of it for your own. You have three dots to split between Retainers, Influence, Allies, and Resources, with the absolute certainty that Helena and her agents will attempt to take them from you.
 
-**••• Know Thyself:**&#x20;
+**••• Know Thyself:** _Allowed_
 
 Menele believed the Brujah needed to return to their roots as thinkers and positive agents of change. You are trained to resist the pull of your Brujah fury. Once per session, you can spend a Willpower point to re-roll a frenzy brought about by your Brujah clan bane.
 
-**•••• Knowledge is Power:**&#x20;
+**•••• Knowledge is Power:** _Allowed_
 
 Menele was impossibly old and held many secrets about the Kindred of Chicago and beyond. You were steward of those secrets before. The Beckoning drew him away. Once per story, you may request a single secret from the Storyteller about a clan or Kindred in Chicago or similar domain that felt Menele’s influence (Storyteller’s discretion).
 
-**••••• The Greater Mysteries:**&#x20;
+**••••• The Greater Mysteries:** _Allowed_
 
 Menele spent years learning the meditative practices necessary to perceive the astral plane in his quest for spiritual perfection. You inherited a portion of his ability and remain fully cognizant of your surroundings during your daily slumber. Reduce the difficulty of all Rouse checks to awaken during the day by two. You also have the ability to perceive fractured glimpses of events to come that may affect your character while you slumber. Once per session, you may roll Resolve + Occult to interpret your nightly visions. Each success brings the vision into greater focus and the Storyteller may offer you one cryptic hint or fact relevant to your character.
 
@@ -170,7 +170,7 @@ Menele spent years learning the meditative practices necessary to perceive the a
 
 <details>
 
-<summary><strong>The Criminal Puttanesca, </strong><em><strong>Hecata Characters Only</strong></em><strong> (p.160)</strong></summary>
+<summary><mark style="color:green;"><strong>The Criminal Puttanesca, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.160)</strong></mark></summary>
 
 <sup>_For a few decades, the Giovanni had a reputation as being nothing more than vampire mobsters. Savvy Hecata ancillae confronted by such ethnic stereotypes in Camarilla Elysia laugh and suggest the rumor started from too many late-night showings of The Godfather. And once the Hecata gets a chance to slip away, they call their cousins and ask what the fucking Puttanesca have done this time._</sup>
 
@@ -178,23 +178,23 @@ Menele spent years learning the meditative practices necessary to perceive the a
 
 <sup>_So if they’re going to be “the fucking Puttanesca,” that’s fine. This family knows all about beating on the little guy before you get beat on by a bigger guy. But soon they’ll be the big guy, and it’ll be everyone else that gets fucked._</sup>
 
-**• Friends in Low Places:**
+**• Friends in Low Places:** _Allowed_
 
 Puttanesca Kindred have close ties to the street, and usually have a few side hustles happening at any one time. It’s easy to get your hands on a little bit of cash and a little bit of muscle whenever you need it. You get two dots to spread between Allies and Resources, and you can reallocate those two dots at the start of each story. These Advantages are immediately subject to police scrutiny.
 
-**•• Show Your Belly:**&#x20;
+**•• Show Your Belly:** _Allowed_
 
 Some members of your family survive by looking as harmless as possible to people more powerful than them. Sure, it’s not dignified, but if you can survive the night, that gives you time to get your revenge later. You get three bonus dice to rolls to convince people not to hurt, endanger, or act against you.
 
-**••• Show Your Fists:**&#x20;
+**••• Show Your Fists:** _Allowed_
 
 On the other hand, it’s not all being pushed around. Some Puttanesca prefer to kick around those smaller than them. You need to show them who’s boss. Prick probably would’ve done something to piss you off anyway, so better to get your licks in first. Against mortals you get two bonus dice for rolls to intimidate, and your unarmed damage modifier increases by one.
 
-**•••• Get the Squad Together:**&#x20;
+**•••• Get the Squad Together:** _Allowed_
 
 Occasionally you just need to get some people together for a good old ass-beating. Once per story, you can get a gang together for a brawl. This gang comprises any local Puttanesca Kindred, as well as mortals equivalent to five dots of Allies. You also get an automatic success in rolls to convince other characters that this beatdown is necessary.
 
-**••••• The Don:**&#x20;
+**••••• The Don:** _Allowed_
 
 Against all odds, you’ve kissed and kicked ass in equal measure to make your way to some amount of respect, wealth, and influence. Other Hecata might even stop insulting you to your face. You have three additional dots each in Contacts, Influence, and Resources, but they must be assigned to criminal enterprise and require careful maintenance to not draw the attention of groups such as the FBI, agents of which can become potent versions of the Enemy Flaw.
 
@@ -204,29 +204,29 @@ Against all odds, you’ve kissed and kicked ass in equal measure to make your w
 
 <details>
 
-<summary><strong>Little Siblings, </strong><em><strong>Hecata Characters Only</strong></em><strong> (p.101)</strong></summary>
+<summary><mark style="color:green;"><strong>Little Siblings, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.101)</strong></mark></summary>
 
 <sup>_The Rossellini and the Giovanni were once rivals in necromancy. The Rossellini had more talent, but the Giovanni had more ambition. That led to the latter becoming the Clan of Death for 500 years, and the other becoming a minor bloodline. The two families share many traits, save for one: ghost manipulation. The Giovanni prefer to coax and cajole, with an occasional threat. The Rossellini begin with threats, browbeating, and dominating wraiths into doing their bidding. The Family takes a sadistic glee using Oblivion._</sup>
 
 <sup>_As a Rossellini, the Shadowlands are your playground. Sure, your enslaved wraiths were human, just like you were, but you conquered death. They are the pitiful remains, doomed to lament about what they once had. The least you can do is give purpose to their miserable unlives. One day you’ll die and join their sorrowful ranks, but for now, you will show your cousins the true depths of Oblivion._</sup>
 
-**• Grave Attitude:**&#x20;
+**• Grave Attitude:** _Allowed_
 
 Your experience commanding wraiths taught you that even the Kindred will eventually cross the Shroud. This certainty gives you peace. In any attempt to intimidate or manipulate you, your aggressors always suffer a one die penalty, which stacks with other penalties.
 
-**•• Ghostly Dominance:**&#x20;
+**•• Ghostly Dominance:** _Allowed_
 
 You brook no tolerance for the pleas and threats of the intangible dead. They are your tools. If they don’t see it that way, you will remind them. When you damage a wraith’s fetter, loved ones, or ectoplasmic form, you receive three bonus dice to any rolls to command them.
 
-**••• Necromantic Expertise:**
+**••• Necromantic Expertise:** _Allowed_
 
 Your siblings in the Giovanni see Oblivion as a means to an end. You know Oblivion is more than that. It’s a wonderous art, one that rewards those with the patience and ruthlessness to examine its depths. When you perform an Oblivion Ceremony, decrease the Difficulty level by one.
 
-**•••• Stolen Will:**&#x20;
+**•••• Stolen Will:** _Allowed_
 
 Ghosts are bundles of emotion cased in an ectoplasmic shell. While some Hecata slake their hunger from ghosts, you know a more sustainable use. When you bite into the fetter of a ghost under your command hard enough to damage it or cause it injury, the fetter bleeds ectoplasm drawn from the ghost’s corpus. Consuming this bitter, stringy substance mends an amount of Aggravated or Superficial Willpower damage equivalent to the ghost’s current Willpower rating.
 
-**••••• Purge:**&#x20;
+**••••• Purge:** _Allowed_
 
 You shred corpuses with ease. Any attack made on a ghost always causes Aggravated Health damage, even outside of the Shadowlands. You are also capable of striking them when they are intangible.
 
@@ -234,29 +234,29 @@ You shred corpuses with ease. Any attack made on a ghost always causes Aggravate
 
 <details>
 
-<summary><strong>Grudge Masters, </strong><em><strong>Hecata Characters Only</strong></em><strong> (p.102)</strong></summary>
+<summary><mark style="color:green;"><strong>Grudge Masters, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.102)</strong></mark></summary>
 
 <sup>_In the 1950s, the Milliner family joined Clan Giovanni out of spite. They weren’t known for their prowess with Oblivion, but their connections helped the clan survive major shifts in organized crime, and the rise of the Second Inquisition. Their only reward was more work and tighter restrictions on feeding and the Embrace, something the Family Reunion did little to rectify. The Milliners have the most responsibilities and the least respect._</sup>
 
 <sup>_As a Milliner, you’re not a household name like the Clintons or the Waltons, but the right people double-take when they hear it. You know that the Giovanni haven’t and won’t give you the credit you deserve, and it’s a deep and simmering grudge, one of the most important among the many you hold. Now everyone is one big happy family, it’s time to air all those grudges out. After all, you’ve got plenty of new cousins that’d just love payback._</sup>
 
-• You Know Who I Am:&#x20;
+**• You Know Who I Am:** _Allowed_
 
 The Milliners are a true American dynasty, and the name carries a power even now and outside of the United States. Once per story, when you invoke the legacy of the Milliner line, you may add three dice to a Social roll.
 
-•• Family Bank:&#x20;
+**•• Family Bank:** _Allowed_
 
 The family has plenty of money, but anyone that calls upon that fortune needs to repay with cash, blood, or labor. Once per story, you may borrow money from a new or existing Milliner SPC. You have Resources 5 for the rest of the story but owe that SPC a favor that must be fulfilled before the end of the story. Your Storyteller will tell you the favor, and the consequences you face if that debt isn’t repaid when the story ends.
 
-••• Perfect Grudges:&#x20;
+**••• Perfect Grudges:** _Allowed_
 
 The Milliners are known for their grudges, but you’re the true poster child. When you are slighted or beaten on a roll by a SPC, you may create a Project (Vampire: The Masquerade, p. 415) dedicated to taking revenge. Its Launch Roll automatically succeeds, and you may add two dice to any Goal Rolls. The character can have as many grudge Projects as their dots in Composure. Any aspirations of revenge beyond that limit are regular Projects.
 
-•••• You Owe Me:&#x20;
+**•••• You Owe Me:** _Allowed_
 
 The Milliners always get their due, even at the worst possible times. Once per story, you may spend a Willpower and declare an SPC in the scene owes you a favor in secret, and it’s now due. The SPC must fulfill that favor to the best of their ability by the end of the story, as decided by the Storyteller.
 
-••••• Friends in High Places:&#x20;
+**••••• Friends in High Places:** _Allowed_
 
 The Milliners’ connections in law enforcement turned them on would-be vampire hunters. This is more difficult these days, but you still have the little black books. Pick a faction within the Second Inquisition (FIRSTLIGHT, the Entity, a local intelligence agency, etc.). Once per story, when that faction acts against you, you may automatically redirect that action onto any enemy Kindred SPC. If they survive, that SPC will know you are to blame.
 
