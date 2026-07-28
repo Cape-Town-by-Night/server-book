@@ -754,7 +754,7 @@ You played an active role in the Convention of Chicago’s success. Your rhetori
 
 <details>
 
-<summary><strong>Goblin Roads (p.161)</strong></summary>
+<summary><mark style="color:red;"><strong>Goblin Roads (p.161)</strong></mark></summary>
 
 <sup>_Travelling between Chicago and Milwaukee is perilous in the extreme. Lupines infest the roads and towns that connect the great cities and far stranger things inhabit the eerie wetlands, forests, and quiet spots between. The safest way to avoid these perils is to navigate the “Weird,” a collection of lonely roads, switchbacks, and roadside alters that tortuously thread their way between “oasis” of spiritually unnerving ground repulsive to Lupines. Dubbed “Goblin Roads” by local Kindred, Prince Decker of Milwaukee and Elder Inyanga of Chicago organized a group of intrepid Gangrel known as the “Psychopomps” to ferry Kindred between their cities._</sup>&#x20;
 
@@ -762,23 +762,23 @@ You played an active role in the Convention of Chicago’s success. Your rhetori
 
 <sup>_Kindred seeking passage between the two great cities have only to call upon Prince Decker or his newly-minted counterpart Rosa Hernandez. Survival is never guaranteed, but few things truly are._</sup>
 
-**• Night Rider:**&#x20;
+**• Night Rider:** _Banned_
 
 You are a frequent passenger on the Goblin Roads and have become accustomed to their nature. Your knowledge grants you an additional two dice to all Survival tests related to surviving the Goblin Roads if you become isolated in the Weird.
 
-**•• Summon the Ferryman:**&#x20;
+**•• Summon the Ferryman:** _Banned_
 
 You have arranged passage on the Goblin Roads with Prince Decker, Rosa Hernandez, or one of their Psychopomps. The price of this arrangement can take the form of cash, a minor boon, or something else entirely (Storyteller’s discretion). Once per story, you can enlist a Psychopomp to ferry yourself and your coterie between Chicago and Milwaukee.
 
-**••• Psychopomp:**&#x20;
+**••• Psychopomp:** _Banned_
 
 You are a Psychopomp and travel the Goblin Roads at will. This journey requires 24 hours preparation to attune yourself to the proper rites and sacrifices necessary for safe passage and you gain two-dots of Status reflecting your occupation.
 
-**•••• Weird Ally:**&#x20;
+**•••• Weird Ally:** _Banned_
 
 You led an expedition into the Weird or were separated from your Psychopomp for a protracted period of time. During that time, you encountered and formed a pact or alliance with a supernatural denizen of the Weird. This creature is unusual at the best of times, but will come when called. You gain a four-dot Ally that is a werewolf, mage, wraith, changeling, or something stranger still (see Vampire: The Masquerade p. 376 and p. 377 or the Storyteller creates the monster). Once per game, your Ally will come to your aid within 10 hours of your summons.
 
-**••••• One with the Weird:**&#x20;
+**••••• One with the Weird:** _Banned_
 
 You spent many nights looking into the Weird, and one evening, it looked back. You have unraveled one of the deeper mysteries of the Weird. It might be the hidden nature of the Goblin Roads oasis, the true name of a powerful spirit, a potent ritual, the dark secret of a mist-shrouded town, or the location of an artifact of great power. Work with the Storyteller to define the exact nature of your secret, but remember, the Weird does not reveal its secrets casually and there will be a price.
 
@@ -816,29 +816,29 @@ You have joined Lucinde as an Alastor and hunt Kindred on the “Red List.” Yo
 
 <details>
 
-<summary><strong>Khalid Al-Rashid (p.163)</strong></summary>
+<summary><mark style="color:red;"><strong>Khalid Al-Rashid (p.163)</strong></mark></summary>
 
 <sup>_Ancient and powerful, Khalid was a well-respected member of Chicago’s Primogen, and still is to those who believe Cedrick Calhoun’s subterfuge. Khalid walked the earth for nearly a thousand years in continual battle against his Beast, always seeking, yet never achieving, Golconda. Khalid’s quests led him to Chicago in search of a legendary Inconnu. What he found was a city firmly in the grip of an unending Jyhad between Helena and Me- nele. Taking to the shadows, Khalid managed to remain unbeholden to either Methuselah and managed to identify a circle of Kindred equally free from their influence. Digging deeper, he found something else entirely, and may well be in hiding, met the final death, or worse._</sup>&#x20;
 
 <sup>_Khalid is your Primogen, Mawla, or even sire. You pity his inability to attain Golconda, but admire the fact that Khalid never, ever, quits._</sup>
 
-**• Safe Haven:**&#x20;
+**• Safe Haven:** _Banned_
 
 Khalid’s tutelage provides two dots to divide between the Haven Merits of Postern and Security System.
 
-**•• Deadly Stroke:**&#x20;
+**•• Deadly Stroke:** _Banned_
 
 Khalid was a master swordsman in life, and more so in death. You may have fought beside him during the War of Chicago, or studied at his feet as your Mawla. Either way, you learned well. Once per chronicle, you gain three dice to a single Melee test while using a sword.
 
-**••• Khalid’s Notebook:**&#x20;
+**••• Khalid’s Notebook:** _Banned_
 
 Khalid recorded his suspicions about the eternal war between Helena and Menele in a notebook filled with coded pages. He tore out many pages of this notebook and secreted them about Chicago and beyond. You have acquired pages from this book and the secrets they contain. Once per story, you may ask the Storyteller for one secret Khalid would have access to about Helena, Menele, or the identity of one Kindred under (or formerly under, in the case of Menele) their control.
 
-**•••• Wicked Garden:**&#x20;
+**•••• Wicked Garden:** _Banned_
 
 You learned from Khalid or discover notes he left behind about strange entities living in Lake Michigan with oblique references to his sightings and suspicions about the creature known as Nerissa Blackwater. Once per story, this knowledge reduces the difficulty of all Investigation tests involving Nerissa Blackwater or the being she serves by four. Total Failure means Nerissa becomes aware of your inquiry.
 
-**••••• Unbeholden:**&#x20;
+**••••• Unbeholden:** _Banned_
 
 Khalid knew about Helena and Menele and assembled a coterie of “wild card” Kindred free from their influence. You are not presently under the control or dominion of Helena, Menele, or a similarly ancient vampire. Once per chronicle, you automatically escape one attempt by an ancient to ensnare you in their Jyhad. Work with the Storyteller to determine exactly how this feat occurs, but you manage to retain your freedom, for now.
 
