@@ -25,20 +25,15 @@
 
 ## Material Availability
 
-* [Core](material-availability/core.md)
-* [Children of the Blood](material-availability/children-of-the-blood.md)
-* [Forbidden Religions](material-availability/forbidden-religions.md)
 * [Powers](material-availability/powers/README.md)
   * [Blood Sorcery Rituals](material-availability/powers/blood-sorcery-rituals.md)
   * [Oblivion Ceremonies](material-availability/powers/oblivion-ceremonies.md)
   * [Thin-Blood Alchemy](material-availability/powers/thin-blood-alchemy.md)
-* [UNDER CONSTRUCTION - NOT FOR PLAYER CONSUMPTION](material-availability/under-construction-not-for-player-consumption/README.md)
-  * [Sect War Rules](material-availability/under-construction-not-for-player-consumption/sect-war-rules.md)
-  * [Book Material Template](material-availability/under-construction-not-for-player-consumption/book-material-template.md)
-  * [Loresheet WIP](material-availability/under-construction-not-for-player-consumption/loresheet-wip.md)
 * [Advantages and Flaws](material-availability/advantages-and-flaws/README.md)
   * [Haven Advantages and Flaws](material-availability/advantages-and-flaws/haven-advantages-and-flaws.md)
   * [Coterie Advantages and Flaws](material-availability/coterie-advantages-and-flaws.md)
   * [Thin-Blood/Caitiff Merits and Flaws](material-availability/advantages-and-flaws/thin-blood-caitiff-merits-and-flaws.md)
 * [Loresheets](material-availability/loresheets.md)
 * [Bloodlines](material-availability/bloodlines.md)
+* [UNDER CONSTRUCTION - NOT FOR PLAYER CONSUMPTION](material-availability/under-construction-not-for-player-consumption/README.md)
+  * [Sect War Rules](material-availability/under-construction-not-for-player-consumption/sect-war-rules.md)

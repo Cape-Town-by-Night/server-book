@@ -84,11 +84,7 @@ Desires are short-term, ever-changing goals that can easily act as a launching p
 
 ## Sect
 
-Your character's sect determines their social circles, the rules under which they have to live, and some of the challenges they might face. You are expected to understand the basics of your character's sect. That information can be found in the various source books.
-
-You will see "sectless" mentioned, which is just that - a vampire who is completely divorced from any sect. These creatures are _incredibly_ uncommon. To showcase this rarity, all vampires must be of a sect, no exceptions.
-
-This is meant to be an Anarch-focused game, so we would like over half of our player characters to be Anarchs. If we have too many Camarilla characters, we will put a moratorium on their creation until the numbers even out again.
+This is an anarch-only game. Camarilla and autarkis characters will not be approved.
 
 ## Sire and Clan
 
