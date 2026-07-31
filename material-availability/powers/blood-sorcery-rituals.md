@@ -650,7 +650,7 @@ The process of breaking out of the cocoon can be a disturbing sight. Vampires th
 
 <summary><mark style="color:red;"><strong>Haunted House (The Chicago Folios pp.174-175)</strong></mark></summary>
 
-**Ingredients:** Kindred vitae.
+**Ingredients:** Kindred vitae
 
 **Process:** The caster places a drop of Kindred blood on all entrances and exits to the haven in addition to all exterior walls and the roof over the course of a three-hour ritual.
 

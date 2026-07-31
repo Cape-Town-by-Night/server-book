@@ -13,10 +13,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>The Bahari (p.382)</summary>
 
 **• Dangerous Reputation:** Allowed\
-&#xNAN;**•• Ritual Scarification:** Allowed\
-&#xNAN;**••• Sacrifice the Children:** Allowed\
-&#xNAN;**•••• The Womb’s Blood:** Allowed\
-&#xNAN;**••••• First-Cursed:** Allowed
+**•• Ritual Scarification:** Allowed\
+**••• Sacrifice the Children:** Allowed\
+**•••• The Womb’s Blood:** Allowed\
+**••••• First-Cursed:** Allowed
 
 </details>
 
@@ -25,10 +25,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Theo Bell (p.383)</summary>
 
 **• Rebel Cell:** Allowed\
-&#xNAN;**•• True Anarch:** Allowed\
-&#xNAN;**••• Contact Information:** Allowed\
-&#xNAN;**•••• Bell’s Circle:** Banned\
-&#xNAN;**••••• Sect Neutrality:** Allowed
+**•• True Anarch:** Allowed\
+**••• Contact Information:** Allowed\
+**•••• Bell’s Circle:** Banned\
+**••••• Sect Neutrality:** Allowed
 
 </details>
 
@@ -37,10 +37,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Cainite Heresy (p.384)</summary>
 
 **• Let He Who Hath Understanding:** Allowed\
-&#xNAN;**•• Hand of the Heresy:** Allowed\
-&#xNAN;**••• Counter-Inquisition:** Allowed\
-&#xNAN;**•••• Red Celebrant:** Allowed\
-&#xNAN;**••••• The One Named in Prophecy:** Allowed
+**•• Hand of the Heresy:** Allowed\
+**••• Counter-Inquisition:** Allowed\
+**•••• Red Celebrant:** Allowed\
+**••••• The One Named in Prophecy:** Allowed
 
 </details>
 
@@ -49,10 +49,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Carna</strong> <em>(Tremere Characters Only)</em> (p.385)</summary>
 
 **• Embrace the Vision:** Allowed\
-&#xNAN;**•• The Rebel Trail:** Allowed\
-&#xNAN;**••• Unorthodox Rituals:** Allowed\
-&#xNAN;**•••• Reimagined Bond:** Allowed\
-&#xNAN;**••••• Book of the Grave-War:** Allowed
+**•• The Rebel Trail:** Allowed\
+**••• Unorthodox Rituals:** Allowed\
+**•••• Reimagined Bond:** Allowed\
+**••••• Book of the Grave-War:** Allowed
 
 </details>
 
@@ -61,10 +61,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>The Circulatory System (p.386)</summary>
 
 **• Tap into the System:** Allowed\
-&#xNAN;**•• Little Black Book:** Allowed\
-&#xNAN;**••• Farm Upstate:** Allowed\
-&#xNAN;**•••• Secure Transit:** Allowed\
-&#xNAN;**••••• Blood Sommelier:** Allowed
+**•• Little Black Book:** Allowed\
+**••• Farm Upstate:** Allowed\
+**•••• Secure Transit:** Allowed\
+**••••• Blood Sommelier:** Allowed
 
 </details>
 
@@ -73,10 +73,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Convention of Thorns (p.387)</summary>
 
 **• Thorns Historian:** Allowed\
-&#xNAN;**•• Tradition Master:** Allowed\
-&#xNAN;**••• Convention Secrets:** Allowed\
-&#xNAN;**•••• Prospective Justicar:** Locked, though your character will never actually become Justicar.\
-&#xNAN;**•••• New Traditions:** Locked
+**•• Tradition Master:** Allowed\
+**••• Convention Secrets:** Allowed\
+**•••• Prospective Justicar:** Locked, though your character will never actually become Justicar.\
+**•••• New Traditions:** Locked
 
 </details>
 
@@ -85,10 +85,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>The First Inquisition (p.388)</summary>
 
 **• Mistakes of the Past:** Allowed\
-&#xNAN;**•• Names of the Guilty:** Allowed\
-&#xNAN;**•• The Sect of St. James:** Allowed\
-&#xNAN;**•••• The Second Act:** Allowed\
-&#xNAN;**••••• Black Spot:** Locked
+**•• Names of the Guilty:** Allowed\
+**•• The Sect of St. James:** Allowed\
+**•••• The Second Act:** Allowed\
+**••••• Black Spot:** Locked
 
 </details>
 
@@ -97,10 +97,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Golconda (p.389)</summary>
 
 **• Seeds of Golconda:** Allowed\
-&#xNAN;**•• The One True Way:** Allowed\
-&#xNAN;**••• Saulot's Disciple:** Allowed\
-&#xNAN;**•••• Satisfy the Hunger:** Locked\
-&#xNAN;**••••• Greet the Sun:** Locked
+**•• The One True Way:** Allowed\
+**••• Saulot's Disciple:** Allowed\
+**•••• Satisfy the Hunger:** Locked\
+**••••• Greet the Sun:** Locked
 
 </details>
 
@@ -109,10 +109,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Sect War Veteran (p.392)</summary>
 
 **• Survivor:** Allowed\
-&#xNAN;**•• Active Participant:** Allowed\
-&#xNAN;**••• Trophy Kill:** Allowed\
-&#xNAN;**•••• No Vampire's Land:** Allowed\
-&#xNAN;**••••• Sect Agitator:** Allowed
+**•• Active Participant:** Allowed\
+**••• Trophy Kill:** Allowed\
+**•••• No Vampire's Land:** Allowed\
+**••••• Sect Agitator:** Allowed
 
 </details>
 
@@ -121,10 +121,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>The Trinity (p.393)</summary>
 
 **• Constantinople:** Allowed\
-&#xNAN;**•• Antonius' Architecture:** Allowed\
-&#xNAN;**••• The Dream:** Allowed\
-&#xNAN;**•••• The Dracon:** Banned\
-&#xNAN;**••••• The New Trinity:** Locked
+**•• Antonius' Architecture:** Allowed\
+**••• The Dream:** Allowed\
+**•••• The Dracon:** Banned\
+**••••• The New Trinity:** Locked
 
 </details>
 
@@ -133,10 +133,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Jeanette/Therese Voerman (p.394)</summary>
 
 **• Asylum Membership:** Banned\
-&#xNAN;**•• Performing Monkey:** Banned\
-&#xNAN;**••• Jeanette's Favorite:** Banned\
-&#xNAN;**•••• Therese's Favorite:** Banned\
-&#xNAN;**••••• Asylum Operator:** Banned
+**•• Performing Monkey:** Banned\
+**••• Jeanette's Favorite:** Banned\
+**•••• Therese's Favorite:** Banned\
+**••••• Asylum Operator:** Banned
 
 </details>
 
@@ -145,10 +145,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>The Week of Nightmares</strong> (p.395)</summary>
 
 **• Oral History:** Allowed\
-&#xNAN;**•• Ravnos Remains:** Allowed\
-&#xNAN;**••• I Was There:** Allowed\
-&#xNAN;**•••• The Red Star:** Allowed\
-&#xNAN;**••••• Blood of Zapathasura:** Banned
+**•• Ravnos Remains:** Allowed\
+**••• I Was There:** Allowed\
+**•••• The Red Star:** Allowed\
+**••••• Blood of Zapathasura:** Banned
 
 </details>
 
@@ -157,10 +157,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Rudi (p.396)</summary>
 
 **• Newfound Rights:** Banned\
-&#xNAN;**•• Them and Theirs:** Banned \
-&#xNAN;**••• Gangrel Advocate:** Banned\
-&#xNAN;**•••• The Bear Pack:** Banned\
-&#xNAN;**••••• Rudi's Army:** Banned
+**•• Them and Theirs:** Banned \
+**••• Gangrel Advocate:** Banned\
+**•••• The Bear Pack:** Banned\
+**••••• Rudi's Army:** Banned
 
 </details>
 
@@ -169,10 +169,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>High Clan <em>(Restricted to  Banu Haqim, Brujah, Gangrel, Lasombra, Toreador)</em> (p.400)</summary>
 
 **• Peacock:** Allowed\
-&#xNAN;**•• Sway the Low:** Allowed\
-&#xNAN;**••• Elevate the Low:** Locked\
-&#xNAN;**•••• Embraced to Rule:** Allowed\
-&#xNAN;**••••• Blessed, Not Cursed:** Allowed
+**•• Sway the Low:** Allowed\
+**••• Elevate the Low:** Locked\
+**•••• Embraced to Rule:** Allowed\
+**••••• Blessed, Not Cursed:** Allowed
 
 </details>
 
@@ -181,10 +181,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Low Clan <em>(Restricted to Hecata, Malkavian, Ministry, Nosferatu, Ravnos, Tremere, Tzimisce, Ventrue)</em> (p.401)</summary>
 
 **• Thick Hide:** Allowed\
-&#xNAN;**•• Cursed with Pride:** Allowed\
-&#xNAN;**••• Uncanny Kinship:** Allowed\
-&#xNAN;**•••• Trade Among Equals:** Allowed\
-&#xNAN;**••••• Criticality Incident:** Locked
+**•• Cursed with Pride:** Allowed\
+**••• Uncanny Kinship:** Allowed\
+**•••• Trade Among Equals:** Allowed\
+**••••• Criticality Incident:** Locked
 
 </details>
 
@@ -193,10 +193,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Ambrus Maropis (p.402)</summary>
 
 **• True Believer:** Banned\
-&#xNAN;**•• Clandestine Information:** Banned\
-&#xNAN;**••• Taught by the Best:** Banned\
-&#xNAN;**•••• Back Door Panopticon:** Banned\
-&#xNAN;**••••• On Another Grid Entirely:** Banned
+**•• Clandestine Information:** Banned\
+**••• Taught by the Best:** Banned\
+**•••• Back Door Panopticon:** Banned\
+**••••• On Another Grid Entirely:** Banned
 
 </details>
 
@@ -205,10 +205,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Carmelita Niellson (p.403)</summary>
 
 **• The Art of Story:** Allowed\
-&#xNAN;**•• The Art of Will:** Allowed\
-&#xNAN;**••• Neillson Library:** Allowed, though only one library may be active at a time.\
-&#xNAN;**•••• Interview With the Methuselah:** Allowed\
-&#xNAN;**••••• Ancestor's Tomb:** Banned
+**•• The Art of Will:** Allowed\
+**••• Neillson Library:** Allowed, though only one library may be active at a time.\
+**•••• Interview With the Methuselah:** Allowed\
+**••••• Ancestor's Tomb:** Banned
 
 </details>
 
@@ -217,10 +217,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Fiorenza Savona (p.404)</summary>
 
 **• On Fiorenza’s List:** Banned\
-&#xNAN;**•• Breakfast with Fiorenza:** Banned\
-&#xNAN;**••• Friendly Benefits:** Banned\
-&#xNAN;**•••• The Directorate:** Banned\
-&#xNAN;**••••• Government Motion:** Banned
+**•• Breakfast with Fiorenza:** Banned\
+**••• Friendly Benefits:** Banned\
+**•••• The Directorate:** Banned\
+**••••• Government Motion:** Banned
 
 </details>
 
@@ -231,10 +231,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary>Fatima Al-Faqadi (p.185)</summary>
 
 **• Weapons Locker:** Allowed\
-&#xNAN;**•• Extended Web:** Allowed\
-&#xNAN;**••• Missed Hit:** Allowed\
-&#xNAN;**•••• Recognized Judge:** Allowed\
-&#xNAN;**••••• Open Contract:** Banned
+**•• Extended Web:** Allowed\
+**••• Missed Hit:** Allowed\
+**•••• Recognized Judge:** Allowed\
+**••••• Open Contract:** Banned
 
 </details>
 
@@ -243,10 +243,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Pure Ventrue Lineage</strong> <em>(Ventrue Characters Only)</em> (p.187)</summary>
 
 **• Sire of Renown:** Allowed\
-&#xNAN;**•• A Lineage of Title:** Allowed\
-&#xNAN;**••• Recitation:** Allowed\
-&#xNAN;**•••• Legendary Lineage:** Allowed\
-&#xNAN;**••••• Name the Antediluvian:** Allowed
+**•• A Lineage of Title:** Allowed\
+**••• Recitation:** Allowed\
+**•••• Legendary Lineage:** Allowed\
+**••••• Name the Antediluvian:** Allowed
 
 </details>
 
@@ -255,10 +255,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>The Cult of Mithras</strong> (p.188)</summary>
 
 **• Neophyte:** Allowed\
-&#xNAN;**•• Nymphus:** Allowed\
-&#xNAN;**••• Leo:** Allowed\
-&#xNAN;**•••• Perses:** Locked\
-&#xNAN;**••••• Unconquered:** Locked
+**•• Nymphus:** Allowed\
+**••• Leo:** Allowed\
+**•••• Perses:** Locked\
+**••••• Unconquered:** Locked
 
 </details>
 
@@ -267,10 +267,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>The Pyramid </strong><em><strong>(Tremere Characters Only)</strong></em>  (p.189)</summary>
 
 **• Apprentice:** Allowed\
-&#xNAN;**•• Savant:** Allowed\
-&#xNAN;**••• Regent:** Banned\
-&#xNAN;**•••• Pontifex:** Banned\
-&#xNAN;**••••• The New Council:** Banned
+**•• Savant:** Allowed\
+**••• Regent:** Banned\
+**•••• Pontifex:** Banned\
+**••••• The New Council:** Banned
 
 </details>
 
@@ -279,10 +279,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Victoria Ash</strong> (p.190)</summary>
 
 **• Ashen Kiss:** Banned\
-&#xNAN;**•• Vermilion Invitation:** Banned\
-&#xNAN;**••• What Makes Them Tick:** Banned\
-&#xNAN;**•••• Celebrity Affectations:** Banned\
-&#xNAN;**••••• Patron, Lover, Companion:** Banned
+**•• Vermilion Invitation:** Banned\
+**••• What Makes Them Tick:** Banned\
+**•••• Celebrity Affectations:** Banned\
+**••••• Patron, Lover, Companion:** Banned
 
 </details>
 
@@ -293,10 +293,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Salvador Garcia</strong> (p.190)</summary>
 
 **• A Way With Words:** \
-&#xNAN;**•• Old School:** \
-&#xNAN;**••• Enemy of the State:** \
-&#xNAN;**•••• The War of Ideas:** \
-&#xNAN;**••••• Rise Up:**&#x20;
+**•• Old School:** \
+**••• Enemy of the State:** \
+**•••• The War of Ideas:** \
+**••••• Rise Up:**&#x20;
 
 </details>
 
@@ -305,10 +305,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Agata Starek</strong> (p.191)</summary>
 
 **• Terrorizing the Powerful:** \
-&#xNAN;**•• Apprentice:** \
-&#xNAN;**••• A Favor Owed:** \
-&#xNAN;**•••• Unlikely Allies:** \
-&#xNAN;**••••• The Joy of Transgression:**&#x20;
+**•• Apprentice:** \
+**••• A Favor Owed:** \
+**•••• Unlikely Allies:** \
+**••••• The Joy of Transgression:**&#x20;
 
 </details>
 
@@ -317,10 +317,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Hesha Ruhadze</strong> (p.192)</summary>
 
 **• One of Hesha’s Works:** \
-&#xNAN;**•• Something Hesha Wants:** \
-&#xNAN;**••• Museum of the Faithful:** \
-&#xNAN;**•••• Blood Cult&#x20;**_**(Ministry Characters only)**_**:** \
-&#xNAN;**••••• Hear the Blood Sing&#x20;**_**(Ministry Characters only)**_**:**&#x20;
+**•• Something Hesha Wants:** \
+**••• Museum of the Faithful:** \
+**•••• Blood Cult&#x20;**_**(Ministry Characters only)**_**:** \
+**••••• Hear the Blood Sing&#x20;**_**(Ministry Characters only)**_**:**&#x20;
 
 </details>
 
@@ -329,10 +329,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>The Church of Set</strong> (p.193)</summary>
 
 **• Congregation:** \
-&#xNAN;**•• Tap the Secret Vein:** \
-&#xNAN;**••• Freedom from the Aeons:** \
-&#xNAN;**•••• Degenerative Process:** \
-&#xNAN;**••••• Body of Set:**&#x20;
+**•• Tap the Secret Vein:** \
+**••• Freedom from the Aeons:** \
+**•••• Degenerative Process:** \
+**••••• Body of Set:**&#x20;
 
 </details>
 
@@ -341,10 +341,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Ruins of Carthage</strong> (p.196)</summary>
 
 **• Clan Historian:** \
-&#xNAN;**•• Punic Pride:** \
-&#xNAN;**••• Death to Tyrants:** \
-&#xNAN;**•••• Troile’s Wish:** \
-&#xNAN;**••••• Carthage Anew:**&#x20;
+**•• Punic Pride:** \
+**••• Death to Tyrants:** \
+**•••• Troile’s Wish:** \
+**••••• Carthage Anew:**&#x20;
 
 </details>
 
@@ -353,10 +353,10 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Blood Plagued</strong> (p.197)</summary>
 
 **• Detection:** \
-&#xNAN;**•• The Science of the Blood:** \
-&#xNAN;**••• Trace the Torpid Victims:** \
-&#xNAN;**•••• Curative Vitae:** \
-&#xNAN;**••••• Vector:**&#x20;
+**•• The Science of the Blood:** \
+**••• Trace the Torpid Victims:** \
+**•••• Curative Vitae:** \
+**••••• Vector:**&#x20;
 
 </details>
 
@@ -365,11 +365,11 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 <summary><strong>Anarch Revolt</strong> (p.198)</summary>
 
 **• Critical Ancestor:** \
-&#xNAN;**•• Speak the Words:** \
-&#xNAN;**••• Enemy of the Establishment:** \
-&#xNAN;**•••• Icon:** \
-&#xNAN;**••••• Reignite the Revolt:** \
-&#xNAN;_&#x49;f you lose this Advantage, you will be refunded the experience cost, but will not be able to purchase it again._
+**•• Speak the Words:** \
+**••• Enemy of the Establishment:** \
+**•••• Icon:** \
+**••••• Reignite the Revolt:** \
+_&#x49;f you lose this Advantage, you will be refunded the experience cost, but will not be able to purchase it again._
 
 </details>
 
@@ -377,314 +377,370 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <details>
 
-<summary><strong>Annabelle</strong> (p.262) *</summary>
+<summary><strong>Annabelle (p.262)</strong></summary>
 
-Toreador Primogen Annabelle has been involved in Kindred politics for nearly two centuries. She’s served on the council throughout the reigns of four Princes and survived fires, purges, and Lupine attacks. So far, she seems unaffected by the Beckoning. Some of her enemies (and a non-zero number of her allies) whisper about what it is that lets her come through so many calamities unscathed. Is she that politically savvy, and has simply made smart bargains and surrounded herself with strong protectors? Or does some mysterious benefactor watch her from the shadows, stepping in to keep her out of harm’s way?
+<sup>_Toreador Primogen Annabelle has been involved in Kindred politics for nearly two centuries. She’s served on the council throughout the reigns of four Princes and survived fires, purges, and Lupine attacks. So far, she seems unaffected by the Beckoning. Some of her enemies (and a non-zero number of her allies) whisper about what it is that lets her come through so many calamities unscathed. Is she that politically savvy, and has simply made smart bargains and surrounded herself with strong protectors? Or does some mysterious benefactor watch her from the shadows, stepping in to keep her out of harm’s way?_</sup>
 
-Annabelle throws frequent parties — one or more a week — where invitees can rub elbows with the powerful, admire art both new and old, and set any number of political plates spinning. Though other Cainites find it amusing to scoff at her taste in art, only a rare few do so to her face. While she might not have an eye for masterpieces, it’s foolish to assume she therefore has no head for politics.&#x20;
+<sup>_Annabelle throws frequent parties — one or more a week — where invitees can rub elbows with the powerful, admire art both new and old, and set any number of political plates spinning. Though other Cainites find it amusing to scoff at her taste in art, only a rare few do so to her face. While she might not have an eye for masterpieces, it’s foolish to assume she therefore has no head for politics._</sup>&#x20;
 
-Annabelle’s connections span not only Kindred society but run deep into mortal affairs as well. Her money and influence are extremely welcome in the art world. She still maintains contacts within the media under her human guise, Elaine Stanley-Greer. Although her husband’s newspaper empire shut down 20 years ago, she knows who to call to get a story pulled or a headline bumped to the front page.
+<sup>_Annabelle’s connections span not only Kindred society but run deep into mortal affairs as well. Her money and influence are extremely welcome in the art world. She still maintains contacts within the media under her human guise, Elaine Stanley-Greer. Although her husband’s newspaper empire shut down 20 years ago, she knows who to call to get a story pulled or a headline bumped to the front page._</sup>
 
-**• Intern:** Fledgling vampires who want to learn the ins and outs of Kindred politics often spend time working for Annabelle. Once per story, you may ask for Annabelle’s guidance on a particular matter. She may even decide to help you, though whether that’s to your benefit or detriment is questionable.\
-&#xNAN;**•• Glitterati:** Whether you’re this week’s one-hit wonder or are famous by virtue of your last name, your presence makes Annabelle’s parties more interesting. Once per story, you can get on the guest list for an event to which you weren’t previously invited by simply asking “Do you know who I am?”\
-&#xNAN;**••• With Thanks to Our Donors:** Annabelle knows someone at every museum and recording studio in town. Once per story, she will pull strings to get you a meeting with someone in charge, but the rest is up to you.\
-&#xNAN;**•••• Patronage:** Your exceptional talents have drawn Annabelle’s eye. She invites you to sing at an exclusive gathering, or finds a buyer for your latest painting. When you perform for her associates or when Annabelle brokers a deal for your artwork, your Resources increase by one dot until the end of the story. This may be used once per story.\
-&#xNAN;**••••• Inner Circle:** You’ve proven indispensable to Annabelle. She heeds your judgment and entrusts you with sensitive information. Once per story, she will present an issue of your choice (at the Storyteller’s discretion) before the Primogen council.
+**• Intern:** Fledgling vampires who want to learn the ins and outs of Kindred politics often spend time working for Annabelle. Once per story, you may ask for Annabelle’s guidance on a particular matter. She may even decide to help you, though whether that’s to your benefit or detriment is questionable.
 
-</details>
+**•• Glitterati:** Whether you’re this week’s one-hit wonder or are famous by virtue of your last name, your presence makes Annabelle’s parties more interesting. Once per story, you can get on the guest list for an event to which you weren’t previously invited by simply asking “Do you know who I am?”
 
-<details>
+**••• With Thanks to Our Donors:** Annabelle knows someone at every museum and recording studio in town. Once per story, she will pull strings to get you a meeting with someone in charge, but the rest is up to you.
 
-<summary><strong>Ballard Industries</strong> (p.263) *</summary>
+**•••• Patronage:** Your exceptional talents have drawn Annabelle’s eye. She invites you to sing at an exclusive gathering, or finds a buyer for your latest painting. When you perform for her associates or when Annabelle brokers a deal for your artwork, your Resources increase by one dot until the end of the story. This may be used once per story.
 
-With a healthy mix of administrative businesses, trust funds, financial firms, and industrial companies, Ballard Industries is one of the pillars of Chicago’s economy. It is also one of the largest conglomerates in the country, with significant holdings in companies in other fields.&#x20;
-
-Horatio Ballard still runs his corporate empire in secret, either through his direct descendants or employees that only exist on paper. The company provides the Camarilla of Chicago with a significant amount of its funding, ensuring that Elysium is lavish and secure. In addition, it provides the Kindred with legal services.&#x20;
-
-As a member of Ballard Industries, you have access to a share of Horatio’s wealth and power. Whether you’re just a trusted employee or his childe, you rarely find yourself in a state of need. As long as you maintain your loyalty to Ballard, the world is yours.
-
-**• Deep Pockets:** Ballard knows better than to screw you out of your hard-earned pay. You’ve saved enough of it to weather the very rainy days to come. Once per story, after any event that causes a reduction in your Re- sources, you may choose to immediately restore your Resources to their original value.\
-&#xNAN;**•• Where the In-Crowd Goes:** As an agent of Horatio Ballard, you carry a surprising amount of authority in the business world. If you let them know who you are and who you work for, they’ll let you do just about anything. Once per story, you may invoke one of Ballard’s false identities to receive three extra dice on a Social test in a corporate environment. If you choose to invoke Ballard’s real name instead, you will automatically succeed the test, but it may be declared a Masquerade breach at the Storyteller’s discretion.\
-&#xNAN;**••• I Fought the Law, and I Won:** Ballard Industries owns some of the best law firms in the country, and where legitimate legislation doesn’t work, bribery certainly will. A number of law-enforcement officers dance to Ballard’s tune, and they might not even know it. You can be their conductor. No matter what crimes you commit, you will always have access to Influence: Police (•••) in your home state or district.\
-&#xNAN;**•••• Favors for Favors:** Ballard taught you that no one gets ahead in business without a little quid pro quo. If you can make sure you come out with the better end of the bargain, even better. You know how to wield this on the desperate, and make them bend to your will. If you spend your resources for an SPC’s benefit, you may declare they owe you a debt and have two additional dice to add to an Intimidation or Persuasion roll if this proves a hard pill for the SPC to swallow. If they agree to repay the debt, from the next scene onward, you may call in that character’s debt at any time. The debt can be anything within the character’s natural ability and morality. They are not obliged to repay, of course, but will suffer social backlash among the Ventrue if they do not. You can hold as many debts as your total Status at any one time. Note that this Lore is not equivalent to Kindred boons, as these debts are only considered sacrosanct in Ventrue and financial circles.\
-&#xNAN;**••••• The View from the Top:** You have earned Horatio Ballard’s respect — or his fear. Whichever the case, he has chosen to place you in charge of a piece of his empire. Name your company and state what it does, then choose one of the following Backgrounds at (••••) and the other at (•••): Haven, Herd, Influences, Resources, or Retainers. This is what your company provides you. You will earn an Enemy (••) who represents a major business rival and another Enemy (•) who is an employee you leapfrogged to seize your piece of Ballard Industries.
+**••••• Inner Circle:** You’ve proven indispensable to Annabelle. She heeds your judgment and entrusts you with sensitive information. Once per story, she will present an issue of your choice (at the Storyteller’s discretion) before the Primogen council.
 
 </details>
 
 <details>
 
-<summary><strong>Blacksite 24</strong> (pp.264-265) *</summary>
+<summary><strong>Ballard Industries (p.263)</strong></summary>
 
-The former Chanute Air Force Base lies 130 miles south of Chicago and was first established in 1917 as an Air Service training camp following the United States’ entry into World War I, being used primarily to train pilot cadets to fly over the battlefields of Europe. Following the declaration of World War II, Chanute’s importance as a technical training center and enlistee entry point increased. The first all-black fighter squadron was activated there in March 1941, the 99th Pursuit Squadron, who trained first in ground-support roles and would later go on to form the core of the other black squadrons. The Women’s Army Corps Training School was established there in early 1944 and produced class after class of WACs until the end of the war.
+<sup>_With a healthy mix of administrative businesses, trust funds, financial firms, and industrial companies, Ballard Industries is one of the pillars of Chicago’s economy. It is also one of the largest conglomerates in the country, with significant holdings in companies in other fields._</sup>&#x20;
 
-In 1988, as part of a general reduction of forces consideration, the Base Realignment and Closure Commission recommended that Chanute be closed and redeveloped for civilian use. Certain portions of the former base have, however, not been turned over to the public. Careful inspection of the site turned up the extensive use of asbestos in many of the oldest buildings on site, as well as toxic levels of volatile organic compounds in soil and groundwater requiring extensive environmental remediation. Those areas of the former base were declared an EPA Superfund clean-up site closed to the public, cordoned off, and assiduously patrolled to keep the curious and the foolish away.&#x20;
+<sup>_Horatio Ballard still runs his corporate empire in secret, either through his direct descendants or employees that only exist on paper. The company provides the Camarilla of Chicago with a significant amount of its funding, ensuring that Elysium is lavish and secure. In addition, it provides the Kindred with legal services._</sup>&#x20;
 
-Two months later, FIRSTLIGHT took possession of their new blacksite and began shipping captive Kindred into the facility via the conveniently located civilian airfield for long-term detention and processing. It’s not like blankbodies need to eat or drink or worry about mesothelioma, after all, and the isolation protocols followed by the interrogation crews generally also act to ameliorate exposure to environmental toxins. In 2015, the operation expanded from mere warehousing and interrogation when FIRSTLIGHT obtained possession of the former Octave Chanute Aerospace Museum, also on the site of the former base, and converted it to use as a medical research facility. An international team of specialists now makes its home there studying blankbody physiology to their hearts’ content once intelligence is done with them.
+<sup>_As a member of Ballard Industries, you have access to a share of Horatio’s wealth and power. Whether you’re just a trusted employee or his childe, you rarely find yourself in a state of need. As long as you maintain your loyalty to Ballard, the world is yours._</sup>
 
-As a Kindred resident of Chicago, you have acquired knowledge of Blacksite 24’s existence and what you do with that knowledge could have a serious impact on your own, for good or for ill.
+**• Deep Pockets:** Ballard knows better than to screw you out of your hard-earned pay. You’ve saved enough of it to weather the very rainy days to come. Once per story, after any event that causes a reduction in your Re- sources, you may choose to immediately restore your Resources to their original value.
 
-**• Rumors:** You know a lick who knows a lick who knows somebody that got scooped up by creepy, suspiciously well-informed and well-armed MIB-looking dudes in unmarked black vehicles on the way into the city. Once per story, you may ask the Storyteller to feed you one rumor — which may or may not be based in anything resembling reality.\
-&#xNAN;**•• No, Really!:** You are the lick the other lick knows. Whether you’re a recent arrival in Chicago who witnessed something in your travels or part of a Kindred underground railroad who helps ferry the desperate fleeing from their situations, you know what you’ve seen. Once per story, you may ask the Storyteller for a solid piece of information about the weirdness you’ve witnessed.\
-&#xNAN;**••• Paranoia Strikes Deep:** Maybe you were a SchreckNET administrator once. Maybe you’re a paranoid conspiracy theorist now. Maybe you’re a top-flight investigator with a million burnable alternate identities and sources all over the globe. Whatever the explanation, you know about the existence of FIRSTLIGHT and you know they’re active somewhere near, and possibly inside, Chicago. You possess Contacts (••••) whose particular expertise relates to FIRSTLIGHT or related government-sponsored vampire hunting operations and may uti- lize them once per story before they disappear out of reach.\
-&#xNAN;**•••• It’s My Job To Know This Stuff:** You are part of the security apparatus of the Chicago Domain — a specialist advisor to the Prince, an agent of the Sheriff, a protector employed by one of the Primogen or another high-ranking member of a powerful clan — whose task encompasses ferreting out and neutralizing possible threats to the Kindred as a whole. Subsequently, you’ve had greater cause than most to discover the truth of certain disturbing rumors, including employing investigators of your own to sort fact from rumor. Consequently, you have managed to uncover considerable amounts of information about the government’s own vampire hunters, including the fact that they have some sort of permanent installation near Chicago. This specialist knowledge grants you Status (••) among the Kindred, who frequently come to you to benefit from it, and Influence (••) among the kine, which you use to manipulate the mortal world for the benefit of your clients.\
-&#xNAN;**••••• The One That Got Away:** You escaped from containment at Blacksite 24. You are very likely being hunted by your former captors, who have every reason to want to retrieve you before you can go to ground or, even worse, reach others of your own kind and warn them of the horrors you’ve endured or witnessed. Fortunately for them, those horrors are not clear in your own mind, even though you have reached safety: The after-effects of Rötschreck and protracted near-torpid starvation have clouded your memories of your experiences — you can only clearly recall what you saw, or heard, with the greatest effort. Once per story, you may ask the Storyteller for one clear snippet of memory from your incarceration. You have gained immunity from FIRSTLIGHT-induced Rötschreck.
+**•• Where the In-Crowd Goes:** As an agent of Horatio Ballard, you carry a surprising amount of authority in the business world. If you let them know who you are and who you work for, they’ll let you do just about anything. Once per story, you may invoke one of Ballard’s false identities to receive three extra dice on a Social test in a corporate environment. If you choose to invoke Ballard’s real name instead, you will automatically succeed the test, but it may be declared a Masquerade breach at the Storyteller’s discretion.
 
-</details>
+**••• I Fought the Law, and I Won:** Ballard Industries owns some of the best law firms in the country, and where legitimate legislation doesn’t work, bribery certainly will. A number of law-enforcement officers dance to Ballard’s tune, and they might not even know it. You can be their conductor. No matter what crimes you commit, you will always have access to Influence: Police (•••) in your home state or district.
 
-<details>
+**•••• Favors for Favors:** Ballard taught you that no one gets ahead in business without a little quid pro quo. If you can make sure you come out with the better end of the bargain, even better. You know how to wield this on the desperate, and make them bend to your will. If you spend your resources for an SPC’s benefit, you may declare they owe you a debt and have two additional dice to add to an Intimidation or Persuasion roll if this proves a hard pill for the SPC to swallow. If they agree to repay the debt, from the next scene onward, you may call in that character’s debt at any time. The debt can be anything within the character’s natural ability and morality. They are not obliged to repay, of course, but will suffer social backlash among the Ventrue if they do not. You can hold as many debts as your total Status at any one time. Note that this Lore is not equivalent to Kindred boons, as these debts are only considered sacrosanct in Ventrue and financial circles.
 
-<summary><strong>The Blue Velvet</strong> (p.266) *</summary>
-
-The Blue Velvet opened its doors in 1972, and has been a hotspot for Kindred nightlife and politicking ever since. Located in the heart of the Rack, the club had several incarnations before its current one. An anonymous entrepreneur bought out Fantastica and immediately closed the bar’s doors for three months of extensive renovations. When it reopened, the Blue Velvet boasted four separate bars, a VIP lounge, and a dance floor big enough to handle fans of the hottest bands. It was an ambitious endeavor, and one that’s worked for nearly 50 years.
-
-The bar draws Kindred and kine alike. While mortals dance their cares away below, Cainites high above engage in a different kind of dance, moving carefully through the rhythms that control the city and its future.&#x20;
-
-For decades, no one knew who owned the Blue Velvet. Rumors and speculation swirled. Most attempts to dig into the club’s financials to unearth its owner led nowhere. Only one investigator got close, in early 1987, but she disappeared right after confiding to a friend that she’d made a stunning breakthrough. Her notes and research never surfaced. In the mid-1990s, the mystery ended with the Malkavian Bronwyn’s emergence into Kindred society. Her revelation that she’d been the force behind The Blue Velvet all these years gave her an immediate in with Kindred all across Chicago, and a storefront from which to illicitly traffic blood on behalf of the Circulatory System.
-
-**• Est. 1972:** You’ve been there since the start, and may have been familiar with some of the bars that preceded The Blue Velvet. In many ways, the club’s history is your history, and others consider you an authority on it: bands whose rise started here, Kindred rivalries that played out in the VIP lounge, if it happened at The Blue Velvet, you’ve got the skinny. Add two dice to any roll related to recalling and using the club’s history.\
-&#xNAN;**•• Who’s Who:** Everyone who’s anyone stops in at the Blue Velvet. You know them all by name, but they don’t know you’re keeping tabs on who comes and goes, who they talk to, and when they leave. Once per story, ask your Storyteller for information on a fellow club-goer’s movements. The Storyteller will tell you when the named patron was last at the Blue Velvet, how they acted, and who they were with.\
-&#xNAN;**••• Standing Gig:** Only the hottest bands play at the Blue Velvet, and its dance nights have lines stretching around the block. You’ve played or DJed at the club and appear on its calendar regularly. Once per story, when you perform at the club, choose between gaining a three-dot Resource Background (lasting until the end of the story) or a three-dot Herd from fans who attend your every performance.\
-&#xNAN;**•••• VIP Club:** Your status is well-respected at The Blue Velvet. Your fame or influence draws others to the club, and Bronwyn appreciates your patronage, acting as a four-dot Ally or Mawla. A table’s always ready for you, and you have access to a private room in the VIP lounge for meetings and feedings.\
-&#xNAN;**••••• Backstage Pass:** You are a trusted, high-level employee at The Blue Velvet. Ian Gibson relies on you for night-to-night operations, and you’re a member of Bronwyn’s inner circle. One per story, you may request and receive her aid, whether that’s via influence, financial backing, or use of the club for a private endeavor.
+**••••• The View from the Top:** You have earned Horatio Ballard’s respect — or his fear. Whichever the case, he has chosen to place you in charge of a piece of his empire. Name your company and state what it does, then choose one of the following Backgrounds at (••••) and the other at (•••): Haven, Herd, Influences, Resources, or Retainers. This is what your company provides you. You will earn an Enemy (••) who represents a major business rival and another Enemy (•) who is an employee you leapfrogged to seize your piece of Ballard Industries.
 
 </details>
 
 <details>
 
-<summary><strong>The Book of Nod</strong> (p.267)</summary>
+<summary><strong>Blacksite 24 (pp.264-265)</strong></summary>
 
-**• Precis:** Allowed\
-&#xNAN;**•• Well-versed:** Allowed\
-&#xNAN;**••• Scholar:** Allowed\
-&#xNAN;**•••• Collector:** Locked\
-&#xNAN;**••••• Noddist Master:** Locked
+<sup>_The former Chanute Air Force Base lies 130 miles south of Chicago and was first established in 1917 as an Air Service training camp following the United States’ entry into World War I, being used primarily to train pilot cadets to fly over the battlefields of Europe. Following the declaration of World War II, Chanute’s importance as a technical training center and enlistee entry point increased. The first all-black fighter squadron was activated there in March 1941, the 99th Pursuit Squadron, who trained first in ground-support roles and would later go on to form the core of the other black squadrons. The Women’s Army Corps Training School was established there in early 1944 and produced class after class of WACs until the end of the war._</sup>
 
-</details>
+<sup>_In 1988, as part of a general reduction of forces consideration, the Base Realignment and Closure Commission recommended that Chanute be closed and redeveloped for civilian use. Certain portions of the former base have, however, not been turned over to the public. Careful inspection of the site turned up the extensive use of asbestos in many of the oldest buildings on site, as well as toxic levels of volatile organic compounds in soil and groundwater requiring extensive environmental remediation. Those areas of the former base were declared an EPA Superfund clean-up site closed to the public, cordoned off, and assiduously patrolled to keep the curious and the foolish away._</sup>&#x20;
 
-<details>
+<sup>_Two months later, FIRSTLIGHT took possession of their new blacksite and began shipping captive Kindred into the facility via the conveniently located civilian airfield for long-term detention and processing. It’s not like blankbodies need to eat or drink or worry about mesothelioma, after all, and the isolation protocols followed by the interrogation crews generally also act to ameliorate exposure to environmental toxins. In 2015, the operation expanded from mere warehousing and interrogation when FIRSTLIGHT obtained possession of the former Octave Chanute Aerospace Museum, also on the site of the former base, and converted it to use as a medical research facility. An international team of specialists now makes its home there studying blankbody physiology to their hearts’ content once intelligence is done with them._</sup>
 
-<summary><strong>Capone Gang</strong> (pp.268-269) *</summary>
+<sup>_As a Kindred resident of Chicago, you have acquired knowledge of Blacksite 24’s existence and what you do with that knowledge could have a serious impact on your own, for good or for ill._</sup>
 
-After Capone’s disappearance from Chicago, some of his lieutenants wanted to continue the great prosperity their gang saw in his mortal heyday. One lieutenant in particular, the Ventrue Eddie Wu, became a vampire not long after Capone and ran one of the only vampiric arms of the gangs in Chicago. Although during Lodin’s reign this was all very hush-hush, he feels he has no reason to hide and in fact is growing in power. The new gang he leads is called “The Capone Gang” and, while small, is influential amidst the criminal underground.&#x20;
+**• Rumors:** You know a lick who knows a lick who knows somebody that got scooped up by creepy, suspiciously well-informed and well-armed MIB-looking dudes in unmarked black vehicles on the way into the city. Once per story, you may ask the Storyteller to feed you one rumor — which may or may not be based in anything resembling reality.
 
-The Capone Gang’s main imports are drugs from Thailand, Laos, and Myanmar, but they still employ cooks for Chicago-made meth. The gang operates out of the Green Mill, a jazz club that’s been around for over 100 years and was a famous Capone hangout. Since Capone has long since become a relic of Chicago’s past, it’s a surprisingly good cover, and too old-fashioned to be a gang hangout in modern times. There are two cemeteries nearby that act as exchange points among the undead gang and any human gangs or other vampires.
+**•• No, Really!:** You are the lick the other lick knows. Whether you’re a recent arrival in Chicago who witnessed something in your travels or part of a Kindred underground railroad who helps ferry the desperate fleeing from their situations, you know what you’ve seen. Once per story, you may ask the Storyteller for a solid piece of information about the weirdness you’ve witnessed.
 
-Eddie Wu is well known for his ruthless “shoot first, ask questions later” attitude. His second in command and ghoul, Lily DeAngelis, is more balanced, looking to the long-term future of the gang instead of making violent snap judgments. She balances out Eddie’s temper, and is the real brains behind the operation. Eddie stays outside Chicago’s limits to avoid Prince Jackson’s notice, while Lily handles the night-to-night business.
+**••• Paranoia Strikes Deep:** Maybe you were a SchreckNET administrator once. Maybe you’re a paranoid conspiracy theorist now. Maybe you’re a top-flight investigator with a million burnable alternate identities and sources all over the globe. Whatever the explanation, you know about the existence of FIRSTLIGHT and you know they’re active somewhere near, and possibly inside, Chicago. You possess Contacts (••••) whose particular expertise relates to FIRSTLIGHT or related government-sponsored vampire hunting operations and may uti- lize them once per story before they disappear out of reach.
 
-**• A Favor for a Favor:** Favor: The Capone Gang will do something for you if you do something for them. You know a gal that can get what you need done. Favors are in the realm of procuring drugs, weapons, information, or some other illegal thing. Gain Contacts: Capone Gang (•) and Allies: Capone Gang (•) for one use each per story.\
-&#xNAN;**•• In Debt:** You’ve got a big ask of the Capone Gang. Maybe you need someone gone, or you have to launder some cash, or you’ve got a clean-up job they can handle. No problem. Now you’re in Eddie’s debt. Once per story you can utilize this to fix some sort of problem but in exchange, at some point in the story, Eddie’s going to call on you for a favor.\
-&#xNAN;**••• Just One Job:** Job: When you help the Capone Gang out with a heist, you get a cut of the profits. They often use another Kindred on these jobs, either as an enforcer, or just to utilize their supernatural abilities in tandem with the ghouls. They plan out the job, mapping the location for the robbery, taking into account security and surveillance, just leaving you to walk in, grab what’s good, and walk out again. Gain Resources (•••) from a successful completion of the job. Other characters could join in, but how much you decide to cut them in is entirely up to you.\
-&#xNAN;**•••• One of Us:** It’s official, you’ve spent enough time with the gang to become a member. You can join in a “making” ceremony, where you swear an oath of loyalty to the other vampires in the Capone Gang and gain access to their stash. This gets you Resources (••) and Allies: Capone Gang (••), allowing you to hire some of the members to do work for you as well as some extra cash if needed — with Eddie Wu’s permission, of course. You get one additional die o Streetwise rolls concerning organized crime.\
-&#xNAN;**••••• Prodigal Child:** Eddie Wu has put an incredible amount of faith in you, and sees you as a trusted lieutenant. You’re in on the organizational meetings, and can help influence big decisions on what the gang does next. Gain Contacts: Capone Gang (••••), Mawla: Eddie Wu (••), and Haven: Capone Gang Safehouse (••). Now you have to help build a lasting empire in Capone’s name. You gain access to all resources, people, and power this position can grant you within a gang, providing Prince Jackson doesn’t clamp down your operation. Should you ever put your own interests before that of the gang, you lose the above benefits, potentially gaining Eddie as an Enemy.
+**•••• It’s My Job To Know This Stuff:** You are part of the security apparatus of the Chicago Domain — a specialist advisor to the Prince, an agent of the Sheriff, a protector employed by one of the Primogen or another high-ranking member of a powerful clan — whose task encompasses ferreting out and neutralizing possible threats to the Kindred as a whole. Subsequently, you’ve had greater cause than most to discover the truth of certain disturbing rumors, including employing investigators of your own to sort fact from rumor. Consequently, you have managed to uncover considerable amounts of information about the government’s own vampire hunters, including the fact that they have some sort of permanent installation near Chicago. This specialist knowledge grants you Status (••) among the Kindred, who frequently come to you to benefit from it, and Influence (••) among the kine, which you use to manipulate the mortal world for the benefit of your clients.
+
+**••••• The One That Got Away:** You escaped from containment at Blacksite 24. You are very likely being hunted by your former captors, who have every reason to want to retrieve you before you can go to ground or, even worse, reach others of your own kind and warn them of the horrors you’ve endured or witnessed. Fortunately for them, those horrors are not clear in your own mind, even though you have reached safety: The after-effects of Rötschreck and protracted near-torpid starvation have clouded your memories of your experiences — you can only clearly recall what you saw, or heard, with the greatest effort. Once per story, you may ask the Storyteller for one clear snippet of memory from your incarceration. You have gained immunity from FIRSTLIGHT-induced Rötschreck.
 
 </details>
 
 <details>
 
-<summary><strong>The Cobweb</strong> <em>(Malkavian Characters Only)</em> (p.270)</summary>
+<summary><strong>The Blue Velvet (p.266)</strong></summary>
 
-**• A Break in the Static:** Allowed\
-&#xNAN;**•• Step into My Parlor:** Allowed\
-&#xNAN;**••• Across the Web:** Allowed\
-&#xNAN;**•••• Pluck the Strands:** Locked\
-&#xNAN;**••••• Malkav’s Will:** Locked
+<sup>_The Blue Velvet opened its doors in 1972, and has been a hotspot for Kindred nightlife and politicking ever since. Located in the heart of the Rack, the club had several incarnations before its current one. An anonymous entrepreneur bought out Fantastica and immediately closed the bar’s doors for three months of extensive renovations. When it reopened, the Blue Velvet boasted four separate bars, a VIP lounge, and a dance floor big enough to handle fans of the hottest bands. It was an ambitious endeavor, and one that’s worked for nearly 50 years._</sup>
+
+<sup>_The bar draws Kindred and kine alike. While mortals dance their cares away below, Cainites high above engage in a different kind of dance, moving carefully through the rhythms that control the city and its future._</sup>&#x20;
+
+<sup>_For decades, no one knew who owned the Blue Velvet. Rumors and speculation swirled. Most attempts to dig into the club’s financials to unearth its owner led nowhere. Only one investigator got close, in early 1987, but she disappeared right after confiding to a friend that she’d made a stunning breakthrough. Her notes and research never surfaced. In the mid-1990s, the mystery ended with the Malkavian Bronwyn’s emergence into Kindred society. Her revelation that she’d been the force behind The Blue Velvet all these years gave her an immediate in with Kindred all across Chicago, and a storefront from which to illicitly traffic blood on behalf of the Circulatory System._</sup>
+
+**• Est. 1972:** You’ve been there since the start, and may have been familiar with some of the bars that preceded The Blue Velvet. In many ways, the club’s history is your history, and others consider you an authority on it: bands whose rise started here, Kindred rivalries that played out in the VIP lounge, if it happened at The Blue Velvet, you’ve got the skinny. Add two dice to any roll related to recalling and using the club’s history.
+
+**•• Who’s Who:** Everyone who’s anyone stops in at the Blue Velvet. You know them all by name, but they don’t know you’re keeping tabs on who comes and goes, who they talk to, and when they leave. Once per story, ask your Storyteller for information on a fellow club-goer’s movements. The Storyteller will tell you when the named patron was last at the Blue Velvet, how they acted, and who they were with.
+
+**••• Standing Gig:** Only the hottest bands play at the Blue Velvet, and its dance nights have lines stretching around the block. You’ve played or DJed at the club and appear on its calendar regularly. Once per story, when you perform at the club, choose between gaining a three-dot Resource Background (lasting until the end of the story) or a three-dot Herd from fans who attend your every performance.
+
+**•••• VIP Club:** Your status is well-respected at The Blue Velvet. Your fame or influence draws others to the club, and Bronwyn appreciates your patronage, acting as a four-dot Ally or Mawla. A table’s always ready for you, and you have access to a private room in the VIP lounge for meetings and feedings.
+
+**••••• Backstage Pass:** You are a trusted, high-level employee at The Blue Velvet. Ian Gibson relies on you for night-to-night operations, and you’re a member of Bronwyn’s inner circle. One per story, you may request and receive her aid, whether that’s via influence, financial backing, or use of the club for a private endeavor.
 
 </details>
 
 <details>
 
-<summary><strong>Cultivar</strong> (p.271)</summary>
+<summary><strong>Capone Gang (pp.268-269)</strong></summary>
+
+<sup>_After Capone’s disappearance from Chicago, some of his lieutenants wanted to continue the great prosperity their gang saw in his mortal heyday. One lieutenant in particular, the Ventrue Eddie Wu, became a vampire not long after Capone and ran one of the only vampiric arms of the gangs in Chicago. Although during Lodin’s reign this was all very hush-hush, he feels he has no reason to hide and in fact is growing in power. The new gang he leads is called “The Capone Gang” and, while small, is influential amidst the criminal underground._</sup>&#x20;
+
+<sup>_The Capone Gang’s main imports are drugs from Thailand, Laos, and Myanmar, but they still employ cooks for Chicago-made meth. The gang operates out of the Green Mill, a jazz club that’s been around for over 100 years and was a famous Capone hangout. Since Capone has long since become a relic of Chicago’s past, it’s a surprisingly good cover, and too old-fashioned to be a gang hangout in modern times. There are two cemeteries nearby that act as exchange points among the undead gang and any human gangs or other vampires._</sup>
+
+<sup>_Eddie Wu is well known for his ruthless “shoot first, ask questions later” attitude. His second in command and ghoul, Lily DeAngelis, is more balanced, looking to the long-term future of the gang instead of making violent snap judgments. She balances out Eddie’s temper, and is the real brains behind the operation. Eddie stays outside Chicago’s limits to avoid Prince Jackson’s notice, while Lily handles the night-to-night business._</sup>
+
+**• A Favor for a Favor:** The Capone Gang will do something for you if you do something for them. You know a gal that can get what you need done. Favors are in the realm of procuring drugs, weapons, information, or some other illegal thing. Gain Contacts: Capone Gang (•) and Allies: Capone Gang (•) for one use each per story.
+
+**•• In Debt:** You’ve got a big ask of the Capone Gang. Maybe you need someone gone, or you have to launder some cash, or you’ve got a clean-up job they can handle. No problem. Now you’re in Eddie’s debt. Once per story you can utilize this to fix some sort of problem but in exchange, at some point in the story, Eddie’s going to call on you for a favor.
+
+**••• Just One Job:** Job: When you help the Capone Gang out with a heist, you get a cut of the profits. They often use another Kindred on these jobs, either as an enforcer, or just to utilize their supernatural abilities in tandem with the ghouls. They plan out the job, mapping the location for the robbery, taking into account security and surveillance, just leaving you to walk in, grab what’s good, and walk out again. Gain Resources (•••) from a successful completion of the job. Other characters could join in, but how much you decide to cut them in is entirely up to you.
+
+**•••• One of Us:** It’s official, you’ve spent enough time with the gang to become a member. You can join in a “making” ceremony, where you swear an oath of loyalty to the other vampires in the Capone Gang and gain access to their stash. This gets you Resources (••) and Allies: Capone Gang (••), allowing you to hire some of the members to do work for you as well as some extra cash if needed — with Eddie Wu’s permission, of course. You get one additional die o Streetwise rolls concerning organized crime.
+
+**••••• Prodigal Child:** Eddie Wu has put an incredible amount of faith in you, and sees you as a trusted lieutenant. You’re in on the organizational meetings, and can help influence big decisions on what the gang does next. Gain Contacts: Capone Gang (••••), Mawla: Eddie Wu (••), and Haven: Capone Gang Safehouse (••). Now you have to help build a lasting empire in Capone’s name. You gain access to all resources, people, and power this position can grant you within a gang, providing Prince Jackson doesn’t clamp down your operation. Should you ever put your own interests before that of the gang, you lose the above benefits, potentially gaining Eddie as an Enemy.
+
+</details>
+
+<details>
+
+<summary><strong>The Cobweb </strong><em><strong>(Malkavian Characters Only)</strong></em><strong> (p.270)</strong></summary>
+
+<sup>_You’re never truly alone. Not anymore. Not even if you want to be. Not even if you try to be. The Cobweb catches so many thoughts in its sticky strands, sends them skittering further inside, or reverberating out to the far edges. You’re not always sure the thoughts you’re hearing are from now. Some feel like they’ve been stuck for years and have just shaken loose. Others taste like tomorrow._</sup>
+
+<sup>_The Cobweb, also known as the Madness Network, is a psychic network to which all Malkavians are linked. No two clan members describe it exactly the same way. For some, it’s a constant low murmuring in their Blood. Others describe it as a kind of hivemind operating alongside their own cognition. Many — even most — Malkavians are only reminded of its presence a few times a year, like a sudden burst of static on a forgotten radio._</sup>
+
+<sup>_No one knows the Cobweb’s ultimate purpose, though it’s been used to summon a gathering of Oracles together with a subconscious imperative dubbed The Call. Some suspect Malkav himself uses the Network to view the world through his descendants’ eyes and ears, or that he simply is the Network._</sup>
+
+**• A Break in the Static:** The Cobweb is just barely perceptible to you. You catch sporadic snatches of conversation, often just a few distinct words or images. It’s enough to piece together an order or a call for aid, though you’re unable to respond.
+
+**•• Step into My Parlor:** You can communicate over the Network with other Malkavians nearby. These discussions are heavily abstract, limited to short phrases, simple images, and strong emotions.
+
+**••• Across the Web:** Your voice is one of the strongest on the Cobweb. You can hold more involved conversations with Malkavians in your city. Once per story you may initiate the Call, sending impressions of the time and gathering place to all who can hear. This does not guarantee obedience —herding cats is child’s play compared to organizing the children of Malkav.
+
+**•••• Pluck the Strands:** The tensile strength of spider silk rivals steel’s, and your connection to your Cainite ancestors and descendants is equally powerful. Once per story, you may use the cobweb to piggyback on your sire’s or one of your childer’s senses. You are only an observer, and cannot control their responses or their movements.
+
+**••••• Malkav’s Will:** The entity in the Cobweb is awake and aware. They know your name and tell you their secrets. They have a plan and want you to help carry it out. Malkav — or a consciousness pretending to be him — speaks to you directly via the Network. Once per story, you may ask the Storyteller to divulge a secret about another Malkavian or reveal what orders the mind in the Cobweb wants you to follow.
+
+</details>
+
+<details>
+
+<summary><strong>Cultivar</strong> (p.271)*</summary>
 
 **• Dark Seedling:** Allowed\
-&#xNAN;**•• Fresh Cutting:** Allowed\
-&#xNAN;**••• Suppressing the Beast:** Allowed\
-&#xNAN;**•••• Newly Made Initiate:** Allowed\
-&#xNAN;**••••• Jewel in the Garden:** Locked
+**•• Fresh Cutting:** Allowed\
+**••• Suppressing the Beast:** Allowed\
+**•••• Newly Made Initiate:** Allowed\
+**••••• Jewel in the Garden:** Locked
 
 </details>
 
 <details>
 
-<summary><strong>Cult of Shalim</strong> (p.272)</summary>
+<summary><strong>Cult of Shalim</strong> (p.272) *</summary>
 
 **• Dark Whispers:** Allowed\
-&#xNAN;**•• Cult Initiate:** Allowed\
-&#xNAN;**••• Power of Faith:** Allowed\
-&#xNAN;**•••• Crush the Dreams of Life:** Locked\
-&#xNAN;**••••• Shalim Is:** Locked
+**•• Cult Initiate:** Allowed\
+**••• Power of Faith:** Allowed\
+**•••• Crush the Dreams of Life:** Locked\
+**••••• Shalim Is:** Locked
 
 </details>
 
 <details>
 
-<summary><strong>Fires and Floods and Devil's Night</strong> (p.275) *</summary>
+<summary><strong>Fires and Floods and Devil's Night (p.275)</strong></summary>
 
-Chicago has suffered and survived several disasters since its founding in 1833. Often, the chaos and confusion generated by a catastrophe presents the perfect smokescreen for vampires to rid themselves of enemies or sabotage a rival’s holdings in the city. The most famous of these was the Great Fire of 1871, started by the Malkavian O’Leary. More recently, the 1992 Chicago Flood has been blamed on a weakened utility tunnel wall giving way, though rumors among the clans suggest it was a Tremere attack on the Nosferatu living belowground. Of course, disasters also create chances for the city’s Kindred to wield influence over rebuilding and reconstruction efforts. Over the last two centuries, enterprising vampires have hidden havens beneath new skyscrapers, or influenced city planners into adding extra branches off of sewer tunnels.&#x20;
+<sup>_Chicago has suffered and survived several disasters since its founding in 1833. Often, the chaos and confusion generated by a catastrophe presents the perfect smokescreen for vampires to rid themselves of enemies or sabotage a rival’s holdings in the city. The most famous of these was the Great Fire of 1871, started by the Malkavian O’Leary. More recently, the 1992 Chicago Flood has been blamed on a weakened utility tunnel wall giving way, though rumors among the clans suggest it was a Tremere attack on the Nosferatu living belowground. Of course, disasters also create chances for the city’s Kindred to wield influence over rebuilding and reconstruction efforts. Over the last two centuries, enterprising vampires have hidden havens beneath new skyscrapers, or influenced city planners into adding extra branches off of sewer tunnels._</sup>&#x20;
 
-This knowledge can apply to other cities’ disasters as well, such as the Great Fire of London or the 1906 San Francisco Earthquake
+<sup>_This knowledge can apply to other cities’ disasters as well, such as the Great Fire of London or the 1906 San Francisco Earthquake._</sup>
 
-**• Trivia Buff:** Your knowledge of Chicago disasters is rock sol- id. You know dates and details, and have written listicles on the strange-but-true facts about the tragedies. Add two dice to Academics or Investigation rolls pertaining to the topic.\
-&#xNAN;**•• Old Bones:** New parts of the city were rebuilt on top of the old. Perhaps you’ve studied architectural records, or maybe your old haunts were in the path of destruction. Parts of them still stand, and you know how to get into them. Once per story, you may hide in one of these places to throw off a pursuer.\
-&#xNAN;**••• Devil’s Night Survivor:** You lived through the Great Fire and Devil’s Night, and may have participated in Lodin’s purges. Once per story, add three dice to a Social roll involving another person who survived the fire or their childer.\
-&#xNAN;**•••• Local Hero:** You helped rebuild after disaster struck, or were one of the rescuers at the scene, and people remember you fondly for it. Once per story, you may leverage this good- will to sway mortal opinion to your side of an issue, granting you Influence: Goodwill (•••••) for a single session, once per chronicle.\
-&#xNAN;**••••• Puppetmaster:** You were one of the primary orchestrators of a disaster. Work with the Storyteller to determine how you were involved and what the results were. What were your goals? Who died as a result? Who knows you were behind the tragedy? What are some of the rumors surrounding it? What did you gain from it?
+**• Trivia Buff:** Your knowledge of Chicago disasters is rock sol- id. You know dates and details, and have written listicles on the strange-but-true facts about the tragedies. Add two dice to Academics or Investigation rolls pertaining to the topic.
+
+**•• Old Bones:** New parts of the city were rebuilt on top of the old. Perhaps you’ve studied architectural records, or maybe your old haunts were in the path of destruction. Parts of them still stand, and you know how to get into them. Once per story, you may hide in one of these places to throw off a pursuer.
+
+**••• Devil’s Night Survivor:** You lived through the Great Fire and Devil’s Night, and may have participated in Lodin’s purges. Once per story, add three dice to a Social roll involving another person who survived the fire or their childer.
+
+**•••• Local Hero:** You helped rebuild after disaster struck, or were one of the rescuers at the scene, and people remember you fondly for it. Once per story, you may leverage this good- will to sway mortal opinion to your side of an issue, granting you Influence: Goodwill (•••••) for a single session, once per chronicle.
+
+**••••• Puppetmaster:** You were one of the primary orchestrators of a disaster. Work with the Storyteller to determine how you were involved and what the results were. What were your goals? Who died as a result? Who knows you were behind the tragedy? What are some of the rumors surrounding it? What did you gain from it?
 
 </details>
 
 <details>
 
-<summary><strong>FIRSTLIGHT</strong> (p.276)</summary>
+<summary><strong>FIRSTLIGHT</strong> (p.276) *</summary>
 
 **• Evasion Tactics:** Allowed\
-&#xNAN;**•• Branch Office:** Allowed\
-&#xNAN;**••• What Do They Know:** Locked\
-&#xNAN;**•••• No Records Found:** Locked\
-&#xNAN;**••••• Friend on the Inside:** Locked
+**•• Branch Office:** Allowed\
+**••• What Do They Know:** Locked\
+**•••• No Records Found:** Locked\
+**••••• Friend on the Inside:** Locked
 
 </details>
 
 <details>
 
-<summary><strong>Kevin Jackson</strong> (p.277) *</summary>
+<summary><strong>Kevin Jackson</strong> (p.277)</summary>
 
-Kevin Jackson is one of Lodin’s younger childer, a lieutenant Embraced to reorient the then-Prince’s influence over Chicago’s criminal underground, expected to succeed where Capone’s grip was beginning to fail, to bring those operations into the future where they belonged. Recognizing opportunity when he saw it, Jackson played the long game: acting the deferential head-thug-in-charge to his frequently paranoid sire’s face while building a massive personal power base behind his back. Lodin’s fall and presumed destruction presented Jackson with an unprecedented opportunity to seize power for himself — one he took his time to capitalize on, securing for himself the throne, vast influence among the Kindred, and access to his unlamented sire’s financial resources.
+<sup>_Kevin Jackson is one of Lodin’s younger childer, a lieutenant Embraced to reorient the then-Prince’s influence over Chicago’s criminal underground, expected to succeed where Capone’s grip was beginning to fail, to bring those operations into the future where they belonged. Recognizing opportunity when he saw it, Jackson played the long game: acting the deferential head-thug-in-charge to his frequently paranoid sire’s face while building a massive personal power base behind his back. Lodin’s fall and presumed destruction presented Jackson with an unprecedented opportunity to seize power for himself — one he took his time to capitalize on, securing for himself the throne, vast influence among the Kindred, and access to his unlamented sire’s financial resources._</sup>
 
-These nights, Jackson is principally focused on solidifying his own powerbase, building alliances, and establishing his personal diplomatic cred. He has forged and maintained a peace with the local Lupines and may be about to cut a deal with the Lasombra that, if it goes off, will establish him as a force to be reckoned with among the Camarilla as a whole. Getting in on the ground level with him could be just the sort of leg up an ambitious young lick needs to get ahead in the Second City.
+<sup>_These nights, Jackson is principally focused on solidifying his own powerbase, building alliances, and establishing his personal diplomatic cred. He has forged and maintained a peace with the local Lupines and may be about to cut a deal with the Lasombra that, if it goes off, will establish him as a force to be reckoned with among the Camarilla as a whole. Getting in on the ground level with him could be just the sort of leg up an ambitious young lick needs to get ahead in the Second City._</sup>
 
-**• New Blood:** A newcomer to the Prince’s service, possibly a recent arrival from another domain, you have access to a specially constructed Mask worth two dots for use once per story, created using Jackson’s Influence. If you cause a breach of the Masquerade using that Mask, you suffer no adverse consequences beyond a stern talking-to by the Sheriff or the vocal disdain of Harpies in Elysium.\
-&#xNAN;**•• Recent Graduate:** You have emerged from one of the Prince’s new “finishing schools,” devoted to his cause and ready to help him achieve his goals of unity and justice. You have been granted the assistance of one of his ghouls equivalent to Retainers (••) who schools you in Chicago and its workings and is tasked with assisting you in whatever duties the Prince assigns you.\
-&#xNAN;**••• Up and Comer:** The Prince has granted you provisional access to one of his non-criminal areas of interest, equivalent to Influence (•••). Once per story, you may invoke Jackson’s name to automatically succeed in a Social test with a Kindred SPC whose interests overlap with those of the Prince.\
-&#xNAN;**•••• Adjutant:** The Prince knows your capabilities and values them. He has granted you access to the core of his personal power, the gangs he spent years developing into his personal army. Once per story, you may call upon the Bloods to assist in an upcoming scene, where they count as an effective Allies (Bloods) ••• and Contacts (Bloods) •• Background.\
-&#xNAN;**••••• The Prince’s Lieutenant:** You are the Prince’s strong right hand, the vampire he turns to for decisive action and wise counsel alike. You possess Mawla •••• (Kevin Jackson). Once per story, you may request the opportunity to gift the mortal of your choosing the Embrace and the Prince will approve that request. _do._
+**• New Blood:** A newcomer to the Prince’s service, possibly a recent arrival from another domain, you have access to a specially constructed Mask worth two dots for use once per story, created using Jackson’s Influence. If you cause a breach of the Masquerade using that Mask, you suffer no adverse consequences beyond a stern talking-to by the Sheriff or the vocal disdain of Harpies in Elysium.
+
+**•• Recent Graduate:** You have emerged from one of the Prince’s new “finishing schools,” devoted to his cause and ready to help him achieve his goals of unity and justice. You have been granted the assistance of one of his ghouls equivalent to Retainers (••) who schools you in Chicago and its workings and is tasked with assisting you in whatever duties the Prince assigns you.
+
+**••• Up and Comer:** The Prince has granted you provisional access to one of his non-criminal areas of interest, equivalent to Influence (•••). Once per story, you may invoke Jackson’s name to automatically succeed in a Social test with a Kindred SPC whose interests overlap with those of the Prince.
+
+**•••• Adjutant:** The Prince knows your capabilities and values them. He has granted you access to the core of his personal power, the gangs he spent years developing into his personal army. Once per story, you may call upon the Bloods to assist in an upcoming scene, where they count as an effective Allies (Bloods) ••• and Contacts (Bloods) •• Background.
+
+**••••• The Prince’s Lieutenant:** You are the Prince’s strong right hand, the vampire he turns to for decisive action and wise counsel alike. You possess Mawla •••• (Kevin Jackson). Once per story, you may request the opportunity to gift the mortal of your choosing the Embrace and the Prince will approve that request. _do._
 
 </details>
 
 <details>
 
-<summary><strong>Kindred Iconography</strong> (p.278)</summary>
+<summary><strong>Kindred Iconography</strong> (p.278) *</summary>
 
 **• Iconographer:** Allowed\
-&#xNAN;**•• The Writing on the Wall:** Allowed\
-&#xNAN;**••• Trendsetter:** Allowed\
-&#xNAN;**•••• Graffiti Artist:** Locked\
-&#xNAN;**••••• Giorgio Who?:** Locked
+**•• The Writing on the Wall:** Allowed\
+**••• Trendsetter:** Allowed\
+**•••• Graffiti Artist:** Locked\
+**••••• Giorgio Who?:** Locked
 
 </details>
 
 <details>
 
-<summary><strong>The Labyrinth</strong> (p.279)</summary>
+<summary><strong>The Labyrinth</strong> (p.279) *</summary>
 
 **• Tunnel Access:** Allowed\
-&#xNAN;**•• Boxcar Blues:** Allowed\
-&#xNAN;**••• Church:** Allowed\
-&#xNAN;_&#x54;his Lore Sheet may be used once per Time Skip._\
-&#xNAN;**•••• Lydia’s Lair:** Locked\
-&#xNAN;**••••• Hideout:** Locked
+**•• Boxcar Blues:** Allowed\
+**••• Church:** Allowed\
+_&#x54;his Lore Sheet may be used once per Time Skip._\
+**•••• Lydia’s Lair:** Locked\
+**••••• Hideout:** Locked
 
 </details>
 
 <details>
 
-<summary><strong>Lupine Expert</strong> (p.280)</summary>
+<summary><strong>Lupine Expert</strong> (p.280) *</summary>
 
 **• Huntsman:** Allowed\
-&#xNAN;**•• Tactician:** Allowed\
-&#xNAN;**••• Soldier:** Allowed\
-&#xNAN;**•••• Trophy:** Locked\
-&#xNAN;**••••• Ambassador:** Locked
+**•• Tactician:** Allowed\
+**••• Soldier:** Allowed\
+**•••• Trophy:** Locked\
+**••••• Ambassador:** Locked
 
 </details>
 
 <details>
 
-<summary><strong>Nathaniel Bordruff</strong> (p.281) *</summary>
+<summary><strong>Nathaniel Bordruff (p.281)</strong></summary>
 
-Nathaniel Bordruff is an elder of the Chicago Nosferatu warren, one of the late Prince Lodin’s personal minions. Lodin’s fall opened a vista of opportunity before Nathaniel to seize the ruler- ship of the city, a goal he pursued with a will for reasons that most other Kindred failed to fully appreciate but which he ultimately failed to achieve thanks, in part, to the refusal of his own clan’s elder to support his bid for greater power. Furious and embittered, Nathaniel broods upon this injustice, among many others, and has gone increasingly further and further off the Kindred reservation in his ultimate goals in the years since.
+<sup>_Nathaniel Bordruff is an elder of the Chicago Nosferatu warren, one of the late Prince Lodin’s personal minions. Lodin’s fall opened a vista of opportunity before Nathaniel to seize the ruler- ship of the city, a goal he pursued with a will for reasons that most other Kindred failed to fully appreciate but which he ultimately failed to achieve thanks, in part, to the refusal of his own clan’s elder to support his bid for greater power. Furious and embittered, Nathaniel broods upon this injustice, among many others, and has gone increasingly further and further off the Kindred reservation in his ultimate goals in the years since._</sup>
 
-Nathaniel Bordruff is a vampire who loathes all other vampires and most other humans with his entire heart and soul. He would like nothing more, now that a Second Inquisition rages, to expose the entire corrupt Kindred edifice to the cleansing light of day like the crusading monster hunter he once was. His all-devouring egotism allows him to believe he will be celebrated for this act and not another pile of ash with a rather greater constituent element of treachery to it once all is said and done. He has begun seeking allies to assist him in his mad endeavors and this may yet be the key to his undoing.
+<sup>_Nathaniel Bordruff is a vampire who loathes all other vampires and most other humans with his entire heart and soul. He would like nothing more, now that a Second Inquisition rages, to expose the entire corrupt Kindred edifice to the cleansing light of day like the crusading monster hunter he once was. His all-devouring egotism allows him to believe he will be celebrated for this act and not another pile of ash with a rather greater constituent element of treachery to it once all is said and done. He has begun seeking allies to assist him in his mad endeavors and this may yet be the key to his undoing._</sup>
 
-**• Recruit:** Something about you — maybe it’s your jaundiced attitude, maybe it’s your angry heart, maybe it’s the way you complained bitterly once not about vampire society but about the vampiric condition itself — has attracted Bordruff’s attention. Whether or not you’re Nosferatu, he has extended his hand in friendship to you, in the form of Mawla (••) but requires you accept a one-step Blood Bond with him.\
-&#xNAN;**•• Collaborator:** For whatever reasons, you have chosen to accept Bordruff’s friendship or patronage. At first, this seems like a perfectly reasonable quid pro quo arrangement in which you do one another small but meaningful favors, but gradually the relationship grows deeper than that and you begin to suspect he wants more out of you than the occasional bag carrying or act of minor social sabotage. As a result, you have developed Resources (•) and Status (•) and a reputation as ambitious and hardworking, but with a certain stench clinging to you from your associations.\
-&#xNAN;**••• Accomplice:** Bordruff has begun offering you greater favors in return for greater risks or actions taken upon his behalf. You have begun to realize, either because he has begun sharing more insight into his greater goals or through investigation or intuition of your own that there is some cause here whose dimensions you are only now beginning to comprehend. Your patron’s largesse has granted you access to Haven: Secured Room (•) in a parishioner’s basement, Contacts: CoC Consistory (••), and a growing knowledge of the inequities of Kindred society.\
-&#xNAN;**•••• Conspirator:** You know it all know — Bordruff, satisfied of your loyalty, has brought you fully into his confidence, exposed to you the
+**• Recruit:** Something about you — maybe it’s your jaundiced attitude, maybe it’s your angry heart, maybe it’s the way you complained bitterly once not about vampire society but about the vampiric condition itself — has attracted Bordruff’s attention. Whether or not you’re Nosferatu, he has extended his hand in friendship to you, in the form of Mawla (••) but requires you accept a one-step Blood Bond with him.
 
-full scope of his vision, and asked you to join in his conspiracy to bring down Kindred society from within as a partner and fellow visionary who will cleanse the world of the stain of vampirism. He has granted you access to his principal human minions, the pastor of the Church of Christ and the consistory, all of whom are his ghouls and in whom he has instilled a virulent hatred of the undead. This constitutes Allies (••••) who regard you as a potential savior of humanity.\
-&#xNAN;**••••• Betrayer:** What course will you choose: to betray the Kindred as a whole and seek some means of bringing the world where you now exist wholly to destruction? Or will you betray the one who chose to trust you to the Prince and the justice of the damned? Choose wisely. Either way you stand to gain (Status and potentially Mawla with the Prince) and lose.
+**•• Collaborator:** For whatever reasons, you have chosen to accept Bordruff’s friendship or patronage. At first, this seems like a perfectly reasonable quid pro quo arrangement in which you do one another small but meaningful favors, but gradually the relationship grows deeper than that and you begin to suspect he wants more out of you than the occasional bag carrying or act of minor social sabotage. As a result, you have developed Resources (•) and Status (•) and a reputation as ambitious and hardworking, but with a certain stench clinging to you from your associations.
 
-</details>
+**••• Accomplice:** Bordruff has begun offering you greater favors in return for greater risks or actions taken upon his behalf. You have begun to realize, either because he has begun sharing more insight into his greater goals or through investigation or intuition of your own that there is some cause here whose dimensions you are only now beginning to comprehend. Your patron’s largesse has granted you access to Haven: Secured Room (•) in a parishioner’s basement, Contacts: CoC Consistory (••), and a growing knowledge of the inequities of Kindred society.
 
-<details>
+**•••• Conspirator:** You know it all know — Bordruff, satisfied of your loyalty, has brought you fully into his confidence, exposed to you the full scope of his vision, and asked you to join in his conspiracy to bring down Kindred society from within as a partner and fellow visionary who will cleanse the world of the stain of vampirism. He has granted you access to his principal human minions, the pastor of the Church of Christ and the consistory, all of whom are his ghouls and in whom he has instilled a virulent hatred of the undead. This constitutes Allies (••••) who regard you as a potential savior of humanity.
 
-<summary><strong>The Painted Lady</strong> (p.282) *</summary>
-
-Any number of upscale tattoo parlors, piercing studios, and BDSM dungeons exist in Chicago, but only one can claim to be completely exclusive. Edith Beaubien’s by-invitation-only salon is something of a legend among ink collectors, body modification enthusiasts, and those seeking an edge to their sexual kinks. Invitations to events hosted at The Painted Lady are coveted by certain elements among the city’s Kindred, but the truest indication that one has “arrived” upon the Chicago scene is the receipt of a slim, metal membership card and a tattoo or piercing bearing the distinctive Painted Lady style. While many strive to collect ink from Beaubien herself, only long-standing VIPs may boast of that honor. It is even rumored some of the most prominent Kindred in the world have been passed over for membership in favor of random Thin-Bloods, Caitiff, and Anarchs with seemingly nothing at all to recommend them.
-
-**• Plus One:** By a stroke of luck, your companion (or snack) of an evening secured an invitation and asked you to be their “plus one.” You could only observe, not participate, but being there alone automatically raised your social capital amongst the city’s Kindred. You gain two dice to Persuasion and Status (••) in any encounter with a fan or regular of the Painted Lady who sees you during the week following their visit.\
-&#xNAN;**•• Engraved Invitation:** Invitation: In your hand rests a glossy, ruby-red business card. On one side is engraved, in white, scrolling letters, “The Painted Lady, Chicago, est. 1907.” The reverse is stamped with a date and a time in silver ink. Below, some- one has hand-printed, “You are invited to come and play.” At this level, you receive Influence: Painted Lady Enthusiasts (••), and you may participate in BDSM scenes, feeding upon any mortal willing to engage in blood play.\
-&#xNAN;**••• Schedule an Appointment:** The slim, matte metal card looks nearly identical to the black business cards you received when you first came to The Painted Lady, only the name of the establishment is etched in silver on the front, and on the reverse is engraved, “Member” along with a day of the week. This card entitles you to attend one party per week as well as to schedule an appointment to receive a standard tattoo or piercing. Due to your elevated status, you attract the particular notice and regard of one regular patron, playmate, tattoo artist, or piercing technician equal to Retainers (••) and if you receive a piercing or tattoo, your Status among domain counter-culturalists improves by one dot.\
-&#xNAN;**•••• VIP:** Your card is now the color of silver mist and the back is simply stamped “VIP.” You may attend the salon on whatever night or nights you prefer, and you may access more...enticing scenes. A considerable amount of pain and blood is involved, but the mortal and Kindred celebrants engage in these semi-tortures enthusiastically. Accept the invitation to join the action or coolly observe; the choice is yours. At this level, your character has access to a Herd: Painted Lady Enthusiasts (•••) and gains Contacts: BDSM Community (••).\
-&#xNAN;**••••• A Beaubien Original:** Tattoos, piercings, and body modifications from The Painted Lady’s staff are remarkable, but to receive a commissioned piece executed by Edith Beaubien herself is a rare and unforgettable experience. The Nosferatu works in the Japanese tebori style, and something in her hand-crafted pigments makes it feel as if drops of the sun itself are being slowly deposited into your skin. The pain is worth it for a tattoo that never disappears upon waking and the satisfaction of telling other Kindred precisely who inked you. A Beaubien original allows you to add two dice to all Streetwise rolls, grants a permanent Status (•••) among Painted Lady enthusiasts and art lovers, and a permanent Status (••) among other Chicago Kindred.
+**••••• Betrayer:** What course will you choose: to betray the Kindred as a whole and seek some means of bringing the world where you now exist wholly to destruction? Or will you betray the one who chose to trust you to the Prince and the justice of the damned? Choose wisely. Either way you stand to gain (Status and potentially Mawla with the Prince) and lose.
 
 </details>
 
 <details>
 
-<summary><strong>Revenant Family: Ducheski</strong> <em>(Tremere Characters Only)</em> (p.283)</summary>
+<summary><strong>The Painted Lady (p.282)</strong></summary>
+
+<sup>_Any number of upscale tattoo parlors, piercing studios, and BDSM dungeons exist in Chicago, but only one can claim to be completely exclusive. Edith Beaubien’s by-invitation-only salon is something of a legend among ink collectors, body modification enthusiasts, and those seeking an edge to their sexual kinks. Invitations to events hosted at The Painted Lady are coveted by certain elements among the city’s Kindred, but the truest indication that one has “arrived” upon the Chicago scene is the receipt of a slim, metal membership card and a tattoo or piercing bearing the distinctive Painted Lady style. While many strive to collect ink from Beaubien herself, only long-standing VIPs may boast of that honor. It is even rumored some of the most prominent Kindred in the world have been passed over for membership in favor of random Thin-Bloods, Caitiff, and Anarchs with seemingly nothing at all to recommend them._</sup>
+
+**• Plus One:** By a stroke of luck, your companion (or snack) of an evening secured an invitation and asked you to be their “plus one.” You could only observe, not participate, but being there alone automatically raised your social capital amongst the city’s Kindred. You gain two dice to Persuasion and Status (••) in any encounter with a fan or regular of the Painted Lady who sees you during the week following their visit.
+
+**•• Engraved Invitation:** Invitation: In your hand rests a glossy, ruby-red business card. On one side is engraved, in white, scrolling letters, “The Painted Lady, Chicago, est. 1907.” The reverse is stamped with a date and a time in silver ink. Below, some- one has hand-printed, “You are invited to come and play.” At this level, you receive Influence: Painted Lady Enthusiasts (••), and you may participate in BDSM scenes, feeding upon any mortal willing to engage in blood play.
+
+**••• Schedule an Appointment:** The slim, matte metal card looks nearly identical to the black business cards you received when you first came to The Painted Lady, only the name of the establishment is etched in silver on the front, and on the reverse is engraved, “Member” along with a day of the week. This card entitles you to attend one party per week as well as to schedule an appointment to receive a standard tattoo or piercing. Due to your elevated status, you attract the particular notice and regard of one regular patron, playmate, tattoo artist, or piercing technician equal to Retainers (••) and if you receive a piercing or tattoo, your Status among domain counter-culturalists improves by one dot.
+
+**•••• VIP:** Your card is now the color of silver mist and the back is simply stamped “VIP.” You may attend the salon on whatever night or nights you prefer, and you may access more...enticing scenes. A considerable amount of pain and blood is involved, but the mortal and Kindred celebrants engage in these semi-tortures enthusiastically. Accept the invitation to join the action or coolly observe; the choice is yours. At this level, your character has access to a Herd: Painted Lady Enthusiasts (•••) and gains Contacts: BDSM Community (••).
+
+**••••• A Beaubien Original:** Tattoos, piercings, and body modifications from The Painted Lady’s staff are remarkable, but to receive a commissioned piece executed by Edith Beaubien herself is a rare and unforgettable experience. The Nosferatu works in the Japanese tebori style, and something in her hand-crafted pigments makes it feel as if drops of the sun itself are being slowly deposited into your skin. The pain is worth it for a tattoo that never disappears upon waking and the satisfaction of telling other Kindred precisely who inked you. A Beaubien original allows you to add two dice to all Streetwise rolls, grants a permanent Status (•••) among Painted Lady enthusiasts and art lovers, and a permanent Status (••) among other Chicago Kindred.
+
+</details>
+
+<details>
+
+<summary><strong>Revenant Family: Ducheski</strong> <em>(Tremere Characters Only)</em> (p.283) *</summary>
 
 **• Nourishing Blood:** Allowed\
-&#xNAN;**•• Personal Library:** Allowed\
-&#xNAN;**••• Research Team:** Allowed\
-&#xNAN;**•••• Ritual Assistant:** Allowed\
-&#xNAN;**••••• Ducheski Invention:** Locked
+**•• Personal Library:** Allowed\
+**••• Research Team:** Allowed\
+**•••• Ritual Assistant:** Allowed\
+**••••• Ducheski Invention:** Locked
 
 </details>
 
 <details>
 
-<summary><strong>The Society of St. Leopold</strong> (pp.284-285)</summary>
+<summary><strong>The Society of St. Leopold (pp.284-285)</strong></summary>
 
-**• Postulant:** Allowed\
-&#xNAN;**•• Novice:** Allowed\
-&#xNAN;**••• Brother or Sister:** Allowed\
-&#xNAN;**•••• Father or Mother:** Allowed\
-&#xNAN;**••••• Inquisitor:** Allowed
+<sup>_Chicago is a city of faith as much as high finance and haute couture; the Roman Catholic Archdiocese centered on the Holy Name Cathedral serves a flock of more than two million — most of whom are alive, some of whom are not. Scattered among the ecclesiastical ranks, hidden among the priests and nuns, the vicars and deacons, the missionaries in training and the lay brethren, is one of the oldest threats known to the Kindred: the righteous and implacable vampire hunters of the Society of St. Leopold._</sup>
 
-</details>
+<sup>_Named for their spiritual founder and inspiration, the Dominican friar Leopold von Murnau, the Society has existed in one form or another since the formation of the Holy Inquisition Contra Diabolus enim et alii Daemones in the 13th century CE, the very earliest of the mortal forces to turn their hands to the pursuit and destruction of the Kindred and all their works. The organization has changed shape considerably over the centuries as its fortunes have risen and fallen in the regard of cardinals and pontiffs, at some points regarded as an invaluable tool in the battle for men’s souls, in others as an embarrassing relic of the past, best left to molder forgotten in the darkest corner of the Vatican archives available. Never, however, has their mission changed nor has it entirely ceased attracting the service of those in the Church who have looked more deeply into the darkness than most and found horrors gazing back at them, even if their numbers slowly dwindled nearly to extinction over the years._</sup>
 
-<details>
+<sup>_The Society of St. Leopold is no longer fading away. Since 2008, and the development of the joint program to ferret out and destroy the undead — referred to as “blankbodies” by the sort of individuals who can accept the existence of paranormal entities abroad in the world but can’t bring themselves to speak the word “vampire” aloud — the Society’s membership has swelled from a few dozen to several thousand members worldwide._</sup>
 
-<summary><strong>Talley</strong> (p.286) *</summary>
+<sup>_Their extant mass of accumulated knowledge of the undead, collected and guarded and disseminated down the centuries, has formed the basis of much of the modern research into Kindred physiology and capabilities currently underway in blacksites the world over, now aided by science as well as faith. The organization’s members now primarily function as specialist knowledge resource officers and field investigation agents for joint SOCOM/ ESOG task force operations, the “first boots on the ground” when FIRSTLIGHT’s Analysis Division indicates the need for more information from a suspected nest of “anomalies.”_</sup>
 
-Cold, professional, and possessing a rare specialty in both bodyguarding and murdering, the Lasombra idolize Talley, while most vampires outside the Night Clan despise him. To hear him tell it, Talley was among the first Lasombra to join the Sabbat as a way of breaking the elders’ chains. Now that he’s an elder, his view hasn’t changed much. He feels a vampire can never stop punching up at unworthy masters, and these nights, it just so happens the Camarilla are better placed to do so than the degenerated Sabbat and the chaotic Anarch Movement.&#x20;
+<sup>_As a Kindred resident of Chicago, you possess some knowledge of the Society of St. Leopold, how it is organized, and how it functions — or, at the very least, how it did prior to the last decade — and may have some idea how or capacity to ferret out more current information._</sup>
 
-Never a rebel in his own right, Talley works for the highest bidder and never reneges on a contract. This code of honor, combined with a truly dry sense of humor, is all he possesses to mark him as anything other than a bloodthirsty predator. Few Kindred cross Talley and survive, and the vampire who does feels inclined to constantly look over their shoulder.&#x20;
+**• Postulant:** Your relationship with your former (or current?) Church is that you once seriously considered taking Holy Orders. During the process of consideration, you dove deep into the history of the archdiocese and its constituent organizations, which may or may not have already included an office associated with the Society of St. Leopold. Once per story, you may ask the Storyteller for a piece of known information about the Society.
 
-Representing an assortment of powerful Lasombra, Talley participates in talks tonight permitting Keepers into the Camarilla’s ranks. Word is, he put the flame to Lucita at the Camarilla’s command, and did so without hesitation. Unfortunately for Talley, it seems he’s soon to be hung out to dry by the very masters he’s served so diligently for centuries.
+**•• Novice:** Your interest in entering into a profession of faith went deeper than most: you were on the verge of entering into your novitiate when that life was permanently torn away from you. Whether you resent this or have accepted it, you retain a considerable amount of interest in and potential contact with members of the local church. These Contacts (equivalent of ••) would naturally include your confessor, the members of the order you were seeking to enter who oversaw your training, fellow novices, or members of the local congregational volunteer groups.
 
-**• Recognize the Signs:** Like Talley, you have a sense of when danger approaches, and it’s time to change allegiance or flee a domain. Once per story, if an action is likely to cause a severe social backlash, the Storyteller will tell you at your request.\
-&#xNAN;**•• Secret Communications:** Talley’s mastery over the sub-channels of Kindred communication allows him to operate as a highly successful assassin, existing outside the Camarilla hierarchical chain. You know of these channels, and can claim a prominent member of the Camarilla (such as a Prince) as a three- dot Mawla for use in a single session per chronicle. How you treat this contact is up to you, but blackmail or warm relations will produce different results.\
-&#xNAN;**••• Tangled Strings:** You do not fight the elders like the Sab- bat or the Anarchs. Instead, you seek to manipulate the masters from beneath. You gain two bonus dice to Intelligence and Wits dice pools when seeking to determine whether you’re being manipulated. You gain an additional two bonus dice to your Social dice pool if you ever attempt to directly manipulate the person attempting to control you.\
-&#xNAN;**•••• Trained Killer:** Talley acts as your mentor in the art of killing, either because his current master requested it, or because you paid his high price yourself. Once per chronicle, Talley counts as a Mawla (••••) and can supply you with access to his transportable armory on the same night, allowing you to purchase automatic weapons, explosives, blades, and even flamethrowers if you have the cash.\
-&#xNAN;**••••• Personal Defender:** Talley is your bodyguard. You have already arranged payment, whether in cash, favors, or blood, and for the time being Talley is your loyal defender. He will accompany you anywhere you wish him to be at your side, casting no judgment and offering no counsel unless you request it. Once the contract ends at the end of the session, Talley will speak of no sins he witnessed you perpetrate.
+**••• Brother or Sister:** Before your Embrace you were a member of the Church, sworn and consecrated to a religious community of contemplative, monastic, or apostolic character. Your current state of existence no longer allows you to pursue your vocation but you nonetheless retain the knowledge you acquired during the period of your existence when you actively served the Church. You possess detailed knowledge of the local diocese, including its members and properties, when groups meet and where, and which are affiliates of the Society, allowing you two extra dice on all Academics and Occult rolls relating to the religious district of your expertise. You may use this knowledge once per story to find a safe place to hide among the various properties belonging to the Church (equivalent of Haven •).
+
+**•••• Father or Mother:** You were a fully professed and ordained priest or the senior canoness overseeing a community of nuns prior to your Embrace. While you are separated now from your former profession of faith, you nonetheless still possess many of the advantages you gained while in service. You know exactly who the members of the Society of St. Leopold are in the city and where they meet, generally how often, have some idea which secular forces they are affiliated with, and have developed some strategies on how to avoid or misdirect them, amounting to Influence (•••) with the diocese when it comes to dealing with the Society.
+
+Additionally, you still possess access to church properties that can act as a permanent Haven (••) where no vampire hunter will generally think to look for you. This loresheet comes with the Infamy Flaw (•), as while the local diocese might trust you, the grander Society does not. They know what you were and know you stepped back from that life. They just don’t yet know why.
+
+**••••• Inquisitor:** You are a former, fallen member of the Society of St. Leopold or one of its constituent organizations (the Condotierri, the Gladius Dei, the Office of the Censor, or the Order of St. Joan). You may have chosen to accept the Embrace for treacherous reasons of your own or you may have been Embraced and bound for some purpose of your sire’s, but in any case, you possess deep personal knowledge of the Society and its inner workings, how it functioned historically and how it may be functioning in concert with the Entity Special Operations Group. Once per story, you may ask the Storyteller for one piece of true and accurate information about the Society and its current activities. If you are a traitor, congratulations! Your treachery may yet bear fruit. If you are in bondage against your will, congratulations! Your vengeance may well be nigh.
 
 </details>
 
 <details>
 
-<summary><strong>Wauneka</strong> (p.287) *</summary>
+<summary><strong>Talley (p.286)</strong></summary>
 
-The Nosferatu Wauneka is one of the most well-connected Kindred in the city due to his vast whisper network on the streets. As a Nosferatu, many Kindred tend to stay away from him, fearing his monstrous physical form. He’s not the easiest to talk to, but he’ll go places most others won’t and that makes his information incredibly valuable.&#x20;
+<sup>_Cold, professional, and possessing a rare specialty in both bodyguarding and murdering, the Lasombra idolize Talley, while most vampires outside the Night Clan despise him. To hear him tell it, Talley was among the first Lasombra to join the Sabbat as a way of breaking the elders’ chains. Now that he’s an elder, his view hasn’t changed much. He feels a vampire can never stop punching up at unworthy masters, and these nights, it just so happens the Camarilla are better placed to do so than the degenerated Sabbat and the chaotic Anarch Movement._</sup>&#x20;
 
-His network of teen runaways, young victims of sex trafficking, abused sex workers, and homeless veterans contains vast knowledge of the city’s underground. They see things most of human society doesn’t, both human and Kindred crimes that occur in the darkness of the Chi- cago streets. Wauneka even schooled some of them how to watch out for the things that go bump in the night. He feels connected to them, like they’re his family, and they accept him when most of “proper” society won’t.
+<sup>_Never a rebel in his own right, Talley works for the highest bidder and never reneges on a contract. This code of honor, combined with a truly dry sense of humor, is all he possesses to mark him as anything other than a bloodthirsty predator. Few Kindred cross Talley and survive, and the vampire who does feels inclined to constantly look over their shoulder._</sup>&#x20;
 
-This vast network of secrets secures Wauneka’s continued survival in Chicago, and even nets him some wins politically now and then if he can give the right info to the right person.
+<sup>_Representing an assortment of powerful Lasombra, Talley participates in talks tonight permitting Keepers into the Camarilla’s ranks. Word is, he put the flame to Lucita at the Camarilla’s command, and did so without hesitation. Unfortunately for Talley, it seems he’s soon to be hung out to dry by the very masters he’s served so diligently for centuries._</sup>
 
-**• Secluded Meetup:** Wauneka has decided you’re an okay enough Kindred to meet up with and have the occasional chat about what’s going down. Once per story, meet in a secluded place with Wauneka that he chooses, and he’ll dish on one secret you’re after as related through his underground whisper networks.\
-&#xNAN;**•• Spy Paths:** You’ve proven you don’t mind hanging out with the outcasts of society, and while you may switch between respect and pity for them, they make you feel welcome. Wauneka has noticed this, and so has his outsider family. Once per story they’ll allow you access to their secret pathways in order to spy on someone from a hard-to-detect vantage point. If you make a loud noise or a lot of motion, your perfect camouflage — perhaps a false wall, a shadowed ledge, or one-way mirror — loses its use.\
-&#xNAN;**••• Insider Connections:** Wauneka knows someone inside of almost every industry and business inside of Chicago. Usually they’re the people that go unnoticed, like the janitors, sanitation workers, or food workers connected to these places. Need someone on the inside? Once per story, Wauneka can hook you up with someone who can get you inside, or get you the info you need from the inside for a price. This individual counts as Retainers (••) for one session per chronicle, but will remain Contacts (•) for you from this point on if you spend the required Experience.\
-&#xNAN;**•••• Spy Skills:** Skills: You’ve spent enough time with the underground people in Chicago that you’ve begun to pick up on their subtle skills of going unnoticed. You’re friends with them, and even help care for them the way that Wauneka does. You can gain three pieces of secret information once per story, either through use of your learned spy skills or your close bonds with the underground people. You also gain free Skill Specialties in Investigation (Espionage) and Insight (Secrets).\
-&#xNAN;**••••• Darkest Whispers:** Wauneka has come to trust you like one of his family, a thing he does rarely and not without great caution. He welcomes you into his most secret places (at least as far as he lets you know), and confides in you the darkest things he learns about the Kindred in the city. You are his confidant, his friend, and trusted ally. Wauneka counts as Allies: Wauneka (•••) and his underground associates. Additionally, once per story he’ll ask your advice on what move to make to influence Chicago’s politics, and take it to make permanent change in the city.
+**• Recognize the Signs:** Like Talley, you have a sense of when danger approaches, and it’s time to change allegiance or flee a domain. Once per story, if an action is likely to cause a severe social backlash, the Storyteller will tell you at your request.
+
+**•• Secret Communications:** Talley’s mastery over the sub-channels of Kindred communication allows him to operate as a highly successful assassin, existing outside the Camarilla hierarchical chain. You know of these channels, and can claim a prominent member of the Camarilla (such as a Prince) as a three- dot Mawla for use in a single session per chronicle. How you treat this contact is up to you, but blackmail or warm relations will produce different results.
+
+**••• Tangled Strings:** You do not fight the elders like the Sab- bat or the Anarchs. Instead, you seek to manipulate the masters from beneath. You gain two bonus dice to Intelligence and Wits dice pools when seeking to determine whether you’re being manipulated. You gain an additional two bonus dice to your Social dice pool if you ever attempt to directly manipulate the person attempting to control you.
+
+**•••• Trained Killer:** Talley acts as your mentor in the art of killing, either because his current master requested it, or because you paid his high price yourself. Once per chronicle, Talley counts as a Mawla (••••) and can supply you with access to his transportable armory on the same night, allowing you to purchase automatic weapons, explosives, blades, and even flamethrowers if you have the cash.
+
+**••••• Personal Defender:** Talley is your bodyguard. You have already arranged payment, whether in cash, favors, or blood, and for the time being Talley is your loyal defender. He will accompany you anywhere you wish him to be at your side, casting no judgment and offering no counsel unless you request it. Once the contract ends at the end of the session, Talley will speak of no sins he witnessed you perpetrate.
+
+</details>
+
+<details>
+
+<summary><strong>Wauneka (p.287)</strong></summary>
+
+<sup>_The Nosferatu Wauneka is one of the most well-connected Kindred in the city due to his vast whisper network on the streets. As a Nosferatu, many Kindred tend to stay away from him, fearing his monstrous physical form. He’s not the easiest to talk to, but he’ll go places most others won’t and that makes his information incredibly valuable._</sup>&#x20;
+
+<sup>_His network of teen runaways, young victims of sex trafficking, abused sex workers, and homeless veterans contains vast knowledge of the city’s underground. They see things most of human society doesn’t, both human and Kindred crimes that occur in the darkness of the Chi- cago streets. Wauneka even schooled some of them how to watch out for the things that go bump in the night. He feels connected to them, like they’re his family, and they accept him when most of “proper” society won’t._</sup>
+
+<sup>_This vast network of secrets secures Wauneka’s continued survival in Chicago, and even nets him some wins politically now and then if he can give the right info to the right person._</sup>
+
+**• Secluded Meetup:** Wauneka has decided you’re an okay enough Kindred to meet up with and have the occasional chat about what’s going down. Once per story, meet in a secluded place with Wauneka that he chooses, and he’ll dish on one secret you’re after as related through his underground whisper networks.
+
+**•• Spy Paths:** You’ve proven you don’t mind hanging out with the outcasts of society, and while you may switch between respect and pity for them, they make you feel welcome. Wauneka has noticed this, and so has his outsider family. Once per story they’ll allow you access to their secret pathways in order to spy on someone from a hard-to-detect vantage point. If you make a loud noise or a lot of motion, your perfect camouflage — perhaps a false wall, a shadowed ledge, or one-way mirror — loses its use.
+
+**••• Insider Connections:** Wauneka knows someone inside of almost every industry and business inside of Chicago. Usually they’re the people that go unnoticed, like the janitors, sanitation workers, or food workers connected to these places. Need someone on the inside? Once per story, Wauneka can hook you up with someone who can get you inside, or get you the info you need from the inside for a price. This individual counts as Retainers (••) for one session per chronicle, but will remain Contacts (•) for you from this point on if you spend the required Experience.
+
+**•••• Spy Skills:** Skills: You’ve spent enough time with the underground people in Chicago that you’ve begun to pick up on their subtle skills of going unnoticed. You’re friends with them, and even help care for them the way that Wauneka does. You can gain three pieces of secret information once per story, either through use of your learned spy skills or your close bonds with the underground people. You also gain free Skill Specialties in Investigation (Espionage) and Insight (Secrets).
+
+**••••• Darkest Whispers:** Wauneka has come to trust you like one of his family, a thing he does rarely and not without great caution. He welcomes you into his most secret places (at least as far as he lets you know), and confides in you the darkest things he learns about the Kindred in the city. You are his confidant, his friend, and trusted ally. Wauneka counts as Allies: Wauneka (•••) and his underground associates. Additionally, once per story he’ll ask your advice on what move to make to influence Chicago’s politics, and take it to make permanent change in the city.
 
 </details>
 
@@ -1024,7 +1080,7 @@ A Lupine must be located before it can be slain. Your organization has seeded yo
 
 **••• Brick House:** _Banned_
 
-The hunter often becomes the hunted when Lupines are involved. You spend substantial resources outfitting your haven for just such occasions. You gain four points to spend on Haven and/ or Retainers relating to defense against Lupines.
+The hunter often becomes the hunted when Lupines are involved. You spend substantial resources outfitting your haven for just such occasions. You gain four points to spend between Haven and Retainers relating to defense against Lupines.
 
 **•••• In the City, In the Woods (choose one):** _Banned_
 
@@ -1072,7 +1128,7 @@ You shared blood with Eletria and inherited a measure of her ability to see the 
 
 **••••• Conspicuous Consumption:** _Allowed_
 
-Your search for Eletria leads to Helena. You become part of the circle of vampires used to slake her thirst and keep the Beckoning at bay. This arrange- ment is not without its benefits, as you gain five dots to distribute between Mawla, Resources, Allies, Herd, and Contacts. You also have access to Helena once per story, although she has compelled you not to reveal her presence. If lucky, your perilous association may reveal Eletria’s fate.
+Your search for Eletria leads to Helena. You become part of the circle of vampires used to slake her thirst and keep the Beckoning at bay. This arrangement is not without its benefits, as you gain five dots to distribute between Mawla, Resources, Allies, Herd, and Contacts. You also have access to Helena once per story, although she has compelled you not to reveal her presence. If lucky, your perilous association may reveal Eletria’s fate.
 
 </details>
 
@@ -1694,10 +1750,10 @@ The Court has access to many buildings above ground across the city, and many st
 You are one of the few Kindred in London who has ever been in the presence of the King of Shadows. For some reason they have taken an interest in you, and regularly correspond and meet with you. The King wears a mask and is still an enigmatic figure, but you know more about them than many others. Once per story you may call upon the King directly for aid. The manner and degree to which they respond is left to the Storyteller to determine, but it should materially serve your needs in some way.
 
 **• Free Meals:** Allowed\
-&#xNAN;**•• Rumor Mill:** Allowed\
-&#xNAN;**••• Contraband:** Allowed\
-&#xNAN;**•••• Sanctuary:** Locked\
-&#xNAN;**••••• Favored by the King:** Locked
+**•• Rumor Mill:** Allowed\
+**••• Contraband:** Allowed\
+**•••• Sanctuary:** Locked\
+**••••• Favored by the King:** Locked
 
 </details>
 
@@ -2748,7 +2804,8 @@ The talent lies dormant within you, and comes to light in the most unexpected mo
 
 **••• Wayward Daughter:** _Allowed_
 
-You’ve heard about Daughters of Cacophony, and whatever you’ve heard, you turned into your identity. You successfully (so far) pretend to be a Daughter in the domain you reside in. You’ve also convinced the local Kindred society to treat you like a big deal (though some individuals may argue). This comes with benefits—receive four dots to distribute among Status, Herd and Mawla.\
+You’ve heard about Daughters of Cacophony, and whatever you’ve heard, you turned into your identity. You successfully (so far) pretend to be a Daughter in the domain you reside in. You’ve also convinced the local Kindred society to treat you like a big deal (though some individuals may argue). This comes with benefits—receive four dots to distribute among Status, Herd and Mawla.
+
 However, someone - like your sire—knows your secret, and might use it against you if you give them a reason. Once that happens, lose your gained advantages and gain Flaw: Suspect among the faction you’re the most acquainted with.
 
 **•••• Songstress Supreme:** _Allowed_
@@ -2798,10 +2855,10 @@ Victor Temple owes you a Major Boon. Whether you obtained this from him personal
 <summary>Amanda Chastain</summary>
 
 **• The Pulse:** Allowed\
-&#xNAN;**•• Boss Lady:** Allowed\
-&#xNAN;**••• Hacking the System:** Allowed\
-&#xNAN;**•••• Blood Work:** Allowed\
-&#xNAN;**•••••  Learning the Sytem:** Allowed
+**•• Boss Lady:** Allowed\
+**••• Hacking the System:** Allowed\
+**•••• Blood Work:** Allowed\
+**•••••  Learning the Sytem:** Allowed
 
 </details>
 
@@ -2810,10 +2867,10 @@ Victor Temple owes you a Major Boon. Whether you obtained this from him personal
 <summary>Sheriff Qui</summary>
 
 **• Ally of an Ally:** Allowed\
-&#xNAN;**•• He calls his Car "She":** Allowed\
-&#xNAN;**••• Private Eye:** Allowed\
-&#xNAN;**•••• Comrades in Arms:** Locked\
-&#xNAN;**••••• Dangerous Secrets:** Locked
+**•• He calls his Car "She":** Allowed\
+**••• Private Eye:** Allowed\
+**•••• Comrades in Arms:** Locked\
+**••••• Dangerous Secrets:** Locked
 
 </details>
 
@@ -2822,9 +2879,9 @@ Victor Temple owes you a Major Boon. Whether you obtained this from him personal
 <summary>The Parthenon Troupe</summary>
 
 **• Silent Actor:** Allowed\
-&#xNAN;**•• It Speaks:** Allowed\
-&#xNAN;**••• No Longer in the Shadow:** Locked (coteries only)\
-&#xNAN;**•••• Diva:** Locked\
-&#xNAN;**••••• Impresario:** Locked&#x20;
+**•• It Speaks:** Allowed\
+**••• No Longer in the Shadow:** Locked (coteries only)\
+**•••• Diva:** Locked\
+**••••• Impresario:** Locked&#x20;
 
 </details>
