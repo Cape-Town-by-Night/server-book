@@ -2,6 +2,8 @@
 
 To learn a new formula requires research time, whether the Alchemist spends it poring through libraries or in meditation or on tasting expeditions or performing laboratory experimentation. Players should write down which formulae their character already knows, and any special ingredients it requires. A character receives a formula for free for each dot in Thin-Blood Alchemy and can purchase additional formulae with experience and experimentation.
 
+Alongside these specific formulae, Thin-Blood alchemists can also counterfeit the powers of other Disciplines. These formulae are rated at one dot higher than their legitimate counterpart.
+
 ## Level 1
 
 <details>
