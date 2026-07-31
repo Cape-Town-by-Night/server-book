@@ -142,6 +142,22 @@ Trying to move someone actively resisting requires a contest of Resolve + Alchem
 
 <details>
 
+<summary><mark style="color:red;"><strong>Portable Shade</strong></mark><strong> </strong><mark style="color:red;"><strong>(Sabbat: The Black Hand p.53)</strong></mark></summary>
+
+**Ingredients:** Blood of the Alchemist, sanguinic mortal blood, fresh plant leaves. Some alchemists also use various off-the-shelf sunblock ointments in the mix, though it is unknown whether they contribute significantly to the formula.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** Stamina + Alchemy
+
+**System:** Make a Stamina + Alchemy test when ingesting the formula. The user is able to endure sunlight without taking damage for a number of hours equal to the number of successes on the test. At sunset, make another test with the same pool, this time with a Difficulty equal to the number of hours spent in daylight. A failure causes the user to sustain a level of aggravated damage, while a total failure has them sustain two, as the accumulated sunlight boils the Blood in their veins.
+
+**Duration:** A number of hours equal to a Stamina + Alchemy test, or the next sunset, whichever comes first.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Speak From the Heart (Blood Sigils p.75)</strong></mark></summary>
 
 **Ingredients:** A soft drink, the alchemist’s Blood, melancholic human blood, mercury, ink or paint.
@@ -189,6 +205,34 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 **System:** A UV source smeared with Blacklight Surprise does 1 point of Aggravated damage every turn its light hits a vampire. It provokes fear frenzy like sunlight does. Kindred who already take damage from UV take an extra point.
 
 **Duration:** At least one hour, plus an additional hour for every success the alchemist scores with the dice. If the light source breaks, the formula burns off.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Blood of Mandagloire</strong></mark><strong> </strong><mark style="color:red;"><strong>(Second Inquisition p.46)</strong></mark></summary>
+
+**Ingredients:** The Alchemist’s Blood, melancholic human blood, ketamine or Thorazine, melted human fat, verdigris (copper patina)
+
+**Activation Cost:** One Rouse Check
+
+**System:** After taking this concoction the herd takes on a melancholic Resonance and becomes sluggish and unresponsive. Any vampire feeding off of them while they’re in this state must make a Composure + Resolve roll against a Difficulty equal to the cooker’s Alchemy or fall into a dreamless sleep for an hour. Aggressive shaking or slapping gives the vampire another roll to resist the stupor, while inflicting a wound awakens them immediately though the melancholy Resonance lingers.
+
+**Duration:** This formula stays active in the herd’s blood for three nights after dosing.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mirror of Trust</strong></mark><strong> </strong><mark style="color:red;"><strong>(Second Inquisition p.46)</strong></mark></summary>
+
+**Ingredients:** The Alchemist’s Blood, sanguine human blood, truth serum, a white chrysanthemum taken from a grave
+
+**Activation Cost:** One Rouse Check
+
+**System:** The Alchemist has 3 extra dice on Persuasion or Intimidation rolls to make another person or blankbody be honest with them
+
+**Duration:** One hour
 
 </details>
 
@@ -340,6 +384,20 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 <details>
 
+<summary><mark style="color:red;"><strong>Fang-Stinger</strong></mark><strong> </strong><mark style="color:red;"><strong>(Second Inquisition p.47)</strong></mark></summary>
+
+**Ingredients:** The Alchemist’s Blood, choleric human blood, foxglove, absinthe, laundry detergent or phosgene
+
+**Activation Cost:** One Rouse Check
+
+**System:** The victim makes a contested Stamina + Resolve roll vs. the Alchemist’s Resolve + Alchemy (7 dice). If the victim wins, the serum has no effect. For every success the Alchemist wins by, the victim takes 2 levels of Aggravated damage.
+
+**Duration:** One day
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Fireskin (Blood Sigils p.76)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, powdered elemental salamander bone, tobacco, sulfur.
@@ -347,6 +405,20 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 **Activation Cost:** One Rouse Check
 
 **System:** Whoever drinks the Fireskin formula feels like their skin and the air around them is strangely cold — at odds with the little flames that start to lick up and down their skin. The fire doesn’t spread from them, but their body is superheated and painful to the touch. They do +1 fire damage when they strike with their body (only the additional damage counts as fire), and can increase that to +2 if they manage to grapple someone. Fire does no damage to the user during this period, but cold damage is doubled.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Freezer Fluid</strong></mark><strong> </strong><mark style="color:red;"><strong>(Second Inquisition p.47)</strong></mark></summary>
+
+**Ingredients:** The Alchemist’s Blood, melancholy and phlegmatic human blood, echinacea, possum scent glands, local anaesthetic or ricin
+
+**Activation Cost:** One Rouse Check
+
+**System:** The victim makes a Contested Stamina + Resolve roll vs the Alchemist’s Resolve + Alchemy (7 dice). If the victim wins, the serum has no effect. For every success the Alchemist wins by, the victim loses 2 dice from all physical dice pools.
 
 **Duration:** One scene
 
@@ -423,6 +495,22 @@ fragrance, above.
 On Distillation rolls between 1–3 successes, true vampires that lose the contest have a few moments to hide before the gas takes effect. On a critical win on the Distillation roll, true vampires that lose the contest must also make a Fury Frenzy check at Difficulty 2.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>On-Demand Sunburn</strong></mark><strong> </strong><mark style="color:red;"><strong>(Sabbat: The Black Hand p.53)</strong></mark></summary>
+
+**Ingredients:** Blood of the Alchemist, choleric mortal blood, gold shavings, mercury, as well as assorted halogens (usually chlorine or bromide). The formula also needs to be subjected to sunlight for several hours before use, and alchemists employing athanor corporis usually “juice up” on Portable Shade (see above) for this.
+
+**Activation Cost:** One Rouse Check
+
+**Dice Pools:** N/A
+
+**System:** On activation, the alchemist becomes an unliving battery of sunlight with a single charge seething in their veins. They can unleash this charge at will, inflicting aggravated damage upon themselves and another vampire whom they’ve successfully achieved skin contact with, as their own skin smolders and blackens. The user takes two levels of aggravated damage, while the victim suffers an amount equal to their Bane Severity, as if exposed to daylight for a full turn. If the victim has the means to reduce the damage (such as through Fortitude) they can do so. If the formula isn’t activated before then, the power automatically activates at the first sunset after ingestion, causing two levels of aggravated damage to the user.
+
+**Duration:** Until unleashed or next sunset, whichever comes first.
 
 </details>
 

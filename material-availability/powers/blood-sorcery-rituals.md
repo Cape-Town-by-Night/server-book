@@ -20,6 +20,18 @@ Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes
 
 <details>
 
+<summary><mark style="color:red;"><strong>Beelzebeatit (Sabbat: The Black Hand p.50)</strong></mark></summary>
+
+**Ingredients:** Vinegar or alcohol
+
+**Process:** The ritualist sprinkles the vinegar or alcohol on the floor and turns counterclockwise, visually circumscribing the area in which the lesser creatures are to be expelled.
+
+**System:** If the ritual is successful, living creatures of animal intellect and below hastily vacate the area of about a hundred meters square. Thereafter, nothing prevents a directed or controlled creature from returning (but such things may be visible, and stand out due to their active expulsion), but such creatures won’t do it of their own volition unless enraged or no other option to traverse it exists. The effects last for one scene or one night, whichever comes first.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Bind the Accusing Tongue (Blood Sigils pp.60-62)</strong></mark></summary>
 
 **Ingredients:** A picture, effigy, or image of the target, a lock of the target’s hair, a black silken cord.
@@ -491,6 +503,30 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 **Process:** The caster chants scripture over the human target for three hours. Over the course of the ritual, the human gradually weakens, while the chalice fills with a clear, sweet-smelling liquid.
 
 **System:** A successful Ritual fills the chalice to the brim at the end of three hours and kills the human victim. The clear liquid produced functions exactly like fresh blood from the human victim for the next hour, carrying any Resonance and Dyscrasia the victim exhibited. Since the victim must be unconscious during the ritual, anything but a Phlegmatic resonance is difficult to obtain. Though it mostly functions as normal, this clear Blood has an unusual effect on Kindred who consume it: until the next sunset, their Hunger can be reduced to 0 (due to the donor’s death) and they are vulnerable to diablerie. A would-be diablerist gains three dice to her Strength + Resolve roll against the victim, and she may use the experience points she gains to increase her Blood Potency by at least one point, regardless of her victim’s power. She also does not gain the black veins in her aura that usually accompany the act.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Communal Vigor (Sabbat: The Black Hand pp.50-51)</strong></mark></summary>
+
+**Ingredients:** One fingernail of the Pack Priest
+
+**Process:** The Priest tears a nail from their finger and breaks it into pieces, one for each member of the Pack. They place their own portion of the torn nail in the Vaulderie chalice, while the other members place theirs under their tongue. If the Ritual is successful, the pieces of nail dissolve into the Vaulderie blood consumed.
+
+**System:** In addition to the effects of the Vaulderie, the members of the Pack have their Blood Potency raised to the same level as the officiating Priest. Additionally, the Priest gains three dice on any Dominate or Presence tests against other members of the Pack. The effects last for one night.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Galvanic Ruination (Sabbat: The Black Hand p.50)</strong></mark></summary>
+
+**Ingredients:** A copper coin
+
+**Process:** The caster smears their Blood on the coin, drops it to the ground and grinds their foot on it, as if they were extinguishing a cigarette. If the Ritual is successful, the coin shatters like porcelain as a Blood-borne current ravages the electrical systems of the surrounding area.
+
+**System:** The Ritual instantly wrecks wiring in the vicinity to the extent that all electrical equipment ceases to function. This includes isolated circuits such as cars on batteries and any backup generators running or starting up within a minute of the casting. The area affected is equivalent to a large warehouse or a three-story building, though it can be extended at casting by adding a level of Difficulty for each additional building or building-equivalent. On a critical win the outage is relatively discreet, but will otherwise cause at least one fire, together with random bursts of static electricity raising hell with speakers, car alarms, and other loud electrical objects.
 
 </details>
 

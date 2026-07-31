@@ -136,8 +136,8 @@ This experience terrifies the animals the vampire harnesses, and their terror sc
 **System:** The vampire Rouses the Blood and spends their action concentrating before testing Resolve + Animalism against the Humanity of their target (mortal targets resist with Stamina + Wits). The victim must be within close proximity to the vampire. Results are based on the margin of the contest, while a critical win also increases a vampire target’s Hunger by one:
 
 _**Basic Win (Margin 0):**_ The victim reduces Social and Mental dice pools by one die as maggots burrow and writhe beneath their flesh, causing confusion and headaches to the victim, and nausea among onlookers.\
-&#xNAN;_**Margin 1:**_ The victim suffers a two-dice penalty on all pools as larvae burst from their flesh in significant numbers. In most cases, Social tests simply fail without needing to roll. At this stage, the Masquerade becomes severely strained, at best.\
-&#xNAN;_**Margin 2+:**_ Eggs go from larvae to pupae in seconds, and pupating blowflies erupt in a shower of gore; killing mortal victims, while supernatural targets receive a two-dice penalty to pools, 2 unhalved Superficial damage, and find themselves unable to speak as their throats fill with squirming maggots.
+_**Margin 1:**_ The victim suffers a two-dice penalty on all pools as larvae burst from their flesh in significant numbers. In most cases, Social tests simply fail without needing to roll. At this stage, the Masquerade becomes severely strained, at best.\
+_**Margin 2+:**_ Eggs go from larvae to pupae in seconds, and pupating blowflies erupt in a shower of gore; killing mortal victims, while supernatural targets receive a two-dice penalty to pools, 2 unhalved Superficial damage, and find themselves unable to speak as their throats fill with squirming maggots.
 
 If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or disgust a foe, the vermin burst from their flesh and they suffer a two-dice penalty on any other pools this scene. The target resists with Composure + Resolve. If the vampire wins, the target cringes away, flees, or otherwise loses face; they also lose Willpower equal to the margin.
 
@@ -186,6 +186,20 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 **System:** Roll Charisma + Animalism vs Stamina + Resolve. A win against a mortal target incapacitates them for that scene, instilling severe lethargy. They act only to preserve themselves, not against the user or anyone else. A win against a vampire prevents the target from performing Blood Surges. While their Beast is quelled, vampires do not score messy criticals. Against vampires, this power lasts a turn plus a number of turns equal to the win margin on the contest. A critical win against a vampire target also ends their frenzy.
 
 **Duration:** One scene, or a number of turns equal to the test margin plus one.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Scent Of Prey,</strong></mark><strong> </strong><mark style="color:red;"><strong>Auspex 2 (Sabbat: The Black Hand p.47)</strong></mark></summary>
+
+**Dice Pools:** Resolve + Animalism
+
+**Cost:** One Rouse Check
+
+**System:** The vampire sniffs the air and rolls Resolve + Animalism. Each success on the roll allows them to sense and track the position of a mortal who has witnessed what a Camarilla Kindred would call a “Masquerade violation.” (The user senses the closest mortal first if there are more than one and order matters.) The effect lasts for one scene, or one night on a critical win. The power is ineffective on mortals who are familiar enough with vampires to sublimate the note of fear, such as ghouls, vampire retainers, or dedicated hunters.
+
+**Duration:** One scene (one night, on a critical win)
 
 </details>
 
@@ -353,6 +367,24 @@ If the user soothes more than one subject per night, the user suffers superficia
 The user can also actively provoke a premonition by focusing on a subject, making a Rouse Check and rolling Resolve + Auspex. The number of successes rolled determines the level of insight on the subject, if any.
 
 **Duration:** Passive
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Unerring Pursuit</strong><strong>, Auspex 2 + Dominate 1 (Sabbat: The Black Hand pp.46-47)</strong></mark></summary>
+
+**Dice Pools:** Resolve + Auspex
+
+**Cost:** One Rouse Check
+
+**System:** The user locks eyes with the target, if only for a split second, and rolls Resolve + Auspex. On a win, the effect lasts for one night, plus one for each success in the margin. (If used against a vampire, the Difficulty of the roll is 3.)
+
+While the power is active the user can concentrate for a turn to gain a view of the last position of the target from the perspective of the target’s own reflection. Essentially, they view a mental impression of the most recent moment the victim saw themselves, intentionally or unintentionally, in a mirror or mirror-like surface (including polished chrome, shopping windows, or even someone’s sunglasses). Note that Obfuscate provides no protection from this power, as it relies on the victim’s self-perception.
+
+The user can recognize the surroundings of the target with an Intelligence + Streetwise (for urban areas) or Intelligence + Survival (for rural areas), the Difficulty depending on circumstances, such as being indoors, but should range from 2 to 4. The target can get a glimpse of their pursuer in their own reflection on a Wits + Awareness test at Difficulty 4, and only on a critical win will recognize their face, or recall it from where the individual saw them if they don’t know them personally.
+
+**Duration:** One night plus one for each success (or in the margin, in the case of a vampire target)
 
 </details>
 
@@ -1434,13 +1466,33 @@ Sense the Unseen (Auspex 1) can pierce the mask as usual.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mask Of A Thousand Faces, Obfuscate 3 (Core p.262)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Mask of a Thousand Faces, Obfuscate 3 (Core p.262)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
 **System:** No test is required. Anyone viewing the vampire sees a forgettable face of the same gender and approximate build and height as the user. Clothes take on the same kind of blandness, depending on the environment. At an office the user might appear as a nightwatchman, while they may seem to wear overalls at an assembly plant. Sense the Unseen (Auspex 1) can pierce the power as usual.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Mask of Isolation,</strong></mark><strong> </strong><mark style="color:purple;"><strong>Obfuscate 3 + Dominate 1 (Sabbat: The Black Hand p.48)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mask of a Thousand Faces</mark>](./#mask-of-a-thousand-faces-obfuscate-3-core-p.262)
+
+**Dice Pools:** Manipulation + Obfuscate vs. Charisma + Insight
+
+**Cost:** One Rouse Check
+
+**System:** The user locks eyes with the victim and must then succeed at a Manipulation + Obfuscate vs. Charisma + Insight test. On a win, the effect lasts for one night, plus one for each success in the margin. While under its effect, the victim is treated as employing Mask of a Thousand Faces, and is unable to be recognized by anyone. (The user can try to persuade friends and family with a Composure + Persuade test, but even when presenting proofs, the apprehension caused by this particular power will make it hard to convince them.)
+
+If the subject is ever made aware of the power being used on them the effect ends, and the power cannot be employed on someone aware of its effects: It relies on the unconscious ignorance of the victim to remain active. As use of the power isn’t overt, it can be reapplied repeatedly though, so long as the user doesn’t reveal their intent.&#x20;
+
+In most chronicles, use of this power to break someone should merit Stains.
+
+**Duration:** One night
 
 </details>
 
@@ -2206,6 +2258,22 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Visceral Absorption,</strong></mark><strong> </strong><mark style="color:yellow;"><strong>Obfuscate 3 + Blood Sorcery 2 (Sabbat: The Black Hand p.49)</strong></mark></summary>
+
+**Dice Pools:** Strength + Protean
+
+**Cost:** One Rouse Check
+
+**System:** Use of this power requires at least one dead body in the area of effect, roughly an area extending 5 meters in all directions from the user. The vampire rolls Strength + Protean, and is able to absorb the blood and eradicate the remains of one body per success rolled. The state of the body is of no significance so long as it is fresh, and even “somebody” whose remains are little more than a red smear will be consumed.
+
+The user sates one Hunger per body affected, but cannot sate more Hunger per use than their Blood Sorcery rating, nor can they reduce it below one through this power. Using this power takes one turn per body absorbed. It should also be noted that, while efficient in getting rid of evidence, the power is extremely overt while in use, as the user becomes a literal vortex of blood and viscera. Vampire remains aren’t affected by this power.
+
+**Duration:** One turn per body
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;"><strong>Horrid Form, Protean 4 + Dominate 2 (Players Guide p.83)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Vicissitude</mark>](./#vicissitude-protean-2--dominate-2-players-guide-pp.81-82)
@@ -2511,6 +2579,18 @@ If the poison hits, the user rolls a contest of Strength + Blood Sorcery vs Stam
 
 <details>
 
+<summary><mark style="color:yellow;"><strong>Transitive Bond</strong></mark><strong> </strong><mark style="color:yellow;"><strong>(Sabbat: The Black Hand pp.49-50)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**System:** The user activates this power when calling upon their Blood, either for storing or when giving it to a ghoul. Each use empowers three Rouse Checks’ worth of Blood. Anyone ensnared by the Transitive Bond will be unaware of its effect until they lay eyes on their eventual Regnant, but they might become restless and catch glimpses of them in dream-like visions during daysleep. The Blood Bond otherwise functions as described in Vampire: The Masquerade, pp. 233-234).
+
+**Duration:** N/A
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Fulminating Vitae, Blood Sorcery 4 (Tattered Facade pp.92-93)</strong></mark></summary>
 
 **Cost:** Two Rouse Checks
@@ -2588,6 +2668,18 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 **System:** The user pays the cost and touches the victim (Dexterity + Athletics in combat or similar situations), rolling a contest of Resolve + Blood Sorcery vs Composure + Occult. (Vampires with Fortitude may resist with Composure + Fortitude.) On a win, each point of margin causes one point of Aggravated damage in the victim. Mortals taking at least one point of damage die screaming. Vampire victims add 1 Hunger per point of damage inflicted, until Hunger is at 5.
 
 **Duration:** One turn
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;"><strong>Reclamation of Vitae</strong></mark><strong> </strong><mark style="color:yellow;"><strong>(Sabbat: The Black Hand p.50)</strong></mark></summary>
+
+**Cost:** One or more Stains (when called to return)
+
+**System:** The user concentrates for a turn and choses which of their servants are to repay their Blood-debt. The ghouls do not need to be present, and distance doesn’t matter. The vampire sates two Hunger for each ghoul, while the ghoul suffers five levels of aggravated damage as their body ages irregularly and rapidly, the undead Blood inside them feeling as if it were attempting to violently vacate them. While the power does not require the vampire to Rouse the Blood it should, if ever learned by someone outside the Sabbat, merit Stains to employ.
+
+**Duration:** N/A
 
 </details>
 

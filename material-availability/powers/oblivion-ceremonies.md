@@ -141,6 +141,20 @@ General Difficulties: 3/1
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Blinding the Alloy Eye</strong></mark><strong> </strong><mark style="color:purple;"><strong>(Sabbat: The Black Hand p.52)</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Shadow Cast</mark>](https://wiki.capetownvtm.com/material-availability/powers#shadow-cast-oblivion-2-players-guide-p.87)
+
+**Ingredients:** A small piece of aluminum mesh
+
+**Process:** The user spends a scene in isolation, contacting the spectre and bonding it to the aluminum mesh. The mesh is then placed in a light-proof container, to be taken out when the effect is to be activated. Once removed and attached to a visible piece of flesh or garment of the caster, the effect is initiated.
+
+**System:** Do not make a Ritual roll until the effect is activated. If possible, the result of the test should be kept secret from the player. If successful, cameras around the caster will end up scrambling their image, though they will pick up everything else normally. The effect lasts for a full scene, or until the mesh is removed.
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;"><strong>Compel Spirit (Players Guide p.94)</strong></mark></summary>
 
 **Prerequisite Power:** [<mark style="color:purple;">Where the Veil Thins</mark>](oblivion-ceremonies.md#where-the-veil-thins-oblivion-2-players-guide-pp.87-88)
