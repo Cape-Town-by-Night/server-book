@@ -1210,6 +1210,26 @@ A sorcerer can only have one active use of this ritual cast at a time, and it lo
 
 </details>
 
+## Aapilu Awakening
+
+<details>
+
+<summary><mark style="color:red;"><strong>Aapilu Awakening</strong></mark><strong> </strong><mark style="color:red;"><strong>(Tattered Facade p.92)</strong></mark></summary>
+
+**Ingredients:** A pentagram or other sigil inscribed on the floor, a burning brazier, a wooden wand, lit candles at the points of the pentagram, the aapilu’s True Name
+
+**Process:** The sorcerer chants the aapilu’s True Name and visualizes the hideous actions they seek to accomplish while draining a Rouse Check’s worth of their Blood into the brazier. They then dip the wand into the brazier, drawing symbols into the pentagram in burning Blood while completing the True Name.
+
+**System:** With a win on the Ritual test, the aapilu appears, open to negotiation: this may take the form of a Social contest, an opening offer, or any other process the Storyteller wishes. Unless offended or angered, the aapilu does not attack the sorcerer.
+
+With a critical win on the Ritual test, the sorcerer binds the aapilu (for the time being) and can make a take-it-or-leave-it offer with no further test needed. Bound aapilum do not attack the sorcerer unless the pentagram breaks. If the sorcerer’s Blood Sorcery rating exceeds the bound creature’s Aapilu Level, they can also command it to possess a target (present, or through an image, hair, or other magical connection), set something on fire anywhere in the city besides sacred ground, answer an occult question, or perform some other minor service. (One service per dot of Blood Sorcery.) The sorcerer can dismiss a bound aapilu at any time. On a failure, the aapilu seemingly doesn’t manifest. It might have seeped into the world for its own purposes, with its actions magically traceable back to the sorcerer. On a total failure, the aapilu attacks the summoner.
+
+Regardless of the Ritual test outcome, the sorcerer gains one Stain per Aapilu Level sought. All aapilum depart at sunrise except those possessing mortals or animals; these remain until they accomplish their goals or the sorcerer’s instructions.
+
+The level of the Ritual to awaken a specific aapilu is the same as its Aapilu Level.
+
+</details>
+
 ## Wards
 
 The Tremere employ Wards extensively, basing them on their Hermetic traditional sigils. Banu Haqim Wards usually involve gematriac or abjadic writing, rather than occult symbols, but the methodology remains the same in both cases. Wards consist of a glyph or line of script keyed to repel a single type of supernatural, called “the trespasser” in these rules. When touched, they cause something like an electric shock to the trespasser’s mind and body, imparting both physical burns and a sudden bout of sheer terror. The ward does not work on forced contact - a warded sword will not trigger the ward when striking a trespasser, but it will if a trespasser tries to pick it up.
