@@ -504,7 +504,7 @@ On Distillation rolls between 1–3 successes, true vampires that lose the conte
 
 <summary><mark style="color:red;"><strong>On-Demand Sunburn</strong></mark><strong> </strong><mark style="color:red;"><strong>(Sabbat: The Black Hand p.53)</strong></mark></summary>
 
-**Ingredients:** Blood of the Alchemist, choleric mortal blood, gold shavings, mercury, as well as assorted halogens (usually chlorine or bromide). The formula also needs to be subjected to sunlight for several hours before use, and alchemists employing athanor corporis usually “juice up” on Portable Shade (see above) for this.
+**Ingredients:** Blood of the Alchemist, choleric mortal blood, gold shavings, mercury, as well as assorted halogens (usually chlorine or bromide). The formula also needs to be subjected to sunlight for several hours before use, and alchemists employing athanor corporis usually “juice up” on [<mark style="color:purple;">Portable Shade</mark>](thin-blood-alchemy.md#portable-shade-sabbat-the-black-hand-p.53) for this.
 
 **Activation Cost:** One Rouse Check
 

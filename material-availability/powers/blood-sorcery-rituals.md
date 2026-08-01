@@ -520,18 +520,6 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Galvanic Ruination (Sabbat: The Black Hand p.50)</strong></mark></summary>
-
-**Ingredients:** A copper coin
-
-**Process:** The caster smears their Blood on the coin, drops it to the ground and grinds their foot on it, as if they were extinguishing a cigarette. If the Ritual is successful, the coin shatters like porcelain as a Blood-borne current ravages the electrical systems of the surrounding area.
-
-**System:** The Ritual instantly wrecks wiring in the vicinity to the extent that all electrical equipment ceases to function. This includes isolated circuits such as cars on batteries and any backup generators running or starting up within a minute of the casting. The area affected is equivalent to a large warehouse or a three-story building, though it can be extended at casting by adding a level of Difficulty for each additional building or building-equivalent. On a critical win the outage is relatively discreet, but will otherwise cause at least one fire, together with random bursts of static electricity raising hell with speakers, car alarms, and other loud electrical objects.
-
-</details>
-
-<details>
-
 <summary><mark style="color:red;"><strong>Dagon’s Call (Core p.278)</strong></mark></summary>
 
 **Ingredients:** A gold inlaid ceremonial dagger.
@@ -903,6 +891,18 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 **Process:** The caster writes the name of their target on a piece of parchment and burns it. They collect the ashes and use their own Blood mixed with the ashes to write the sigils required to perform the Ritual.
 
 **System:** Make a Ritual roll versus the target’s Resolve + Willpower. On a successful roll, the target cannot consume blood for one night, vomiting it up as if it were mortal food and drink. Only ashes sate their Hunger and cannot bring it lower than 3, though few victims think of eating ashes unless told of the spell.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Galvanic Ruination (Sabbat: The Black Hand p.51)</strong></mark></summary>
+
+**Ingredients:** A copper coin
+
+**Process:** The caster smears their Blood on the coin, drops it to the ground and grinds their foot on it, as if they were extinguishing a cigarette. If the Ritual is successful, the coin shatters like porcelain as a Blood-borne current ravages the electrical systems of the surrounding area.
+
+**System:** The Ritual instantly wrecks wiring in the vicinity to the extent that all electrical equipment ceases to function. This includes isolated circuits such as cars on batteries and any backup generators running or starting up within a minute of the casting. The area affected is equivalent to a large warehouse or a three-story building, though it can be extended at casting by adding a level of Difficulty for each additional building or building-equivalent. On a critical win the outage is relatively discreet, but will otherwise cause at least one fire, together with random bursts of static electricity raising hell with speakers, car alarms, and other loud electrical objects.
 
 </details>
 

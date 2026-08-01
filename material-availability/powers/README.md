@@ -191,7 +191,7 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Scent Of Prey,</strong></mark><strong> </strong><mark style="color:red;"><strong>Auspex 2 (Sabbat: The Black Hand p.47)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Scent Of Prey,</strong></mark><strong> </strong><mark style="color:red;"><strong>Animalism 3 (Sabbat: The Black Hand p.47)</strong></mark></summary>
 
 **Dice Pools:** Resolve + Animalism
 
