@@ -26,10 +26,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Hardestadt,</strong> <em>Ventrue Characters Only</em> (p.390)</summary>
 
 **• Voice of Hardestadt:** Allowed\
-&#xNAN;**•• Supreme Leader:** Allowed\
-&#xNAN;**••• Ventrue Pillar:** Allowed\
-&#xNAN;**•••• Line to the Founders:** Banned\
-&#xNAN;**••••• Hardestadt's Heir:** Allowed
+**•• Supreme Leader:** Allowed\
+**••• Ventrue Pillar:** Allowed\
+**•••• Line to the Founders:** Banned\
+**••••• Hardestadt's Heir:** Allowed
 
 </details>
 
@@ -38,10 +38,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Helena,</strong> <em>Toreador Characters Only</em> (p.391)</summary>
 
 **• Skin-Deep:** Allowed\
-&#xNAN;**•• Real Talent:** Allowed\
-&#xNAN;**••• Embrace the Stereotype:** Allowed\
-&#xNAN;**•••• Divine Purity:** Allowed\
-&#xNAN;**••••• Succubus Club Franchise:** Banned
+**•• Real Talent:** Allowed\
+**••• Embrace the Stereotype:** Allowed\
+**•••• Divine Purity:** Allowed\
+**••••• Succubus Club Franchise:** Banned
 
 </details>
 
@@ -50,10 +50,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Tyler,</strong> <em>Brujah Characters Only</em> (p.397)</summary>
 
 **• Instigator:** Allowed\
-&#xNAN;**•• Champion of the Cause:** Allowed\
-&#xNAN;**••• Tyler's Mercy:** Allowed\
-&#xNAN;**•••• The Furores:** Locked\
-&#xNAN;**••••• Permanent Revolution:** Locked
+**•• Champion of the Cause:** Allowed\
+**••• Tyler's Mercy:** Allowed\
+**•••• The Furores:** Locked\
+**••••• Permanent Revolution:** Locked
 
 </details>
 
@@ -62,10 +62,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Zelios,</strong> <em>Nosferatu Characters Only</em> (p.398)</summary>
 
 **• Sanctuary:** Allowed\
-&#xNAN;**•• Saboteur:** Allowed\
-&#xNAN;**••• On Commission:** Allowed\
-&#xNAN;**•••• The Labyrinth:** Locked\
-&#xNAN;**••••• Sense the Leylines:** Banned
+**•• Saboteur:** Allowed\
+**••• On Commission:** Allowed\
+**•••• The Labyrinth:** Locked\
+**••••• Sense the Leylines:** Banned
 
 </details>
 
@@ -74,10 +74,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Vasantasena,</strong> <em>Malkavian Characters Only</em> (p.399)</summary>
 
 **• Agent of Chaos:** Allowed\
-&#xNAN;**•• Hear My Words:** Allowed\
-&#xNAN;**••• Scent the Bonds:** Allowed\
-&#xNAN;**•••• Destroy the Bond:** Allowed\
-&#xNAN;**••••• Sabbat Becomes Camarilla:** Allowed
+**•• Hear My Words:** Allowed\
+**••• Scent the Bonds:** Allowed\
+**•••• Destroy the Bond:** Allowed\
+**••••• Sabbat Becomes Camarilla:** Allowed
 
 </details>
 
@@ -86,10 +86,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Karl Schrekt,</strong> <em>Tremere Characters Only</em> (p.405)</summary>
 
 **• Remember the House:** Allowed\
-&#xNAN;**•• Hardliner:** Allowed\
-&#xNAN;**••• Ritual Preparedness:** Allowed\
-&#xNAN;**•••• Archon’s Bane:** Locked\
-&#xNAN;**••••• Know the World:** Locked
+**•• Hardliner:** Allowed\
+**••• Ritual Preparedness:** Allowed\
+**•••• Archon’s Bane:** Locked\
+**••••• Know the World:** Locked
 
 </details>
 
@@ -98,10 +98,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Xaviar,</strong> <em>Gangrel Characters Only</em> (p.406)</summary>
 
 **• Martyred Ancestor:** Allowed\
-&#xNAN;**•• Where the Bodies Are Buried:** Allowed\
-&#xNAN;**••• Loyal Hound:** Allowed\
-&#xNAN;**•••• Monstrous Bat:** Allowed\
-&#xNAN;**••••• Experienced the Antediluvian:** Allowed
+**•• Where the Bodies Are Buried:** Allowed\
+**••• Loyal Hound:** Allowed\
+**•••• Monstrous Bat:** Allowed\
+**••••• Experienced the Antediluvian:** Allowed
 
 </details>
 
@@ -112,10 +112,10 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Lodin,</strong> <em>Ventrue Characters Only</em> (p.273)</summary>
 
 **• Baby of the Family:** Allowed\
-&#xNAN;**•• Responsible Middle Childe:** Allowed\
-&#xNAN;**••• Black Sheep of the Family:** Allowed\
-&#xNAN;**•••• Like Sire, Like Childe:** Allowed\
-&#xNAN;**••••• Long-Lost Relative:** Locked
+**•• Responsible Middle Childe:** Allowed\
+**••• Black Sheep of the Family:** Allowed\
+**•••• Like Sire, Like Childe:** Allowed\
+**••••• Long-Lost Relative:** Locked
 
 </details>
 
@@ -124,11 +124,11 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 <summary><strong>Descendant of Montano,</strong> <em>Lasombra Characters Only</em> (p.274)</summary>
 
 **• Deep Pockets:** Allowed\
-&#xNAN;**• The Shadow of Yesterday:** Allowed\
-&#xNAN;**•• Siblings in Darkness:** Allowed\
-&#xNAN;**••• Abyssal Apprentice:** Locked\
-&#xNAN;**•••• Word of Mouth:** Locked\
-&#xNAN;**••••• Purity of Remorse:** Locked
+**• The Shadow of Yesterday:** Allowed\
+**•• Siblings in Darkness:** Allowed\
+**••• Abyssal Apprentice:** Locked\
+**•••• Word of Mouth:** Locked\
+**••••• Purity of Remorse:** Locked
 
 </details>
 
@@ -201,36 +201,6 @@ Against all odds, you’ve kissed and kicked ass in equal measure to make your w
 </details>
 
 ## Children of the Blood
-
-<details>
-
-<summary><mark style="color:green;"><strong>Little Siblings, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.101)</strong></mark></summary>
-
-<sup>_The Rossellini and the Giovanni were once rivals in necromancy. The Rossellini had more talent, but the Giovanni had more ambition. That led to the latter becoming the Clan of Death for 500 years, and the other becoming a minor bloodline. The two families share many traits, save for one: ghost manipulation. The Giovanni prefer to coax and cajole, with an occasional threat. The Rossellini begin with threats, browbeating, and dominating wraiths into doing their bidding. The Family takes a sadistic glee using Oblivion._</sup>
-
-<sup>_As a Rossellini, the Shadowlands are your playground. Sure, your enslaved wraiths were human, just like you were, but you conquered death. They are the pitiful remains, doomed to lament about what they once had. The least you can do is give purpose to their miserable unlives. One day you’ll die and join their sorrowful ranks, but for now, you will show your cousins the true depths of Oblivion._</sup>
-
-**• Grave Attitude:** _Allowed_
-
-Your experience commanding wraiths taught you that even the Kindred will eventually cross the Shroud. This certainty gives you peace. In any attempt to intimidate or manipulate you, your aggressors always suffer a one die penalty, which stacks with other penalties.
-
-**•• Ghostly Dominance:** _Allowed_
-
-You brook no tolerance for the pleas and threats of the intangible dead. They are your tools. If they don’t see it that way, you will remind them. When you damage a wraith’s fetter, loved ones, or ectoplasmic form, you receive three bonus dice to any rolls to command them.
-
-**••• Necromantic Expertise:** _Allowed_
-
-Your siblings in the Giovanni see Oblivion as a means to an end. You know Oblivion is more than that. It’s a wonderous art, one that rewards those with the patience and ruthlessness to examine its depths. When you perform an Oblivion Ceremony, decrease the Difficulty level by one.
-
-**•••• Stolen Will:** _Allowed_
-
-Ghosts are bundles of emotion cased in an ectoplasmic shell. While some Hecata slake their hunger from ghosts, you know a more sustainable use. When you bite into the fetter of a ghost under your command hard enough to damage it or cause it injury, the fetter bleeds ectoplasm drawn from the ghost’s corpus. Consuming this bitter, stringy substance mends an amount of Aggravated or Superficial Willpower damage equivalent to the ghost’s current Willpower rating.
-
-**••••• Purge:** _Allowed_
-
-You shred corpuses with ease. Any attack made on a ghost always causes Aggravated Health damage, even outside of the Shadowlands. You are also capable of striking them when they are intangible.
-
-</details>
 
 <details>
 
@@ -484,9 +454,9 @@ The Lamiae most steeped in the bloodline’s mysteries hold a private power that
 
 <summary><mark style="color:orange;"><strong>Nasyon San An, </strong></mark><em><mark style="color:orange;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:orange;"><strong> </strong><strong>(p.229)</strong></mark></summary>
 
-A young lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death.
+<sup>_A young lineage with Black Atlantic roots and rumored Cappadocian connections, the vampires once known as the Samedi carried on business as mercenary spies and necromancers, maintaining herds and confidants in religious circles and keeping a low profile. Rumors and misconceptions shrouded them in secrecy; but at the Family Reunion, they emerged from the lies to enter into the Clan of Death._</sup>
 
-Unanswered questions still abound, many focused on their infamous paterfamilias, known in modern nights as Doc San. But times change, vodou isn’t hiding anymore, and neither are they. Nasyon san an are stepping out in billowing dresses, immaculately coordinated streetwear, and even the occasional silk hat. From Bahia to Ilé-Ifẹ̀ to New Orleans and beyond, ready the rum and cigars. Laissez les bon temps rouler.
+<sup>_Unanswered questions still abound, many focused on their infamous paterfamilias, known in modern nights as Doc San. But times change, vodou isn’t hiding anymore, and neither are they. Nasyon san an are stepping out in billowing dresses, immaculately coordinated streetwear, and even the occasional silk hat. From Bahia to Ilé-Ifẹ̀ to New Orleans and beyond, ready the rum and cigars. Laissez les bon temps rouler._</sup>
 
 **• CSI Shit:** _Allowed_
 

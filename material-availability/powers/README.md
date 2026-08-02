@@ -902,7 +902,9 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:red;"><strong>Submerged Directive, Dominate 3 (Core p.257)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Submerged Directive, Dominate 3 (Core p.257)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mesmerize</mark>](./#mesmerize-dominate-2-core-p.256)
 
 **Cost:** No additional cost
 

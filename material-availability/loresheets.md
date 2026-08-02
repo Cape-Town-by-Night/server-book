@@ -1631,11 +1631,11 @@ Starr is infamous for cheating death. He’s shared his secret with you. Once, w
 
 <summary><mark style="color:green;"><strong>The Ruby Throat (p.170)</strong></mark></summary>
 
-Atlantic City has a reputation to uphold, and for those who travel to the shore to toy with the fickle whims of lady luck, there’s no reason that death need stop the fun. Originally established in the prohibition era as a member’s only roulette club by a popular boardwalk dancing girl, the Ruby Throat became a den of powerful people wagering far more than money. Rumor has it a well-known sea facing hotel was won over a single roll one night at the Ruby Throat.&#x20;
+<sup>_Atlantic City has a reputation to uphold, and for those who travel to the shore to toy with the fickle whims of lady luck, there’s no reason that death need stop the fun. Originally established in the prohibition era as a member’s only roulette club by a popular boardwalk dancing girl, the Ruby Throat became a den of powerful people wagering far more than money. Rumor has it a well-known sea facing hotel was won over a single roll one night at the Ruby Throat._</sup>&#x20;
 
-During the Second World War, the location the Ruby Throat operated out of was retrofitted into a factory. The founder, now a rich woman well past her dancing years, planned to happily retire and allow the club to fade into the shadows. A local Kindred named Edith Blumenau loved both her and the marvelous club she had built far too much to allow either to leave the city, and made both a permanent fixture of the boardwalk.&#x20;
+<sup>_During the Second World War, the location the Ruby Throat operated out of was retrofitted into a factory. The founder, now a rich woman well past her dancing years, planned to happily retire and allow the club to fade into the shadows. A local Kindred named Edith Blumenau loved both her and the marvelous club she had built far too much to allow either to leave the city, and made both a permanent fixture of the boardwalk._</sup>&#x20;
 
-Note: The Ruby Throat is easily moved to any other city with a history of gambling or organized crime, and switches locations from opulent sites to flea-bitten dens.
+<sup>_Note: The Ruby Throat is easily moved to any other city with a history of gambling or organized crime, and switches locations from opulent sites to flea-bitten dens._</sup>
 
 **• Rubbing Shoulders:** _Allowed_
 
@@ -1663,7 +1663,7 @@ You’ve been invited to play at the Johnson table, the highest risk game the Ru
 
 <summary><mark style="color:green;"><strong>Relics of the Veil (p.172)</strong></mark></summary>
 
-When mortals speak of haunted rooms, of places where temperature drops and whispers tickle the senses, they are often unknowingly in the presence of a powerful fetter or relic connected closely to the realms of the dead. In the hands of mortals or Kindred without the proper understanding, relics connecting those in the world of the living to those beyond the veil provide nothing more than a feeling of unease, but in the right hands they can be powerful talismans assisting those who deal in the power of Oblivion. Strange objects, some found in passing, some passed down through families and bloodlines over centuries, each one is connected somehow to the world beyond the veil, and brings with them the attentions of wraiths and other entities.
+<sup>_When mortals speak of haunted rooms, of places where temperature drops and whispers tickle the senses, they are often unknowingly in the presence of a powerful fetter or relic connected closely to the realms of the dead. In the hands of mortals or Kindred without the proper understanding, relics connecting those in the world of the living to those beyond the veil provide nothing more than a feeling of unease, but in the right hands they can be powerful talismans assisting those who deal in the power of Oblivion. Strange objects, some found in passing, some passed down through families and bloodlines over centuries, each one is connected somehow to the world beyond the veil, and brings with them the attentions of wraiths and other entities._</sup>
 
 **• Torn Shroud:** _Allowed_
 
@@ -1693,9 +1693,9 @@ Bound in white flesh from a pig fed on human remains, this massive book is held 
 
 <summary><mark style="color:red;"><strong>Agent of Justicar Parr (p.233)</strong></mark></summary>
 
-Juliette Parr is the current Malkavian Justicar, given the authority to investigate traitors to the Camarilla, and to punish those that would flaunt or undermine its Traditions. Parr has a long-standing association with law enforcement; prior to her appointment she served as one of the Sheriffs of London. Her presence, knowledge, and charm are considerable, and her compulsive tendencies have served her well when interrogating suspects, examining crime scenes, and poring over other important evidence. The Justicar continues to maintain a Haven in her home city of London, and she can often be found there when she is not attending Camarilla matters overseas personally.
+<sup>_Juliette Parr is the current Malkavian Justicar, given the authority to investigate traitors to the Camarilla, and to punish those that would flaunt or undermine its Traditions. Parr has a long-standing association with law enforcement; prior to her appointment she served as one of the Sheriffs of London. Her presence, knowledge, and charm are considerable, and her compulsive tendencies have served her well when interrogating suspects, examining crime scenes, and poring over other important evidence. The Justicar continues to maintain a Haven in her home city of London, and she can often be found there when she is not attending Camarilla matters overseas personally._</sup>
 
-You are a confidant of Justicar Parr, serving as her eyes and ears, and given the authority to command Camarilla resources in her name. She trusts your observations and recommendations, all in the name of the greater good, protecting the Camarilla from enemies within and without.
+<sup>_You are a confidant of Justicar Parr, serving as her eyes and ears, and given the authority to command Camarilla resources in her name. She trusts your observations and recommendations, all in the name of the greater good, protecting the Camarilla from enemies within and without._</sup>
 
 **• Information Drop:** _Banned_
 
@@ -2167,9 +2167,9 @@ The Praesidium’s early experiments to rebuild the clan’s Blood Bond bear une
 
 <summary><mark style="color:yellow;"><strong>Spear of Orthia, </strong></mark><em><mark style="color:yellow;"><strong>Ventrue Characters Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.93)</strong></mark></summary>
 
-Clan scholars believe that Artemis Orthia is the first childe of Ventrue, and say that she once held sway over Sparta in the guise of its patron goddess. She burned with the desire to destroy her foes and acted decisively — but her headstrong hunger for conflict would prove her downfall at the hands of the Brujah of Carthage. The cultists of the Shattered Spear venerate this ancestor-figure, hiding in the shadows of Clan Ventrue and conducting their worship in defiance of Camarilla dictates. Now the cult waxes in strength and gathers new adherents to its banner, drawn by the whispered gospel of Artemis’ divine nature and the rediscovery of her torpid remains.
+<sup>_Clan scholars believe that Artemis Orthia is the first childe of Ventrue, and say that she once held sway over Sparta in the guise of its patron goddess. She burned with the desire to destroy her foes and acted decisively — but her headstrong hunger for conflict would prove her downfall at the hands of the Brujah of Carthage. The cultists of the Shattered Spear venerate this ancestor-figure, hiding in the shadows of Clan Ventrue and conducting their worship in defiance of Camarilla dictates. Now the cult waxes in strength and gathers new adherents to its banner, drawn by the whispered gospel of Artemis’ divine nature and the rediscovery of her torpid remains._</sup>
 
-You are a member of the Shattered Spear, a descendant of Orthia, and a believer in the sacred nature of your forebearer. Carrying the torch of the Spear means that you are a warrior, and the cult expects you to fight against the Second Inquisition, the Sabbat, and any other groups that threaten Kindred society. You are to revile passive indolence, but your peers and leaders laud your decisive action and willingness to spring into battle.
+<sup>_You are a member of the Shattered Spear, a descendant of Orthia, and a believer in the sacred nature of your forebearer. Carrying the torch of the Spear means that you are a warrior, and the cult expects you to fight against the Second Inquisition, the Sabbat, and any other groups that threaten Kindred society. You are to revile passive indolence, but your peers and leaders laud your decisive action and willingness to spring into battle._</sup>
 
 **• Tip of the Spear:** _Allowed_
 
@@ -2199,7 +2199,7 @@ You possess a splinter of the spear of Orthia itself. This fragment of such a le
 
 <summary><mark style="color:red;"><strong>The Hartford Chantry</strong></mark> <mark style="color:red;"><strong>(pp.80-83)</strong></mark></summary>
 
-The dominant Kindred in Hartford and New Haven were the Gemini League, an elected consortium predominantly consisting of Ventrue and Tremere, who manage the domains of Connecticut, engage in the cryptic passwords, handshakes, and rituals of mortal secret societies, and wish for nothing more than splendid isolation away from the Kindred politicking of “lesser vampires.” When dragged into events beyond their realm, they respond with ferocity and frustration. In these nights, the Gemini League’s natural successor is the Hartford Chantry, though links between the Tremere of Hartford and Ventrue of New Haven remain strong.
+<sup>_The dominant Kindred in Hartford and New Haven were the Gemini League, an elected consortium predominantly consisting of Ventrue and Tremere, who manage the domains of Connecticut, engage in the cryptic passwords, handshakes, and rituals of mortal secret societies, and wish for nothing more than splendid isolation away from the Kindred politicking of “lesser vampires.” When dragged into events beyond their realm, they respond with ferocity and frustration. In these nights, the Gemini League’s natural successor is the Hartford Chantry, though links between the Tremere of Hartford and Ventrue of New Haven remain strong._</sup>
 
 **• Arcane Authority:** _Banned_
 
@@ -2227,7 +2227,7 @@ You’ve been elected to a position of authority in your faction, conveying four
 
 <summary><mark style="color:red;"><strong>The Boston Camarilla</strong></mark> <mark style="color:red;"><strong>(pp.84-87)</strong></mark></summary>
 
-The Kindred of Liberty fought a long series of wars against the British Camarilla, the Sabbat, and the Hecata, and whether through skill or just being the last faction standing, they survived. They dissolved in recent nights, abandoning their factional name and becoming the Boston Camarilla, though many “coals” still cling to the memory of the K.O.L. Now they govern Boston and intend to reach beyond the domain, absorbing the other cities of New England into their widening praxis. They do not suffer attempts to manipulate them or take what they’ve spent so long trying to capture.
+<sup>_The Kindred of Liberty fought a long series of wars against the British Camarilla, the Sabbat, and the Hecata, and whether through skill or just being the last faction standing, they survived. They dissolved in recent nights, abandoning their factional name and becoming the Boston Camarilla, though many “coals” still cling to the memory of the K.O.L. Now they govern Boston and intend to reach beyond the domain, absorbing the other cities of New England into their widening praxis. They do not suffer attempts to manipulate them or take what they’ve spent so long trying to capture._</sup>
 
 **• Comrades in Arms:** _Banned_
 
@@ -2259,9 +2259,9 @@ You benefit from a three dot Retainer in the midst of the domain’s political b
 
 <summary><mark style="color:yellow;"><strong>Student of Kirin Tauk, </strong></mark><em><mark style="color:yellow;"><strong>Thin-Blood Alchemists Only</strong></mark></em><mark style="color:yellow;"><strong> </strong><strong>(p.178)</strong></mark></summary>
 
-Get a group of old alchemists together, and the conversation inevitably turns towards Kirin Taunk (p. 140). These conversations are always the same: some speak of her with admiration, and others with barely hidden jealousy. One of the celebrated alchemists of the 1990s, Taunk pioneered formula techniques still used to this day. Untouched by alchemist purges in other Domains and the horrors of the North American theatre of the Sect War, Taunk’s work served as a source of stability for the bourgeoning thin-blooded community. Her guile made her a role model and a folk legend among those hiding from the local Scourge. Since her Final Death in 1998, her legacy continues through the many alchemical flocks (p. 111) founded by her apprentices.
+<sup>_Get a group of old alchemists together, and the conversation inevitably turns towards Kirin Taunk (p. 140). These conversations are always the same: some speak of her with admiration, and others with barely hidden jealousy. One of the celebrated alchemists of the 1990s, Taunk pioneered formula techniques still used to this day. Untouched by alchemist purges in other Domains and the horrors of the North American theatre of the Sect War, Taunk’s work served as a source of stability for the bourgeoning thin-blooded community. Her guile made her a role model and a folk legend among those hiding from the local Scourge. Since her Final Death in 1998, her legacy continues through the many alchemical flocks (p. 111) founded by her apprentices._</sup>
 
-Her legacy continues through you as well. Whether you’ve discovered her works by chance on the internet, study in one of the alchemic flocks dedicated to continuing her approach to alchemy, or were one of the thin-blooded lucky enough to know her when she was still around, Kirin Taunk left a mark on your half-life. One day, it’ll be your formulae that alchemists will pay hand-over-fist to get a glimpse of. You’ll be the one to stand in a Prince’s court or hang with the local rabble and feel at home in both worlds.
+<sup>_Her legacy continues through you as well. Whether you’ve discovered her works by chance on the internet, study in one of the alchemic flocks dedicated to continuing her approach to alchemy, or were one of the thin-blooded lucky enough to know her when she was still around, Kirin Taunk left a mark on your half-life. One day, it’ll be your formulae that alchemists will pay hand-over-fist to get a glimpse of. You’ll be the one to stand in a Prince’s court or hang with the local rabble and feel at home in both worlds._</sup>
 
 **• Stunning Efficiency:** _Allowed_
 
@@ -2289,11 +2289,11 @@ Kirin’s mysterious benefactor took an interest in you, and still has it to thi
 
 <summary><mark style="color:green;"><strong>Veins of the Earth (p.179)</strong></mark></summary>
 
-The Earth lives. It vibrates on frequencies far beyond human senses. As everyone carries on their day, as plants grow and animals thrive, the Earth’s power ebbs and flows across the surface like water. It’s in the air the kine breathes, and it’s in the ground everyone walks on. The rise of Tiamat, the Blood Serpent (p. 150) only makes clear what many have known for years. The earth carves a web of energy patterns into its flesh. It waits for someone to take hold of it.
+<sup>_The Earth lives. It vibrates on frequencies far beyond human senses. As everyone carries on their day, as plants grow and animals thrive, the Earth’s power ebbs and flows across the surface like water. It’s in the air the kine breathes, and it’s in the ground everyone walks on. The rise of Tiamat, the Blood Serpent (p. 150) only makes clear what many have known for years. The earth carves a web of energy patterns into its flesh. It waits for someone to take hold of it._</sup>
 
-That someone is you. Maybe you were always fascinated by ley lines. Perhaps being undead opened your mind to new possibilities. You could have tapped into the planet’s power accidentally, and you’re trying to recapture that energy.
+<sup>_That someone is you. Maybe you were always fascinated by ley lines. Perhaps being undead opened your mind to new possibilities. You could have tapped into the planet’s power accidentally, and you’re trying to recapture that energy._</sup>
 
-Your knowledge and passion make you a unique figure in the blood craft scene. You’ve established yourself as an expert, a pioneer in your field, or just a fanatic. When the scene needs someone who knows the city’s places of power, you’re the first on their list.
+<sup>_Your knowledge and passion make you a unique figure in the blood craft scene. You’ve established yourself as an expert, a pioneer in your field, or just a fanatic. When the scene needs someone who knows the city’s places of power, you’re the first on their list._</sup>
 
 **• Seeking a Vein:** _Allowed_
 
@@ -2321,11 +2321,11 @@ Your knowledge of the veins of the Earth is so great that it feels like the Bloo
 
 <summary><mark style="color:green;"><strong>Vienna Zero, </strong></mark><em><mark style="color:green;"><strong>Blood Sorcery Users Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.180)</strong></mark></summary>
 
-Officially, it’s the United Nations Vienna Recovery Zone. The Magyar Arrow Brotherhood attack on the city was localized to three city blocks, but the damage was so devastating and thorough that since 2008, all that’s left is makeshift canvas buildings, light blue tarps, and disaster scene tape. Common theories on what occurred there include a missile strike, a dirty bomb, or a biological weapon.
+<sup>_Officially, it’s the United Nations Vienna Recovery Zone. The Magyar Arrow Brotherhood attack on the city was localized to three city blocks, but the damage was so devastating and thorough that since 2008, all that’s left is makeshift canvas buildings, light blue tarps, and disaster scene tape. Common theories on what occurred there include a missile strike, a dirty bomb, or a biological weapon._</sup>
 
-You know what happened. Hungarian fascists played no role, and the missile strikes were made in the U.S.A. with love from the Vatican. The IAO attacked the Tremere’s headquarters, the Vienna Prime Chantry. In the years since, the Leopoldites and the rest of the Coalition’s forces dig through the ruins as a major archeological project. Each new discovery teaches them more about the blankbody threat. They call it Vienna Zero.
+<sup>_You know what happened. Hungarian fascists played no role, and the missile strikes were made in the U.S.A. with love from the Vatican. The IAO attacked the Tremere’s headquarters, the Vienna Prime Chantry. In the years since, the Leopoldites and the rest of the Coalition’s forces dig through the ruins as a major archeological project. Each new discovery teaches them more about the blankbody threat. They call it Vienna Zero._</sup>
 
-Perhaps you have direct clearance to the site through a compromised operative, or maybe you’re the compromised operative. Maybe you have a direct supply chain that brings you bits and pieces of what the investigation recovers. Either way, the artifacts and texts of the Tremere in their prime can be yours to access.
+<sup>_Perhaps you have direct clearance to the site through a compromised operative, or maybe you’re the compromised operative. Maybe you have a direct supply chain that brings you bits and pieces of what the investigation recovers. Either way, the artifacts and texts of the Tremere in their prime can be yours to access._</sup>
 
 **• Inside Knowledge:** _Allowed_
 
