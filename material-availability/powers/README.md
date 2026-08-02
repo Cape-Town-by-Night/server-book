@@ -1410,7 +1410,7 @@ Note that the user cannot use this power to disappear while being actively obser
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Ventriloquism, Obfuscate 2 + Auspex 2 (Players Guide pp.76-77)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Ventriloquism, Obfuscate 2 + Auspex 2 (Fall of London p.31)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 
