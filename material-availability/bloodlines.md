@@ -162,7 +162,9 @@ Menele was impossibly old and held many secrets about the Kindred of Chicago and
 
 **••••• The Greater Mysteries:** _Allowed_
 
-Menele spent years learning the meditative practices necessary to perceive the astral plane in his quest for spiritual perfection. You inherited a portion of his ability and remain fully cognizant of your surroundings during your daily slumber. Reduce the difficulty of all Rouse checks to awaken during the day by two. You also have the ability to perceive fractured glimpses of events to come that may affect your character while you slumber. Once per session, you may roll Resolve + Occult to interpret your nightly visions. Each success brings the vision into greater focus and the Storyteller may offer you one cryptic hint or fact relevant to your character.
+Menele spent years learning the meditative practices necessary to perceive the astral plane in his quest for spiritual perfection. You inherited a portion of his ability and remain fully cognizant of your surroundings during your daily slumber. Reduce the difficulty of all Rouse checks to awaken during the day by two.
+
+You also have the ability to perceive fractured glimpses of events to come that may affect your character while you slumber. Once per session, you may roll Resolve + Occult to interpret your nightly visions. Each success brings the vision into greater focus and the Storyteller may offer you one cryptic hint or fact relevant to your character.
 
 </details>
 
@@ -170,7 +172,7 @@ Menele spent years learning the meditative practices necessary to perceive the a
 
 <details>
 
-<summary><mark style="color:green;"><strong>The Criminal Puttanesca, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.160)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>The Criminal Puttanesca, </strong></mark><em><mark style="color:green;"><strong>Hecata Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.226)</strong></mark></summary>
 
 <sup>_For a few decades, the Giovanni had a reputation as being nothing more than vampire mobsters. Savvy Hecata ancillae confronted by such ethnic stereotypes in Camarilla Elysia laugh and suggest the rumor started from too many late-night showings of The Godfather. And once the Hecata gets a chance to slip away, they call their cousins and ask what the fucking Puttanesca have done this time._</sup>
 
@@ -640,7 +642,11 @@ Your Blood causes those of similar bloodlines to cower before you and accede to 
 
 <summary><mark style="color:orange;"><strong>Descendant of Montano, </strong></mark><em><mark style="color:orange;"><strong>Lasombra Only</strong></mark></em><mark style="color:orange;"><strong> </strong><strong>(p.173)</strong></mark></summary>
 
-<sup>_Montano has achieved much for Clan Lasombra, but it is only now that the clan feels comfortable singing his praises. As one of the few who walked with the clan’s founder, his conversance with the Abyss is unequaled. It is said it was by his will that Christianity rose to prominence and that his legions of armies shaped the history of Europe itself._</sup>\ <sup>_Yet, Montano was always a man of honor. When vampire society split into sects, he refused to abandon the newly born Camarilla. For centuries, he was branded a traitor._</sup>\ <sup>_As his progeny, you have felt the sting of his decision and stand to reap its fruits. Whether you served the Camarilla openly or in secret, the clan now looks to you and your ancestor for guidance. You will show them what loyalty truly means._</sup>
+<sup>_Montano has achieved much for Clan Lasombra, but it is only now that the clan feels comfortable singing his praises. As one of the few who walked with the clan’s founder, his conversance with the Abyss is unequaled. It is said it was by his will that Christianity rose to prominence and that his legions of armies shaped the history of Europe itself._</sup>
+
+<sup>_Yet, Montano was always a man of honor. When vampire society split into sects, he refused to abandon the newly born Camarilla. For centuries, he was branded a traitor._</sup>
+
+<sup>_As his progeny, you have felt the sting of his decision and stand to reap its fruits. Whether you served the Camarilla openly or in secret, the clan now looks to you and your ancestor for guidance. You will show them what loyalty truly means._</sup>
 
 **• The Shadow of Yesterday:** _Discuss With Storytellers_
 
@@ -727,7 +733,9 @@ Your Blood drives you to protect your own. Whenever your Herd, Contacts, Allies,
 
 <summary><mark style="color:green;"><strong>Descendant of Kerwiya, </strong></mark><em><mark style="color:green;"><strong>Gangrel Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.159)</strong></mark></summary>
 
-<sup>_Kerwiya rarely felt the wanderlust of most Gangrel. Though she was forced to move from whatever lost village or city she was Embraced in, the wilderness never called to her. Through the ages she moved from towns along the rivers of Mesopotamia and India to the cities of the Caspian, Black, and Mediterranean seas. Many of her descendants were notable for dwelling in Constantinople, sometimes called Greek Gangrel._</sup>\ <sup>_Her descendants likewise thrive in cities, much more so than other Gangrel. Though they occasionally wander between these bastions of the Kindred, they rarely dwell in rural or suburban communities. They are rumored to be as adept in Kindred politics as the Ventrue, Toreador, or Lasombra._</sup>
+<sup>_Kerwiya rarely felt the wanderlust of most Gangrel. Though she was forced to move from whatever lost village or city she was Embraced in, the wilderness never called to her. Through the ages she moved from towns along the rivers of Mesopotamia and India to the cities of the Caspian, Black, and Mediterranean seas. Many of her descendants were notable for dwelling in Constantinople, sometimes called Greek Gangrel._</sup>
+
+<sup>_Her descendants likewise thrive in cities, much more so than other Gangrel. Though they occasionally wander between these bastions of the Kindred, they rarely dwell in rural or suburban communities. They are rumored to be as adept in Kindred politics as the Ventrue, Toreador, or Lasombra._</sup>
 
 **• Hidden Predator:** _Allowed_
 

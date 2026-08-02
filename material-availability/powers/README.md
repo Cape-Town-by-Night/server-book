@@ -2765,7 +2765,7 @@ The shadow arms can only be banished by bright light, such as from a powerful to
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Fatal Precognition, Oblivion 2 + Auspex 2 (Players Guide p.87)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Fatal Precognition, Oblivion 2 + Auspex 2 (Cults of the Blood Gods pp.204-205)</strong></mark></summary>
 
 **Cost:** One Rouse Check
 

@@ -8,7 +8,7 @@ Alongside these specific formulae, Thin-Blood alchemists can also counterfeit th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Body Paint (Blood Sigils p.73)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Body Paint (Blood Sigils pp.73-74)</strong></mark></summary>
 
 **Ingredients:** The alchemist’s Blood, choleric mortal blood, tattoo inks, henna, marker fluid, or any substance that stains skin.
 
@@ -330,7 +330,7 @@ Stronger connections require fewer successes to see – a ghoul might only requi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Concoct Ashe</strong></mark><strong> </strong><mark style="color:red;"><strong>(Cults of the Blood Gods pp.45-46)</strong></mark> </summary>
+<summary><mark style="color:red;"><strong>Concoct Ashe</strong></mark><strong> </strong><mark style="color:red;"><strong>(Cults of the Blood Gods p.45)</strong></mark> </summary>
 
 **Ingredients:** A destroyed vampire’s ashes, an open flame reaching 1,500°C, aluminum filings
 
