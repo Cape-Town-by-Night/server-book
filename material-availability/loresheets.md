@@ -612,13 +612,21 @@ _&#x54;his Lore Sheet may be used once per Time Skip._\
 
 <details>
 
-<summary><strong>Lupine Expert</strong> (p.280) *</summary>
+<summary><strong>Lupine Expert (p.280)</strong></summary>
 
-**• Huntsman:** Allowed\
-**•• Tactician:** Allowed\
-**••• Soldier:** Allowed\
-**•••• Trophy:** Locked\
-**••••• Ambassador:** Locked
+<sup>_Outside of the safe haven of cities, the Lupines roam. These shapeshifting beasts lie in wait to catch Kindred and tear them limb from limb. Every vampire these nights seems to have a story of a nightmarish Lupine encounter. They are a terrifying and infuriating threat. No one is ever sure where they come from, when they will strike, or why they even want to kill vampires in the first place._</sup>
+
+<sup>_No one except you, that is. Unlike other Kindred, you have encountered the Lupines and lived to tell the tale. You know their secrets, and most importantly, how to use those secrets to keep your fellow vampires safe You may have learned them by spying on a pack, from a rogue Lupine, or just surviving a traumatic event like the War of Chicago. Whatever the reason, when the wolves start howling, the Kindred turn to you first._</sup>
+
+**• Huntsman:** You’ve developed a keen eye for tracking Lupines, even when they’re pretending to be human. Once per session, you may receive three extra dice to any Mental test to pursue Lupines.
+
+**•• Tactician:** A Lupine attack is one of the most terrifying experiences in a vampire’s unlife. You’ve lived through enough of them to keep a cool head and help your coterie fight back. When you and your allies use Teamwork (Vampire: The Masquerade p. 122) against Lupines, the group can always assist each other. Every character can contribute one die to the Teamwork roll, no matter what Skill the test requires.
+
+**••• Soldier:** A werewolf’s ability for combat should never be underestimated. You know that more than anyone, but it won’t stop you from getting into the thick of it. When engaging you in Physical combat, a shifted Lupine only has a −2 damage modifier when using its claws and teeth.
+
+**•••• Trophy:** You have slain a Lupine, and you have the evidence to prove it. This memento may be something like a fragment of the Lupine’s human skull, a scrap of their clothing with an insignia representing a Lupine faction, or the shattered remains of one of their prized weapons. Once per story, when you reveal this trophy to a werewolf, you may choose its initial reaction: Either it flees from you, or only targets you for Physical conflict. Revealing this trophy to Lupines for more than once per story initiates the same choice, but the Storyteller chooses the reaction instead.
+
+**••••• Ambassador:** Your knowledge of werewolves is so great that you can parley with them. You’ve earned mutual respect from both the Kindred and the Lupines, and you can use that respect to establish alliances between the two. The alliances you form are tense and fleeting, but compared to the status quo of “kill on sight,” they’re a dramatic improvement. Whenever you try to heal the rift between individual vampires and werewolves, or stir the two to unite, you receive two extra dice to Social tests in pursuit of your goal. With sufficient effort and sacrifice, you may convince the Kindred and Lupines of a city to act as one to accomplish a task once per chronicle, with no roll necessary.
 
 </details>
 
@@ -662,13 +670,23 @@ _&#x54;his Lore Sheet may be used once per Time Skip._\
 
 <details>
 
-<summary><strong>Revenant Family: Ducheski</strong> <em>(Tremere Characters Only)</em> (p.283) *</summary>
+<summary><strong>Revenant Family: Ducheski </strong><em><strong>(Tremere Characters Only)</strong></em><strong> (p.283)</strong></summary>
 
-**• Nourishing Blood:** Allowed\
-**•• Personal Library:** Allowed\
-**••• Research Team:** Allowed\
-**•••• Ritual Assistant:** Allowed\
-**••••• Ducheski Invention:** Locked
+<sup>_The Ducheski were once the Krevcheski, a family of scholars in Eastern Europe patronized by its nobles. The Tzimisce subjected them to years of experimentation, transforming the family into revenants, a hereditary line of ghouls born with a semblance of vampiric vitae in their veins but afflicted with a craving for the real thing. For a time, they served the clan faithfully, developing a knack for creating advanced clockwork devices for siege warfare and torture._</sup>
+
+<sup>_When war broke out between the Tremere and the Tzimisce, the Krevcheski betrayed their masters, pledged fealty to the Tremere, and took their new name. They have served the clan in secret ever since, maintaining the Warlock’s libraries, sanctums, and laboratories. The family is in decline; few are permitted to continue their line and even fewer are allowed to join the clan as Kindred. At least one member of this illustrious family is at your service._</sup>
+
+<sup>_Unless stated otherwise, purchasing any level of this loresheet for the first time provides the player with Retainer (•), representing the revenant. A Ducheski revenant is a ghoul built as a Weak Mortal that always has access to Auspex 1 and Blood Sorcery 1._</sup>
+
+**• Nourishing Blood:** While a revenant’s vitae is nowhere near as potent as the Kindred, drinking it can be just as sustaining. When you feed from your Ducheski revenant, they are not subject to the Human slake penalty of your Blood Potency. Feeding from them never risks a Blood Bond. The revenant is still harmed by your feeding like a human would be.
+
+**•• Personal Library:** The Ducheskis hold a wealth of knowledge within their dilapidated ancestral strongholds. Your revenant has added their personal library of ancient texts to yours, increasing your understanding of the world’s mysteries. Choose two of these three Skills: Academics, Investigation, or Occult. Whenever you make a test with any Specialty in your chosen Skills, you receive one extra die, in addition to any applicable bonuses.
+
+**••• Research Team:** You have a tight-knit family unit of three to five Ducheski revenants in your care. You receive Retainer (••) to represent them. Once per story, when you task your research time with studying a new Ritual, their dedication and teamwork allow you to learn the Ritual in half of the usual learning time.
+
+**•••• Ritual Assistant:** Your Ducheski revenant has a special aptitude for the story of Blood Sorcery, and can help enhance your magical techniques. When your revenant is present and helps you prepare a known Ritual, the Difficulty of the roll to activate it is reduced by 1. If more than one Ritual Assistant is present, the Ritual pool increases by one die for every two Ritual Assistants present after the first.
+
+**••••• Ducheski Invention:** You own a one-of-a-kind Ducheski creation. This could be one of their infamous clockwork devices, or even a modern technological marvel designed by a revenant in your service. Give the invention a name and function, and choose a Skill. Your Storyteller will name up to three components that make its function possible. The invention is a Specialty of that Skill that provides three extra dice when the invention is used in tasks involving that Skill. If it is damaged or destroyed, any Ducheski in your service knows how to fix it, if they have all the components available.
 
 </details>
 
