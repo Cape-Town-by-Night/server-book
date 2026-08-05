@@ -6,18 +6,19 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 
 
-| Book                                                                                                                                           | Page Number |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [<mark style="color:red;">Core</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#core)                                     | pp. 390-406 |
-| [<mark style="color:red;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#chicago-by-night)             | pp. 273-274 |
-| [<mark style="color:red;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#the-chicago-folios)         | p.160       |
-| [<mark style="color:red;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#children-of-the-blood)   | pp. 101-102 |
-| [<mark style="color:red;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#trails-of-ash-and-bone) | pp. 171     |
-| [<mark style="color:purple;">Players Guide</mark>](bloodlines.md#players-guide)                                                                | pp.223-229  |
-| [<mark style="color:purple;">Blood Sigils</mark>](bloodlines.md#blood-sigils)                                                                  | p. 177      |
-| [<mark style="color:purple;">In Memoriam</mark>](bloodlines.md#in-memoriam)                                                                    |             |
-| [<mark style="color:purple;">Tattered Facade</mark>](bloodlines.md#tattered-facade)                                                            |             |
-| [<mark style="color:purple;">Live From the Succubus Club</mark>](bloodlines.md#live-from-the-succubus-club)                                    | pp.158-161  |
+| Book                                                                                                                                            | Page Number |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [<mark style="color:red;">Core</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#core)                                      | pp. 390-406 |
+| [<mark style="color:red;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#chicago-by-night)              | pp.273-274  |
+| [<mark style="color:blue;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#the-chicago-folios)         | p.160       |
+| [<mark style="color:blue;">Cults of the Blood Gods</mark>](bloodlines.md#cults-of-the-blood-gods)                                               | p.226       |
+| [<mark style="color:blue;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#children-of-the-blood)   | pp.101-102  |
+| [<mark style="color:blue;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#trails-of-ash-and-bone) | pp.171      |
+| [<mark style="color:purple;">Players Guide</mark>](bloodlines.md#players-guide)                                                                 | pp.223-229  |
+| [<mark style="color:purple;">Blood Sigils</mark>](bloodlines.md#blood-sigils)                                                                   | p.177       |
+| [<mark style="color:purple;">In Memoriam</mark>](bloodlines.md#in-memoriam)                                                                     | pp.149-153  |
+| [<mark style="color:purple;">Tattered Facade</mark>](bloodlines.md#tattered-facade)                                                             |             |
+| [<mark style="color:purple;">Live From the Succubus Club</mark>](bloodlines.md#live-from-the-succubus-club)                                     | pp.158-161  |
 
 ## Core
 
@@ -622,7 +623,7 @@ Your curriculum of study has been passed down from Baron Vollgirre’s love of t
 
 **•• Prodigy of Flesh:** _Allowed_
 
-Vollgirre’s Bood is infused with fleshcrafting. You needn’t drink the Blood of any Kindred to learn Protean, pay in-clan costs to learn Protean, and may use Presence in lieu of Dominate or Blood Sorcery when selecting Protean amalgams. When you learn your second dot of Protean, you must select the Vicissitude Power (Players Guide, p. 81), and when you select your fourth dot you must select one Power with Vicissitude (e.g., Fleshcrafting or Horrid Form) as a prerequisite if you don’t already know one. Upon learning Vicissitude, you also gain a Dark Secret (•): Vicissitude. Should your abilities to mold flesh become known, your Dark Secret is exchanged for another flaw of the Storyteller’s Choosing, such as an Adversary or Infamy.
+Vollgirre’s Blood is infused with fleshcrafting. You needn’t drink the Blood of any Kindred to learn Protean, pay in-clan costs to learn Protean, and may use Presence in lieu of Dominate or Blood Sorcery when selecting Protean amalgams. When you learn your second dot of Protean, you must select the Vicissitude Power (Players Guide, p. 81), and when you select your fourth dot you must select one Power with Vicissitude (e.g., Fleshcrafting or Horrid Form) as a prerequisite if you don’t already know one. Upon learning Vicissitude, you also gain a Dark Secret (•): Vicissitude. Should your abilities to mold flesh become known, your Dark Secret is exchanged for another flaw of the Storyteller’s Choosing, such as an Adversary or Infamy.
 
 **••• Sadistic Hunger:** _Allowed_
 
@@ -708,8 +709,7 @@ You shred ephemeral bodies with ease. Any attack made on a ghost always causes A
 
 **• Animal Affinity:** _Allowed_
 
-Idder’s descendants have a knack for animal ghouls. They may reroll any rouse checks to maintain animal ghouls.\
-If they possess the Bond Famulus power, they may have two Famuli.
+Idder’s descendants have a knack for animal ghouls. They may reroll any rouse checks to maintain animal ghouls. If they possess the Bond Famulus power, they may have two Famuli.
 
 **•• Shepherd:** _Allowed_
 
