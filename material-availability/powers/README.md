@@ -570,7 +570,7 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Unburdening the Bestial Soul, Auspex 5 + Dominate 3 (Players Guide p.71)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Unburdening the Bestial Soul, Auspex 5 + Dominate 3 (Players Guide pp.71-72)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Panacea</mark>](./#panacea-auspex-2--fortitude-1-players-guide-p.70)
 
@@ -578,10 +578,14 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 **Cost:** Two Rouse Checks, gain one Stain
 
-**System:** The vampire spends a scene in seclusion with the subject and rolls Composure + Auspex vs. the Humanity of the subject. For every success in the margin, they can remove one Stain from the subject, or erect a psychological “shield” that protects the subject from future Stains on a one-for-one basis. For example, a margin of three applied to a subject with no Stains would effectively “cancel out” up to three Stains acquired later in the session.\
-On a critical win the user can choose to forgo the above benefits, instead restoring a single point of Humanity to the subject, but no vampire can gain that benefit more than once, ever.\
-Unburdening the Bestial Soul works only on vampires, and automatically fails if the subject has a higher Humanity than the user.\
-No matter the benefits received, for the rest of the session the subject is numbed, having part of their mind merged with the user, and any Dominate powers used on them by this power’s user succeed automatically with no eye contact necessary.\
+**System:** The vampire spends a scene in seclusion with the subject and rolls Composure + Auspex vs. the Humanity of the subject. For every success in the margin, they can remove one Stain from the subject, or erect a psychological “shield” that protects the subject from future Stains on a one-for-one basis. For example, a margin of three applied to a subject with no Stains would effectively “cancel out” up to three Stains acquired later in the session.
+
+On a critical win the user can choose to forgo the above benefits, instead restoring a single point of Humanity to the subject, but no vampire can gain that benefit more than once, ever.
+
+Unburdening the Bestial Soul works only on vampires, and automatically fails if the subject has a higher Humanity than the user.
+
+No matter the benefits received, for the rest of the session the subject is numbed, having part of their mind merged with the user, and any Dominate powers used on them by this power’s user succeed automatically with no eye contact necessary.
+
 When the power expires, all psychological “shields” not used up are lost, though Stains removed or Humanity gained on initial application do not revert.
 
 **Duration:** One session
@@ -2362,7 +2366,7 @@ All other limitations of Shapechange and Metamorphosis still apply.
 
 <details>
 
-<summary><mark style="color:purple;"><strong>One With the Land, Protean 5 + Animalism 2 (Players Guide p.83)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>One With the Land, Protean 5 + Animalism 2 (Players Guide pp.83-84)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Earth Meld</mark>](./#earth-meld-protean-3-core-p.271)
 

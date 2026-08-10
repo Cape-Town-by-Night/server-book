@@ -4,7 +4,7 @@
 
 <details>
 
-<summary><mark style="color:red;"><strong>Haven •-••• (Core p.188)</strong></mark></summary>
+<summary>Haven •-••• (Core p.188)</summary>
 
 Base ratings in Haven abstract the haven’s size, security, and privacy. All of those factors affect the chance of spotting, penetrating, and surveilling the vampire’s actual resting place. Add +1 to the Difficulty of, or one die to dice pools resisting, such efforts for each dot of base Haven rating. Kindred know their havens intimately. For each dot of base Haven rating, add one per dot to dice pools to notice danger (including awakening rolls, p. 219) while in your haven.
 
@@ -57,6 +57,28 @@ A three-dot machine shop can include an incinerator; a three-dot machine shop in
 <summary><mark style="color:red;"><strong>Hidden Armory • (Core p.189)</strong></mark></summary>
 
 
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Holy Ground • (Children of the Blood p.99)</strong></mark></summary>
+
+Your haven exists in a place of significance to your cult. You may keep an apartment once owned by a respected Pater or claimed an alcove in the catacomb where the cult’s founder is said to have slept. Other cultists view you as the custodian of a holy place. Once per story, you may call on a large group of up to ten cultists (half of them armed) to help defend your haven if it’s threatened.
+
+</details>
+
+<details>
+
+<summary><mark style="color:blue;"><strong>Shrine •-••• (Children of the Blood p.99)</strong></mark></summary>
+
+You keep a shrine in your haven. The number of dots purchased in this Merit are equal to the dice bonus your character received on scrounging for, preparing, or otherwise acquiring Ritual and Ceremony ingredients.
+
+• Tabletop Shrine — The space is no bigger than a desktop or small table, with items that easily fit in a drawer or a box you can stow beneath a loose floorboard: a few candles, a ritual bowl, a small vial of vitae.
+
+•• Moderate Shrine — You’ve devoted a room solely to worship, complete with a small altar and several items relevant to your faith.
+
+••• Large Shrine — You’ve spent considerable time and resources on making the shrine as close to your faith’s temples and basilicas as you can. If you also have the Security System Merit (Vampire: The Masquerade, p. 189), add one additional die to rolls to resist unauthorized entry into the shrine.
 
 </details>
 
