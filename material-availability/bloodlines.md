@@ -26,11 +26,29 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <summary><strong>Descendant of Hardestadt,</strong> <em>Ventrue Characters Only</em> (p.390)</summary>
 
-**• Voice of Hardestadt:** Allowed\
-**•• Supreme Leader:** Allowed\
-**••• Ventrue Pillar:** Allowed\
-**•••• Line to the Founders:** Banned\
-**••••• Hardestadt's Heir:** Allowed
+<sup>_To hear many Ventrue tell it, Hardestadt was the most important Ventrue for eight centuries, until his destruction by Brujah rebels led by the betrayer Theo Bell during the Convention of Prague in 2012. Hardestadt was the Ventrue founder of the Camarilla, alongside six peers from other clans, and Ventrue credit him with the sect’s strength and survival since then._</sup>
+
+<sup>_Hardestadt did not Embrace many mortals, and oddly for a Ventrue, he never confirmed his lineage back to a Fourth Generation methuselah. As far as Hardestadt was concerned, he was the be-all and end-all of the Ventrue. None who came before or after could hold a candle to his achievements._</sup>
+
+**• Voice of Hardestadt:**&#x20;
+
+Hardestadt shouted often, punctuating his remarks with fist blows to tables, walls, or unfortunate ghouls. Your Blood allows you to speak over any noise and draw attention, whether in a buzzing meeting room or at a rave. Something in your voice allows others to hear you. Whether they go on to pay attention depends on what you say.
+
+**•• Supreme Leader:**&#x20;
+
+Hardestadt’s self-confidence as a leader was in many ways his undoing, but until his Final Death, it saw him rise to greatness. You can convince others to follow you into deadly situations or command from the rear, and you can send subjects to their doom to better your position. Once per story, you suffer no penalty to your dice pool for sending people into danger.
+
+**••• Ventrue Pillar:**&#x20;
+
+Due to your prestigious lineage, other Ventrue look to you for guidance. Regardless of your Status with other groups, you always have three dots of Status ( ) with Ventrue.
+
+**•••• Line to the Founders:**
+
+Hardestadt ensured his entire line could reach him when endangered. He rarely answered communications unless the situation was dire, and he punished misuse severely, but his method still holds despite his death. Once per chronicle, you can call, write to, or arrange a meeting with one of the Camarilla’s founders in lieu of Hardestadt. Whether they deign to respond depends upon the importance of your request
+
+**••••• Hardestadt’s Heir:**
+
+You hold in your possession a signed document in which Hardestadt names you as his successor. You’re not sure what you are a successor to: mere wealth and power, Ventrue kingship, or even the Inner Circle of the Camarilla. When you take the name of “Hardestadt,” the document claims that the Camarilla shall march to the beat of your drum – and ensures that the Anarchs will swarm to take you down.
 
 </details>
 
@@ -38,11 +56,29 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <summary><strong>Descendant of Helena,</strong> <em>Toreador Characters Only</em> (p.391)</summary>
 
-**• Skin-Deep:** Allowed\
-**•• Real Talent:** Allowed\
-**••• Embrace the Stereotype:** Allowed\
-**•••• Divine Purity:** Allowed\
-**••••• Succubus Club Franchise:** Banned
+<sup>_Some claim she dwells in the Americas, constantly at war with a rival. Others say she runs the most popular vampire nightclub in the world. A few believe she is the clan founder’s lover, and that she is in the process of waking the Toreador Antediluvian._</sup>
+
+<sup>_Beautiful and gifted, it is said none can look away from Helena unless she wills it. Mortals have died to be the first to witness her artistic creations. Her descendants all display an immense level of talent, exemplifying the traditional Toreador role. It is a stereotype few Toreador resent; Helena is a clan icon. Toreador want to get to know you, so they can get a little closer to her._</sup>
+
+**• Skin-Deep:**&#x20;
+
+No matter your standing, dropping Helena’s name in conversation with a Toreador or a vampire who knows of her effectively raises your Status by one dot. You can drop Helena’s name once per story for this effect, or more often to make everyone sick of you.
+
+**•• Real Talent:**&#x20;
+
+Unlike other vapid Toreador relying on their faces and bodies alone, you were Embraced for your talent. Choose one Skill from Craft, Etiquette, or Performance. Increasing this Skill costs half the experience points (rounded down) that such an increase would typically cost.
+
+**••• Embrace the Stereotype:**
+
+When the time comes, you can play the role of shallow Toreador, surround yourself with an entourage of sycophants, and throw a party that becomes legend. Once per story, you may host a party to increase your Status and/or Influence by two dots with an invited group; the increase lasts as long as the party does.
+
+**•••• Divine Purity:**&#x20;
+
+Unlike most within Helena’s extended family, your perfection is more angelic than devilish. You can commit any sin, but you will always look innocent. Add two dice to your dice pools when making tests to avoid blame for your actions.
+
+**••••• Succubus Club Franchise:**&#x20;
+
+Helena succumbed to the Beckoning in recent years, leaving the Succubus Club in Chicago to a manager once again. She bestowed a license upon you to establish a franchised Succubus Club in your domain. This rare honor guarantees the city’s Kindred respond to your call, as every vampire Embraced in the last 200 years has heard of the Succubus Club. As long as the club remains open, the Chasse rating of your coterie’s Domain increases by two dots. You also have four dots to select among Resources, Fame, and Status among all Kindred.
 
 </details>
 
@@ -50,11 +86,29 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <summary><strong>Descendant of Zelios,</strong> <em>Nosferatu Characters Only</em> (p.398)</summary>
 
-**• Sanctuary:** Allowed\
-**•• Saboteur:** Allowed\
-**••• On Commission:** Allowed\
-**•••• The Labyrinth:** Locked\
-**••••• Sense the Leylines:** Banned
+<sup>_All of Clan Nosferatu knows their great architect Zelios as a master planner, mason, and scholar of geomantic power. Though he disappeared beneath New York in the 1990s, he left behind libraries of books, plans, and treatises on the power of location and sacred geometry._</sup>
+
+<sup>_Zelios’ descendants continue his good work, instructing other vampires on the building of havens, dungeons, prisons, and labyrinths. They can supposedly sense ley lines and, for a price, advise Princes where to locate havens at these epicenters to ensure both armor and power from the earth and stars._</sup>
+
+**• Sanctuary:**&#x20;
+
+Your haven is a wonder of modern design, possessing security in the form of secret passages, electronic security, and even a self-destruct button, all while looking stylish and comfortable. Split two dots between either or both of the Haven Merits Postern and Security System, but someone, somewhere likely has all the details of the setup.
+
+**•• Saboteur:**&#x20;
+
+You instinctively know where a building’s weaknesses are, and you don’t even require explosives to destroy it. With maul, crowbar, cable, and cold chisel, and as many nights on site as the difficulty the Storyteller sets for the building (i.e. four for a family home, six for a bank, eight for a prison, nine for a skyscraper), you can collapse an edifice like a house of cards.
+
+**••• On Commission:**&#x20;
+
+Other vampires know you descend from Zelios and ask for advice on how best to build their own havens. This business ensures you often have a boon or two to collect (roughly one minor boon per story) and that you know where a number of powerful vampires sleep – which, in the end, probably does you more harm than good.
+
+**•••• The Labyrinth:**&#x20;
+
+You used Zelios’ work to construct a labyrinth beneath your domain, made in part with sewers, disused drains, cellars, basements, and maintenance tunnels. You added your own chambers, dead ends, and connections to form a true underground maze. Only those you tell know of your labyrinth. You cannot treat the labyrinth as a Haven, as it terrifies you, but if you reach it when chased, no one can pursue you.
+
+**••••• Sense the Ley Lines:**&#x20;
+
+You occasionally glimpse throbbing red tendrils snaking through the earth: ley lines. Vampires who make their havens where these vessels converge find their Hunger grows more slowly (when making a Rouse check for awakening, roll two dice and pick the highest) if they sleep there by day. Ley lines have other powerful magical effects – secrets you can research along lines the Storyteller indicates – and your fellow Sewer Rats harshly punish disclosing anything about such secrets.
 
 </details>
 
@@ -62,11 +116,31 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <summary><strong>Descendant of Vasantasena,</strong> <em>Malkavian Characters Only</em> (p.399)</summary>
 
-**• Agent of Chaos:** Allowed\
-**•• Hear My Words:** Allowed\
-**••• Scent the Bonds:** Allowed\
-**•••• Destroy the Bond:** Allowed\
-**••••• Sabbat Becomes Camarilla:** Allowed
+<sup>_Vasantasena and her Malkavian sire Unmada traveled the world throughout the Middle Ages, preaching against the Blood Bond. They rejected the vinculum, traditional Kindred hierarchy, and all loss of free will. Ultimately, they condemned the Antediluvians for their cruel tyranny through Jyhad, joining the Sabbat during its formation._</sup>
+
+<sup>_As the Camarilla had, the Sabbat rejected her cause, instituting both hierarchy and ritual enslavement through vitae. She eventually rejected them in turn, assembling a faction of Malkavians to embrace freedom from the Sabbat._</sup>
+
+<sup>_Vasantasena’s descendants are many and varied, and all of them followed her from the Sabbat before the sect’s recent, bestial devolution. Some joined the Camarilla, others the Anarchs. All possess the zeal and charm she wields like a knife. All fight for something._</sup>
+
+**• Agent of Chaos:**&#x20;
+
+You thrive while everything around you burns or spins into catastrophe. In turbulent situations, such as an unusually chaotic and unpredictable combat, a car chase through a crowded city, or when fleeing an exploding building, once per session, you may re-roll a single die without spending Willpower.&#x20;
+
+**•• Hear My Words:**&#x20;
+
+You carry your ancestor’s skills of persuasion, finding your voice speaks to the Blood of others before it reaches their minds. Once per story, if you attempt to counsel others in a chaotic environment and they actually stop to listen, they may re-roll one dice pool in one future test during the same situation.
+
+**••• Scent the Bond:**&#x20;
+
+Vasantasena’s loathing of Blood Bonds was part of the reason she targeted the Antediluvians and the ties they maintained with their offspring. Such was her power that she could smell the Bond on individual vampires and recognize the same odor on the vampire Bonded to, or Bonding, them. Once per story, on a successful Resolve + Awareness test (Difficulty 4), you can do the same.
+
+**•••• Destroy the Bond:**&#x20;
+
+Vasantasena’s greatest act is the destruction of the Blood Bond. Some say she performed this act many times in recent years among the Sabbat, in part leading to their rapid degeneration. Once per story, you too can remove the Blood Bond imposed on a victim, if you drink a mouthful of the thrall’s vitae and then ride out a frenzy.
+
+**••••• Sabbat Becomes Camarilla:**&#x20;
+
+Vasantasena achieved the impossible and showed her descendants how it was done. Alien, inhuman philosophies locked most vampires into the Sabbat. Once per story, you can deprogram a vampire from their sect beliefs. To do so, you must completely isolate the subject and make an extended test (p. 293) of either Intelligence or Charisma + Insight in an atmosphere of specialized perfumes. Roll once per three nights of disputation; you win after achieving a number of successes equal to twice the subject’s Willpower.
 
 </details>
 
@@ -74,11 +148,31 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <summary><strong>Descendant of Karl Schrekt,</strong> <em>Tremere Characters Only</em> (p.405)</summary>
 
-**• Remember the House:** Allowed\
-**•• Hardliner:** Allowed\
-**••• Ritual Preparedness:** Allowed\
-**•••• Archon’s Bane:** Locked\
-**••••• Know the World:** Locked
+<sup>_Clan Tremere is a hollow reflection of its former glories. With the Pyramid decapitated and its leadership scattered, Tremere traditionalists look to one vampire for authority: former Justicar, Karl Schrekt. A legend within his own clan and the Camarilla, Schrekt hunted vampires before his Embrace in 1235. For centuries, he acted as the Camarilla’s weapon against the Sabbat, Anarchs, and occult menaces. He suppressed or destroyed lore regarding Antediluvians, eliminated countless threats to the Masquerade, and did it all without mercy. He earned his share of disciples, but few enemies. Those he got, he killed._</sup>
+
+<sup>_Now he’s one of the eldest Tremere remaining._</sup>
+
+<sup>_Schrekt’s descendants largely follow their ancestor’s hardline clan and sect views: enforce the Traditions, strengthen the clan, and hide the secrets of Blood magic from other vampires._</sup>
+
+**• Remember the House:**&#x20;
+
+Once per story, you can ask the Storyteller for one piece of information regarding the activities of House Tremere or the clan before its grievous injury.
+
+**•• Hardliner:**&#x20;
+
+Schrekt’s way is the only way forward for your clan. You follow Schrekt’s laws fanatically. With the Storyteller’s agreement, add two dice to any dice pool when testing to resist attempts to sway you from Schrekt’s goals.
+
+**••• Ritual Preparedness:**&#x20;
+
+Allegedly, Karl Schreckt prepares all of his rituals in advance and keeps several such-preprepared rituals about his person at all times. Once per story, you may perform one of your rituals in five minutes, without preparation, having done all the preparations beforehand.
+
+**•••• Archon’s Bane:**&#x20;
+
+You find Schrekt’s targeting of supernatural entities deplorable, and you have formed a tight bond with a member of another supernatural background. You have a four-dot Ally: a mage, werewolf, wraith, changeling, or something even stranger. You must keep your friend safe, as they are being hunted. Once per story, they come to your aid within one to ten hours when called.
+
+**••••• Know the World:**&#x20;
+
+Karl Schrekt believes knowledge is power and that vampires who limit their learning to the study of fellow Kindred are fools. Whether Schrekt’s puppet or nemesis, you agree with his assessment and keep archives on werewolves, magi, wraiths, fae, and other weird entities. This collection equates to a three-dot Haven Library (pick three suitable specialties of Occult), although you might not store your reference materials in your haven. Also once per story, you can ask the Storyteller to answer any simple question related to such creatures.
 
 </details>
 
