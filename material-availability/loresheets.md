@@ -489,7 +489,7 @@ _&#x49;f you lose this Advantage, you will be refunded the experience cost, but 
 
 <details>
 
-<summary><strong>The Cobweb </strong><em><strong>(Malkavian Characters Only)</strong></em><strong> (p.270)</strong></summary>
+<summary><strong>The Cobweb, </strong><em><strong>Malkavian Characters Only</strong></em><strong> (p.270)</strong></summary>
 
 <sup>_You’re never truly alone. Not anymore. Not even if you want to be. Not even if you try to be. The Cobweb catches so many thoughts in its sticky strands, sends them skittering further inside, or reverberating out to the far edges. You’re not always sure the thoughts you’re hearing are from now. Some feel like they’ve been stuck for years and have just shaken loose. Others taste like tomorrow._</sup>
 
@@ -511,25 +511,65 @@ _&#x49;f you lose this Advantage, you will be refunded the experience cost, but 
 
 <details>
 
-<summary><strong>Cultivar</strong> (p.271)*</summary>
+<summary><strong>Cultivar</strong> (p.271)</summary>
 
-**• Dark Seedling:** Allowed\
-**•• Fresh Cutting:** Allowed\
-**••• Suppressing the Beast:** Allowed\
-**•••• Newly Made Initiate:** Allowed\
-**••••• Jewel in the Garden:** Locked
+Horticultural science defines a cultivar as a plant selected intentionally and carefully shaped and maintained through cultivation. Such are those called who are singled out and shaped by Nerissa Blackwater to be agents of the Ancestor, working to uproot the Cannibals — descendants of Caine — and establish a New Garden upon the broken shells of the first. Some vampires and some mortals dangle the tantalizing prospect of stability, of an ancient power, a pathway to enlightenment for Kindred who have lost faith in all factions.
+
+**• Dark Seedling:**&#x20;
+
+The legends of the Dark Mother always appealed to you, but perhaps you were too intimidated to openly approach one of the Bahari. Now, though, your new associates have put you onto something that makes sense, feels real. They are tapped into something powerful and that’s worth getting to know. Once per story you may use two dots in Allies: Cultivars representing mortal cultists who come to your aid.
+
+**•• Fresh Cutting:**&#x20;
+
+Under the sponsorship of a current Cultivar, you are tested, pushed to your limits, and forced beyond them. At this stage, it is expected that you regularly engage in some sort of mortification of the flesh — scarification, scourging, even passing a candle flame over your skin. You gain a free Skill Specialty in Occult, with that Specialty being Bahari, Lilith, or the Ancestor, and a ritual scar to mark your membership in the cult, conveying one dot in Status: Cultivar.
+
+**••• Suppressing the Beast:**
+
+Hunting mortals brings you near-constant misery, but you are forbidden from feeding upon animals. Thankfully, your sponsor gives you access to feeding grounds where mortals in pursuit of the Mother’s wisdom spill their blood in service to her and, as a kindness, allow you, a curse-carrier, to consume it. This grants you a three-dot Herd. You also gain a one-dot Haven you can access once per story, in the form of a cultist’s home. You may never again feed from animals, however.
+
+**•••• Newly Made Initiate:**
+
+One month spent on a private yacht, 150 miles out into the waters of Lake Michigan, enduring night after night of searing torment and delirium-induced visions earns you the title of Initiate. You enjoy elevated status and are now a guide for others on the path. As an Initiate, you enjoy Status: Cultivar (•••). Once per story, you may use an additional two dice on a Willpower roll when calling to mind the harsh fasting endured during your month on water.
+
+**••••• Jewel in the Garden:**
+
+Three drops of a methuselah’s blood now sing fiercely within your veins, granting you visions, leaving you in no doubt: The Mother will return. Whether this vitae came from the Ancestor, Nerissa, or some other source is a matter to interpret from your vision-addled daydreams. You are expected to maintain your own Garden — be that a physical space with growing things or a more figurative interpretation — and come when summoned by the Ancestor or the Blackwaters. As a Jewel, you receive an additional four dice on rolls to resist frenzy due to the harmony of your inner Eden.
 
 </details>
 
 <details>
 
-<summary><strong>Cult of Shalim</strong> (p.272) *</summary>
+<summary><strong>Cult of Shalim</strong> (p.272)</summary>
 
-**• Dark Whispers:** Allowed\
-**•• Cult Initiate:** Allowed\
-**••• Power of Faith:** Allowed\
-**•••• Crush the Dreams of Life:** Locked\
-**••••• Shalim Is:** Locked
+<sup>_Shalim is the name of the Canaanite god of dusk and night. This name was passed down to the city of Jerusalem and possibly to King Solomon._</sup>
+
+<sup>_To the Lasombra in the modern nights it has a different meaning altogether. Shalim is a name spoken of in hushed tones by those who have returned from the Gehenna Crusade unharmed. Some celebrate it quietly, others speak it with fear. It is a name that has driven the awakened members of the clan to seek sanctuary in the arms of their once enemy, the Camarilla. It is their beginning and, some fear, their end._</sup>
+
+<sup>_In truth, adherents to this mad religion seek nothing less than total annihilation, not of a clan or a sect, not of a nation, but of the entirety of reality itself. The twisted philosophy of the group comes from the simple fact that all pain, all suffering, all hate and injustice exists only in what we call “reality.” Heaven, Nirvana, Jannah, Shamayim, all afterlives promise a place where there are no more tears, no more pain, no more sadness. Only in the absence of existence can this be achieved. In the absence of self, all are one, all are equal. In the absence of reality, we become part of the infinite nothingness, we return to Shalim._</sup>
+
+<sup>_For this reason, the cult’s members often speak the phrase “Shalim is” to the initiated, since they believe that nothingness is the ultimate reality and the end of all things, embodied in their dark master. In their minds, nothingness is indestructible, has always existed, and will always exist. Thus, Shalim is the only true infinite, the only true immortal. Shalim is beyond existence._</sup>
+
+<sup>_Shalim, simply, is._</sup>
+
+**• Dark Whispers:**&#x20;
+
+You have heard rumors of the cult from those returning from the Gehenna Crusade. Once per story, you gain an additional two dice to either Insight or Investigation to look into the myths of the cult or to identify if someone is a member.
+
+**•• Cult Initiate:**&#x20;
+
+As an initiate into the cult’s mysteries, you are aware of the significance of the Semitic phrase “Shin-Lamedh-Mem” as the identifier of other members. You can speak this phrase to an initiated member to immediately gain two dice on any Persuasion roll to gain their assistance. Speaking it to the uninitiated may not only result in their confusion but may expose you to a savvy Lasombra as a member of the doomsday cult.
+
+**••• Power of Faith:**&#x20;
+
+The cult’s reach extends deepest into the religious community. When they speak of heaven, a place where suffering, sadness, and misery do not exist, you know this can only be found in the bliss of nothingness. In the peace of any church or temple, your zeal allows you to ignore the negative effects of Impairment.
+
+**•••• Crush the Dreams of Life:**
+
+Shalim’s teachings say the dreams and ambitions of the flesh must be cast off to achieve perfection. All are equal under its gaze and so all must witness the path to the glorious dark of emptiness through the felling of their conceited ambition. When you succeed on an Insight roll against any character, the Storyteller reveals to you their foremost ambition in addition to the information sought by the roll. Armed with this knowledge, you may now reroll any dice in a failed Persuasion roll per scene against them as you turn their desires to your advantage. Furthermore, you may choose to roll Manipulation + Persuasion against the difficulty of the target’s Composure + Insight. If you succeed, you crush their hopes and dreams, plunging them into despair and inaction for the remainder of the story in the form of one Aggravated Willpower damage. A total failure exposes your ruse and turns them against you.
+
+**••••• Shalim Is:**&#x20;
+
+You are a true servant of Shalim. Your zeal and faith in the coming end know no bounds and you are certain that the Abyss has chosen you to enact its purpose. Your position in the cult gives you access to the Herd background (••) for your followers as well as Influence (•••) in the religious community of your choice from the cult’s many contacts in those circles. You gain the Dark Secret Flaw (•) when taking this loresheet. You also automatically pass any Composure-based roll to hide your position as a member of the cult.
 
 </details>
 
@@ -555,13 +595,31 @@ _&#x49;f you lose this Advantage, you will be refunded the experience cost, but 
 
 <details>
 
-<summary><strong>FIRSTLIGHT</strong> (p.276) *</summary>
+<summary><strong>FIRSTLIGHT</strong> (p.276)</summary>
 
-**• Evasion Tactics:** Allowed\
-**•• Branch Office:** Allowed\
-**••• What Do They Know:** Locked\
-**•••• No Records Found:** Locked\
-**••••• Friend on the Inside:** Locked
+<sup>_FIRSTLIGHT is a joint operation among the world’s intelligence agencies, tasked with learning about — and hunting — tonight’s vampires. Camarilla, Sabbat, or Inconnu, a Cainite’s sect doesn’t matter to the people whose directives involve killing them and dismantling their power over mortal affairs. FIRSTLIGHT’s operatives often aren’t aware the people they’re tracking down are no longer mortal, and possibly haven’t been for centuries. Most receive information portraying their targets as human terrorist cells; reports after the fact uphold that narrative._</sup>
+
+<sup>_FIRSTLIGHT relies on both ultra-modern technology and old-fashioned investigation, making their nets tough to dodge. FBI agents and their expert systems monitor internet chatter for certain keywords; some calls coming in to their tip line get rerouted to FIRSTLIGHT when they might involve the so-called “Blankbodies.” Months’ worth of footage is surveilled, searching for the blurred images and shadowy shapes indicating a Lasombra’s presence. TSA agents working for FIRSTLIGHT have the authority to search cargo at O’Hare and Midway, which has made already-difficult air travel even harder for Kindred who don’t have access to private planes._</sup>
+
+**• Evasion Tactics:**&#x20;
+
+You’re familiar with some basic surveillance tactics, and know simple ways to avoid being followed or spied upon. You keep your online footprint minimal or locked down, and own a white-noise generator, a cell-phone jammer, or a burner phone to keep from being recorded. Add one die on rolls to avoid being tailed or listened in on (Potential Skills: Drive, Stealth, Streetwise, Technology.)
+
+**•• Branch Office:**&#x20;
+
+Maybe someone slipped up and you’ve got their scent. Maybe the military-looking types at the bar thought they were talking too low for others to hear, but your keen ears picked up their conversation just fine. Maybe you clicked their thinly disguised trap of a URL and hacked them right back. However you did it, you know where their closest base of operations is located.
+
+**••• What Do They Know:**
+
+You’ve intercepted some communications between agencies, whether you learned the location of a dead drop or decrypted their signal. Once per story, you may ask the Storyteller for a piece of information FIRSTLIGHT has on you or a coterie-mate that you’ve managed to seize.
+
+**•••• No Records Found:**
+
+Through bribes, break-ins, and a heaping dose of paranoia, you’ve managed to erase yourself from FIRSTLIGHT’s records. Your slate is clean... for now. It’s up to you to remain off of them going forward, but should you find yourself in their targets again, you know where to start to rectify the situation. Add three dice to Larceny, Stealth, or Survival rolls when handling FIRSTLIGHT operations.
+
+**••••• Friend on the Inside:**
+
+You’ve got someone on FIRSTLIGHT’s payroll who reports back to you. Discuss with your Storyteller whether your control over them takes the form of supernatural coercion, threats, or a hefty periodic bribe. The mole alerts you if their organization is coming after you, and once per story will commit an act of minor sabotage (destroying evidence, screwing up an operation, etc.) on your orders.
 
 </details>
 
@@ -587,26 +645,61 @@ _&#x49;f you lose this Advantage, you will be refunded the experience cost, but 
 
 <details>
 
-<summary><strong>Kindred Iconography</strong> (p.278) *</summary>
+<summary><strong>Kindred Iconography</strong> (p.278)</summary>
 
-**• Iconographer:** Allowed\
-**•• The Writing on the Wall:** Allowed\
-**••• Trendsetter:** Allowed\
-**•••• Graffiti Artist:** Locked\
-**••••• Giorgio Who?:** Locked
+<sup>_Attend any Kindred gathering and you’ll see signs and sigils of clan affiliation everywhere: the Toreador with roses twining around her sleeves, the Ventrue with scepters embroidered on his lapels. Over the millennia, Cainites have raised their symbols not only to an art form, but to an entire language of its own._</sup>
+
+<sup>_Out on the cities’ streets, Neonates and Anarchs have taken those icons and others and created images that offer information at a glance. They warn those savvy enough to interpret them that a particular rack has been claimed by a coterie, or that there’s a safe place to rest for the day just ahead. What looks like a wall covered in plain old graffiti to human eyes speaks volumes to vampires._</sup>
+
+**• Iconographer:**&#x20;
+
+You’re versed in Kindred symbols, able to identify someone’s clan by the motifs in their clothing and could lecture neonates on how and why the imagery has changed over the centuries. Add two dice to relevant Academics rolls.
+
+**•• The Writing on the Wall:**&#x20;
+
+You’ve learned to look for marks other Kindred have left behind. Gain three dice on relevant Streetwise rolls when looking for information on local domains and vampires available in graffiti, posted flyers, or other artwork in the area.
+
+**••• Trendsetter:**&#x20;
+
+You make this look good. Your style catches eyes in Elysium, and other Kindred look to see what you’re wearing this week. Add two dice to Social rolls when you’re decked out in the imagery of your clan or chosen affiliation.
+
+**•••• Graffiti Artist:**&#x20;
+
+Those warnings on the wall? That’s your design. Your murals are works of art, and have drawn the eye not only of coteries heeding your warnings, but of Toreador who come to admire it. You may even have attracted the attention of Annabelle herself. Craft rolls regarding your art receive three extra dice when involving Kindred iconography.
+
+**••••• Giorgio Who?:**&#x20;
+
+You’ve dressed Princes and Primogen, subtly weaving clan iconography into the lines of a suit or the cut of a dress. You don’t make statements with your work, you make dissertations. Once per story, an outfit of your design grants two dots of Status to a character of your choosing for the session. Alternately, your scathing critique of another Kindred’s poor sartorial choices removes one dot of Status for the same period of time.
 
 </details>
 
 <details>
 
-<summary><strong>The Labyrinth</strong> (p.279) *</summary>
+<summary><strong>The Labyrinth</strong> (p.279)</summary>
 
-**• Tunnel Access:** Allowed\
-**•• Boxcar Blues:** Allowed\
-**••• Church:** Allowed\
-_&#x54;his Lore Sheet may be used once per Time Skip._\
-**•••• Lydia’s Lair:** Locked\
-**••••• Hideout:** Locked
+<sup>_In downtown Chicago there’s an abandoned “superstation” for the L that was built but never used, under Block 37. This leads to a series of tunnels that are in various stages of disrepair, since construction on them was halted. The series of connected stations and places they lead to is known colloquially among Kindred as “The Labyrinth.”_</sup>
+
+<sup>_There are various lairs and hideouts within the Labyrinth, but it’s a chaotic place that’s difficult for the Camarilla to police. It’s said there’s all manner of Kindred and other things down there, and sometimes when Kindred head down into the Labyrinth they never return. Others however, have come back with everything from useful knowledge to new allies._</sup>
+
+**• Tunnel Access:**&#x20;
+
+There are several tunnels one can travel through in the Labyrinth that exit to different levels of the city. A Kindred from the Labyrinth who knows the way has shown you which turns to take and markers to follow. If you follow that path, none in the Labyrinth will harm you, but if you stray from it you risk death or worse. This knowledge is useful when trying to escape a pursuing enemy or you need to hide for a night by taking your time in the tunnels.
+
+**•• Boxcar Blues:**&#x20;
+
+The stories told in the Labyrinth are strange and unusual tales of what its inhabitants have seen in their years of Chicago. For one reason or another the Kindred inhabitants of this place have decided to go underground, and because of that they have a unique form of spreading news through word of mouth. Well, through song. There are various folk songs they sing that have double meanings, or characters in them who represent certain political figures currently in power. You’ve been taught how to decipher these lyrics and discern important information from them. Gain free Skill Specialties in Performance (Folk Song) and Streetwise (Labyrinth Rumors)**.**
+
+**••• Church:**&#x20;
+
+Once a month there’s a small club night hosted in one of the larger empty concrete rooms. The subterranean Kindred have kitted it out with lights, speakers, and bars. It’s called Church, ironically of course, and it pumps dungeon synth and witch house music until sunrise for its dancing night worshippers. There’s darker vampiric activity in some rooms adjacent to this open space, designed to confuse humans with altered states of consciousness who wander in and become meals. Nobody’s shut it down yet because the Kindred who run it are careful to cover their tracks. You know its location and are welcome to bring a plus one anytime.
+
+**•••• Lydia’s Lair:**&#x20;
+
+There’s an oracle named Lydia who lives amidst these abandoned train ruins. Her lair is decorated with beautiful silks and a collection of the bones of dead things she’s cultivated over the years. She’s a young-looking white woman with long black hair who wears simple jeans and a t-shirt. Lydia’s a Tremere, and blind, a condition that becoming Kindred didn’t solve for her. It’s possible she’s very old but she won’t reveal her exact age, and nobody understands how she utilizes Blood Sorcery to see such specific futures. If you bring her something to eat, she’ll read your palm, telling you one specific thing about the future. You’ve got access to her, since she won’t see just anyone, only those who are trusted by the subterranean vampire community. Lydia counts as a Mawla (••••).
+
+**••••• Hideout:**&#x20;
+
+The Kindred living here trust you enough to hold you over for a time if you’re looking to hide out from anyone. It’s a safe haven for outsider vampires, and no judgment is made. If crimes are committed against the community, however, you’re quick to be ousted. Gain Allies: Labyrinth Kindred Community (••••).
 
 </details>
 
@@ -948,7 +1041,7 @@ You are a veteran of countless Trials of Death or learned at the feet of a true 
 
 <details>
 
-<summary><mark style="color:orange;"><strong>Malkavian Family </strong></mark><em><mark style="color:orange;"><strong>(Malkavian Characters Only)</strong></mark></em><mark style="color:orange;"><strong> </strong><strong>(p.165)</strong></mark></summary>
+<summary><mark style="color:orange;"><strong>Malkavian Family, </strong></mark><em><mark style="color:orange;"><strong>Malkavian Characters Only</strong></mark></em><mark style="color:orange;"><strong> </strong><strong>(p.165)</strong></mark></summary>
 
 <sup>_Being Embraced as a Malkavian in Chicago brings with it an almost instantaneous new family. Many of their number look upon one another as kin: Jason Newberry’s sire considered him like her own son; Bronwyn and Corbin grew up like sisters in their mortal days._</sup>&#x20;
 
@@ -980,7 +1073,7 @@ A respected elder member of the clan has taken a shine to you and appointed them
 
 <details>
 
-<summary><mark style="color:green;"><strong>Occult Artifacts </strong></mark><em><mark style="color:green;"><strong>(Tremere and Banu Haqim Characters Only)</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.166)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Occult Artifacts, </strong></mark><em><mark style="color:green;"><strong>Tremere and Banu Haqim Characters Only</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(p.166)</strong></mark></summary>
 
 <sup>_The 21st century saw a great decline in the use of occult artifacts among the Kindred outside the chantries of Clan Tremere. As the Age of Reason flowered, the Age of Magic withered, and occult objects once prized among the Kindred were cast aside in favor of modern innovation. The destruction wrought by the Second Inquisition, the Beckoning, and Tremere schism, combined with the Camarilla’s edicts against technology have begun to reverse this trend._</sup>
 
