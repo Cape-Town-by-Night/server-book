@@ -200,53 +200,135 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 </details>
 
-<details>
-
-<summary>Carmelita Niellson (p.403)</summary>
-
-**• The Art of Story:** Allowed\
-**•• The Art of Will:** Allowed\
-**••• Neillson Library:** Allowed, though only one library may be active at a time.\
-**•••• Interview With the Methuselah:** Allowed\
-**••••• Ancestor's Tomb:** Banned
-
-</details>
-
-<details>
-
-<summary>Fiorenza Savona (p.404)</summary>
-
-**• On Fiorenza’s List:** Banned\
-**•• Breakfast with Fiorenza:** Banned\
-**••• Friendly Benefits:** Banned\
-**•••• The Directorate:** Banned\
-**••••• Government Motion:** Banned
-
-</details>
-
 ## Camarilla
 
 <details>
 
-<summary>Fatima Al-Faqadi (p.185)</summary>
+<summary><strong>Carmelita Niellson</strong> (p.184)</summary>
 
-**• Weapons Locker:** Allowed\
-**•• Extended Web:** Allowed\
-**••• Missed Hit:** Allowed\
-**•••• Recognized Judge:** Allowed\
-**••••• Open Contract:** Banned
+<sup>_Desperate elders seeking ways of staving off Gehenna and the Beckoning increasingly seek out the Brazilian-Irish Toreador archaeologist Carmelita Neillson. She unearths the past and interviews Kindred, chronicling a vast array of vampire history and conversations with vampires as old as two millennia. The Camarilla forbids her from archiving any of her findings electronically, so she has established several “Neillson Libraries” in discreet locations._</sup>
+
+<sup>_Her friendly manner, natural curiosity, and abilities as a polyglot make her a natural choice to debrief a Methuselah just awakening from torpor, investigate a ruined temple, or interpret a captured Sabbat scripture. Believing that art need not be in a frame or museum to be admired, Carmelita strongly feels the greatest art, one ignored by Kindred for so long, is the storytelling of their own kind. A gifted storyteller and writer, Carmelita’s skills appeal to many Toreador who wish to break the “pretty and talentless” stereotype._</sup>
+
+**• The Art of Story:**&#x20;
+
+You and Carmelita share the belief that storytelling is one of the lost art forms. Whenever regaling other vampires with historic lore or tales of myth and legend, Toreador naturally gravitate to hear your words, regardless of your standing toward each other.
+
+**•• The Art of Will:**&#x20;
+
+A specific objet d’art or relic, entrusted to your safekeeping by Dr. Neillson, inspires and enthralls you. If you spend an hour meditating on this object (and make a Resolve + Academics test at Difficulty 5) before resting for the day, you awaken with one extra Willpower point. You can meditate in this way once per session.
+
+**••• Neillson Library:**&#x20;
+
+Carmelita Neillson’s small libraries dot the world in Camarilla domains, serving as hives of information used to prompt and support elder vampires’ memories. You are the curator or warden for one of these libraries, which counts as a two-dot Haven with a two-dot Library. Other vampires and Kindred historians meet there as well, which has both advantages and downsides.
+
+**•••• Interview With the Methuselah:**&#x20;
+
+You have obtained a recording of Carmelita interviewing an impossibly old vampire who divulges secrets about one of the clans in your domain. Once per story, you can ask the Storyteller to provide you with such a secret. Whether Carmelita knew of this recording and gave it to you or someone made the recording in secret, the information in the interview gives you an advantage over the vampire in the clip and the clan discussed. Interestingly, the voice following Carmelita’s at the end of the tape mentions further recordings.
+
+**••••• Ancestor’s Tomb:**
+
+Carmelita has entrusted you to guard the supposed resting place of one of your ancestors. As long as you keep it safe, you can call upon her for a major boon once per story. Should you fail to keep it safe, there will likely be... other consequences.
 
 </details>
 
 <details>
 
-<summary><strong>Pure Ventrue Lineage</strong> <em>(Ventrue Characters Only)</em> (p.187)</summary>
+<summary><strong>Fatima Al-Faqadi</strong> (p.185)</summary>
 
-**• Sire of Renown:** Allowed\
-**•• A Lineage of Title:** Allowed\
-**••• Recitation:** Allowed\
-**•••• Legendary Lineage:** Allowed\
-**••••• Name the Antediluvian:** Allowed
+<sup>_Embraced in the 12th century C.E., Fatima al-Faqadi is ancient among tonight’s active Kindred. Known within the Children of Haqim as the Hand of Vengeance, she is one of the most dangerous and skilled assassins who have ever been among the Kindred._</sup>
+
+<sup>_Fatima is a faithful Muslim and a sworn enemy of the blood cultists of Ur-Shulgi. She once worked for vitae, undertaking contracts for Blood funneled back physically or by sorcerous rituals to her clan’s fortress, Alamut. But these nights, Alamut is under Ur-Shulgi’s control, and Fatima is reported to be the leader of a charge of Banu Haqim fighting side by side with the Camarilla in the Gehenna war._</sup>
+
+<sup>_Evil tongues would have it she is in the fight only to find out what happened to her once-lover and rival, Lucita. For her part, Fatima silences such rumors with a stare almost as deadly as her knives._</sup>
+
+**• Weapons Locker:**&#x20;
+
+Your connection to Fatima or her network of Banu Haqim gives you access to a hidden weapons locker somewhere within your domain, or the domain you are visiting. You know from rumor or reliable sources where one of these lockers should be located. Once per chronicle you can use this knowledge to equip yourself with a hand-held weapon of your choice, subject to the Storyteller’s approval.
+
+**•• Extended Web:**&#x20;
+
+Fatima once held membership in the cult known as the Web of Knives. Though the Web remains loyal to the demonic Ur-Shulgi and the Alamut branch of the Banu Haqim, some cultists from the Web followed Fatima in making overtures to the Camarilla. You are either a member of the Extended Web, or have a close bond to those who are. You can take three dots allocated to Allies, Contacts, and Mentor and assign them to members of the Extended Web, who may assist you for a price, or school you in the art of killing. Note that unlike regular Backgrounds, use of these dots require payment, often severe.
+
+**••• Missed Hit:**&#x20;
+
+You are one of the rare Kindred to survive an assassination attempt by the Hand of Vengeance. Whether or not you were the target or collateral damage, you have a reputation as someone Fatima couldn’t bring down. As well as granting two dots in Status, this lore grants one bonus die to Social dice pools when your survival story can be used for good effect.
+
+**•••• Recognized Judge:**&#x20;
+
+The Banu Haqim are meant to be judges of other Kindred. Either you were taught the ways of judgement by Fatima, or the Web of Knives taught you Ur-Shulgi’s dictates. In either case, in any non-Camarilla domain you may formally announce judgement and execute a Kindred without open retaliation from the ruling sect, as few wish to cross Banu Haqim law. Your judgement does not prevent other Kindred from subtly attempting reprisals.
+
+**••••• Open Contract:**&#x20;
+
+Your relationship with Fatima is such that she has agreed to eliminate any one opponent of your choice. She will not ask questions. Perhaps your relationship is one of trust or care, or perhaps Fatima owes you. Her success is not guaranteed, but is likely.
+
+</details>
+
+<details>
+
+<summary><strong>Fiorenza Savona</strong> (p.186)</summary>
+
+<sup>_When the Lasombra reasserted control over their old religious power centers, the Ventrue responded by expanding their influence in the new nobility: government and multinational corporations. With global political pull, Fiorenza Savona keeps the clan relevant and dangerous – at the center of global power._</sup>
+
+<sup>_Hard-nosed and unafraid to tell another vampire to take a running jump, Fiorenza worked hard as a mortal and continues to do so as a Kindred to ensure that wealthy and powerful vampires remain in their positions._</sup>
+
+<sup>_Moving up through NGOs and the UN, she knows everyone worth controlling in the Davos elite. Her sire targeted her for her contacts list and discovered her Machiavellian political and business acumen._</sup>
+
+<sup>_A fresh power player in the Camarilla, many elders and ancillae consider her a mere “new money” Ventrue. Their wiser clanmates know her actions sway councils, corporations, and individual mortals possessing real power. Where her predecessors focused on vampire politics, Fiorenza believes the key to Kindred longevity lies in the manipulation of the living._</sup>
+
+**• On Fiorenza’s List:**&#x20;
+
+Fiorenza knows who you are, which either means she thinks you’re an asset to the clan or a problem. Consequently, she has assigned a Gifted mortal (Core p.185) Retainer – bodyguard, driver, butler, etc. – to you, though they remain in her employ. They make no secret of spying on you and reporting back to Fiorenza, and they never drift far, even if dismissed. If the mortal is harmed or killed, Fiorenza makes a note that you’re not to be trusted, but if your conduct is good, you move further into her good graces.
+
+**•• Breakfast with Fiorenza:**
+
+Despite her high-profile role, once per story Fiorenza will make a space in her busy schedule to meet with you. Maybe you have dirt on her or perhaps you are close friends. A meeting with Fiorenza can be lucrative and informative, if you ask her the right questions.
+
+**••• Friendly Benefits:**&#x20;
+
+You were close to Fiorenza before she became "the next big thing" in Clan Ventrue, and this friendship pays dividends: she can smooth over ruffled Ventrue, provide you with insider trading tips, loan a Gulfstream equipped with polarized windows and pre-cleared flight plans, etc. If you overuse or misuse this connection, the equivalent of a three-dot Mawla, she cuts you off without hesitation.
+
+**•••• The Directorate:**&#x20;
+
+The shadowy Ventrue Directorate approached you. Concerned about Fiorenza’s meteoric rise, they chose you to approach her, suborn her, and break her to their will. If you accept, you submit to a Blood Bond and have your memories of the Directorate’s identities erased – but you receive six dots to select from among Contacts, Mawla, and Resources. Of course, you could approach Fiorenza and offer to work as her double agent.
+
+**••••• Government Motion:**
+
+Fiorenza owes you a favor – once per chronicle, she agrees to influence a mortal political leader as you request. Her suggestions equal five dice to distribute as you like among any roll involving government action. If you create a major political disturbance or otherwise act to reinforce Fiorenza’s “suggestions,” the Storyteller may add other dice based on your plan and on how well you succeed at it.
+
+</details>
+
+<details>
+
+<summary><strong>Pure Ventrue Lineage,</strong> <em>Ventrue Characters Only</em> (p.187)</summary>
+
+<sup>_More than any other clan, the Ventrue obsess over lineage, reciting their ancestry many generations back. Some claim their ancestors convey abilities to the descendants, while others state reputation is power enough._</sup>
+
+<sup>_The Ventrue understand the importance of history and purity of vitae. When they speak, others listen. It is one thing to know your ancestry, it is quite another to speak it proudly in a court of peers or as a challenge to your enemies. At important occasions, whether a public function or the hours before going into battle, Ventrue expect each other to not only list the names of their ancestors, but to recite their deeds, accomplishments, failures, and — in some cases — dramatic deaths, to honor the past, lift the spirit, and best impress the audience, whether a rabble of Brujah or a jaded Prince._</sup>
+
+**• Sire of Renown:**&#x20;
+
+Your sire is a Ventrue notable for their nobility and adherence to clan values. To an extent, you can lean on your sire’s name to curry favor with other Kindred mainly of Clan Ventrue. This lore enables you to gain one die in appropriate Social checks where naming your sire could have impact. If the sire still exists, they may come to resent you using them as a line of credit.
+
+**•• A Lineage of Title:**&#x20;
+
+You come from a line of Princes, Primogen, or possibly Barons. If you ever attempt to acquire title in a domain, Ventrue — even those you’ve never met — will automatically support your claim, unless they have sufficient reason to oppose you.
+
+**••• Recitation:**&#x20;
+
+You can name your ancestors all the way to a methuselah of the Fourth Generation, impressing all Kindred within listening distance. Each Kindred of your line has a tale, and you know at least a shortened version of every single one. Reciting the whole thing (something that takes a good 30 minutes or more) gives you a one die bonus to all Social-based tests against other Kindred for the rest of the scene. This can be used once per story.
+
+**•••• Legendary Lineage (choose one):**
+
+_The Line of Alexander:_ A patron of the arts, passions, and beauty, Alexander of Paris appeared to many as more a Toreador than a Ventrue. Kindred who name their ancestor as Alexander of Paris gain two bonus dice on all Persuasion and Performance rolls made in a crowd of people, as Alexander’s line love an audience. If someone interrupts your oration, you must make a fury frenzy check at Difficulty 3.
+
+_The Line of Antonius:_ Antonius was a strategic thinker, obsessive planner, and master architect of Clan Ventrue until his apparent destruction. If you descend from Antonius, you gain two bonus dice on all Academics and Leadership rolls made when planning the defense or building of a domain. If someone disrupts you while making a long-term plan of this nature, you must make a fury frenzy check at Difficulty 3.
+
+_The Line of Mithras:_ Mithras exemplifies pride and power. Kindred of his cult claim he was impervious to flame, and somehow this fortitude ripples through to his descendants’ willpower. Your Difficulty to resist fear frenzy from exposure to fire is reduced by two. You suffer a two dice penalty when attempting to withstand Dominate attempts by older vampires also of Mithras’ line.
+
+**••••• Name the Antediluvian:**&#x20;
+
+The Ventrue Antediluvian went by many names, and each methuselah of his clan knows the ancient entity by a different epithet. You know one of these names or titles, and once per chronicle can announce yourself as the descendant of this creature to force all Ventrue in the vicinity to stop what they’re doing, fall silent, and sometimes drop to their knees. The name vanishes from the minds of all who hear it, but they will stop anything — even combat — to hear you speak.
 
 </details>
 
@@ -254,23 +336,59 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>The Cult of Mithras</strong> (p.188)</summary>
 
-**• Neophyte:** Allowed\
-**•• Nymphus:** Allowed\
-**••• Leo:** Allowed\
-**•••• Perses:** Locked\
-**••••• Unconquered:** Locked
+<sup>_Some vampires claim the status of deities among both Kindred and kine. Next to Set, Mithras is likely the most infamous of the god-Cainites. A Ventrue of incredible age and power, and one of the longest standing Princes in Kindred history, Mithras formed a cult of faithful adherents to the Mithraic religion, incorporating trappings from the legitimate religion of old and ancient vampiric traditions._</sup>
+
+<sup>_Though Mithras was destroyed in the 20th century, and his diablerist in turn reportedly destroyed in the Second Inquisition’s purge of London, his long-time seneschal and confidant Roger de Camden leads the Cult of Mithras in his absence. You may be a member of the cult, or even one of its leaders. Perhaps you believe the cult is the key to dominance in the Jyhad, taking Mithras’ millennia of rule as inspiration._</sup>
+
+**• Neophyte:**&#x20;
+
+Your service to Mithras is in its infancy, but you have learned how to manipulate the kine with talk of religion and grandeur. You can effectively lead a small mortal cult, granting you one bonus die to all Social rolls when interacting with your herd or retainers. This lore comes either from adherence to the cult or through study of its practices.
+
+**•• Nymphus:**&#x20;
+
+Mithraists award the title of Nymphus to new sires within the cult. This lore grants you knowledge of Ventrue lineage and customs of Embrace, along with the ceremonial status of a revered sire. You gain two bonus dice to all rolls in which Ventrue or Mithraic customs are discussed or studied, and the equivalent of two dots in the Status Background when among Ventrue.
+
+**••• Leo:**&#x20;
+
+Among the most honored members of the Mithraic cult, those Kindred with the title of Leo are entrusted to deliver clandestine messages between Mithraists, and sometimes even outside the order. Mithraists will not hesitate to trust you with information and messages, and you gain one dice to all non-Discipline rolls in which you attempt to get other vampires to trust you. Of course, if your allegiances lay outside the cult, this lore grants you access to deeply dangerous intelligence.
+
+**•••• Perses:**&#x20;
+
+The Cult of Mithras frequently indulges in ritual bloodletting and sacrifice, with the Perses as the master of such ceremonies. A vampire declared Perses of Mithras receives a short sword and authority to murder enemies of the cult, with the guarantee of full protection (alibis, secret havens, access to resources) should their identity as killer become known. This lore gifts you three Background dots to allocate in any domain in which the Cult of Mithras is present.
+
+**••••• Unconquered:**&#x20;
+
+You carry the spark of Mithras within you. Perhaps you took vitae from his diablerist Monty Coven, or maybe you once drank from Mithras himself as part of a Blood Bond. Now, Mithras lives in you. Occasionally the ancient vampire speaks to you in command or guidance, though he’s not powerful enough to compel. When you please Mithras, you gain three additional dice in Dominate, Fortitude, or Presence tests (choose one) for the remainder of the night.
 
 </details>
 
 <details>
 
-<summary><strong>The Pyramid </strong><em><strong>(Tremere Characters Only)</strong></em>  (p.189)</summary>
+<summary><strong>The Pyramid, </strong><em><strong>Tremere Characters Only</strong></em> (p.189)</summary>
 
-**• Apprentice:** Allowed\
-**•• Savant:** Allowed\
-**••• Regent:** Banned\
-**•••• Pontifex:** Banned\
-**••••• The New Council:** Banned
+<sup>_It was not so long ago the Tremere were the strongest clan, or at least, one of the most organized. You know the Pyramid was a perfect structure for Kindred hierarchy, enforcing loyalty through bonds of Blood and oaths of loyalty to house and family, ensuring power rose to the top, with the rewards trickling down. Or perhaps you studied the Pyramid for the corrupt bastion it was, and celebrated its collapse._</sup>
+
+<sup>_You know the inner workings of the Tremere Pyramid. You could construct such an hierarchy again, or help to erode it._</sup>
+
+**• Apprentice:**&#x20;
+
+Despite their recent destabilization, most sires of Clan Tremere still readily awards their fledglings the rank of apprentice. You are one such apprentice, or the master of one, awarding you with the equivalent of a one-dot Mawla.
+
+**•• Savant:**&#x20;
+
+Despite your new entry into the Pyramid, you have already drawn the attention of members greater than yourself for a successful experiment in which you courted danger, the creation of a new minor ritual, or the discovery of lore once lost to the clan. Once per chronicle, this lore enables you to ask a major boon of a Regent, and providing the boon is not insulting, remain on good terms with that Tremere thereafter.
+
+**••• Regent:**&#x20;
+
+Every chantry has a Regent. The Regent is responsible for the tutelage of all other Tremere in the domain. While the Regent may not teach them personally, she must ensure all Tremere are being educated. The Regent’s other duties extend to the clan’s protection in the domain, and sometimes its representation on the Primogen Council. You are the Regent of a chantry. This gives you a dot in Tremere Status, as well as three dots in Haven, representing the chantry. Be aware that you are expected to oversee the safety of the chantry, as well as provide lodging and resources to other members of the clan.
+
+**•••• Pontifex:**&#x20;
+
+Each Warlock on the Council of Seven has seven Pontifices reporting to him. These Pontifices will oversee a vast domain, though it is rarely geographically defined. Different Pontifices are appointed as clan representatives in the fields of art, economics, werewolf studies, and other such fields. You are seen as the clan’s foremost expert in whichever domain you’re made Pontifex, and your resources regarding that field are extensive. You gain a three dice bonus to any information-gathering test relating to your particular field, provided you have access to your library, as well as three dots in Tremere Status.
+
+**••••• The New Council:**&#x20;
+
+The new Tremere Council of Seven was assembled as an emergency measure following the Second Inquisition’s successful attack in Vienna. The explosion was timed to coincide with a meeting between the Council’s members, rendering all but a couple into ash, while the remainder entered torpor. You are considered one of the new potential members of the Council of Seven because you have something unique to offer the Tremere clan. What that is and how you wield your power is up to you and the Storyteller. You also have four dots in Tremere Status.
 
 </details>
 
@@ -278,11 +396,33 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>Victoria Ash</strong> (p.190)</summary>
 
-**• Ashen Kiss:** Banned\
-**•• Vermilion Invitation:** Banned\
-**••• What Makes Them Tick:** Banned\
-**•••• Celebrity Affectations:** Banned\
-**••••• Patron, Lover, Companion:** Banned
+<sup>_Victoria Ash stands as one of the most prominent and influential Kindred active tonight._</sup>
+
+<sup>_Embraced in the 17th century C.E. when she was still known as Victorine de Perpignan, she came from poverty, worked as a camp follower for the French army, and drew little regard but for her beauty and stunning singing voice. Her eventual sire, Maximillian, recognized her true talents of diplomacy, etiquette, and strategy, Embracing her for them and for the reasons the mortal soldiers adored her so._</sup>
+
+<sup>_Combined with the devotion Victoria draws from Kindred due to her charisma and apparently benevolent personality, she is remarkable for her steady success in rising the ladder of the Camarilla. Most recently, she was selected by the Justicars of the Camarilla to seal the Vermilion Wedding agreement with Tegyrius of the Ashirra._</sup>
+
+<sup>_The kine bend over backwards to serve her every whim, her clan adores her for natural talents and wit, and our sect points her out as everything other Kindred should aspire to be. One wonders if Tegyrius knows what is awaiting him._</sup>
+
+**• Ashen Kiss:**&#x20;
+
+At some point you have danced, kissed, or even slept with Victoria Ash. This does not make you a rarity, but it does make you special. Victoria has a perfect memory for faces and intimate encounters going back centuries (some suspect it’s how she clings to her humanity). Difficulties of Social rolls involving Victoria Ash or someone connected to her is reduced by 1.
+
+**•• Vermilion Invitation:**&#x20;
+
+Maybe you were a guest at the Vermilion Wedding or you just know one of the attendees well enough to describe what took place. This enables you to recognize those who attended the wedding, their function, and where they stood on the matter of union between the sects. Once per story you can use this information to blackmail, spin tale, or relate to other attendees of this tense meeting in a familiar way, gaining a three dice bonus to a Social test, provided you can come up with a plausible explanation.
+
+**••• What Makes Them Tick:**
+
+Victoria Ash is an expert at reading people. She knows how to get to your most sensitive secrets and exploit them and has taught you a few tricks. You gain two extra dice to Insight when scrutinizing a target for their vulnerabilities.
+
+**•••• Celebrity Affectations:**
+
+Emulating the stories of Victoria Ash, you too have access to a well-stocked tour bus to allow ease of transit between domains, and a small crew of roadies. Whether you masquerade as a singer, magician, actor, or any other form of en- tertainer, is up to you. This is equivalent to holding two dots in Haven (Mobile Home) and two dots in Herd or Retainers (Roadies).
+
+**••••• Patron, Lover, Companion:**&#x20;
+
+You occupy an important place in Victoria’s heart. Once per chronicle she will move heaven and earth to protect you, potentially cashing in the good will she carries with the Camarilla to do so if your crimes are egregious. For an entire session she counts as a five-dot Mawla and provides you three dots of Status.
 
 </details>
 
@@ -292,11 +432,31 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>Salvador Garcia</strong> (p.190)</summary>
 
-**• A Way With Words:** \
-**•• Old School:** \
-**••• Enemy of the State:** \
-**•••• The War of Ideas:** \
+<sup>_Salvador Garcia is not famous as a killer of Camarilla Kindred or a reckless Masquerade breaker, yet many Princes fear his coming to their city more than any violent troublemaker. Garcia fights the war of ideas, traveling from city to city rousing up the local Anarch underclass to fight for their rights._</sup>
+
+<sup>_Garcia's role is like that of a union agitator: He talks to young licks, helps them see that they don't have to accept their miserable role in undead society and carries news from other domains. One single visit can leave ideas germinating in the mind of a city's disenfranchised, leading to the birth of a new Anarch Movement._</sup>
+
+<sup>_Originally famous as the chief ideologue of the Anarch Free States in California and the killer of the old Prince of Los Angeles, Garcia now visits his home city only rarely. Instead, he uses his extensive contacts in the Movement to travel from domain to domain, spreading the revolution and evading Camarilla forces keen to see the "undead Che Guevara" executed._</sup>
+
+**• A Way With Words:**&#x20;
+
+You've studied the thoughts of not just Salvador Garcia, but all well-known Anarch political ideologues. You're a veteran of the Movement's political debates and can hold your own. For this reason, you get two extra dice in any roll involving a political debate where you invoke Anarch principles.
+
+**•• Old School:**
+
+You've met Garcia and advocated the ideas of abolishing Princes and establishing domains with decentralized power. This gives you cred among old school Anarchs of the California Free States generation, who kept the Movement going through the lean years before the current explosion of activity. Because of this, you have the equivalent of a three dot Mawla representing older Anarchs who like you, though they will help you only in matters of the Movement.
+
+**••• Enemy of the State:**&#x20;
+
+The Camarilla despises you because of your open advocacy of Anarch ideas. They attempt to discredit you by spreading bizarre rumors: You sold out your domain to strange Chinese vampires, you didn't really do the heroic acts ascribed to you, you're actually a Sabbat infiltrator, and so on. As an unintended consequence of these rumors, all attempts to find real facts about you are made at a two dice penalty to the relevant roll, and any information gained is tainted by falsehoods unless the roll is a critical win.
+
+**•••• The War of Ideas:**&#x20;
+
+Garcia teaches many young licks about the ideas of the Anarch Movement. Some of those ideas were formulated by him, but not all. Indeed, you once wrote down a vision of how undead society should be organized and that text has become part of Garcia's standard spiel. Because of this, you're known all across the Anarch territories and can use this fame as the equivalent of three dots of Allies in any Anarch domain.
+
 **••••• Rise Up:**&#x20;
+
+You know how to talk to your fellow Anarchs, and they know what you stand for. When you call for a revolution, things will happen. Unfortunately, you have no control over what exactly will happen. Once per story you can make make a politics roll to rile the local Anarchs into action. Gauge the scale of the effect to the number of successes rolled. (three can give you a spontaneous raid on the Prince's Haven while six might starts a revolt encompassing most of the city's Anarch population).
 
 </details>
 
@@ -304,11 +464,33 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>Agata Starek</strong> (p.191)</summary>
 
-**• Terrorizing the Powerful:** \
-**•• Apprentice:** \
-**••• A Favor Owed:** \
-**•••• Unlikely Allies:** \
+<sup>_For a Ventrue ancilla, the name Agata Starek summons images of nihilistic, gleeful terror, Anarchs as a wave of destruction demolishing everything in its path. But for the neonate anarchs living under the arbitrary and cruel rules imposed by that same Ventrue, she's the very personification of revolution as revenge. Who cares if we're going to live another night? Let's tear these bastards down right now._</sup>
+
+<sup>_More ideological and principled Anarch leaders tend to despise Starek because of her practice of diablerie and lack of interest in any utopian cause. For them, she's nothing but a monster, little better than the creatures of the Camarilla. Yet their perspective might be tainted by the power they wield, because Starek does have one single principle: She always punches up, usually literally. She's famous for turning on her friends and allies in favor of a mistreated ghoul or suffering human._</sup>
+
+<sup>_For all their dislike of Starek, few Anarch leaders really want to make a move against her. Deep in their unbeating hearts, they too appreciate the idea of a monster of their own, a joyous terror giving the Camarilla something to be afraid of._</sup>
+
+<sup>_The less power you have, the more hope Agata Starek gives you._</sup>
+
+**• Terrorizing the Powerful:**&#x20;
+
+Like Agata, you have an uncanny ability to strike terror in the hearts of licks more powerful and influential than you. Once per story, you can reroll an Intimidation test when confronted with a lick of greater means than yourself. This can mean age, resources or Sect status, but the final call on whether your ability applies is up to the Storyteller
+
+**•• Apprentice:**&#x20;
+
+You've met Agata Starek personally, and something in you caught her interest. Sometimes she sends you little tidbits of information about the weaknesses and private vices of the powerful licks in your city, often with the aim of allowing you to taste their sweet, sweet blood. Once per story you gain the equivalent of a four-dot contact for the purpose deducing a weakness in a stronger enemy. This could be anything from their feeding habit, their Touchstones or the flaw in their haven’s security.
+
+**••• A Favor Owed:**&#x20;
+
+You've met Agata Starek once or twice, perhaps in a delicate situation involving murder and the spilling of Camarilla blood. Because of your shared history, once per story you can cash in a boon someone in your city owes her. A known appreciator of vitae, the boons owed to Starek always involve gaining access to particular type of vampiric Blood. You explain what kind of Blood you need, and the Storyteller tells you who owes the boon to acquire it, limited by what's possible in the domain. For example, methuselah Blood is probably not possible, but the Blood of the Prince might be.
+
+**•••• Unlikely Allies:**&#x20;
+
+Starek is a figure of hope for many who no longer believe that a better world is possible. They are content to yearn for revenge, and like her, you've begun to seem like someone who could make things difficult for the powerful. Because of this, once per story an oppressed servant or minion of your undead enemies will help you in a tight spot as long as they can do it without getting caught. The Storyteller can make this happen, or you can appeal to a minion with a Persuasion roll with four additional dice.
+
 **••••• The Joy of Transgression:**&#x20;
+
+Agata Starek argues that diablerizing powerful Camarilla vampires is not only an Anarch responsibility, it's also one of the chief joys of the revolution. You've taken her words to heart and no longer suffer an automatic loss of a point of Humanity when diablerizing someone with more Sect status than yourself. However, the potential Humanity loss from when you roll the effects of the diablerie can still apply.
 
 </details>
 
@@ -316,11 +498,29 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>Hesha Ruhadze</strong> (p.192)</summary>
 
-**• One of Hesha’s Works:** \
-**•• Something Hesha Wants:** \
-**••• Museum of the Faithful:** \
-**•••• Blood Cult&#x20;**_**(Ministry Characters only)**_**:** \
-**••••• Hear the Blood Sing&#x20;**_**(Ministry Characters only)**_**:**&#x20;
+<sup>_Though the Ministry have largely aligned with the Anarchs in these turbulent nights, Hesha Ruhadze stands like an old rock in a stream. When asked about sectarian allegiances, the Nubian archaeologist rolls his eyes and mutters to himself. He spurns politics, referring to it as a wasted focus for creatures that might live for an eternity. His dedication is to history, the mysteries of vampire origins, and importantly, discerning their fates. All the while, he sits in at Anarch moots and listens attentively._</sup>
+
+<sup>_Hesha is a willing servant of the Blood, and believes he can understand the voice of Sutekh calling from his vitae. Where this might be a mark of insanity for some vampires, Hesha’s standing among Kindred far and wide lends credence to his claims. He is still the same coolly charming man, and every word he speaks feels heavy with gravitas, but now he speaks as the herald of his god’s will. Every time he does so, it is with a smile._</sup>
+
+**• One of Hesha’s Works:**&#x20;
+
+You own one of Hesha’s treatises on the history of Kindred existence. While the work may be controversial, and oppose the traditional Cainite mythology, it conveys one additional die on Occult-based dice pools, or pools relating to vampire origins. This work may be sold in exchange for one dot of the Resources Background.
+
+**•• Something Hesha Wants:**
+
+You know what Hesha currently seeks, and can access it, or already own it. This item can be used to bargain with, blackmail, or threaten Hesha, or even present to him as a gift for future favor. This artifact or piece of information conveys an additional three dice to Persuasion or Intimidation dice pools involving Hesha or his cult. It can also be sold, adding three dots to your Resources (up to five) for the duration of the story.
+
+**••• Museum of the Faithful:**
+
+You possess the rare privilege of membership in one of the Ministry’s museums of vampire history. These underground treasure troves are securely guarded but contain a plethora of accessible information about legendary Cainites. You must submit a new treasure to the museum every year for continued membership and will have your access denied if you fail to do so, or ever steal from one of these Setite hoards. You gain three additional dice to all tests involving the research of vampires and vampire history for as long as you keep you membership.
+
+**•••• Blood Cult (Ministry characters only):**&#x20;
+
+Hesha has taught you the old ways of the Followers of Set, in which mortals and ghouls perform more than a servile role. Your cult encompasses a warrior, a priest, and a scholar, as well as willing vessels from which you feed. Three Background dots can be split between these specialzed cultists, who can count as Herd or Retainers. They possess more knowledge and ability of your kind than typical servants and ghouls, giving them an additional die in all interactions with vampires.
+
+**••••• Hear the Blood Sing (Ministry characters only):**&#x20;
+
+Maybe Hesha taught you how to hear the words, or perhaps you accomplished the feat yourself. You hear the voice of Sutekh more loudly than you do your Beast. Through riddles, visions, and musical refrain, the Storyteller will occasionally offer you guidance from the godlike voice issuing from your vitae. Once per session, you are also able to automatically resist Frenzy, treating it as a Ministry Compulsion instead.
 
 </details>
 
@@ -328,11 +528,27 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>The Church of Set</strong> (p.193)</summary>
 
-**• Congregation:** \
-**•• Tap the Secret Vein:** \
-**••• Freedom from the Aeons:** \
-**•••• Degenerative Process:** \
+<sup>_Most Ministers have rediscovered their cosmopolitan, multi-faith routes. While they still revere Set as their founder and the first vampire, it is less common for a Setite of the Ministry to cling only to the worship of Sutekh. This is not the case among those Setites who claim membership in the very Church of Set. Dedicated to the rites of Setite Orthodoxy, the Church of Set’s members believe they must conspire to weaken all other clans and their founders in order to pave the way for the resurrection of their founder. Your membership in the Church of Set may be as a new adherent, desperate to find meaning and mentorship in a hostile world, or you may be one of the dedicated faithful, rejecting the idea of enslavement to other Antediluvians and seeking freedom from all chains by following Set’s holy guidance._</sup>
+
+**• Congregation:**&#x20;
+
+You have access to a herd of kine, but these mortals are a unified religious flock you can manipulate. This congregation can belong to any mainstream of fringe religion, and whether they see you as their leader, or just another parishioner, you can feed from them easily. This lore is equivalent to a two-dot Herd, though it requires you to show up and uphold the faith regularly. Tap the Secret Vein: Through the method of a simple interview, you can analyze whether a mortal or Kindred has a secret they’re trying to hide. You gain a two-dice bonus to Insight-based tests to find whether someone is keeping a secret. Freedom from the Aeons: Set despises his fellow clan founders, or so the legend says. The Setites consider the other founders Aeons, and demonstrate a resistance to their power. You gain two additional dice on rolls resisting Dominate and Presence attempts from vampires of other clans.
+
+**•• Tap the Secret Vein:**&#x20;
+
+Through the method of a simple interview, you can analyze whether a mortal or Kindred has a secret they’re trying to hide. You gain a two-dice bonus to Insight-based tests to find whether someone is keeping a secret.
+
+**••• Freedom from the Aeons:**
+
+Set despises his fellow clan founders, or so the legend says. The Setites consider the other founders Aeons, and demonstrate a resistance to their power. You gain two additional dice on rolls resisting Dominate and Presence attempts from vampires of other clans.
+
+**•••• Degenerative Process:**&#x20;
+
+The Church of Set teaches its adherents that a man must be brought to his lowest before he can rise to meet glorious Sutekh. You can push any being, mortal or immortal, to indulge in degenerative corruption only to come out clean on the other side. With a successful Manipulation + Persuasion roll, you can persuade any individual to break a Tenet or Conviction, gaining at least one Stain. When it is done, they feel purified. The targeted character restores up to three Superficial or one Aggravated Willpower damage.&#x20;
+
 **••••• Body of Set:**&#x20;
+
+You possess a fragment of Set’s skeleton, sarcophagus, or burial robes. Though the implication of Set’s Final Death is debatable, the holy (or unholy, depending on your perspective) artifact gives you drive to succeed and impressive influence over other Followers of Set, conveying a four-dot Status among other Ministers. The relic also helps you to touch the mind of Set through meditation, and once per story you are able to reduce Stains gained from breaking a Tenet by one, if following what you and the Storyteller perceive as the will of your god.
 
 </details>
 
@@ -340,11 +556,29 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>Ruins of Carthage</strong> (p.196)</summary>
 
-**• Clan Historian:** \
-**•• Punic Pride:** \
-**••• Death to Tyrants:** \
-**•••• Troile’s Wish:** \
+<sup>_You are a vampire who traces their line back to the height of Carthage, or an attempt to rebuild the great empire that opposed Ventrue and Malkavian-controlled Rome. Likely of Clan Brujah or the Banu Haqim, you were taught the words of your ancestors, carry the fire of hatred for tyranny, and crave the nights when you can establish a domain where mortals and vampires alike can relax the need for the Masquerade._</sup>
+
+<sup>_Knowledge of the principles of vampiric Carthage is both enlightening and damning, for once a vampire tastes the freedom of this fallen empire, they struggle within the Camarilla’s strictures. Licks who obsess over the Ruins of Carthage often get caught in webs of intrigue, paying for their curiosity with the formation of inescapable pacts._</sup>
+
+**• Clan Historian:**&#x20;
+
+You have studied the path of Clans Brujah, Lasombra, and the Children of Haqim from pre-Carthage nights through to the formation of the Camarilla. You know their rises and their falls, their constant battles with the Ventrue, Malkavians, and Toreador, and can recite names and dates with ease. This lore impresses other Kindred historians and rebels looking for a cause, giving you a bonus die on social tests where you can put this knowledge to use.
+
+**•• Punic Pride:**
+
+To this night, Brujah still look back on Carthage as the ultimate symbol of rebellion. They believe Carthage was the most successful domain to successfully resist Ventrue-controlled Rome, until its calamitous end. You take great pride in your Carthaginian ancestry, whether through mortal links, or immortal bloodline. When invoking this ancestry, you speak with increased confidence and draw the attentions of fellow rebels. Gain two dice in Leadership-based tests to lead others against perceived oppression.
+
+**••• Death to Tyrants:**&#x20;
+
+If Carthage taught the Brujah and Children of Haqim anything, it’s that it’s always worth fighting until the end. Never since – even when considering the Anarch Revolt – have the pillars of the establishment been so shaken. You harness the strength of the vampires who fell fighting Rome whenever taking the fight to a figure in power. Gain a bonus dice to all contests against someone who can claim authority over you.
+
+**•••• Troile’s Wish:**&#x20;
+
+Many Brujah claim the damning tales of Carthage are simply Ventrue propaganda spread from Rome, and extant to this night. Brujah and Banu Haqim scholars alike claim Troile was a benevolent ruler, treating both Kindred and kine fairly, and ensuring every soul in the empire remained fed, educated, and loved. You believe in this credo, and exude a reassurance that convinces others to trust you, supplicate before you, and help you in whatever schemes you have to mind. You gain a two bonus dice to all social tests involving vampiric servants, yours and others, whether they are retainers or just part of a herd.
+
 **••••• Carthage Anew:**&#x20;
+
+You are an advocate of Carthage anew. Plans have been set in motion and you already have an Anarch city selected where the Masquerade will soon fall without being targeted by mortal agencies. (The deals and pacts you had to make for this to happen are left to you and the Storyteller.) Up until that time, you are able to break the Masquerade and get away with it in that city once per story, no matter the severity of the breach.
 
 </details>
 
@@ -352,11 +586,31 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>Blood Plagued</strong> (p.197)</summary>
 
-**• Detection:** \
-**•• The Science of the Blood:** \
-**••• Trace the Torpid Victims:** \
-**•••• Curative Vitae:** \
+<sup>_Vampires are immune to most diseases, but some plagues make their way into the vitae and transfer from vampire to vessel with ease, while others fester and mutate, becoming something threatening only to the vampire hosts._</sup>
+
+<sup>_A Blood plague, sometimes known as the Curse, swept through the undead society in the late 20th century, decimating domains and striking down vampires no matter their clan or status. Gustav Breidenstein, former Prince of Berlin and powerful elder, was one of the highest profile victims of the contagion that brought countless Damned to frenzy and forced vitae to escape from every orifice until the victim withered and died._</sup>
+
+<sup>_It is said the Blood plague died out, or was cured through a great ritual sacrifice. Unfortunately, the plague may just be torpid, like so many of its victims. These infections rise again and again across the centuries._</sup>
+
+**• Detection:**&#x20;
+
+The Blood plague manifests in vampires in a variety of ways, depending on the incarnation of the disease. As the curse afflicting vampires evolves, so must the experts who seek to study and eradicate it. You are one such vampire, who knows all associated symptoms of the Blood plague. You can use this lore to easily determine if someone carries infection, or more malignantly, you can sow rumors in a domain of the plague’s existence, by using facts about the disease’s course. Add two dice to any Medicine or Occult roll involving the plague.
+
+**•• The Science of the Blood:**&#x20;
+
+You believe the Blood plague to be largely medical in genesis, possibly even started among mortals before it infected Kindred. Your thorough study of the Blood plague enables you to simply detect the plague’s recent paths and patterns, analyzing where an infected host may have been, who they might have been infected by, and when. Such information can be incredibly useful when attempting to quarantine all infected subjects. Add two dice to all Investigation rolls and other tests to track active victims of the plague.
+
+**••• Trace the Torpid Victims:**
+
+You see the strains of Blood plague wind through the earth. Your interest in this condition goes further than just quarantine and healing of the infected; you can follow the plague’s stench and unholy aura to its torpid victims. You already know where many of the bodies are buried. By making a Resolve + Occult roll (Difficulty 4, modified depending on the vampire population and the history of the Blood plague in the area) you can locate the body of an infected victim still in torpor. Who they are and whether they are still contagious is up to the Storyteller.
+
+**•••• Curative Vitae:**&#x20;
+
+You believe any disease is curable, with the correct research, and the willingness to sacrifice. Your vitae is clean of the Blood plague, and you show no symptoms despite your proximity to many victims. You believe your Blood may hold the cure, but scientists of other clans require a lot of your vitae to test this idea. By giving enough Blood to force a Rouse Check you can add two dice to any attempt to manufacture a cure, temporary or even permanent (Storyteller’s discretion).
+
 **••••• Vector:**&#x20;
+
+You have a secret. You carry the Blood plague, and can even infect others with it, but you display none of the symptoms. This dangerous lore allows you to spill your vitae in an Elysium or feed a mouthful of it to a popular vessel, and watch the terrible effects as the other Kindred succumb to the Blood plague. If you feel more altruistic, you may volunteer for thorough tests on your vitae, and how it may be applied by your sect as a weapon, or by those looking for a cure. The specific effects of your strain of plague are up to you and the Storyteller.
 
 </details>
 
@@ -364,12 +618,29 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <summary><strong>Anarch Revolt</strong> (p.198)</summary>
 
-**• Critical Ancestor:** \
-**•• Speak the Words:** \
-**••• Enemy of the Establishment:** \
-**•••• Icon:** \
-**••••• Reignite the Revolt:** \
-_&#x49;f you lose this Advantage, you will be refunded the experience cost, but will not be able to purchase it again._
+<sup>_You claim lineage to a vampire important to the Anarch Revolt of the 14th and 15th centuries, or perhaps you possess records chronicling the fall of tyrannical Princes, or rise of upstart Barons. You know the time and place Tyler murdered Hardestadt the Elder, and the participants in the diablerie of the Tzimisce Antediluvian. Maybe you’ve even spoken with Lugoj or Lambach, two of the Fiends present during that incident._</sup>
+
+<sup>_Your knowledge of the Anarch Revolt is such that you can see the waves and eddies of time repeating itself in the society of the Damned tonight. You recognize the exact same crimes of the past repeated now, and can predict, and perhaps control, the way the young will rise up to smash the old._</sup>
+
+**• Critical Ancestor:**&#x20;
+
+Vampires largely of Clans Brujah, the Banu Haqim, and Lasombra led the Anarch Revolt across Europe, with power-hungry Tzimisce taking part to eliminate the greatest monsters in their own clan. However, Anarchs rose from all clans, as most elders manipulated their young to disastrous ends. You can name one of your ancestors as critical to the Anarch Revolt, either as an instigator, chronicler, or opponent. Your ties to this ancestor give you credibility in discussions regarding the Revolt, and a passion for its analysis. Gain a point of Anarch status as well as the Suspect (Camarilla) flaw, or vice versa.
+
+**•• Speak the Words:**&#x20;
+
+The Anarch Revolt was driven more by words and energy than flashing blades and spilling blood, at least at first. You possess the same ambition as the Anarchs of the past, and can accurately pinpoint where oppression occurs, and where revolt is necessary. When vampires listen to you, they feel more inclined to seize power from their masters. Add two dice to social tests involving the instigation of Anarch activism.
+
+**••• Enemy of the Establishment:**&#x20;
+
+You consider yourself an Old Anarch, not necessarily by age, but by ethos. The new Anarch Movement has its strengths, but also many weaknesses. Your views put you in direct opposition to the Camarilla and its Victorian methods of subjugation. The Camarilla has marked you as an enemy, which only draws more listless Anarchs to your banner. You gain the equivalent of a four-dot Mawla, representing your comrades among the Anarchs, as well as a one-dot Adversary, representing someone tasked with keeping tabs on you and, if necessary, bring you down.
+
+**•••• Icon:**&#x20;
+
+You have taken the name of one of the Anarch Revolt’s original participants, and act as that vampire’s successor. This would be disrespectful, if you had not performed many of the same actions as your forebears. Many Anarchs see you as the next great leader of the Revolt, whether or not that is your intent. You may have seized an historic identity for the cult status and easy access to herd, but now the sect puts increasing pressure on you to act in their interest. Gain two dots of Status, two dots in Herd and two dots in Resources for as long as you put the Anarch cause before anything else. Any misstep and they are lost until you redeem yourself.
+
+**•••••** Reignite the Revolt:
+
+The time has come. You know how the Anarch Revolt took place half a millennium ago, and know how it needs to take place tonight. You know the weakness of your city, the greatest threats, and the Camarilla positions direly in need of removal. You can threaten your enemies with the prospect of war for extortion purposes, or to prevent the Camarilla taking more liberties with the Anarchs than they have already. Once per story you can use this leverage to gain four dice in any Social conflict against a member of the Camarilla establishment. If you fail the roll you either need to make good on your threat or lose this Advantage permanently.
 
 </details>
 

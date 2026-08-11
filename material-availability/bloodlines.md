@@ -48,18 +48,6 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 <details>
 
-<summary><strong>Descendant of Tyler,</strong> <em>Brujah Characters Only</em> (p.397)</summary>
-
-**• Instigator:** Allowed\
-**•• Champion of the Cause:** Allowed\
-**••• Tyler's Mercy:** Allowed\
-**•••• The Furores:** Locked\
-**••••• Permanent Revolution:** Locked
-
-</details>
-
-<details>
-
 <summary><strong>Descendant of Zelios,</strong> <em>Nosferatu Characters Only</em> (p.398)</summary>
 
 **• Sanctuary:** Allowed\
@@ -94,15 +82,67 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 </details>
 
+## Anarch
+
 <details>
 
-<summary><strong>Descendant of Xaviar,</strong> <em>Gangrel Characters Only</em> (p.406)</summary>
+<summary><strong>Descendant of Xaviar,</strong> <em>Gangrel Characters Only</em> (p.194)</summary>
 
-**• Martyred Ancestor:** Allowed\
-**•• Where the Bodies Are Buried:** Allowed\
-**••• Loyal Hound:** Allowed\
-**•••• Monstrous Bat:** Allowed\
-**••••• Experienced the Antediluvian:** Allowed
+<sup>_Nobody, even fellow Gangrel, listened to Xaviar the first time he spoke. It took marching into a convocation of the Camarilla’s biggest players for other Kindred to take notice of him. He spoke of interacting with one of the Antediluvians and seeing his entire coterie eaten alive by this mythological creature. He accused the Camarilla of perfidy against its members and cast aside his role of Gangrel Justicar._</sup>
+
+<sup>_News travels slowly among the Gangrel, as a clan with little hierarchy and lacking an effective communication network. Slowly, Gangrel followed Xaviar out of the Camarilla, some becoming Autarkis, while more ultimately joined the Anarchs._</sup>
+
+<sup>_Gangrel now share a communal guilt for their initial disbelief of Xaviar’s claims and slow reaction to his proclamation, as he met Final Death soon after. Few know if the Camarilla or some other agency slew the mighty Gangrel, but all know their ancestor was wronged. Now they take up his torch and attempt to bring the Gangrel into truth’s flickering light._</sup>
+
+**• Martyred Ancestor:**&#x20;
+
+Other Gangrel treat you with the respect they took too long to afford Xaviar. Despite any personal grievances, you can always find sanctuary with other Gangrel, if any are present in your current domain, at least until you insult them grievously. With them, you have two dots of Status.
+
+**•• Where the Bodies Are Buried:**&#x20;
+
+Xaviar’s experiences with melding through earth, blood, and vitae left a mark on his lineage. Gangrel of his line can make a Resolve + Awareness test to detect whether a vampire has merged with the earth or lays torpid beneath the soil. Difficulty depends on the area you have to search.
+
+**••• Loyal Hound:**&#x20;
+
+You resisted the winds of change, remaining with the Camarilla despite your clan’s actions. For your loyalty, the local Camarilla Prince awarded you status, feeding rights, and territory, amounting to four dots you can distribute among Domain, Herd, and Status. Non-Camarilla Gangrel despise you, and even Camarilla vampires of other clans pity your solitude, but you guarantee yourself a voice among the Primogen, should any rebel Gangrel pass through your domain.
+
+**•••• Monstrous Bat:**&#x20;
+
+Xaviar’s preferred bestial form was once that of a bat, but following his encounter with the Antediluvian, he found his form capable of changing into a hybrid between human and bat. Once per story when the moon is just right, you can take the same form. This man-sized bat has an extra dot in all Physical Attributes and can glide in the air from any height. Biting in this form adds +1 Aggravated damage to mortals and vampires alike.
+
+**••••• Experienced the Antediluvian:**&#x20;
+
+Xaviar was not the only Gangrel to sink into the ground and find himself inside his clan founder’s vast, inhuman form. You have done the same, and the experience changed you. You are now a little mad, likely suffering from paranoia or claustrophobia. Whenever you call your encounter to mind, you feel your veins rooted to the ground, connecting to every other Gangrel in the world. Once per story, you can sense any Gangrel’s location and drain a thimbleful of vitae from them to reset your Hunger level to 2. You must be touching open ground, not concrete, to use this ability.
+
+</details>
+
+<details>
+
+<summary><strong>Descendant of Tyler,</strong> <em>Brujah Characters Only</em> (p.195)</summary>
+
+<sup>_Every aspiring Brujah rebel worships Tyler – once known as Patricia of Bollingbroke – and going by many names since. Her revolutionary violence against tyrant elders and insidious methuselahs irrevocably changed Kindred society and inspired the Anarch Movement. Tyler herself doubts that her actions led to effective praxis, but her childer and clanmates compare her to everyone from Robin Hood, to Malcolm X, to Che Guevara, to Gavrilo Princip._</sup>
+
+<sup>_Tyler still exists: a quiet, studious rebel in these nights. With centuries of reflection, she struggles to reconcile her actions with the results of modern nights. Her descendants continue the fight with the hopes of uplifting her to her destined greatness one night._</sup>
+
+**• Instigator:**&#x20;
+
+Once per story, whenever you attempt to persuade a mortal crowd into violent action, your hot-blooded nature adds two dice to your dice pool to do so.
+
+**•• Champion of the Cause:**
+
+When vampires want a leader for a rebellion, large or small scale, they come to you for advice or leadership. They might even listen to your words, and providing your advice is not completely ridiculous, might even defer to your authority. You add two dots to your Status with them during such rebellions, but you might find the numerous contacts gained before a rebellion more valuable and certainly less dangerous.
+
+**••• Tyler’s Mercy:**&#x20;
+
+You know when to stop. Tyler recognized when the Sabbat went too far with her Anarch ideals, and you likewise recognize the limits of violent revolution. Once per story, when frenzying, you may at any point take a Brujah Compulsion (p. 210) to immediately cease the outburst. You do not suffer any confusion or tiredness after an interrupted frenzy, abruptly snapping back to Humanity.
+
+**•••• The Furores:**&#x20;
+
+Tyler’s philosophies first emerged among a historic vampire group known as the Furores, dedicated to the destruction of all Kindred tyrants. This group still exists in secret, and you claim membership. When the time is right (once per chronicle), the Furores arm you, provide you with sanctuary in a regnum where they have influence, and activate assets in the target domain as surprise Allies (available within one scene). The Allies add up to five dots of Effectiveness; the rest depends on your collaboration with the Storyteller. Furore assets can only be used when attempting to take down a Prince, unfit Baron, or vampire of higher station. Misuse makes you a target of the Furores and their unknown operatives.
+
+**••••• Permanent Revolution:**
+
+You have already taken down one sect figurehead. You now lead an army of revolutionaries to sweep the board in the neighboring regnae. For as long as you keep fighting and are not found to be indulging in the luxuries of station, Anarchs stop to listen to your every word, and Brujah Anarchs do exactly as you say, including embarking on suicide missions. No rolls are required if your speech is strong and argument convincing enough.
 
 </details>
 
