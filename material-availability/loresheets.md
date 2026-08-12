@@ -4,7 +4,7 @@ Below is a list of all Loresheets, sorted by book. Each entry has their availabi
 
 For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines</mark>](bloodlines.md).
 
-<table data-search="true"><thead><tr><th>Book</th><th>Page Number</th></tr></thead><tbody><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#core"><mark style="color:red;">Core</mark></a></td><td>pp. 382-406</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#camarilla"><mark style="color:red;">Camarilla</mark></a></td><td>pp. 184-190</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#anarch"><mark style="color:red;">Anarch</mark></a></td><td>pp. 190-198</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#chicago-by-night"><mark style="color:red;">Chicago by Night</mark></a></td><td>pp. 262-287</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-chicago-folios"><mark style="color:blue;">The Chicago Folios</mark></a></td><td>pp. 158-169</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#let-the-streets-run-red"><mark style="color:blue;">Let the Streets Run Red</mark></a></td><td>pp. 224-233</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#cults-of-the-blood-gods"><mark style="color:blue;">Cults of the Blood Gods</mark></a></td><td>pp. 228-231</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#children-of-the-blood"><mark style="color:blue;">Children of the Blood</mark></a></td><td>pp. 103-108</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#trails-of-ash-and-bone"><mark style="color:blue;">Trails of Ash and Bone</mark></a></td><td>pp. 170-172</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-fall-of-london"><mark style="color:blue;">Fall of London</mark></a></td><td>pp. 229-234</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#winters-teeth"><mark style="color:blue;">Winter's Teeth</mark></a></td><td>No. 2, 3, 9</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#forbidden-religions"><mark style="color:blue;">Forbidden Religions</mark></a></td><td>pp. 88-93</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#boston-by-night"><mark style="color:blue;">Boston by Night</mark></a></td><td>pp. 80-87</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#blood-sigils"><mark style="color:blue;">Blood Sigils</mark></a></td><td>pp. 178-180</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-book-of-nod-apocrypha"><mark style="color:blue;">The Book of Nod Apocrypha</mark></a></td><td>p. 39</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#gehenna-war"><mark style="color:blue;">Gehenna War</mark></a></td><td>pp.157-159</td></tr><tr><td><a href="loresheets.md#in-memoriam"><mark style="color:blue;">In Memoriam</mark></a></td><td>pp.149-153</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#tattered-facade"><mark style="color:blue;">Tattered Facade</mark></a></td><td>pp.171-172</td></tr><tr><td><a href="loresheets.md#live-from-the-succubus-club"><mark style="color:blue;">Live From the Succubus Club</mark></a></td><td>pp.162-166</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#misc-official-loresheets"><mark style="color:red;">Misc Official Loresheets</mark></a></td><td></td></tr></tbody></table>
+<table data-search="true"><thead><tr><th>Book</th><th>Page Number</th></tr></thead><tbody><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#core"><mark style="color:purple;">Core</mark></a></td><td>pp. 382-406</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#camarilla"><mark style="color:purple;">Camarilla</mark></a></td><td>pp. 184-190</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#anarch"><mark style="color:purple;">Anarch</mark></a></td><td>pp. 190-198</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#chicago-by-night"><mark style="color:purple;">Chicago by Night</mark></a></td><td>pp. 262-287</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-chicago-folios"><mark style="color:purple;">The Chicago Folios</mark></a></td><td>pp. 158-169</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#let-the-streets-run-red"><mark style="color:purple;">Let the Streets Run Red</mark></a></td><td>pp. 224-233</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#cults-of-the-blood-gods"><mark style="color:purple;">Cults of the Blood Gods</mark></a></td><td>pp. 228-231</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#children-of-the-blood"><mark style="color:purple;">Children of the Blood</mark></a></td><td>pp. 103-108</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#trails-of-ash-and-bone"><mark style="color:purple;">Trails of Ash and Bone</mark></a></td><td>pp. 170-172</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-fall-of-london"><mark style="color:purple;">Fall of London</mark></a></td><td>pp. 229-234</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#winters-teeth"><mark style="color:purple;">Winter's Teeth</mark></a></td><td>No. 2, 3, 9</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#forbidden-religions"><mark style="color:purple;">Forbidden Religions</mark></a></td><td>pp. 88-93</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#boston-by-night"><mark style="color:purple;">Boston by Night</mark></a></td><td>pp. 80-87</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#blood-sigils"><mark style="color:purple;">Blood Sigils</mark></a></td><td>pp. 178-180</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#the-book-of-nod-apocrypha"><mark style="color:purple;">The Book of Nod Apocrypha</mark></a></td><td>p. 39</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#gehenna-war"><mark style="color:purple;">Gehenna War</mark></a></td><td>pp.157-159</td></tr><tr><td><a href="loresheets.md#in-memoriam"><mark style="color:purple;">In Memoriam</mark></a></td><td>pp.149-153</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#tattered-facade"><mark style="color:purple;">Tattered Facade</mark></a></td><td>pp.171-172</td></tr><tr><td><a href="loresheets.md#live-from-the-succubus-club"><mark style="color:purple;">Live From the Succubus Club</mark></a></td><td>pp.162-166</td></tr><tr><td><a href="https://wiki.capetownvtm.com/material-availability/loresheets#misc-official-loresheets"><mark style="color:red;">Misc Official Loresheets</mark></a></td><td></td></tr></tbody></table>
 
 ## Core
 
@@ -18,23 +18,23 @@ For the "Descendant of..." Loresheets, see [<mark style="color:red;">Bloodlines<
 
 <sup>_As a Bahari, you fulfill the role of torturer, student, teacher, or lover to other Kindred. All evidence you have seen points to Lilith as the first, usurped vampire. Or perhaps you secretly adhere to the Church of Caine and gnaw at the Bahari from inside out._</sup> &#x20;
 
-**Dangerous Reputation:**&#x20;
+**• Dangerous Reputation:**&#x20;
 
 Bahari intimidate vampires not of their order. Vampire believers in the Cainite mythos feel uncomfortable in your presence. Once per story, you may add two dice to Intimidation pools in tests against Caine-worshipers, assuming they know of your allegiance.&#x20;
 
-**Ritual Scarification:**&#x20;
+**•• Ritual Scarification:**&#x20;
 
 You know pain leads to enlightenment. Specifically, the Lilitu preach that bringing one’s physical shell to the extremes of sensation grants greater insight. Once per session, you may scar yourself with one point of Aggravated damage to recover a level of Willpower damage: superficial or Aggravated.
 
-**Sacrifice the Children:**&#x20;
+**••• Sacrifice the Children:**&#x20;
 
 The Bahari believe both in siring childer and sacrifice. Faithful Bahari know the ultimate sacrifice is the murder of their own childe. If you diablerize your childe, you gain three extra dice in your Humanity + Blood Potency dice pool to absorb Disciplines (see Diablerie, p. 234).&#x20;
 
-**The Womb’s Blood:**&#x20;
+**•••• The Womb’s Blood:**&#x20;
 
 Bahari consider fertility and sex sources of strength, with some factions placing special prominence on blood or vitae taken from the womb. Once per story, after drinking blood from the uterus, you receive an additional two dots in either Stamina or Resolve (thus increasing Health or Willpower by two) until the dawn.
 
-**First-Cursed:**&#x20;
+**••••• First-Cursed:**&#x20;
 
 Lilith’s worshipers maintain that she was the first living being cursed by God, before Adam, Eve, or Caine. The Bahari strive to emu- late Lilith’s lesser curse, and in so doing find their Cainite weaknesses lessened. You retain your clan bane, but you can now walk in the first hour of daylight and final hour of dusk; you can also engage in intercourse without Rousing the Blood. However, you radiate danger: the equivalent of the Obvious Predator ( ) Flaw. All Social tests to ostracize or slander you have their Difficulty reduced by one. Finally, any vampire assessing you with Auspex immediately suffers migraine-like headaches; their Resolve and Willpower drop by half your Resolve (rounded up) for one scene.
 
@@ -50,23 +50,23 @@ Lilith’s worshipers maintain that she was the first living being cursed by God
 
 <sup>_Despite his notoriety, Theo still acts as liaison between high-status Camarilla and Anarchs, for the sole reason that he brooks no shit at meetings. He shortcircuits Sabbat ambushes, quells any Anarch riots, and shuts down Camarilla extortion and coercion. As a mediator, Theo’s judgement cannot be faulted._</sup>
 
-**Rebel Cell:**&#x20;
+**• Rebel Cell:**&#x20;
 
 You command a pack of rebellious mortals and fuel their fire with something that keeps them fighting. Perhaps you feed them vitae or maybe you embody their ideals. Either way, these rebels (a three-dot Ally group equivalent) perform a single dangerous task for you without your presence, before disbanding until the next story.
 
-**True Anarch:**&#x20;
+**•• True Anarch:**&#x20;
 
 You were an Anarch before Bell led an army of Camarilla Brujah into the Anarch Movement, and you resent these tagalongs joining the Anarchs just as they grow popular. You have records, names, places, and dates about who the rebels were and are, fed to you by the Man or gathered personally. Either way, you get two automatic successes on any Investigation test concerning vampires who defected to the Anarch Movement.
 
-**Contact Information:**
+**••• Contact Information:**
 
 Whether by dead drop, messenger, or arcane means, you can get word to Theo. Whether he responds, or even listens, depends on the message and your earlier interactions, but if he likes what you have to say, he might be able to move mountains. The precise game effects of a message to Theo are up to the Storyteller.
 
-**Bell’s Circle:**&#x20;
+**•••• Bell’s Circle:**&#x20;
 
 Theo trusts you, perhaps because of your earlier revolutionary actions or because you manipulated your way into his good graces. Bell is equivalent to a five-dot Mawla, but your association with him also has many drawbacks.
 
-**Sect Neutrality:**&#x20;
+**••••• Sect Neutrality:**&#x20;
 
 Following Theo Bell’s lead, you have a small contingent of a few Brujah loyal to your vision, and you can influence them in any direction: the Camarilla, the Anarchs, or even to form a smaller subsect neutral amidst the Jyhad. You may resent their existence or take pride in your following. Not mindless disciples, these Kindred keep track of favors granted. But until they rebel against you, you have five dots to spend among Contacts, Haven (safe houses), Mawla, and Retainers.
 
@@ -80,23 +80,23 @@ Following Theo Bell’s lead, you have a small contingent of a few Brujah loyal 
 
 <sup>_The antinomianism of the Anarch Revolt and the millenarianism of Gehenna’s rising fertilized the Heresy in the last century. Vampires who use the Heresy to subvert human faiths and Cainites who truly believe in their divine mission evangelize the Heresy throughout Anarch circles._</sup>
 
-**Let He Who Hath Understanding:**&#x20;
+**• Let He Who Hath Understanding:**&#x20;
 
 The Storyteller will give you one clue freely to understand, investigate, or detect the Heresy’s actions or plans, now or in previous centuries. You can use this lore once per story.
 
-**Hand of the Heresy:**&#x20;
+**•• Hand of the Heresy:**&#x20;
 
 Take a total of three dots from among Allies, Herd, Mawla, or Retainers to represent your role in the city’s Heretical deaconate. For example, if you took Herd and Mawla, you might bless a small cult of human worshipers and have a renowned scholar of the Heresy as your teacher. You also have the Dark Secret Flaw (Heresy) in some domains.
 
-**Counter-Inquisition:**&#x20;
+**••• Counter-Inquisition:**&#x20;
 
 You can smell True Faith on a human; if you need to test to do so, your pool is Resolve + your highest rating in Cainite Heresy. You might also oppose the Heresy, and instead use this gift to know who to trust.
 
-**Red Celebrant:**&#x20;
+**•••• Red Celebrant:**&#x20;
 
 You know the rituals and the specific dosages to induce the Red Pentecost in a human congregation: a kind of ecstatic religious version of the frenzy. During the Red Pentecost, humans act according to their worst natures. You can procure enough herbs and fungi for one ceremony per story; the Red Ceremony requires a Hunger check and may trigger frenzy in Kindred participants.
 
-**The One Named in Prophecy:**&#x20;
+**••••• The One Named in Prophecy:**&#x20;
 
 You are a linchpin of the Heresy’s plans: perhaps they consider you an avatar of Caine, you possess the only copy of the Testimony of St. Panteleimon, or your vitae is the only effective sacrifice to Ialdabaoth to propitiate or distract the Demiurge. Every informed member of the Heresy, and many who simply want to curry favor with the Anarchs, know your role. Once per story, you can use this fact to dictate the winner of a Social conflict if you can give a plausible reason for that outcome.
 
@@ -110,23 +110,23 @@ You are a linchpin of the Heresy’s plans: perhaps they consider you an avatar 
 
 <sup>_Without the shadow of the Pyramid, House Carna draws increasing numbers of Anarchs and disenfranchised Camarilla. Carna seeks no followers, but she recognizes them for their value. Carna didn’t survive 600 years by ignoring possible danger; she believes it’s only a matter of time before Tremere himself appears to curse her to ash. Until then, she pushes as hard as possible for a modernization and feminization of Clan Tremere._</sup>
 
-**Embrace the Vision:**&#x20;
+**• Embrace the Vision:**&#x20;
 
 You are fully committed to Carna’s vision for a new Tremere clan and find yourself possessed of a greater sense of self-belief in the presence of your fellow sub-faction Kindred. When around other members of House Carna, you have one additional die for all Willpower tests.
 
-**The Rebel Trail:**&#x20;
+**•• The Rebel Trail:**&#x20;
 
 You followed Carna’s trail after her initial breakage from Clan Tremere, soaking up the feelings of rebellion and freedom. You resolve to never be a Blood slave again. Whenever at risk of becoming Blood Bound, you may make a Willpower test (with a Difficulty equal to the Blood Potency of the ingested vitae) to ignore it.
 
-**Unorthodox Rituals:**&#x20;
+**••• Unorthodox Rituals:**&#x20;
 
 Carna gives of her sanity or her soul to fuel her magic, instead of divesting her vitae in Hermetic orthodoxy. Your understanding of her process enables you to perform rituals in the same way. You can perform one known ritual per story without the need to expend Blood, but on a messy critical, you also become deranged in some way (typically becoming intensely paranoid or fearful of blood) until the end of the story.
 
-**Reimagined Bond:**&#x20;
+**•••• Reimagined Bond:**&#x20;
 
 You have studied Carna’s magic and her unusual method of reimagining the vinculum, and you can extend the effects of her ritual to others. Having sex with a target, mortal or undead, creates a Blood Bond between the partner, yourself, and Carna, despite Carna’s absence. Repeated sexual encounters strengthen the Blood Bond, as per the normal Bond. You can thus circumvent the Tremere clan bane, but the Bond only lasts until the conclusion of the story.
 
-**Book of the Grave-War:**&#x20;
+**••••• Book of the Grave-War:**&#x20;
 
 According to rumor, the tome known as the Book of the Grave-War allowed Carna to break her Bond to Clan Tremere. You own a copy, granting you one automatic success on all Occult tests pertaining to Gehenna, its prevention, and breaking the shackles binding vampires to their elders. The book makes you unbondable for as long as you retain it and follow its arcane teachings. However, Tremere seek to destroy you and the book; the Storyteller can also penalize you one die on any Social or Mental test affected by your ongoing paranoia.
 
@@ -142,23 +142,23 @@ According to rumor, the tome known as the Book of the Grave-War allowed Carna to
 
 <sup>_Your relationship with the Circulatory System may be as a trafficker, a client, or even as a former mortal vessel turned vampire. You may detest the faction’s exploitative practices or see their potential and crave a taste of their operations._</sup>
 
-**Tap into the System:**&#x20;
+**• Tap into the System:**&#x20;
 
 Once per story, you can request specific blood vessels from the Circulatory System to convey certain abilities – or to provide for a Ventrue who finds their feeding preference neglected in the domain.
 
-**Little Black Book:**&#x20;
+**•• Little Black Book:**&#x20;
 
 You have come into the possession of one of the System’s little black books. These books contain records of blood experiments and theories on the power of select vessels’ blood. The Storyteller determines the book’s accuracy on specific matters; in general, it adds one die to Investigation, Alchemy, Medicine, or Science tests to track down or test a specific vintage. It also cuts the time to research a new two-dot or three-dot thin-blood Alchemy formula in half.
 
-**Farm Upstate:**&#x20;
+**••• Farm Upstate:**&#x20;
 
 You know where the System keeps a farm of valuable vessels: mortals with blood potent enough to convey benefits to Kindred drinkers. You can raid the farm, lease specific vessels at cost, or try to muscle your way in. These vessels are equivalent to four dots of Herd, but you can only feed from them once per week unless you overtly take over the farm.
 
-**Secure Transit:**&#x20;
+**•••• Secure Transit:**&#x20;
 
 The Circulatory System uses armored vans and armed ghoul drivers to transport vessels from A to B. These protected modes of transit are more than simple security vans; they bristle with weapons and sometimes contain incredibly valuable vessels destined for important buyers. You have access to one of these vans. Whether you’re riding up front as a legitimate driver or have successfully hijacked one of these vans, you may arrange secure travel for one or more Kindred with little effort.
 
-**Blood Sommelier:**&#x20;
+**••••• Blood Sommelier:**&#x20;
 
 You know the Circulatory System’s secret methods for taste, analysis, and refinement, and you can replicate them. Perhaps you own a blood laboratory, have an alchemist or blood sorcerer on call, or you just stay au courant on aficionado gossip. You can add two dice to any test to discover the Resonance of blood, and you can select three dots of Contacts, Allies, or Haven Merits to explain your knowledge. Once per story, you can ask the Storyteller the properties of the most valuable vessel’s blood.
 
@@ -172,23 +172,23 @@ You know the Circulatory System’s secret methods for taste, analysis, and refi
 
 <sup>_You can recite the names of vampires who attended, the iterations of the Traditions proposed at the convention, and even know some of the hidden proposals between clans that deigned not to join the Camarilla at that time. Knowledge of the Convention of Thorns can still be used to this night to apply pressure to Camarilla and Anarchs alike._</sup>
 
-**Thorns Historian:**&#x20;
+**• Thorns Historian:**&#x20;
 
 The Convention of Thorns was a complex, moving beast of diplomacy. Hundreds of small meetings took place between representatives of this clan or that, forging pacts that lasted years, decades, or centuries in some cases. You possess an encyclopedic knowledge of the convention’s minor meetings, and you can call on this knowledge to apply legal pressures on the participants or their descendants, where pacts may still be in force but not practiced or revoked without consent of all parties. Once per story, you can ask the Storyteller for a piece of known information regarding the convention.
 
-**Tradition Master:**&#x20;
+**•• Tradition Master:**&#x20;
 
 The six Traditions the Camarilla cling to tonight were first codified and agreed upon at the Convention of Thorns. Your knowledge of the convention extends to multiple apocryphal or proposed Traditions, some of which nearly passed. Once per chronicle, you can exercise fringe laws in domains where the ruling clans may still be sympathetic to the unaccepted Traditions of Thorns. Example pseudo-Traditions might include: Kindred in this domain are only permitted one Embrace; all law enforcement is forbidden as feeding stock; combat in Elysium is punishable by Final Death; diablerie is permitted against any Caitiff discovered in this domain; etc.
 
-**Convention Secrets:**&#x20;
+**••• Convention Secrets:**&#x20;
 
 The Ministry declined an invitation to join as the eighth pillar clan; the Lasombra rejected the Camarilla when it refused to acknowledge the existence of Antediluvians. You have uncovered still-more obscure secret proposals from the Convention: the Cappadocian petition to join, the Malkavians’ symbol draft, and more. You can drop enough hints to always take a one-die bonus to Social tests involving Kindred who were present at the convention. You also know a number of major secrets, each worth a Major Boon to some powerful Cainite. Once per story, you can ask the Storyteller for the name of a Kindred who needs your knowledge.
 
-**Prospective Justicar:**&#x20;
+**•••• Prospective Justicar:**&#x20;
 
 The Camarilla Justicars first received appointment during the Convention of Thorns. No matter your political allegiance, somehow you (or your sire, if you are far too young) have powerful support to become the next Justicar of your clan. If your clan is not one represented widely in the Camarilla, perhaps this appointment signals a sea change among the sect’s clans.
 
-**New Traditions:**&#x20;
+**••••• New Traditions:**&#x20;
 
 Your knowledge of the Convention of Thorns is such that you can compile enough evidence and support to propose a new Tradition, or an amendment to an existing one, to the Camarilla’s Inner Circle. This Tradition may be accepted if it sounds sensible and helps the increasingly strict Camarilla in the world tonight, or it may mark you as a firebrand and danger to the sect. Importantly, your voice will be heard without prior judgment.
 
@@ -202,23 +202,23 @@ Your knowledge of the Convention of Thorns is such that you can compile enough e
 
 <sup>_Your knowledge of the Inquisition is such that you may have capacity to manipulate the Second Inquisition of tonight, though their methods and some beliefs have changed. You know how best to evade the group and how to turn them against your foes. Such actions do not come without risk, just as your ancestors who attempted the same feat discovered._</sup>
 
-**Mistakes of the Past:**&#x20;
+**• Mistakes of the Past:**&#x20;
 
 You know Kindred history and can cite chapter and verse of the domains and Princes the Inquisition destroyed in its original incarnation. You can educate any vampire on the Inquisition’s historic dangers. Once per story, you can ask the Storyteller for one piece of information regarding the original Inquisition.
 
-**Names of the Guilty:**&#x20;
+**•• Names of the Guilty:**&#x20;
 
 Your knowledge of vampire and Inquisition relations extends to include Kindred manipulators. Though most are dead by these nights, many of their descendants survive, and they are at risk of blackmail for their sires’ treacheries. Once per story, you can ask the Storyteller for the name of one descendant of these traitors in your domain, if there is one.
 
-**The Sect of St. James:**&#x20;
+**••• The Sect of St. James:**&#x20;
 
 You have contacts who consider themselves “old Inquisitors.” The Sectus Sancti Iacomi harbors a deep resentment for their fancy modern counterparts, acting with greater fanaticism and suicidal zeal than the more controlled Second Inquisition. Their abbé is a four-dot Contact, whom you can contact once per story.
 
-**The Second Act:**&#x20;
+**•••• The Second Act:**&#x20;
 
 You have a Contact within the Second Inquisition or the local Catholic archdiocese: a file clerk, scout hunter, exorcist, armorer, etc. You have no power over them, but you know how to pump them for information – or prime them with disinformation – if need be.
 
-**Black Spot:**&#x20;
+**••••• Black Spot:**&#x20;
 
 You have identified a location within your domain that the Second Inquisition fears to tread. Once per story, if you or anyone targeted by the Second Inquisition hides out at this location, the hunters call off the search. This anomaly seems to be a blessing, but it does throw up the question: What is so holy or unholy about this place that it deters the greatest threat to Kindred tonight?
 
@@ -234,23 +234,23 @@ You have identified a location within your domain that the Second Inquisition fe
 
 <sup>_You may be a disciple of Golconda, a follower of Saulot’s words, or a Kindred who wishes to remove the misleading veil of Golconda from other vampires’ eyes. An elusive vampire named the Master of Ravens seeks to quash the myth of Golconda once and for all, and you may serve him in this task._</sup>
 
-**Seeds of Golconda:**&#x20;
+**• Seeds of Golconda:**&#x20;
 
 You have heard of Golconda and can educate others on its nature without seeming like a total amateur. Once per story, you can ask the Storyteller for guidance before taking an action, and they will tell you if that action will jeopardize the chance of pursuing Golconda.
 
-**The One True Way:**&#x20;
+**•• The One True Way:**&#x20;
 
 You own a copy of the Master of Ravens-penned “One True Way:” a treatise on the supposed realities of Golconda. This piece of work tells you that Golconda is a method to become an apex predator, rather than a spiritually redeemed monster. Once per story, this pamphlet gives you three extra dice in any Social test involving the nature of Golconda.
 
-**Saulot’s Disciple:**&#x20;
+**••• Saulot’s Disciple:**&#x20;
 
 You cling to the ideals of Saulot: the vampire who traveled to Asia and returned bearing a third eye and the enlightenment of Golconda. You believe in Saulot’s teachings that Golconda is the ultimate way in which a Kindred can overcome their curse. You practice a dual existence, allowing your Beast and Hunger off the reins occasionally, so you can achieve serenity at other times. Whenever you willingly succumb to frenzy, make a note; you can automatically succeed on your next frenzy test.
 
-**Satisfy the Hunger:**&#x20;
+**•••• Satisfy the Hunger:**&#x20;
 
 You do not need to feed as often as other vampires. Your Golconda focus is to suppress your constant Hunger, potentially at the expense of other Traits. Your temperance acts as an inspiration to many other vampires. Once per session, you may lower your Hunger by one (but not below one) without feeding.
 
-**Greet the Sun:**&#x20;
+**••••• Greet the Sun:**&#x20;
 
 You know Golconda’s secrets. You may be incapable of walking the path forever, but for as long as you do, you can brave full daylight without suffering harm. However, the night after you walk in sunlight, you wake in a Hunger frenzy. You can do this once per story.
 
@@ -266,23 +266,23 @@ You know Golconda’s secrets. You may be incapable of walking the path forever,
 
 <sup>_Though more defensive than offensive, the Camarilla reclaimed several domains across the American South, but pockets of Sabbat control remain in a few major cities to this night. Every vampire participant has a story to tell of their involvement and the horrors they survived._</sup>
 
-Survivor:&#x20;
+**• Survivor:**&#x20;
 
 Your domain, or the domain of a vampire close to you, was scourged during the sect war. You can recount how the Sabbat and Camarilla strategized, how they warred in the city without alerting mortals, and the names of the fallen vampires caught in the middle. Once per story, you can ask the Storyteller for a piece of information relating to the sect war in your domain.
 
-Active Participant:&#x20;
+**•• Active Participant:**&#x20;
 
 No matter the sect, the war pulled in many vampires. Even independents served as mercenaries or suppliers for one or both sides. You have the scars to show for your participation. Your own sect may regard you as a war hero; the other as a war criminal. Take three dots of Status or Mawla to reflect your position or that of one of your comrades.
 
-Trophy Kill:&#x20;
+**••• Trophy Kill:**&#x20;
 
 Many notable vampires fell in the sect war, and to the Archons and Templars participating in the war, taking down a “name” on either side became a matter of competitive pride. Whether by luck or design, you are responsible for one such vampire’s death. You may wear this badge with pride or stifle the rumors, but either way, the vitae coats your hands. Once per story, you can use this legend to bypass a contest where it might assist, just as the Storyteller can always use it to send enemies after your head.
 
-No Vampire’s Land:&#x20;
+**•••• No Vampire’s Land:**&#x20;
 
 Kindred hit-teams on either side of the sect war ranged from domain to domain and then back across old ground as the defenders rallied. This Great War-style push-and-pull of conflict led to some vampires obsessing over domains and their hidden sanctuaries, armories, tunnel networks, and side streets. You know all the best spots in your domain and two adjacent domains for launching an ambush, hiding from attackers, restocking a militia, or making contact with mercenaries. Add two dots to your Domain’s Portillon, and add two dice to relevant Streetwise, Larceny, and Stealth pools in two neighboring domains.
 
-Sect Agitator:&#x20;
+**••••• Sect Agitator:**&#x20;
 
 Some vampires exist only to cause bloodshed, and you count yourself among that number. Individuals such as Lucinda of the Camarilla and Francisco Domingo de Polonia of the Sabbat spoiled for war and were left hollow when it concluded. You know all the trigger points and the correct fuse to light in order to spark a new sect war. It may be localized to a single domain at first, but once the flames start, you can fan them to extend. Add two dice to all your pools for Social tests to inflame sectarian tension.
 
@@ -298,23 +298,23 @@ Some vampires exist only to cause bloodshed, and you count yourself among that n
 
 <sup>_Some still cling to the dream and hope for the Trinity’s resurrection in some form. You may still believe the Dracon can be brought back to his former enlightenment or that one of the new trinities of Constantinople or Istanbul hold the key to the domain’s growth and revitalization. Conversely, perhaps you study the disciples of the Trinity with wary eyes, preparing to take down a colossal threat to all Traditions._</sup>
 
-**Constantinople:**&#x20;
+**• Constantinople:**&#x20;
 
 Outside the Ashirra, vampire tradition refers to Istanbul as “Constantinople.” You are one of the few who know why. Constantinople represented everything possible in a city where vampires shared ideas and discussed philosophy without falling to carnage. Once per story, you can ask the Storyteller a question about Constantinople’s past and be given an accurate answer.
 
-**Antonius’ Architecture:**&#x20;
+**•• Antonius’ Architecture:**&#x20;
 
 Renowned for his architectural skills, both political and physical, the Ventrue Antonius built the structure that held Constantinople together. To some, he fathered the Primogen ideal. You study Antonius’ methods; you can add two dice to any Politics dice pool when making a test involving domain government. Once per story, you can mediate and calm any court debate, quashing violence with action or profundity.
 
-**The Dream:**&#x20;
+**••• The Dream:**&#x20;
 
 For a millennium, the Trinity practiced Michael’s Dream: a vision of vampire utopia. Michael encouraged all vampires in Constantinople to learn and seek enlightenment, grow distant from the Beast, and become something beyond mere predators. You are a modern exponent of the dream, recognized as a Speaker of the Dream in your city. You can add one die to any Insight dice pool when testing to gauge another’s Beast. You inspire and calm souls; once per story, you can spend a Willpower point to allow another vampire to re-roll up to three dice when resisting frenzy.
 
-**The Dracon:**&#x20;
+**•••• The Dracon:**&#x20;
 
 Of the Trinity, only the Tzimisce known as the Dracon survived Constantinople’s fall. Passionate and wise, the lover of both Antonius and Michael, and spiritual guide for the Trinity, the grieving Dracon fell silent for many centuries following Antonius’ murder. Rumors whisper that the Dracon reemerges now, with unclear intent. You count yourself as one of his disciples, and likely know how to find him. He counts as a five-dot Mawla, assisting with spiritual and Discipline matters.
 
-**The New Trinity:**&#x20;
+**••••• The New Trinity:**&#x20;
 
 One night, Michael’s Constantinople will be reborn, and you shall assist at the birth. You know this not from fragile ego, but from certain prophecy. You, along with two others who complement your skills without mirroring them, will rebuild Constantinople in a new city – no matter what you must do. If you earned them on the path to bringing about the New Trinity, you can remove up to five Stains per story before making a Remorse test (p. 239).
 
@@ -330,23 +330,23 @@ One night, Michael’s Constantinople will be reborn, and you shall assist at th
 
 <sup>_Only the Malkavians closest to the Voermans know that Therese and Jeanette are one vampire: two distinct personalities sharing the same body. Some say she bore this condition as a mortal, while others claim there were two sisters, but one killed the other. Other rumors whisper about another sister, who acts as an imprisoned thrall to the Malkavian. Highly volatile, the Voermans prove that Malkavians can be as inspired and prosperous as any Toreador or Ventrue, but many Anarchs anticipate the moment that Therese and Jeanette go to war with each other._</sup>
 
-**Asylum Membership:**&#x20;
+**• Asylum Membership:**&#x20;
 
 You never need to wait in a queue for entry to the Asylum, you always have one of the best seats in the house, and as long as you don’t fuck up, you may hunt there once or twice per session (Difficulty 2) without any ruffled feathers.
 
-**Performing Monkey:**&#x20;
+**•• Performing Monkey:**&#x20;
 
 Jeanette and Therese know you as a reliable asset, and they frequently subject you to missions ranging from serious investigations to flights of insane fancy. Although dangerous, they are generous, and they repay any boons incurred.
 
-**Jeanette’s Favorite:**&#x20;
+**••• Jeanette’s Favorite:**&#x20;
 
 Jeanette Voerman, the wild child of the Voerman family, adores you, pets you, and flirts with you. Though she arguably is the less stable of the sisters, she’s also the more generous one. You may stay in the day chamber of any Asylum club if you require (if Jeanette is there, she insists you do), use the club to host your own parties, and ask for favors small and large from the Anarch Baron. Jeanette counts as a four-dot Mawla, but only for the purposes of Malkavian and Anarch dealings.
 
-**Therese’s Favorite:**&#x20;
+**•••• Therese’s Favorite:**&#x20;
 
 Therese Voerman, the upright, strict member of the Voerman family, respects and values you. Her business-oriented mind does not allow her to expend the Asylum’s resources on your luxury, but she speaks up for you in any regnum where an Asylum is present, and can school you in business and finance if you require it. She counts as a three-dot Mawla.
 
-**Asylum Operator:**&#x20;
+**••••• Asylum Operator:**&#x20;
 
 Jeanette or Therese permit you to franchise an Asylum club in your domain. As long as the club remains open, you have four dots to spend on Haven, Herd, Resources, or the Chasse of your Domain; depending on your club’s focus, which may be changed over time. Whether the club is an Elysium is up to you.
 
@@ -360,23 +360,23 @@ Jeanette or Therese permit you to franchise an Asylum club in your domain. As lo
 
 <sup>_You witnessed the mania of the Week of Nightmares and survived it, manipulated the chaos to your own advantage, or you studied the actions of those who did. Now you watch for signs of dooms to come._</sup>
 
-**Oral History:**&#x20;
+**• Oral History:**&#x20;
 
 You have heard and told the tale of the Week of Nightmares countless times, and you know exactly what to embellish and which parts to conceal. Your telling of the tale is popular in Elysia, where you are sometimes invited to speak as historian and entertainer. Important Kindred from all over come to hear your retelling. Add three dice to Performance dice pools to tests to tell the story.
 
-**Ravnos Remains:**&#x20;
+**•• Ravnos Remains:**&#x20;
 
 Prior to the Week of Nightmares, the Ravnos were a clan – now, they are little more than a bloodline. You know some Ravnos remnants and perhaps share their grudge against the Gangrel who left them to annihilation. You have three dots of Mawla representing this group of contacts. They carry news and warnings to you, and can perhaps be convinced to cast mighty illusions once per chronicle, but association with them is frowned upon, if discovered.
 
-**I Was There:**&#x20;
+**••• I Was There:**&#x20;
 
 You didn’t just hear about it, you were on the front line. Your reputation as a survivor and on-the-spot veteran of the Week of Nightmares grants you Status among Kindred historians, occultists, Ravnos, and Gehenna cultists alike. Once per story, you can use this Status to earn a minor boon from one of those groups or from a prominent courtier in the domain with a sudden interest.
 
-**The Red Star:**&#x20;
+**•••• The Red Star:**&#x20;
 
 Anthelios (NASA designation 28978 IXION), called Wormwood, harbinger of Gehenna, still glows in the sky – to your eyes, at least. You believe it looks back at you, changing you somehow. Once per story, you can either reduce your Hunger to a rating of two or gain a die to the pools of one Discipline for a night by staring at the star for 10 minutes.
 
-**Blood of Zapathasura:**
+**••••• Blood of Zapathasura:**
 
 The Ravnos Antediluvian met Final Death in July 1999 at the hands of parties unknown, armed with advanced weaponry and the power of the sun. Before he died, he drained vitae from all his clan, driving them to frenzy and cannibalism in his death throes. Thick, sentient ropes of his vitae stained the ground in Bangladesh where he fell. The noonday sun did not destroy it all. You own a small vial containing the Blood of the Ravnos Antediluvian. What you do with this vitae is up to you, and what it does to anyone who imbibes it is up to the Storyteller.
 
@@ -392,23 +392,23 @@ The Ravnos Antediluvian met Final Death in July 1999 at the hands of parties unk
 
 <sup>_Fast becoming the animale du jour, Rudi wins fellow discontented Kindred over with his targeted approach against elitists and Camarilla hardliners. Some European Princes fear he will lead a crusade in years to come, in an attempt to level the establishment._</sup>
 
-Newfound Rights:&#x20;
+**• Newfound Rights:**&#x20;
 
 Flush with the success of the Gangrel clan’s independence from the Camarilla, like Rudi, you find this freedom energizing. Once per story, when striking out against or decrying the establishment, you can re-roll any one Skill test dice pool.
 
-Them and Theirs:&#x20;
+**•• Them and Theirs:**&#x20;
 
 When supporting the disenfranchised or persecuted, you are the resolute champion. Perhaps you believe vampires can only persist successfully when supporting each other, or you believe a pack is only as strong as its weakest member, but at great self-sacrifice, you defend others. When a Touchstone of any member of your coterie comes under threat, your ears prick up and your hair stands on end.
 
-Gangrel Advocate:&#x20;
+**••• Gangrel Advocate:**&#x20;
 
 As Rudi does in Northern Europe, many believe that you stand for Gangrel rights in your local domains, for good or ill. Gangrel react well to you; add one die to Social tests involving them. Although this reputation means that you speak for many, it also means that some hold you responsible for the actions of many. You can organize convocations and discreet truce meetings between Gangrel and Camarilla representatives with a successful Charisma + Politics test (Difficulty set by the Storyteller).
 
-The Bear Pack:&#x20;
+**•••• The Bear Pack:**&#x20;
 
 You are, or were, a member of the Bear Pack: hardcore Rudista Kindred who double as howling orators and fierce combatants. (Consider your fellow Bear Pack a three-dot Mawla group that actually likes getting in fights.) Once per story, these modern revolutionaries, including yourself, gain one automatic success whenever attempting to rouse Anarchs and disenfranchised mortals against the establishment. Members of the Bear Pack are feared throughout Camarilla domains, which might be both bane and boon, depending on who you talk to, and if they recognize you.
 
-Rudi’s Army:&#x20;
+**••••• Rudi’s Army:**&#x20;
 
 Rudi’s Army comprises outsiders of all clans, all mortal colors, and creeds. You hold sway over an arm of this “paramilitary” force. You can call them to act against mortal or immortal governments in many ways, from staging peaceful protests outside a governor’s home to organizing rallies against the leaders of oppressive groups. Large, unwieldy, and potentially dangerous, your brigade of the army gives you six dots to split among Allies, Influence, and Contacts, that can be directed – but never controlled.
 
@@ -424,23 +424,23 @@ Rudi’s Army comprises outsiders of all clans, all mortal colors, and creeds. Y
 
 <sup>_As a High Clan vampire, your clan bane is, to your mind, less a curse than a blessing._</sup>
 
-Peacock:&#x20;
+**• Peacock:**&#x20;
 
 You are proud of your clan’s status as High, and you carry yourself with all the pomp and circumstance befitting a vampire of noble station. Once per session, you may re-roll a single die when attempting to command deference from one non-titled vampire in your domain.
 
-Sway the Low:&#x20;
+**•• Sway the Low:**&#x20;
 
 The High Clans once sat upon thrones, ordering Low Clan vampires to die for them on battlefields and to subjugate themselves in court. You still possess the ability to persuade vampires of Low Clans more easily than you do the vampires of High Clans. You have bullied the equivalent of three dots of Mawla into a loyal, abused retinue of Low Clan vampires. You gain three extra dice to pools using Intimidation or Leadership against those Kindred; if you ever roll a total failure on such a test or contest, you need to compensate them, or they turn on you.
 
-Elevate the Low:&#x20;
+**••• Elevate the Low:**&#x20;
 
 Some quirk of your bloodline or an ancient Princely decree allows you to proclaim the ascendancy of one Low Clan in your city to High Clan status. You can do this once per chronicle, but of course, you can promise to do it “eventually” for quite a while first. Until then, add one die to Social tests against Low Clan Kindred when you allude to this possibility.
 
-Embraced to Rule:&#x20;
+**•••• Embraced to Rule:**&#x20;
 
 Vampires of the High Clans often opted to Embrace mortals of noble birth or powerful ancestry. Your ancestors may not be kings and queens, but you were Embraced to rule. Add one die to pools for Leadership tests involving High Clan vampires who know your lineage. Once per story, other vampires of the High Clans defer to voting for you, or they allow you to take high responsibility (and power), unless you have created a personal grievance between you.
 
-Blessed, not Cursed:
+**••••• Blessed, not Cursed:**
 
 Like many vampires of the High Clans, you have convinced yourself that you bear no Curse of Caine. Rather, your clan weakness is a blessing that reveals more to you about your nature, your position on God’s Earth, and the areas in life you must strengthen. Once per session, you may spend one Willpower to ignore the burdens of your clan bane.
 
@@ -456,23 +456,23 @@ Like many vampires of the High Clans, you have convinced yourself that you bear 
 
 <sup>_Your status as a Low Clan Kindred marks you as less than your peers, but you are still a prominent source of rebellion and counter-culture. You have access to the bottom rungs of society, and all the benefits and drawbacks that come with it._</sup>
 
-**Thick Hide:**&#x20;
+**• Thick Hide:**&#x20;
 
 Often denigrated by those who name themselves “High,” your ambition and independence do not falter with belittling words and snubs. You do not respond easily to base provocations. Once per story, you can shrug off verbal barbs for a scene without needing to make a test.
 
-**Cursed with Pride:**&#x20;
+**•• Cursed with Pride:**&#x20;
 
 In some cases, the Low Clans take great pride in the severity of their banes. For example, some Nosferatu believe their hideous appearances are a mark of glorious monstrosity, instead of something to be hidden. You have learned to use your clan bane as a weapon, gaining an automatic success on one roll per story when incorporating your bane into an action.
 
-**Uncanny Kinship:**&#x20;
+**••• Uncanny Kinship:**&#x20;
 
 Due to persistent persecution from the High Clans, vampires of Low Clans feel inclined to stick together. You often mediate between Low Clan disputants, and you see the merit of the underworld’s Kindred banding together against the hegemony of the High. You can select three dots from among Mawla or Status from other Low Clans in the domain.
 
-**Trade Among Equals:**
+**•••• Trade Among Equals:**
 
 For all their suffering, the Low Clans benefited from their adversity in one key way – they taught each other their powers. This collaboration may not be true in all domains, but this old tale still holds in yours. You may select one Low Clan’s Discipline and buy dots of that Discipline, using experience points as if it was in-clan for you.
 
-**Criticality Incident:**
+**••••• Criticality Incident:**
 
 Your influence among Low Clan vampires can let you tip the scales of power in your domain – if you choose. Add one die to all your pools for Projects undermining High Clans in your domain. Once per chronicle, you can sacrifice up to 10 of your own Background dots to bring down the same number of High Clan Kindred in a coup.
 
@@ -486,23 +486,23 @@ Your influence among Low Clan vampires can let you tip the scales of power in yo
 
 <sup>_Ambrus has a reputation as a vampire on the cutting edge of technology and culture. Embraced in his late teens, Ambrus is, at heart, an introverted fan of anime, gaming, and online roleplaying, with an elaborate online persona. Ambrus uses this persona to sell software and information he hacks; advise on the best security methods stolen from governments and corporations for Kindred to utilize; inform Elysia about emerging musicians, entertainers, and trends; and make himself an invaluable resource to Camarilla and Anarchs who want to appear more human than human._</sup>
 
-**True Believer:**&#x20;
+**• True Believer:**&#x20;
 
 If Ambrus has taught you anything, it’s that the Camarilla is right and the Masquerade is essential. You follow his edicts on security and subterfuge religiously, granting you knowledge of the best shared Kindred hiding places in a city, providing a one-die bonus to tests to find such a place. You may not have access to this bonus if the domain is typically opposed to your political or philosophical view.
 
-**Clandestine Information:**&#x20;
+**•• Clandestine Information:**&#x20;
 
 You can use a digital dead drop to request a hack from Ambrus’ fan community. Once per story, you can get one piece of information stored online about most mortals within two to 20 hours.
 
-**Taught by the Best:**&#x20;
+**••• Taught by the Best:**&#x20;
 
 As one of Ambrus’ disciples, you are provided with a ready supply of intel on topics from Second Inquisition operations to the fashion in Harajuku tomorrow night. Ambrus can also time-lock information in the Dark Web or set you up with your own Ukrainian hacker at “friend prices.” Consider Ambrus a three-dot Mawla ( ).
 
-**Back Door Panopticon:**&#x20;
+**•••• Back Door Panopticon:**&#x20;
 
 Ambrus hooked you up with a back door into PRISM/NUCLEON surveillance software, tracking and sorting online communications (including cell phone calls) for keywords and names. Or perhaps you stole it from him or found it on a machine in a safe house an Ambrusite abandoned in a hurry. Either way, you can only log in once per story for security’s sake, but it gets you two automatic successes on any Investigation test involving anyone’s cell activity or online presence.
 
-**On Another Grid Entirely:**&#x20;
+**••••• On Another Grid Entirely:**&#x20;
 
 Ambrus went all out with your false identity. You have two two-dot Mask ( ) cover identities and have been Zeroed (p. 192). You get three extra dice to resist attempts to research you online or uncover your activities in the mortal world.
 
