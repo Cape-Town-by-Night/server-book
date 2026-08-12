@@ -36,7 +36,7 @@ Bahari consider fertility and sex sources of strength, with some factions placin
 
 **••••• First-Cursed:**&#x20;
 
-Lilith’s worshipers maintain that she was the first living being cursed by God, before Adam, Eve, or Caine. The Bahari strive to emu- late Lilith’s lesser curse, and in so doing find their Cainite weaknesses lessened. You retain your clan bane, but you can now walk in the first hour of daylight and final hour of dusk; you can also engage in intercourse without Rousing the Blood. However, you radiate danger: the equivalent of the Obvious Predator ( ) Flaw. All Social tests to ostracize or slander you have their Difficulty reduced by one. Finally, any vampire assessing you with Auspex immediately suffers migraine-like headaches; their Resolve and Willpower drop by half your Resolve (rounded up) for one scene.
+Lilith’s worshipers maintain that she was the first living being cursed by God, before Adam, Eve, or Caine. The Bahari strive to emulate Lilith’s lesser curse, and in so doing find their Cainite weaknesses lessened. You retain your clan bane, but you can now walk in the first hour of daylight and final hour of dusk; you can also engage in intercourse without Rousing the Blood. However, you radiate danger: the equivalent of the Obvious Predator ( ) Flaw. All Social tests to ostracize or slander you have their Difficulty reduced by one. Finally, any vampire assessing you with Auspex immediately suffers migraine-like headaches; their Resolve and Willpower drop by half your Resolve (rounded up) for one scene.
 
 </details>
 
