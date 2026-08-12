@@ -1,8 +1,8 @@
 # Bloodlines
 
-Below is a list of all Bloodline Loresheets, sorted by book. Each entry has their availability and any changes listed. "Banned" Loresheets are not allowed while "locked" Loresheets will require justification, either on character creation or in play. Any mentions of active canon characters and locations will be changed to be something more fitting to the setting.
+Below is a list of all Bloodline Loresheets, sorted by book. Each entry has their availability and any changes listed. The Loresheet names are also color coded from most- to least- restrictive; if any Lores in the Loresheet are banned, the title will be <mark style="color:red;">red</mark>. If a Lore needs to be re-contextualized to fit the setting, it will be <mark style="color:orange;">orange</mark>. Should any need to be earned in play, the title will be <mark style="color:yellow;">yellow</mark>. A Loresheet title in <mark style="color:green;">green</mark> means that every Lore is completely available at character creation.
 
-To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](/broken/pages/KZDtssoyWbOfqYz9HWiC).
+For regular Loresheets, see [<mark style="color:red;">Loresheets</mark>](https://wiki.capetownvtm.com/material-availability/loresheets).
 
 
 
