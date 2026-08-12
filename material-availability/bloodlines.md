@@ -6,19 +6,20 @@ To see all other Loresheets, go to [<mark style="color:red;">Loresheets</mark>](
 
 
 
-| Book                                                                                                                                            | Page Number |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [<mark style="color:red;">Core</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#core)                                      | pp. 390-406 |
-| [<mark style="color:red;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#chicago-by-night)              | pp.273-274  |
-| [<mark style="color:blue;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#the-chicago-folios)         | p.160       |
-| [<mark style="color:blue;">Cults of the Blood Gods</mark>](bloodlines.md#cults-of-the-blood-gods)                                               | p.226       |
-| [<mark style="color:blue;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#children-of-the-blood)   | pp.101-102  |
-| [<mark style="color:blue;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#trails-of-ash-and-bone) | pp.171      |
-| [<mark style="color:purple;">Players Guide</mark>](bloodlines.md#players-guide)                                                                 | pp.223-229  |
-| [<mark style="color:purple;">Blood Sigils</mark>](bloodlines.md#blood-sigils)                                                                   | p.177       |
-| [<mark style="color:purple;">In Memoriam</mark>](bloodlines.md#in-memoriam)                                                                     | pp.149-153  |
-| [<mark style="color:purple;">Tattered Facade</mark>](bloodlines.md#tattered-facade)                                                             |             |
-| [<mark style="color:purple;">Live From the Succubus Club</mark>](bloodlines.md#live-from-the-succubus-club)                                     | pp.158-161  |
+| Book                                                                                                                                              | Page Number |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [<mark style="color:purple;">Core</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#core)                                     | pp. 390-406 |
+| [<mark style="color:purple;">Anarch</mark>](bloodlines.md#anarch)                                                                                 |             |
+| [<mark style="color:purple;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#chicago-by-night)             | pp.273-274  |
+| [<mark style="color:purple;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#the-chicago-folios)         | p.160       |
+| [<mark style="color:purple;">Cults of the Blood Gods</mark>](bloodlines.md#cults-of-the-blood-gods)                                               | p.226       |
+| [<mark style="color:purple;">Children of the Blood</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#children-of-the-blood)   | pp.101-102  |
+| [<mark style="color:purple;">Trails of Ash and Bone</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#trails-of-ash-and-bone) | pp.171      |
+| [<mark style="color:purple;">Players Guide</mark>](bloodlines.md#players-guide)                                                                   | pp.223-229  |
+| [<mark style="color:purple;">Blood Sigils</mark>](bloodlines.md#blood-sigils)                                                                     | p.177       |
+| [<mark style="color:purple;">In Memoriam</mark>](bloodlines.md#in-memoriam)                                                                       | pp.149-153  |
+| [<mark style="color:purple;">Tattered Facade</mark>](bloodlines.md#tattered-facade)                                                               |             |
+| [<mark style="color:purple;">Live From the Succubus Club</mark>](bloodlines.md#live-from-the-succubus-club)                                       | pp.158-161  |
 
 ## Core
 
