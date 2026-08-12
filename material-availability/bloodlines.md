@@ -9,7 +9,7 @@ For regular Loresheets, see [<mark style="color:red;">Loresheets</mark>](https:/
 | Book                                                                                                                                              | Page Number |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | [<mark style="color:purple;">Core</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#core)                                     | pp. 390-406 |
-| [<mark style="color:purple;">Anarch</mark>](bloodlines.md#anarch)                                                                                 |             |
+| [<mark style="color:purple;">Anarch</mark>](bloodlines.md#anarch)                                                                                 | pp.194-195  |
 | [<mark style="color:purple;">Chicago by Night</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#chicago-by-night)             | pp.273-274  |
 | [<mark style="color:purple;">The Chicago Folios</mark>](https://wiki.capetownvtm.com/material-availability/bloodlines#the-chicago-folios)         | p.160       |
 | [<mark style="color:purple;">Cults of the Blood Gods</mark>](bloodlines.md#cults-of-the-blood-gods)                                               | p.226       |
