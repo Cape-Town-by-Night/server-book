@@ -237,7 +237,7 @@ This Background is capped at 2 dots at character creation.
 
 This Background is capped at 2 dots at character creation. It's important to understand that wealth availability is much different here compared to other countries. We've included a chart below to give you an idea of how much expendable income each level has per year.
 
-<table data-header-hidden><thead><tr><th width="193" align="center"></th><th align="center"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">1 Dot</td><td align="center">2,500 USD</td><td>1 Dot</td></tr><tr><td align="center">2 Dots</td><td align="center">12,000 USD</td><td>2 Dots</td></tr><tr><td align="center">3 Dots</td><td align="center">20,000 USD</td><td>3 Dots</td></tr><tr><td align="center">4 Dots</td><td align="center">60,000 USD</td><td>4 Dots</td></tr><tr><td align="center">5 Dots</td><td align="center">140,000 USD</td><td>5 Dots</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="193" align="center"></th><th align="center"></th><th data-hidden></th></tr></thead><tbody><tr><td align="center">Destitute</td><td align="center">0 USD</td><td></td></tr><tr><td align="center">0 Dots</td><td align="center">2,500 USD</td><td></td></tr><tr><td align="center">1 Dot</td><td align="center">7,250 USD</td><td>1 Dot</td></tr><tr><td align="center">2 Dots</td><td align="center">12,000 USD</td><td>2 Dots</td></tr><tr><td align="center">3 Dots</td><td align="center">20,000 USD</td><td>3 Dots</td></tr><tr><td align="center">4 Dots</td><td align="center">60,000 USD</td><td>4 Dots</td></tr><tr><td align="center">5 Dots</td><td align="center">140,000 USD</td><td>5 Dots</td></tr></tbody></table>
 
 ### Status
 
