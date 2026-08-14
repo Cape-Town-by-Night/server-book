@@ -420,7 +420,7 @@ _**Calcinatio:**_ If the vessel survives the tap, the alchemist can tap them aga
 
 **Activation Cost:** One Rouse Check
 
-**System:** The victim makes a Contested Stamina + Resolve roll vs the Alchemist’s Resolve + Alchemy (7 dice). If the victim wins, the serum has no effect. For every success the Alchemist wins by, the victim loses 2 dice from all physical dice pools.
+**System:** The victim makes a Contested Stamina + Resolve roll vs the Alchemist’s Resolve + Alchemy. If the victim wins, the serum has no effect. For every success the Alchemist wins by, the victim loses 2 dice from all physical dice pools.
 
 **Duration:** One scene
 

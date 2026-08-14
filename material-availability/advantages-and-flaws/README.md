@@ -2,6 +2,76 @@
 
 ## Allowed Merits
 
+#### Blood Ties
+
+<details>
+
+<summary><mark style="color:red;"><strong>Consanguineous Influence ••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
+
+Some find the powers of their Blood are more effective on those of the same bloodline. When you use a mental Discipline against a member of your own clan or a direct ancestor or descendant, you gain one bonus die to do so, or 2 bonus dice if the character is only one or two generations removed from you (e.g. your grandsire or grandchilde or closer).
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Consanguineous Sense ••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
+
+Your Blood calls out to your close relations, whether ancestors or descendants. You instinctively recognize those in your direct bloodline when you get within a few paces from them. A Resolve + Awareness test at Difficulty 3 lets you determine if a Kindred within about 3 meters of you shares your bloodline. You only learn that they share your bloodline, not the exact distance from your in terms of Generation.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Sins of the Fathers ••-•••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
+
+After committing diablerie upon a direct descendant — or ancestor — you do not show any telltale signs of the crime. Powers such as Scry the Soul or A Taste for Blood do not detect your crime. As a three-dot Merit, this works when committing diablerie upon any member of your own clan. Caitiff and Duskborn cannot take this as a three-dot merit.
+
+</details>
+
+#### Bonding
+
+<details>
+
+<summary><mark style="color:green;"><strong>Bond Resistance •-•••</strong></mark> <mark style="color:green;"><strong>(Core p.181)</strong></mark></summary>
+
+Your Blood rebels against control. Add one die to your dice pools to resist a Blood Bond per level you take of this Merit (maximum three).
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Bonds of Fealty •••</strong></mark> <mark style="color:purple;"><strong>(Gehenna War p.44)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Dominate</mark>](https://wiki.capetownvtm.com/material-availability/powers#dominate)
+
+Your powers of Dominate do not require a target’s eye contact so long as the target is blood bound to you. You still need to be able to communicate your instructions to them, though you do not need to be physically present.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Enduring Bond •</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
+
+Your bonds last longer than those of other Kindred. Complete and partial blood bonds only weaken every other month, not every month.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Short Bond ••</strong></mark> <mark style="color:green;"><strong>(Core p.181)</strong></mark></summary>
+
+Blood Bonds on you lose their Bond strength more rapidly than normal, decreasing at both the full moon and new moon (i.e., by two each month) if not reinforced.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Unbondable •••••</strong></mark> <mark style="color:green;"><strong>(Core p.181)</strong></mark></summary>
+
+You cannot be Blood Bound. If you’re ever short of cash, you can probably sell your vitae to alchemists, too.
+
+</details>
+
 #### Cultists
 
 <details>
@@ -14,57 +84,31 @@ You possess the writings of one of your church’s founders or prominent figures
 
 <details>
 
-<summary><mark style="color:red;"><strong>Inspired Artist ••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.95)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Archangel's Grace •••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
 
-You channel your divine fervor into art. You’re a painter, a singer, a poet, a sculptor, and your creations inspire all who experience it. Any artwork you craft consisting of your cult’s symbology or channeling its message has an entrancing effect, with onlookers being at a 1-die penalty to resist Social rolls from cult members while in its presence.
+**Prerequisite:** Must be Nephilim
 
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Traveling Preacher ••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.96)</strong></mark></summary>
-
-You spread your cult’s message wherever you go, despite the risks Kindred take when they travel. You’ve mapped out safe routes, established good places to go to ground along the way, and learned where surveillance systems falter. When traveling along established routes, reduce the Difficulty on rolls to avoid the Second Inquisition’s or Hunters’ notice by 1.
+You’ve invested considerable time in dance studios, gymnasiums, and dojos owned by fellow Nephilim. The training makes your movements lithe and assured, every gesture an art form in itself. You may use your Performance Skill in place of your Athletics Skill, or vice versa, when engaged in what for mortals would be a cardio-heavy physical exertion such as fighting, fleeing, or dancing.
 
 </details>
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Streamer ••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.96)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Bargainer •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
 
-**Prerequisite:** Must be an Ashfinder
+**Prerequisite:** Must be a Cult of Mithras adherent
 
-You’re a social media sensation, with a follower count in the hundreds of thousands — minimum — hanging on your every post. They take your advice, purchase the products you hawk, and rally to any cause you point them towards. Once per story, you can call on them to perform a simple nonviolent action for you. It may be something like donating money to a crowdfunding campaign, flooding an elected official’s phone lines, or lighting a candle in their window on a certain night. Note that this only acts as a Merit for as long as your online status and actions are those of a mortal. If you start communicating Kindred secrets via the internet, you will earn a two dot Adversary Background (representing the vampire sent to silence you) and a two dot Enemy Background (representing mortal scrutiny, probably in the form of an Inquisitor).
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Memories of the Fallen ••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.97)</strong></mark></summary>
-
-**Prerequisite:** Must be an Ashfinder
-
-You’re a social media sensation, with a follower count in the hundreds of thousands — minimum — hanging on your every post. They take your advice, purchase the products you hawk, and rally to any cause you point them towards. Once per story, you can call on them to perform a simple nonviolent action for you. It may be something like donating money to a crowdfunding campaign, flooding an elected official’s phone lines, or lighting a candle in their window on a certain night. Note that this only acts as a Merit for as long as your online status and actions are those of a mortal. If you start communicating Kindred secrets via the internet, you will earn a two dot Adversary Background (representing the vampire sent to silence you) and a two dot Enemy Background (representing mortal scrutiny, probably in the form of an Inquisitor).
+Mithras was a god of merchants and traders, and as his devotee you see both the value and drawbacks to any deals you broker. Reduce the Difficulty on rolls to assess a transaction by 1.
 
 </details>
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Gardener •-•••••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.97)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Bull-Slayer •••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
 
-**Prerequisite:** Must be Bahari
+**Prerequisite:** Must be a Cult of Mithras adherent
 
-As a faithful Ba’ham, you lead a Garden of your own. You guide new initiates, lead rituals, and direct those who walk in your Garden to carry out the Dark Mother’s will. This Merit acts as a selective form of the Herd and Influence Backgrounds, where the adherents (mortal and Kindred) feed you willingly, providing they receive the religious teachings and guidance of the Bahari, and you gain the region specified as territory. If ever you fall out of favor with the cult, this Merit goes with your reputation.
-
-• Small Garden — 1-5 mortal adherents, located in a small, private space. The garden is no bigger than a few potted plants or containers.
-
-•• Growing Garden — 5-10 mortal adherents, 1-2 other Kindred, located in a slightly bigger private space. This may be a rooftop garden in the city or a backyard greenhouse in a rural area.
-
-••• Community Garden — 10-30 mortal adherents, 3-5 other Kindred. The garden is a larger plot of land, about an acre. This may be part of a city park or a town green.
-
-•••• Sprawling Garden — 30-50 mortal adherents, up to a dozen Kindred. The garden covers a large swath of land: an entire city park, an orchard in the country.
-
-••••• Major Garden — over 50 mortal adherents, more than a dozen Kindred, several of whom may branch out into Gardens of their own and oversee rituals. The garden’s territory covers an entire city, or several towns in rural areas.
+Like Mithras, when you set your sights on a target, you pursue it until it falls. You may suffer setbacks, but you don’t give up — you adapt. During an Extended Test, characters with this Merit can reroll up to three regular dice without spending Willpower once per scene. If rerolling the entire dice result, they can do so once per session.
 
 </details>
 
@@ -100,21 +144,21 @@ With little more than a brief conversation, you know what people want. Even when
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Go to Ground •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Gardener •-•••••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.97)</strong></mark></summary>
 
-**Prerequisite:** Must be a Church of Set adherent
+**Prerequisite:** Must be Bahari
 
-The Church of Set teaches its members to be mobile, ready to slip away into the shadows if persecutors come calling. You’re prepared to disappear with a moment’s notice: exit routes mapped out, go bag prepared. Add two dice to rolls to evade pursuit.
+As a faithful Ba’ham, you lead a Garden of your own. You guide new initiates, lead rituals, and direct those who walk in your Garden to carry out the Dark Mother’s will. This Merit acts as a selective form of the Herd and Influence Backgrounds, where the adherents (mortal and Kindred) feed you willingly, providing they receive the religious teachings and guidance of the Bahari, and you gain the region specified as territory. If ever you fall out of favor with the cult, this Merit goes with your reputation.
 
-</details>
+• Small Garden — 1-5 mortal adherents, located in a small, private space. The garden is no bigger than a few potted plants or containers.
 
-<details>
+•• Growing Garden — 5-10 mortal adherents, 1-2 other Kindred, located in a slightly bigger private space. This may be a rooftop garden in the city or a backyard greenhouse in a rural area.
 
-<summary><mark style="color:purple;"><strong>Vigilant ••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+••• Community Garden — 10-30 mortal adherents, 3-5 other Kindred. The garden is a larger plot of land, about an acre. This may be part of a city park or a town green.
 
-**Prerequisite:** Must be a Church of Set adherent
+•••• Sprawling Garden — 30-50 mortal adherents, up to a dozen Kindred. The garden covers a large swath of land: an entire city park, an orchard in the country.
 
-The Church of Set has an unfair reputation for paranoia, when in fact they instill in every initiate the need to keep eyes in the back of one’s head, having been subject to persecution for centuries. Staying alert keeps the cult safe. You always know when you are being watched, barring supernatural concealment like Obfuscate, but you still need to roll in order to recognise who and from where.
+••••• Major Garden — over 50 mortal adherents, more than a dozen Kindred, several of whom may branch out into Gardens of their own and oversee rituals. The garden’s territory covers an entire city, or several towns in rural areas.
 
 </details>
 
@@ -130,6 +174,16 @@ The Cult of Shalim uses a coded cipher called the gematria in their missives. Yo
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Go to Ground •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+
+**Prerequisite:** Must be a Church of Set adherent
+
+The Church of Set teaches its members to be mobile, ready to slip away into the shadows if persecutors come calling. You’re prepared to disappear with a moment’s notice: exit routes mapped out, go bag prepared. Add two dice to rolls to evade pursuit.
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;"><strong>Insidious Whispers ••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
 
 **Prerequisite:** Must be a Cult of Shalim adherent
@@ -140,213 +194,51 @@ The Embrace cracks a person’s very core, throwing into question everything she
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Bargainer •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Inspired Artist ••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.95)</strong></mark></summary>
 
-**Prerequisite:** Must be a Cult of Mithras adherent
-
-Mithras was a god of merchants and traders, and as his devotee you see both the value and drawbacks to any deals you broker. Reduce the Difficulty on rolls to assess a transaction by 1.
+You channel your divine fervor into art. You’re a painter, a singer, a poet, a sculptor, and your creations inspire all who experience it. Any artwork you craft consisting of your cult’s symbology or channeling its message has an entrancing effect, with onlookers being at a 1-die penalty to resist Social rolls from cult members while in its presence.
 
 </details>
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Bull-Slayer •••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Memories of the Fallen ••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.97)</strong></mark></summary>
 
-**Prerequisite:** Must be a Cult of Mithras adherent
+**Prerequisite:** Must be an Ashfinder
 
-Like Mithras, when you set your sights on a target, you pursue it until it falls. You may suffer setbacks, but you don’t give up — you adapt. During an Extended Test, characters with this Merit can reroll up to three regular dice without spending Willpower once per scene. If rerolling the entire dice result, they can do so once per session.
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Archangel's Grace •••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
-
-**Prerequisite:** Must be Nephilim
-
-You’ve invested considerable time in dance studios, gymnasiums, and dojos owned by fellow Nephilim. The training makes your movements lithe and assured, every gesture an art form in itself. You may use your Performance Skill in place of your Athletics Skill, or vice versa, when engaged in what for mortals would be a cardio-heavy physical exertion such as fighting, fleeing, or dancing.
-
-</details>
-
-#### Looks
-
-<details>
-
-<summary><mark style="color:green;"><strong>Beautiful ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
-
-You add one extra die to all appropriate Social dice pools.
+You’re a social media sensation, with a follower count in the hundreds of thousands — minimum — hanging on your every post. They take your advice, purchase the products you hawk, and rally to any cause you point them towards. Once per story, you can call on them to perform a simple nonviolent action for you. It may be something like donating money to a crowdfunding campaign, flooding an elected official’s phone lines, or lighting a candle in their window on a certain night. Note that this only acts as a Merit for as long as your online status and actions are those of a mortal. If you start communicating Kindred secrets via the internet, you will earn a two dot Adversary Background (representing the vampire sent to silence you) and a two dot Enemy Background (representing mortal scrutiny, probably in the form of an Inquisitor).
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ingénue •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Streamer ••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.96)</strong></mark></summary>
 
-You look completely innocent and blameless, making others believe in your good intentions much easier. Add two dice to any rolls related to avoiding suspicion or deflect blame, at the Storyteller’s discretion.
+**Prerequisite:** Must be an Ashfinder
 
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Remarkable Feature •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark> </summary>
-
-You possess a rare, memorable feature such as a striking eye color, atypical pupils, or an unusual complexion, providing a two-dice bonus to social interactions with strangers. (The novelty quickly wears off.) Take a one-die penalty to disguise yourself.
+You’re a social media sensation, with a follower count in the hundreds of thousands — minimum — hanging on your every post. They take your advice, purchase the products you hawk, and rally to any cause you point them towards. Once per story, you can call on them to perform a simple nonviolent action for you. It may be something like donating money to a crowdfunding campaign, flooding an elected official’s phone lines, or lighting a candle in their window on a certain night. Note that this only acts as a Merit for as long as your online status and actions are those of a mortal. If you start communicating Kindred secrets via the internet, you will earn a two dot Adversary Background (representing the vampire sent to silence you) and a two dot Enemy Background (representing mortal scrutiny, probably in the form of an Inquisitor).
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Famous Face •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Traveling Preacher ••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.96)</strong></mark></summary>
 
-You bear a passing or very close resemblance to someone very well known. Sometimes this works in your favor. Other times this results in “Charlize Theron bit that cop on the neck!” You gain two dice to social tests in circumstances where you can leverage your lookalike status, but suffer a two-dice penalty whenever you try to hide in a crowd or in other areas where you want to avoid recognition.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Stunning ••••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
-
-You add two extra dice to all appropriate Social dice pools, as above.
+You spread your cult’s message wherever you go, despite the risks Kindred take when they travel. You’ve mapped out safe routes, established good places to go to ground along the way, and learned where surveillance systems falter. When traveling along established routes, reduce the Difficulty on rolls to avoid the Second Inquisition’s or Hunters’ notice by 1.
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Scene Kid •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Vigilant ••</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
 
-Every subculture has its trappings; you’re the unliving embodiment of its particular style. While it may not impress the masses, for those in the know, you look every inch the part. Add one die to all appropriate Social pools when dealing with that subculture.
+**Prerequisite:** Must be a Church of Set adherent
 
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Semblance of the Methuselah •-••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions pp.85-86)</strong></mark></summary>
-
-Whether you’re aware of it or not, you have a striking resemblance to a methuselah of your line. Perhaps your own sire felt a strange attraction to your appearance that drove them to Embrace you for reasons they couldn’t quite explain, or it may be that the raw power of your ancestor’s blood physically shifted your looks to more closely match theirs upon your embrace.
-
-Upon taking this Merit, you may choose a specific methuselah of your clan from whom you are ultimately descended and whom you resemble. Alternatively, you may allow your Storyteller to choose and leave the nature of your similarity a mystery to you — for now, at least. Each dot in this Merit grants you one additional die on dice rolls to impress, intimidate, or attract the attention of those who recognize and fear or respect the progenitor whom you resemble. Each dot in this Merit may also add to your Status dots within your clan during official gatherings or ceremonies or within a cult that venerates the methuselah whom you resemble. If you are luckless enough to encounter the methuselah in question, each dot in this Merit also grants you one additional die to any social rolls when interacting with them, although depending on the ancient in question, it may anger them to see such similarity.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Up All Night ••, ••••</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
-
-Not all Kindred resemble walking corpses as they lose themselves to the Beast. For purposes of the Blush of Life, eating or drinking, and sexual intercourse, treat your Humanity score as one point higher than it is (maximum 10), or two points higher if this merit was purchased for 4 dots. Nosferatu cannot select this merit, and Hecata can only select it as a two-dot merit. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
-
-</details>
-
-#### Psychological
-
-<details>
-
-<summary><mark style="color:red;"><strong>Soothed Beast •</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
-
-Choose a storyteller character as your obsession. Once per session when in the presence of your obsession, you can choose to ignore one Bestial Failure or Messy Critical. If this character dies you immediately gain three Stains, but can choose a new obsession at the beginning of the next session.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>False Love •</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
-
-Choose a storyteller character as your obsession. When in their presence, treat your Humanity as one dot higher (max 10) for purposes of the Blush of Life, eating or drinking, and sexual intercourse. If this character dies you immediately gain three Stains, but can choose a new obsession at the beginning of the next session. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Penitence •-•••••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-In pain, you find absolution. By scourging yourself — lashing your skin with a whip, driving needles into your flesh, or some other self-abusive act — you reaffirm your faith.
-
-For each dot you possess in this Merit, you can scourge yourself once per session as part of a scene, suffering one point of Superficial Health damage and immediately healing one point of Superficial Willpower damage. Scourging usually takes an entire scene to complete.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Unholy Will ••,••••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-Your will and soul are bulwarks against the power of True Faith (Vampire: The Masquerade, p. 222). You may have spent many nights upon holy ground or argued with clever, devout theologians until the intricacies of their faith are as familiar to you as the dead stillness in your chest. You might have even gone to great lengths to harden your mind against the burning ardor of true believers or cast yourself so deeply into the role of demonic foe through ritual personae that you are firm in your conviction that your purpose is to test such belief. One way or another, as angel or devil, the signs and forms of True Faith do not hold sway against you.
-
-At two dots, add one die to any dice pool when you resist or contest an individual with true Faith on matters of their faith, including their miraculous abilities. Furthermore, you suffer one fewer point of damage from holy sources that harness the power of True Faith, such as blessed weapons or sacred ceremonies. At four dots, add two dice and suffer two fewer points of damage. The four dot and two dot versions of this Merit do not stack.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Zealotry •,•••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-The fire of your faith is an unstoppable bonfire, driving you to intense heights of zeal. You won’t let anything come between you and the fulfilment of your beliefs, no matter the cost to yourself or others. For each dot in this Merit, once per session after rolling a normal success on an action that corresponds to or aligns with one of your Convictions, you may choose to turn that normal success into a messy critical instead. In this way, you gain the usual benefits for a critical win on the roll in question along with the appropriate drawbacks for the mess you create in the process. Note that this does not yield additional successes, but only allows you to count the win as critical in a case where it matters.
-
-</details>
-
-#### Substance Use
-
-<details>
-
-<summary><mark style="color:green;"><strong>High-Functioning Addict •</strong></mark> <mark style="color:green;"><strong>(Core p.180)</strong></mark></summary>
-
-You add one die to any one category of pool (specify when you choose which substance you use) when the last person you fed from was on your drug.
-
-</details>
-
-#### Bonding
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Bonds of Fealty •••</strong></mark> <mark style="color:purple;"><strong>(Gehenna War p.44)</strong></mark></summary>
-
-**Prerequisite:** [<mark style="color:purple;">Dominate</mark>](https://wiki.capetownvtm.com/material-availability/powers#dominate)
-
-Your powers of Dominate do not require a target’s eye contact so long as the target is blood bound to you. You still need to be able to communicate your instructions to them, though you do not need to be physically present.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Bond Resistance •-•••</strong></mark> <mark style="color:red;"><strong>(Core p.181)</strong></mark></summary>
-
-Your Blood rebels against control. Add one die to your dice pools to resist a Blood Bond per level you take of this Merit (maximum three).
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Enduring Bond •</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
-
-Your bonds last longer than those of other Kindred. Complete and partial blood bonds only weaken every other month, not every month.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Short Bond ••</strong></mark> <mark style="color:green;"><strong>(Core p.181)</strong></mark></summary>
-
-Blood Bonds on you lose their Bond strength more rapidly than normal, decreasing at both the full moon and new moon (i.e., by two each month) if not reinforced.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Unbondable •••••</strong></mark> <mark style="color:green;"><strong>(Core p.181)</strong></mark></summary>
-
-You cannot be Blood Bound. If you’re ever short of cash, you can probably sell your vitae to alchemists, too.
+The Church of Set has an unfair reputation for paranoia, when in fact they instill in every initiate the need to keep eyes in the back of one’s head, having been subject to persecution for centuries. Staying alert keeps the cult safe. You always know when you are being watched, barring supernatural concealment like Obfuscate, but you still need to roll in order to recognise who and from where.
 
 </details>
 
 #### Feeding
-
-<details>
-
-<summary><mark style="color:red;"><strong>Vessel Recognition •</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.118-119)</strong></mark> </summary>
-
-One easy way to piss off a Kindred is to feed off their kine. Kindred guard their herds jealously, and you’ve learned how to avoid them, being able to smell out which mortal belongs to a herd or is a particular Blood Doll.
-
-A win on a Resolve + Awareness test at Difficulty 2 lets you smell whether a mortal has been fed on recently. A critical win lets you sense if the feeding is recurring, likely making them part of someone’s herd.
-
-</details>
 
 <details>
 
@@ -372,29 +264,81 @@ You can feed from cold blood, rancid blood, and fractionated plasma. None of the
 
 </details>
 
-#### Blood Ties
+<details>
+
+<summary><mark style="color:red;"><strong>Vessel Recognition •</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.118-119)</strong></mark> </summary>
+
+One easy way to piss off a Kindred is to feed off their kine. Kindred guard their herds jealously, and you’ve learned how to avoid them, being able to smell out which mortal belongs to a herd or is a particular Blood Doll.
+
+A win on a Resolve + Awareness test at Difficulty 2 lets you smell whether a mortal has been fed on recently. A critical win lets you sense if the feeding is recurring, likely making them part of someone’s herd.
+
+</details>
+
+#### Looks
 
 <details>
 
-<summary><mark style="color:red;"><strong>Consanguineous Influence ••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Beautiful ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
 
-Some find the powers of their Blood are more effective on those of the same bloodline. When you use a mental Discipline against a member of your own clan or a direct ancestor or descendant, you gain one bonus die to do so, or 2 bonus dice if the character is only one or two generations removed from you (e.g. your grandsire or grandchilde or closer).
+You add one extra die to all appropriate Social dice pools.
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Consanguineous Sense ••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Famous Face •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
-Your Blood calls out to your close relations, whether ancestors or descendants. You instinctively recognize those in your direct bloodline when you get within a few paces from them. A Resolve + Awareness test at Difficulty 3 lets you determine if a Kindred within about 3 meters of you shares your bloodline. You only learn that they share your bloodline, not the exact distance from your in terms of Generation.
+You bear a passing or very close resemblance to someone very well known. Sometimes this works in your favor. Other times this results in “Charlize Theron bit that cop on the neck!” You gain two dice to social tests in circumstances where you can leverage your lookalike status, but suffer a two-dice penalty whenever you try to hide in a crowd or in other areas where you want to avoid recognition.
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Sins of the Fathers ••-•••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.44)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Ingénue •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark></summary>
 
-After committing diablerie upon a direct descendant — or ancestor — you do not show any telltale signs of the crime. Powers such as Scry the Soul or A Taste for Blood do not detect your crime. As a three-dot Merit, this works when committing diablerie upon any member of your own clan. Caitiff and Duskborn cannot take this as a three-dot merit.
+You look completely innocent and blameless, making others believe in your good intentions much easier. Add two dice to any rolls related to avoiding suspicion or deflect blame, at the Storyteller’s discretion.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Remarkable Feature •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark> </summary>
+
+You possess a rare, memorable feature such as a striking eye color, atypical pupils, or an unusual complexion, providing a two-dice bonus to social interactions with strangers. (The novelty quickly wears off.) Take a one-die penalty to disguise yourself.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Semblance of the Methuselah •-••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions pp.85-86)</strong></mark></summary>
+
+Whether you’re aware of it or not, you have a striking resemblance to a methuselah of your line. Perhaps your own sire felt a strange attraction to your appearance that drove them to Embrace you for reasons they couldn’t quite explain, or it may be that the raw power of your ancestor’s blood physically shifted your looks to more closely match theirs upon your embrace.
+
+Upon taking this Merit, you may choose a specific methuselah of your clan from whom you are ultimately descended and whom you resemble. Alternatively, you may allow your Storyteller to choose and leave the nature of your similarity a mystery to you — for now, at least. Each dot in this Merit grants you one additional die on dice rolls to impress, intimidate, or attract the attention of those who recognize and fear or respect the progenitor whom you resemble. Each dot in this Merit may also add to your Status dots within your clan during official gatherings or ceremonies or within a cult that venerates the methuselah whom you resemble. If you are luckless enough to encounter the methuselah in question, each dot in this Merit also grants you one additional die to any social rolls when interacting with them, although depending on the ancient in question, it may anger them to see such similarity.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Scene Kid •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+
+Every subculture has its trappings; you’re the unliving embodiment of its particular style. While it may not impress the masses, for those in the know, you look every inch the part. Add one die to all appropriate Social pools when dealing with that subculture.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Stunning ••••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
+
+You add two extra dice to all appropriate Social dice pools, as above.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Up All Night ••, ••••</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
+
+Not all Kindred resemble walking corpses as they lose themselves to the Beast. For purposes of the Blush of Life, eating or drinking, and sexual intercourse, treat your Humanity score as one point higher than it is (maximum 10), or two points higher if this merit was purchased for 4 dots. Nosferatu cannot select this merit, and Hecata can only select it as a two-dot merit. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
 
 </details>
 
@@ -402,9 +346,9 @@ After committing diablerie upon a direct descendant — or ancestor — you do n
 
 <details>
 
-<summary><mark style="color:red;"><strong>Nuit Mode ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.119)</strong></mark> </summary>
+<summary><mark style="color:red;"><strong>Cold Dead Hunger •••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.87)</strong></mark></summary>
 
-Your body doesn’t automatically revert to the death-state each night, enabling you to keep things like new haircuts, tattoos, and other body modifications at your option. You are still able to return to your original death-state, though, and can mend any later modifications as if they were Aggravated damage. This Merit is available only to Kindred of Blood Potency 1 or lower. (If your Blood becomes more potent at any point, the Merit no longer grants any benefit, but if you drop back down to Blood Potency 1 it returns.)
+When hungry, your Beast is a weak and quiescent thing; it still urges you towards self-indulgent atrocity but is easier to quell. Perhaps you starved it through meditation or self-denial, or girded yourself in rites of black sorcery and red transgression; perhaps it’s just the way you are, and you have no explanation for the cold, dead hunger that nestles in your bosom. Add two dice to your rolls to resist Hunger frenzy.
 
 </details>
 
@@ -436,17 +380,9 @@ Hecata and Lasombra characters may select this merit at the two-dot level and ch
 
 <details>
 
-<summary><mark style="color:red;"><strong>Persistent Blush •••</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Nuit Mode ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.119)</strong></mark> </summary>
 
-Your dead flesh is uniquely receptive to the Blood when it’s time to imitate life. Your lifelike demeanor and biological responses last much longer than your peers, and you can walk among mortals for nights at a time without extra effort. A single activation of Blush of Life persists for one week.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Cold Dead Hunger •••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.87)</strong></mark></summary>
-
-When hungry, your Beast is a weak and quiescent thing; it still urges you towards self-indulgent atrocity but is easier to quell. Perhaps you starved it through meditation or self-denial, or girded yourself in rites of black sorcery and red transgression; perhaps it’s just the way you are, and you have no explanation for the cold, dead hunger that nestles in your bosom. Add two dice to your rolls to resist Hunger frenzy.
+Your body doesn’t automatically revert to the death-state each night, enabling you to keep things like new haircuts, tattoos, and other body modifications at your option. You are still able to return to your original death-state, though, and can mend any later modifications as if they were Aggravated damage. This Merit is available only to Kindred of Blood Potency 1 or lower. (If your Blood becomes more potent at any point, the Merit no longer grants any benefit, but if you drop back down to Blood Potency 1 it returns.)
 
 </details>
 
@@ -462,6 +398,14 @@ Duskborn vampires who engage in pack diablerie can spend experience on purchasin
 
 <details>
 
+<summary><mark style="color:red;"><strong>Persistent Blush •••</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+
+Your dead flesh is uniquely receptive to the Blood when it’s time to imitate life. Your lifelike demeanor and biological responses last much longer than your peers, and you can walk among mortals for nights at a time without extra effort. A single activation of Blush of Life persists for one week.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Shifts in the Blood ••••</strong></mark> <mark style="color:red;"><strong>(Cults of the Blood Gods p.202)</strong></mark></summary>
 
 The Hecata have long been interested in the malleability of the Blood, and how their favored Disciplines in these nights differ from those of their ancestors and their ancestors before them. While they speculate it may be due to the formation of the Hecata and destruction of many Giovanni elders in recent years, Necromancers still guess at why some Giovanni favor forceful Disciplines and the _nasyon san an_ prioritize subterfuge. Why the ability for heightened senses is the power so often lost, even the most accomplished Necromancers cannot say.
@@ -470,17 +414,63 @@ When you purchase this merit, your character's bloodline replacement Discipline 
 
 </details>
 
-#### Miscellaneous
+#### Psychological
 
 <details>
 
-<summary><mark style="color:red;"><strong>Side Hustler •••</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.119-120)</strong></mark> </summary>
+<summary><mark style="color:red;"><strong>False Love •</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
 
-Folks on the fringes constantly have to grind to keep the little that they have. Juggling a million tasks, favors, and debts has become second nature to them.
-
-Once per session you can get your hands on an item, a piece of information, or access to an event as if you had two dots in the appropriate Resources, Contacts or Influence Background. (Items obtained with Resources likely have to be returned intact.) Often this requires you to spend part of the night calling in markers and pressing your informal network.
+Choose a storyteller character as your obsession. When in their presence, treat your Humanity as one dot higher (max 10) for purposes of the Blush of Life, eating or drinking, and sexual intercourse. If this character dies you immediately gain three Stains, but can choose a new obsession at the beginning of the next session. This merit doesn’t combine with others that treat your Humanity as higher: if you have multiple ways to treat your humanity as higher than it is, choose the most effective one in any situation.
 
 </details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Penitence •-•••••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+In pain, you find absolution. By scourging yourself — lashing your skin with a whip, driving needles into your flesh, or some other self-abusive act — you reaffirm your faith.
+
+For each dot you possess in this Merit, you can scourge yourself once per session as part of a scene, suffering one point of Superficial Health damage and immediately healing one point of Superficial Willpower damage. Scourging usually takes an entire scene to complete.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Soothed Beast •</strong></mark> <mark style="color:red;"><strong>(Blood-Stained Love p.151)</strong></mark></summary>
+
+Choose a storyteller character as your obsession. Once per session when in the presence of your obsession, you can choose to ignore one Bestial Failure or Messy Critical. If this character dies you immediately gain three Stains, but can choose a new obsession at the beginning of the next session.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Unholy Will ••,••••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+Your will and soul are bulwarks against the power of True Faith (Vampire: The Masquerade, p. 222). You may have spent many nights upon holy ground or argued with clever, devout theologians until the intricacies of their faith are as familiar to you as the dead stillness in your chest. You might have even gone to great lengths to harden your mind against the burning ardor of true believers or cast yourself so deeply into the role of demonic foe through ritual personae that you are firm in your conviction that your purpose is to test such belief. One way or another, as angel or devil, the signs and forms of True Faith do not hold sway against you.
+
+At two dots, add one die to any dice pool when you resist or contest an individual with true Faith on matters of their faith, including their miraculous abilities. Furthermore, you suffer one fewer point of damage from holy sources that harness the power of True Faith, such as blessed weapons or sacred ceremonies. At four dots, add two dice and suffer two fewer points of damage. The four dot and two dot versions of this Merit do not stack.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Zealotry •,•••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+The fire of your faith is an unstoppable bonfire, driving you to intense heights of zeal. You won’t let anything come between you and the fulfilment of your beliefs, no matter the cost to yourself or others. For each dot in this Merit, once per session after rolling a normal success on an action that corresponds to or aligns with one of your Convictions, you may choose to turn that normal success into a messy critical instead. In this way, you gain the usual benefits for a critical win on the roll in question along with the appropriate drawbacks for the mess you create in the process. Note that this does not yield additional successes, but only allows you to count the win as critical in a case where it matters.
+
+</details>
+
+#### Substance Use
+
+<details>
+
+<summary><mark style="color:green;"><strong>High-Functioning Addict •</strong></mark> <mark style="color:green;"><strong>(Core p.180)</strong></mark></summary>
+
+You add one die to any one category of pool (specify when you choose which substance you use) when the last person you fed from was on your drug.
+
+</details>
+
+#### Miscellaneous
 
 <details>
 
@@ -494,9 +484,21 @@ You have easy access to an armory or cache of tools and hardware. None of these 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Untouchable •••••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+<summary><mark style="color:green;"><strong>Linguistics •-••••• (Core p.179)</strong></mark></summary>
 
-The powers that be are very reluctant to punish you for even the most egregious crimes. Perhaps you’re the secret power behind the throne, or you hold some damning blackmail over the local Baron, or you’re the secret childe of a Justicar or other political potentate. Once per story you can escape all official punishment for a crime that would otherwise see you destroyed or cast out of your sect, though you may be privately reprimanded or face consequences through unofficial channels. The Court or Council often ignores your lesser crimes as well, but lower-level Kindred may take it upon themselves to step to you for your perceived transgressions and flaunted impunity.
+Each dot in Linguistics allows the character to fluently speak, write, and read one additional language besides those two default languages. Characters who are local to South Africa may take an additional language for free.
+
+Characters that are local may take an additional language for free, regardless of if they possess this Merit or not.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Side Hustler •••</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.119-120)</strong></mark> </summary>
+
+Folks on the fringes constantly have to grind to keep the little that they have. Juggling a million tasks, favors, and debts has become second nature to them.
+
+Once per session you can get your hands on an item, a piece of information, or access to an event as if you had two dots in the appropriate Resources, Contacts or Influence Background. (Items obtained with Resources likely have to be returned intact.) Often this requires you to spend part of the night calling in markers and pressing your informal network.
 
 </details>
 
@@ -512,11 +514,9 @@ You are always aware of when someone is using Dominate and Presence against you.
 
 <details>
 
-<summary><mark style="color:green;"><strong>Linguistics •-••••• (Core p.179)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Untouchable •••••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
 
-Each dot in Linguistics allows the character to fluently speak, write, and read one additional language besides those two default languages. Characters who are local to South Africa may take an additional language for free.
-
-Characters that are local may take an additional language for free, regardless of if they possess this Merit or not.
+The powers that be are very reluctant to punish you for even the most egregious crimes. Perhaps you’re the secret power behind the throne, or you hold some damning blackmail over the local Baron, or you’re the secret childe of a Justicar or other political potentate. Once per story you can escape all official punishment for a crime that would otherwise see you destroyed or cast out of your sect, though you may be privately reprimanded or face consequences through unofficial channels. The Court or Council often ignores your lesser crimes as well, but lower-level Kindred may take it upon themselves to step to you for your perceived transgressions and flaunted impunity.
 
 </details>
 
@@ -907,6 +907,30 @@ You find the act of feeding extremely personal and cannot take blood from mortal
 <summary><mark style="color:red;"><strong>Outdated Preference ••</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.21)</strong></mark> </summary>
 
 This Flaw resembles the Ventrue Clan Bane, except your preferred mortal has become almost impossible to come by. Examples include castrato singers, quaalude addicts, footmen, phrenologists, milkmen, Redcoats, and wet nurses. You either have to capture and force mortals to fit with your preference, or you always spend 1 Willpower to feed.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Farmer •• (Core p.181)</strong></mark></summary>
+
+You feed only on animal blood. You must spend two points of Willpower to drink human blood. Ventrue may not take this Flaw.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Prey Exclusion • (Core pp.181-182)</strong></mark></summary>
+
+You refuse to hunt a certain class of prey: drug users, women, children, policemen, innocents, a given minority or ethnic group, etc. If you feed on such prey, you gain Stains as though you had violated a chronicle Tenet. Witnessing other Kindred feeding on the object of your exclusion without interfering might also give Stains, at the Storyteller’s discretion. Ventrue with this Flaw gain an additional restriction, making their choice of vessels extremely narrow.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Organovore •• (Core p.181)</strong></mark></summary>
+
+You can slake Hunger only by eating human flesh and organs, especially those rich in blood such as the heart, liver, lungs, placenta, and spleen. (Most organovore Kindred these nights make smoothies from the organs first.) Only the heart provides Resonance, if any.
 
 </details>
 

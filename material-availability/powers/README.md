@@ -1563,7 +1563,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Vanish, Obfuscate 4 (Core p.263)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Vanish, Obfuscate 4 (Core p.263)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Cloak of Shadows</mark>](https://wiki.capetownvtm.com/material-availability/powers#cloak-of-shadows-obfuscate-1-core-p.261)
 
@@ -1591,7 +1591,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Impostor’s Guise, Obfuscate 5 (Core p.263)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Impostor’s Guise, Obfuscate 5 (Core p.263)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Mask of a Thousand Faces</mark>](https://wiki.capetownvtm.com/material-availability/powers#mask-of-a-thousand-faces-obfuscate-3-core-p.262)
 
