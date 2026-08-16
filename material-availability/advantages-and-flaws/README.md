@@ -446,7 +446,7 @@ Choose a storyteller character as your obsession. Once per session when in the p
 
 <summary><mark style="color:red;"><strong>Unholy Will ••,••••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
 
-Your will and soul are bulwarks against the power of True Faith (Vampire: The Masquerade, p. 222). You may have spent many nights upon holy ground or argued with clever, devout theologians until the intricacies of their faith are as familiar to you as the dead stillness in your chest. You might have even gone to great lengths to harden your mind against the burning ardor of true believers or cast yourself so deeply into the role of demonic foe through ritual personae that you are firm in your conviction that your purpose is to test such belief. One way or another, as angel or devil, the signs and forms of True Faith do not hold sway against you.
+Your will and soul are bulwarks against the power of True Faith (Core p.222). You may have spent many nights upon holy ground or argued with clever, devout theologians until the intricacies of their faith are as familiar to you as the dead stillness in your chest. You might have even gone to great lengths to harden your mind against the burning ardor of true believers or cast yourself so deeply into the role of demonic foe through ritual personae that you are firm in your conviction that your purpose is to test such belief. One way or another, as angel or devil, the signs and forms of True Faith do not hold sway against you.
 
 At two dots, add one die to any dice pool when you resist or contest an individual with true Faith on matters of their faith, including their miraculous abilities. Furthermore, you suffer one fewer point of damage from holy sources that harness the power of True Faith, such as blessed weapons or sacred ceremonies. At four dots, add two dice and suffer two fewer points of damage. The four dot and two dot versions of this Merit do not stack.
 
@@ -478,7 +478,7 @@ You add one die to any one category of pool (specify when you choose which subst
 
 Mercenaries and gig workers have to keep their tools of the trade close at hand. They never know what their next job might require, but they do their best to keep a supply of useful tools close at hand. Caitiff, Ravnos, Anarchs, and even some mortals especially benefit from this Merit.
 
-You have easy access to an armory or cache of tools and hardware. None of these items can exceed a value available to a character with Resources 2. Common items found in a cache could include a sawed-off shotgun, rusty bolt cutters, half a roll of duct tape, homemade stakes, half empty squeeze bottles of lighter fluid, and whatever else the Storyteller allows. Take an additional two dots in Preparedness pools (Vampire: The Masquerade, p. 410) for items within this Resource band. Losing your car, haven, or other storage space may interrupt this Merit until you build up a new stash.
+You have easy access to an armory or cache of tools and hardware. None of these items can exceed a value available to a character with Resources 2. Common items found in a cache could include a sawed-off shotgun, rusty bolt cutters, half a roll of duct tape, homemade stakes, half empty squeeze bottles of lighter fluid, and whatever else the Storyteller allows. Take an additional two dots in Preparedness pools (Core p.410) for items within this Resource band. Losing your car, haven, or other storage space may interrupt this Merit until you build up a new stash.
 
 </details>
 
@@ -562,7 +562,7 @@ Allies are mortals who support and help you: family, friends, or even a mortal o
 
 <summary><mark style="color:green;"><strong>Contacts •-••• (Core pp.185-186)</strong></mark></summary>
 
-You know people – human people – from many different walks of life. Contacts primarily provide you with information in their areas of expertise, and they may want to exchange favors of various kinds. For different kinds of help, use your Influence (p. 187) in the mortal world, or call on your Allies (p. 184) or Mawla (p. 192). A Contact is someone in an excellent position to get information. They might be a police dispatcher, rather than a homicide lieutenant, or a congressional staffer, rather than a senator. Information brokers, gossip columnists, underworld fixers, and reporters make excellent Contacts.&#x20;
+You know people – human people – from many different walks of life. Contacts primarily provide you with information in their areas of expertise, and they may want to exchange favors of various kinds. For different kinds of help, use your [Influence](./#influence-core-pp.187-188) in the mortal world, or call on your [Allies](./#allies-core-pp.184-185) or [Mawla](./#mawla-core-pp.192-193). A Contact is someone in an excellent position to get information. They might be a police dispatcher, rather than a homicide lieutenant, or a congressional staffer, rather than a senator. Information brokers, gossip columnists, underworld fixers, and reporters make excellent Contacts.&#x20;
 
 • One Contact who can do or get something cheap or common for you (Resources 1). Examples: a weed dealer, a car salesman.
 
@@ -614,7 +614,20 @@ People don’t just love you — they take your word as gospel. You write social
 
 <summary><mark style="color:green;"><strong>Herd •-••••• (Core pp.189-190)</strong></mark></summary>
 
+You have cultivated a group of vessels from whom you
 
+can feed without concern. You can use them to per-\
+form basic services, although they are neither as tightly controlled nor as loyal as Retainers. (If needed, build your Herd as a combination of Weak and Average mortals; see [Allies](./#allies-core-pp.184-185).) You can slake your Herd rating in Hunger each week without a roll. (This benefit can be shared among more than one vampire.) Overfeeding endangers your Herd, potentially dropping the rating as members die or flee.&#x20;
+
+• One to three vessels with random Resonance and no Dyscrasias: You can change one victim’s Resonance once a Chronicle with a successful Manipulation + Insight test (Difficulty 4). Examples: graduate students, musical pupils, cleaver family
+
+•• Four to seven vessels, half of whom share one Resonance that you pick when you buy this Advantage. Examples: Aging devotees of the city’s fading goth or bhangra scene, fellow club scenesters, large cleaver family
+
+••• Seven to 15 vessels, with two different Resonances that you pick each Chronicle when you feed on different Herd members. Examples: rugby team, swinger scene, dance or night school class, night shift employees
+
+•••• 16 to 30 vessels: Pick two Resonances every Chronicle. Herd maintenance, cover ups, and recruitment take occasional roles in your chronicle. Examples: cult, large brothel, sweatshop
+
+••••• 31 to 60 vessels: Pick three Resonances every Chronicle. Herd maintenance and recruitment begins to brush up against the Masquerade. Examples: Large cult, large sweatshop
 
 </details>
 
@@ -630,15 +643,15 @@ By default, Influence applies most within one group or region of your city. Grou
 
 The Storyteller may require you to use Influence in place of a Trait in some dice pools, particularly Social tests attempting to sway minor bureaucrats or the equivalent in your group. This Background helps you have an “abandoned” building demolished (or preserved), not start global wars.
 
-`• Well-connected: You’re guaranteed a respectful hearing.`
+• Well-connected: You’re guaranteed a respectful hearing.
 
-`•• Influential: People want to do you favors.`
+•• Influential: People want to do you favors.
 
-`••• Entrenched: Mortal power-brokers and factions hesitate to oppose you.`
+••• Entrenched: Mortal power-brokers and factions hesitate to oppose you.
 
-`•••• Powerful: Without a good reason to do otherwise, functionaries and foot soldiers obey.`
+•••• Powerful: Without a good reason to do otherwise, functionaries and foot soldiers obey.
 
-`••••• Dominant: Lesser figures try to figure out what you want and do it first.`
+••••• Dominant: Lesser figures try to figure out what you want and do it first.
 
 </details>
 
@@ -646,9 +659,11 @@ The Storyteller may require you to use Influence in place of a Trait in some dic
 
 <details>
 
-<summary><mark style="color:green;"><strong>Cobbler • (Core p.191)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Cobbler • (Core p.191)</strong></mark></summary>
 
+**Prerequisite:** Mask 2
 
+You can make or source Masks. Making a Mask takes three days per dot and possibly exposes you online; sourcing Masks takes one day per dot, but costs something in return. How much depends on your leverage, margin on the Social test, or whatever else the Storyteller decides.
 
 </details>
 
@@ -656,15 +671,25 @@ The Storyteller may require you to use Influence in place of a Trait in some dic
 
 <summary><mark style="color:green;"><strong>Mask •-•• (Core p.190)</strong></mark></summary>
 
+As stealth predators, vampires have few weapons more potent than their pretense of humanity. The lies the Kindred live constantly shadow your stories, and no description of a lick should omit how they navigate mortal society – what they wear as a Mask. A good Mask explains the character’s nocturnal existence and offers plenty of opportunities to be alone with mortals.
 
+Some vampires switch back and forth between Masks, risking deep identity confusion and slipups, while others forge single plausible identities and strictly adhere to them for a human lifetime before they switch, adding makeup as they “age,” and faking every aspect of life to look perfectly normal on paper. Others, almost always Nosferatu or unbound vampires, forswear safety for freedom off the grid or on the streets.
+
+By default (at no dots) a vampire either has no need of a Mask, such as those recently Embraced and still able to pass as the human they were, or has a single Mask and fake ID that can stand up to a traffic stop or similar surface scrutiny. A zero-dot mask does not pass a background check, much less a proper investigation by the authorities.
+
+• You have a good fake identity, including a credit card, bank account, credit history, birth certificate, etc., all in your Mask’s name. You can pass a state or provincial-level background check.
+
+•• Your Mask can pass a background check with the national police: FBI, Scotland Yard, or the equivalent. If you had a military or intelligence record in life, it has been classified.
 
 </details>
 
 <details>
 
-<summary><mark style="color:green;"><strong>Zeroed •</strong></mark> <mark style="color:green;"><strong>(Core p.191)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Zeroed •</strong></mark> <mark style="color:purple;"><strong>(Core p.191)</strong></mark></summary>
 
+**Prerequisite:** Mask 2
 
+Someone in high places has purged your real records. You officially don’t exist.
 
 </details>
 
@@ -674,7 +699,25 @@ The Storyteller may require you to use Influence in place of a Trait in some dic
 
 <summary><mark style="color:green;"><strong>Mawla •-••••• (Core pp.192-193)</strong></mark></summary>
 
+This Background represents one or a group of Kindred who looks out for you, offering guidance, information, or aid once in a while. The word comes from medieval Arabic, meaning different things from “a trusted one” to “uncle” to “source of neighborly protection” to “non-Muslim whose oath still binds them.” Western vampires brought the term back from the Crusades, and as the Ashirra and Camarilla find themselves increasingly allied in the Gehenna War, the word enjoys a resurgence in vampire society.
 
+A Mawla may act as your mentor. Such a role commonly falls to your sire, if they don’t treat you as property or ignore you.
+
+Your Mawla might trade information to mutual benefit, or even come to your aid if you have respected the relationship. A Mawla may be powerful, but their power need not be direct. Depending on the number of dots in this Background, your Mawla might be nothing more than an ancilla with a remarkable information network, or they might be a centuries-old creature with tremendous influence and supernatural power. They may offer advice, speak to the Prince or Baron on your behalf, steer other elders clear of you, or give warning when you’re walking into situations you don’t understand. Your Mawla, of course, expects reciprocity.&#x20;
+
+A Mawla rating could even represent a group of like-minded vampires, such as the elders of the city’s Tremere chantry or a Trotskyite clique amongst the Anarchs in town. (The plural of Mawla is Mawali.) As a general rule, a Mawla group costs one dot more than a single Kindred of that level: a a coven of elder Mawali would be a four-dot Mawla group, for example.
+
+As a general rule, Mawali provide a helpful word and occasional political pushes or cover, but they don’t fight your battles or call in valuable favors. If they must do so for their own sake to aid you, you probably lose a dot or more of this Background, after arousing their ire.
+
+• Neonate
+
+•• Ancilla
+
+••• Elder
+
+•••• Primogen or Anarch Revolutionary Council member
+
+••••• Prince or Baron
 
 </details>
 
@@ -684,7 +727,17 @@ The Storyteller may require you to use Influence in place of a Trait in some dic
 
 <summary><mark style="color:green;"><strong>Resources •-••••• (Core p.193)</strong></mark></summary>
 
+This Background describes your Resources. These benefits are not necessarily financial in nature and are rarely completely liquid, but you can often sell them to gain money. It could take weeks or even months to do so, depending on how much needs to be sold. Especially as the Second Inquisition closes down Kindred bank accounts, vampires increasingly return to holding their Resources in cash – or in gold, art, narcotics, guns, and slaves. Dots of Resources provide an income for you to maintain your standard of unliving, but you must detail the source of your income and the form this Background takes. After all, it might dry up, get stolen, or otherwise vanish during the chronicle.
 
+• Portfolio Proletariat: You live paycheck to paycheck: apartment, car, camping equipment.
+
+•• Middle Class: Nice apartment or small house, several cars, high-end equipment
+
+••• Rich: Great condo or nice house, luxury items, high-end equipment for several people
+
+•••• Wealthy: Mansion, helicopter or private jet, very specialized high-end equipment
+
+••••• Ultra Rich: Many mansions, “anything money can buy”&#x20;
 
 </details>
 
@@ -694,7 +747,17 @@ The Storyteller may require you to use Influence in place of a Trait in some dic
 
 <summary><mark style="color:green;"><strong>Retainers •-••• (Core p.194)</strong></mark></summary>
 
+You have one or more loyal and steadfast servants or assistants. Retainers may be ghouls who are blood bound to you, individuals you have so Dominated over the years that they are incapable of independent action, or individuals you have so overwhelmed with your Presence that they would do anything for you.
 
+You must always control retainers in some fashion: a salary, vitae donation, or direct mesmerism. Though typically loyal, retainers may betray you if the reward outweighs the risk or if you have treated them badly. The Storyteller can always call for a scene between you and a retainer.
+
+Retainers should act as characters, not puppets. Even ghoul retainers aren’t supermen; the most skilled servants don’t always show the highest loyalty. Everything in Vampire is a tradeoff. Storytellers can use Retainers to add flavor to the chronicle; don’t let them or their misuse damage the story.
+
+• Underwhelming retainer: A child, criminal low-life, or horror nerd follows you around and does your bidding without a Blood Bond. Build them as a Weak mortal.
+
+•• A ghoul, a family servant, a human lover, or a dominated thrall: give them a backstory. Build them as an Average mortal or as a ghoul with no Advantages.
+
+••• A retainer competent enough to act independently and make lesser problems go away. They are likely a ghoul with traits equivalent to Gifted mortals, on top of their supernatural abilities.
 
 </details>
 
@@ -718,13 +781,27 @@ You can take this Background a maximum of three times, with a different secret e
 
 <summary><mark style="color:green;"><strong>Status •-••••• (Core p.194)</strong></mark></summary>
 
+You have something of a reputation and standing (earned or unearned) within a specified local community of Kindred, probably Camarilla or Anarch. Status among Camarilla society derives as often from your sire’s status and the respect due your particular bloodline as it does from personal achievement. High Status among Anarchs theoretically depends on the character’s contributions, but more often to their degree of connection (by Blood or coterie) to the current Baron or other ruler.
 
+Status in one sect does not transfer to the other. By and large, Status held in another city effectively reduces by one dot; an Influential (•••) vampire in Cartagena is only Respected (••) in Buenos Aires.
+
+The Storyteller may occasionally call on you to add your Status to a dice pool along with a Social Trait, especially for first meetings and court happenings. In other cases, the Storyteller may allow you to substitute your Status for a Social Trait – but other vampires may notice that you’re skating by on Status, instead of properly using the Etiquette Skill, for example.
+
+Caitiff characters begin with the [<mark style="color:purple;">Suspect</mark>](./#suspect-core-p) Flaw and may not purchase positive Status during character creation.
+
+• Known: A properly introduced, welcomed neonate, seen as an up-and-comer.
+
+•• Respected: You have responsibilities now, an average ancilla.
+
+••• Influential: You hold authority over part of the group, an average elder.
+
+•••• Powerful: You hold office in the group, such as Sheriff, Harpy, or Scourge.
+
+••••• Luminary: You sit at the table of power in the group, a respected member of the Primogen
 
 </details>
 
 ## <mark style="color:green;">Allowed Flaws</mark>
-
-#### Adversary
 
 #### Allies
 
@@ -824,8 +901,6 @@ Blood Bonds on you lose their Bond strength more slowly than normal, decreasing 
 
 </details>
 
-#### Contacts
-
 #### Contagion
 
 <details>
@@ -896,7 +971,7 @@ You don’t actually believe any of the cult’s doctrines. You’re only in it 
 
 **Prerequisite:** Must be a Church of Set adherent
 
-The hairs on the back of your neck stand up. Your skin crawls. You feel the weight of unseen eyes upon you, even when you’re certain you’re alone. Your danger sense is not only always on, it’s in constant overdrive ... and it’s not always right. All failed Awareness rolls count as total failures (Vampire: The Masquerade, p. 122). The Storyteller may name up to three people or pieces of equipment in the scene the character believes is watching them. Any or all may be utterly benign.
+The hairs on the back of your neck stand up. Your skin crawls. You feel the weight of unseen eyes upon you, even when you’re certain you’re alone. Your danger sense is not only always on, it’s in constant overdrive... and it’s not always right. All failed Awareness rolls count as total failures (Core p.122). The Storyteller may name up to three people or pieces of equipment in the scene the character believes is watching them. Any or all may be utterly benign.
 
 </details>
 
@@ -934,7 +1009,7 @@ The telltale signs of diablerie are always noticeable to those who have the abil
 
 <summary><mark style="color:red;"><strong>Inherited Bane ••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.45)</strong></mark></summary>
 
-You gain another clan’s bane in addition to your own. Tremere may select this Flaw to gain the Salubri clan bane (Vampire Players Guide, p. 47) without having committed Diablerie.
+You gain another clan’s bane in addition to your own. Tremere may select this Flaw to gain the Salubri clan bane (Players Guide p.47) without having committed Diablerie.
 
 </details>
 
@@ -980,7 +1055,7 @@ You feed only on animal blood. You must spend two points of Willpower to drink h
 
 <summary><mark style="color:green;"><strong>Methuselah's Thirst • (Core p.181)</strong></mark></summary>
 
-Your Hunger can only be fully slaked by the blood of supernatural creatures. (Alchemists may be able to thicken the Blood of thin-bloods enough to sate you.) Otherwise, it constantly remains at a minimum of 1. (Or higher, depending on Blood Potency (see p. 215).
+Your Hunger can only be fully slaked by the blood of supernatural creatures. (Alchemists may be able to thicken the Blood of thin-bloods enough to sate you.) Otherwise, it constantly remains at a minimum of 1. (Or higher, depending on Blood Potency (Core p.215).
 
 </details>
 
@@ -1020,7 +1095,7 @@ The vessels you feed from have a habit of sticking around with you. You don’t 
 
 <summary><mark style="color:red;"><strong>Resonance Sensitivity •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.25)</strong></mark></summary>
 
-You’re sensitive to the secret flavors of blood, and one of them really messes with your head. Pick one Resonance, excepting Animal and Void. When you feed on a vessel with that Resonance at an Intense or higher Temperament, your Storyteller creates a unique Compulsion (Vampire, p. 208) based on that Resonance that must be carried out before the end of the story. This Compulsion persists even if you feed from a vessel with a different Resonance or the same Resonance with a lesser Temperament later in the story. If it isn’t resolved at the end of the story, these suppressed emotions are released in a messy, potentially violent way of the Storyteller’s choosing. You may select this Flaw again to be sensitive to an additional Resonance.
+You’re sensitive to the secret flavors of blood, and one of them really messes with your head. Pick one Resonance, excepting Animal and Void. When you feed on a vessel with that Resonance at an Intense or higher Temperament, your Storyteller creates a unique Compulsion (Core p.208) based on that Resonance that must be carried out before the end of the story. This Compulsion persists even if you feed from a vessel with a different Resonance or the same Resonance with a lesser Temperament later in the story. If it isn’t resolved at the end of the story, these suppressed emotions are released in a messy, potentially violent way of the Storyteller’s choosing. You may select this Flaw again to be sensitive to an additional Resonance.
 
 </details>
 
@@ -1041,6 +1116,14 @@ You find the act of feeding extremely personal and cannot take blood from mortal
 </details>
 
 #### Herd
+
+<details>
+
+<summary><strong>Obvious Predator </strong><mark style="color:green;"><strong>•• (Core pp.189-190)</strong></mark></summary>
+
+You exude a predatory demeanor, and humans instinctively fear and mistrust you. Lose two dice from any dice pool for hunting except purely Physical expressions of stalking, chasing, and killing. Lose one die from any dice pool for any Social test intended to put humans at ease. You cannot maintain a [<mark style="color:purple;">Herd</mark>](https://wiki.capetownvtm.com/material-availability/advantages-and-flaws#herd).
+
+</details>
 
 #### Influence
 
@@ -1106,7 +1189,37 @@ Your dead body has forgotten the basics: blinking, breathing, and automatic refl
 
 #### Mask
 
+<details>
+
+<summary><strong>Known Blankbody </strong><mark style="color:green;"><strong>••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
+
+Your biometrics, name, history, known associates, and aliases appear in several intelligence agency databases, flagged as a potential terrorist. Any inquisitor can read between the lines and recognize you as a vampire.
+
+</details>
+
+<details>
+
+<summary><strong>Known Corpse </strong><mark style="color:green;"><strong>••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
+
+People know you died recently and react with shock and horror if you appear among them. This Flaw also applies to any database lookups on your identity.
+
+</details>
+
 #### Mawla
+
+<details>
+
+<summary><mark style="color:green;"><strong>Adversary •-•• (Core pp.184-185)</strong></mark></summary>
+
+A fellow Cainite who generally wishes you (or more likely your sire, lineage, or mentor) ill, an Adversary is the reverse Flaw of the Mawla Background. Adversaries range from one-dot elders to three-dot Princes or powerful cabals. The Storyteller uses either the Adversary’s Status or some specific other Background when building dice pools with which to oppose the player characters, not the dots in Adversary.
+
+• Elder
+
+•• Primogen or Anarch Revolutionary Council member
+
+••• Prince or Baron
+
+</details>
 
 <details>
 
@@ -1115,24 +1228,6 @@ Your dead body has forgotten the basics: blinking, breathing, and automatic refl
 **Prerequisite:** [<mark style="color:purple;">Mawla</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**•**</mark><mark style="color:purple;">+</mark>](./#mawla-core-pp.192-193)
 
 Your Mawla has a hold over you, and once per story requires you to do a minor task (equivalent to a minor boon) which cannot become public. If you fail to complete this task, next story it increases from the equivalent of a minor boon to a major boon. If the task is still left unresolved, this flaw is forfeited and should be replaced by 2 or more combined dots of other flaws, such as Shunned or an Adversary.
-
-</details>
-
-#### Substance Use
-
-<details>
-
-<summary><mark style="color:green;"><strong>Addiction •</strong></mark> <mark style="color:green;"><strong>(Core p.180)</strong></mark></summary>
-
-Lose one dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Hopeless Addiction ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
-
-Lose two dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
 
 </details>
 
@@ -1196,19 +1291,19 @@ At any point in which your Hunger is 3 or higher your body shrivels and decays, 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Stigmata •</strong></mark> <mark style="color:red;"><strong>(</strong><strong>Core p.182</strong><strong>)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Twice-Cursed ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
 
-You begin to bleed from open wounds on your hands, feet, and forehead when you reach Hunger 4. This attracts attention, leaves traces, and may penalize some dice pools at the Storyteller’s discretion.
+You are cursed with additional Bane, making you labor under additional weight borne out of your clan founder’s flawed nature.
+
+Take your clan’s variant Bane (Players Guide p.56) in addition to your regular Bane. The Storyteller can prohibit this Flaw if the second Bane would cause problems for, or lack impact in, the chronicle.
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Twice-Cursed ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
+<summary><mark style="color:red;"><strong>Stigmata •</strong></mark> <mark style="color:red;"><strong>(</strong><strong>Core p.182</strong><strong>)</strong></mark></summary>
 
-You are cursed with additional Bane, making you labor under additional weight borne out of your clan founder’s flawed nature.
-
-Take your clan’s variant Bane (see p. 56) in addition to your regular Bane. The Storyteller can prohibit this Flaw if the second Bane would cause problems for, or lack impact in, the chronicle.
+You begin to bleed from open wounds on your hands, feet, and forehead when you reach Hunger 4. This attracts attention, leaves traces, and may penalize some dice pools at the Storyteller’s discretion.
 
 </details>
 
@@ -1242,13 +1337,29 @@ You don’t get affirmation from scourging your own flesh; rather, your utter se
 
 <summary><mark style="color:red;"><strong>Horrible Scars of Penitence •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
 
-Your devotion is writ large on your flesh in a mass of awful welts, the scarified marks of your faith, or the evidence of other tools of self-mortification emblazoned on your body. You are extremely distinctive in this respect, and anyone who looks at you can immediately recognize the signs of faith taken to an extreme — even if you cease to perform such physical acts of penitence. This Flaw is equivalent to the Repulsive Flaw (see Vampire: The Masquerade, p. 179), but only when you’re among vampires and mortals not from within your cult.
+Your devotion is writ large on your flesh in a mass of awful welts, the scarified marks of your faith, or the evidence of other tools of self-mortification emblazoned on your body. You are extremely distinctive in this respect, and anyone who looks at you can immediately recognize the signs of faith taken to an extreme — even if you cease to perform such physical acts of penitence. This Flaw is equivalent to the [<mark style="color:purple;">Repulsive</mark>](./#repulsive-core-p.179) Flaw, but only when you’re among vampires and mortals not from within your cult.
 
 </details>
 
 #### Resources
 
+<details>
+
+<summary><strong>Destitute </strong><mark style="color:green;"><strong>•</strong></mark> <mark style="color:green;"><strong>(Core p.)</strong></mark></summary>
+
+You have no money and no home.
+
+</details>
+
 #### Retainers
+
+<details>
+
+<summary><strong>Stalkers </strong><mark style="color:green;"><strong>•</strong></mark> <mark style="color:green;"><strong>(Core p.)</strong></mark></summary>
+
+You have a tendency to attract people who become a tad too smitten with you for your own good. A former Retainer retains their memory of you and a desire to reconnect. They may be hungry, love-maddened, desperate, opportunistic, or any combination or variation. Should you get rid of them, another soon appears.
+
+</details>
 
 #### Status
 
@@ -1257,6 +1368,40 @@ Your devotion is writ large on your flesh in a mass of awful welts, the scarifie
 <summary><mark style="color:red;"><strong>Mortal Pretender •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
 While all right-minded Kindred do their best to blend in with mankind, you go above and beyond to the point where you might have decided to lead a mortal life despite your new diet. It unsettles your undead peers. You suffer a two-dice penalty for all Social tests involving vampires specifically dedicated to upholding the Masquerade, such as Vehme coteries, Sheriffs and their Hounds, Archons and Justicars.
+
+</details>
+
+<details>
+
+<summary><strong>Shunned </strong><mark style="color:green;"><strong>•</strong></mark> <mark style="color:green;"><strong>(Core p.)</strong></mark></summary>
+
+You’re completely loathed by this sect. You betrayed them, crossed a local leader, or fought them in the past. Members of this group will actively work against you if they can.
+
+</details>
+
+<details>
+
+<summary><strong>Suspect </strong><mark style="color:green;"><strong>•</strong></mark> <mark style="color:green;"><strong>(Core p.)</strong></mark></summary>
+
+You’re not good with this sect at all. You weaseled out of a boon, broke an oath, or did something similar. You can try to stay out of sight and out of mind, but unless you somehow make amends, you suffer a two-dice penalty to all Social tests involving the offended faction.
+
+</details>
+
+#### Substance Use
+
+<details>
+
+<summary><mark style="color:green;"><strong>Addiction •</strong></mark> <mark style="color:green;"><strong>(Core p.180)</strong></mark></summary>
+
+Lose one dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Hopeless Addiction ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
+
+Lose two dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
 
 </details>
 
@@ -1432,9 +1577,9 @@ The Blood did something strange to you. Whereas your aura was once vibrant and f
 
 <details>
 
-<summary><mark style="color:green;"><strong>Baneful Blood •-••</strong></mark> <mark style="color:green;"><strong>(Players Guide pp.141-142) *Need to look over clans</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Baneful Blood •-••</strong></mark> <mark style="color:green;"><strong>(Players Guide pp.141-142)</strong></mark></summary>
 
-Due to some mysterious property of the Blood, you experience the bane of your first domitor’s clan to a degree. Your first domitor, the Kindred whose blood you tasted in order to become a ghoul, must be of Clan Lasombra, Malkavian, Ministry, Nosferatu, Ravnos, Salubri, or Toreador. Even if your domitor changes, the bane you experience does not.
+Due to some mysterious property of the Blood, you experience the bane of your first domitor’s clan to a degree. Your first domitor, the Kindred whose blood you tasted in order to become a ghoul, must be of Clan Lasombra, Malkavian, Nosferatu, Ravnos, or Ventrue. Even if your domitor changes, the bane you experience does not.
 
 You experience the domitor’s bane at one level for each dot in this Flaw.
 
@@ -1460,8 +1605,6 @@ You lose one die on Social pools involving mortals because your fangs make them 
 
 ## Banned
 
-### Backgrounds
-
 ### Merits
 
 <details>
@@ -1484,11 +1627,9 @@ Revolt and the Convention of Thorns\
 
 <summary><mark style="color:red;"><strong>Mythic, Luck of the Devil ••••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.119)</strong></mark> </summary>
 
-You owe another Kindred (or two others) two minor boons. The debt-holder wields more power and influence than you within vampire society, though not necessarily within your sect. They receive a one-die bonus in Social combat against you while they hold your marker. They may call in either of these debts at any time, but practically they do so when you really really don’t want to (or absolutely can’t) pay them off. However, if you do manage to successfully pay off both debts, you don’t need to take another Flaw to “balance” your character. The creditor still likes to lord it over you, though, and retains the one-die bonus.
+Someone else will always take the fall for your missteps as long as someone’s available to take the blame. Whether this is because of a face everyone loves, a guardian angel, or something far darker, you manage to slip, skate, and dodge out of trouble, though you’re in constant need of new friends as you burn through them like a wildfire.
 
-You can absolutely take this Flaw alongside one or more Minor Boons (Vampire: The Masquerade, pp. 193 and 315) at character creation. You cannot take this Flaw owing another player’s character the boons in question.
-
-For more a more detailed breakdown of Prestation Debts and Boons as Backgrounds, see Boons and Debts, p. 115.
+Once per session you can have a misfortune — an attack, an accusation, a blame, or anything in between — directed at you befall someone else close to you. This can be an ally, retainer, coterie mate, or even a Touchstone. The Storyteller is the final arbiter on what counts as a proper misfortune.
 
 </details>
 
@@ -1534,15 +1675,13 @@ Something you own wants you dead. Once per session, at a time determined by the 
 
 You owe another Kindred (or two others) two minor boons. The debt-holder wields more power and influence than you within vampire society, though not necessarily within your sect. They receive a one-die bonus in Social combat against you while they hold your marker. They may call in either of these debts at any time, but practically they do so when you really really don’t want to (or absolutely can’t) pay them off. However, if you do manage to successfully pay off both debts, you don’t need to take another Flaw to “balance” your character. The creditor still likes to lord it over you, though, and retains the one-die bonus.
 
-You can absolutely take this Flaw alongside one or more Minor Boons (Vampire: The Masquerade, pp. 193 and 315) at character creation. You cannot take this Flaw owing another player’s character the boons in question.
-
-For more a more detailed breakdown of Prestation Debts and Boons as Backgrounds, see Boons and Debts, p. 115.
+You can absolutely take this Flaw alongside one or more Minor Boons (Core pp.193, 315) at character creation. You cannot take this Flaw owing another player’s character the boons in question.
 
 </details>
 
 <details>
 
-<summary><mark style="color:green;"><strong>Stake Bait •• </strong></mark><em><mark style="color:green;"><strong>Mythic</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(Core p.183)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Stake Bait ••</strong></mark> <mark style="color:green;"><strong>(Core p.183)</strong></mark></summary>
 
 You meet Final Death when staked through the heart, rather than entering torpor.
 
@@ -1550,7 +1689,7 @@ You meet Final Death when staked through the heart, rather than entering torpor.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Land Locked • </strong></mark><em><mark style="color:red;"><strong>Mythic</strong></mark></em><mark style="color:red;"><strong> </strong><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Land Locked •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
 
 You cannot leave the land, and any journey over air or sea enrages your Beast to the point of madness. You must make a Fear Frenzy test (Difficulty 3) to board a boat or plane.
 
