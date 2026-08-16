@@ -108,8 +108,6 @@ The major occult foe or force in the chronicle often interferes in your life, se
 
 </details>
 
-### Banned Merits
-
 ### Banned Flaws
 
 <details>
@@ -385,7 +383,3 @@ Your Blood is unable to sustain vampiric powers by itself. Unless you drink enou
 You regain your powers as soon as you slake at least one Hunger with vampire Blood.
 
 </details>
-
-### Banned Merits
-
-### Banned Flaws

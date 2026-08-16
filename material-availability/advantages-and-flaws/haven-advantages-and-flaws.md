@@ -1,14 +1,38 @@
 # Haven Advantages and Flaws
 
-## Merits
+<details>
+
+<summary><strong>Haven •-••• (Core p.188)</strong></summary>
+
+Like all Backgrounds, the Haven Background is entirely optional. A vampire with no dots in Haven has a suicide’s grave, a room in an abandoned motel, a rented office, or an apartment with windows blacked out with plastic bags. They can still remain safe and hidden by day in this relatively small and insecure haven by default. The Storyteller may allow a player character to default a somewhat better haven from another Background such as Resources, Status, or Influence. Of course, if those Backgrounds go away, so does the character’s nice haven.
+
+A character with none of those other Backgrounds, however, can still have a perfectly reasonable haven as long as they have this Background. For instance, a character might not have enough money to afford a 20-room Victorian mansion in today’s economy, but if their great-grandmother left them one that had been fully paid for, there’s no reason they can’t remain in residence as it slowly dilapidates.
+
+Base ratings in Haven abstract the haven’s size, security, and privacy. All of those factors affect the chance of spotting, penetrating, and surveilling the vampire’s actual resting place. Add +1 to the Difficulty of, or one die to dice pools resisting, such efforts for each dot of base Haven rating.
+
+Kindred know their havens intimately. For each dot of base Haven rating, add one per dot to dice pools to notice danger (including awakening rolls, p. 219) while in your haven.
+
+• Small haven, but more secure and private than the default. Examples: basement apartment, crypt, locked storeroom in a warehouse.
+
+•• Good size, security, or privacy. Examples: a single-family home or row house, wolf enclosure at the zoo, branch sewer tunnel.
+
+••• Very large, secure, or private. Examples: a compound outside town, a bank building, a decommissioned subway station.
+
+</details>
 
 <details>
 
-<summary>Haven •-••• (Core p.188)</summary>
+<summary><strong>No Haven • (Core p.188)</strong></summary>
 
-Base ratings in Haven abstract the haven’s size, security, and privacy. All of those factors affect the chance of spotting, penetrating, and surveilling the vampire’s actual resting place. Add +1 to the Difficulty of, or one die to dice pools resisting, such efforts for each dot of base Haven rating. Kindred know their havens intimately. For each dot of base Haven rating, add one per dot to dice pools to notice danger (including awakening rolls, p. 219) while in your haven.
+You must go to some effort (at least a basic test) to find a new resting place every morning.
 
 </details>
+
+## Merits
+
+You can add Merits and Flaws to your Haven if you wish. They stack with the base Haven rating to produce the total dots in this Background for projects and other uses.
+
+Remember, you can make Haven a shared Background among your coterie – easily the best way to afford a Haven with lots of features.
 
 <details>
 
@@ -84,49 +108,57 @@ You keep a shrine in your haven. The number of dots purchased in this Merit are 
 
 <details>
 
-<summary>Cell • (Core p.189)</summary>
+<summary><strong>Cell • (Core p.189)</strong></summary>
 
-
-
-</details>
-
-<details>
-
-<summary>Watchmen • (Core p.189)</summary>
-
-
+Your haven has a dedicated, locked place to store two prisoners, with a base Difficulty to escape of 5. Each extra dot either allows you to store twice as many prisoners (up to a maximum of 32, only in very large havens) or adds +1 to the escape Difficulty. This Merit is not available in small havens.
 
 </details>
 
 <details>
 
-<summary>Laboratory • (Core p.189)</summary>
+<summary><strong>Hidden Armory • (Core p.189)</strong></summary>
 
-
-
-</details>
-
-<details>
-
-<summary>Library • (Core p.189)</summary>
-
-
+Each dot in this Merit adds a stand of arms to your haven’s supply: one pistol and one long firearm, with ammunition. They are as secure from discovery as your resting place.
 
 </details>
 
 <details>
 
-<summary>Location • (Core p.189)</summary>
+<summary><strong>Watchmen • (Core p.189)</strong></summary>
 
-
+You have either private security or criminal thugs guarding your haven. Each dot of this Merit supplies four Average guards and one Gifted boss (see Mortal Templates, p. 185). If guards would be conspicuous here, buy this Merit cautiously.
 
 </details>
 
 <details>
 
-<summary>Luxury • (Core p.189)</summary>
+<summary><strong>Laboratory • (Core p.189)</strong></summary>
 
+Your haven has an equipped laboratory with a dedicated industrial sink, gas jet, reinforced floor, etc. Each dot of this Merit adds one to the dice pool for rolls related to one Science or Technology specialty or to Alchemy dice pools for thin-bloods using the Fixatio method (p. 284). This Merit is not available in small havens.
 
+</details>
+
+<details>
+
+<summary><strong>Library • (Core p.189)</strong></summary>
+
+Your Haven has a dedicated library on the occult, Cainite legends, city history, vampire lore, or the like. Each dot of this Merit adds one to the dice pool for research rolls for one Academics, Investigation, or Occult specialty. Small havens limit this Merit to a maximum of one dot.
+
+</details>
+
+<details>
+
+<summary><strong>Location • (Core p.189)</strong></summary>
+
+Your haven nestles in one of the most fashionable or otherwise exclusive areas of the city, in the Rack, on a small island, or otherwise in a prime spot. Add two dice (or +2 to foes’ Difficulty) to bonuses on the relevant die rolls from either Chasse (p. 195) or from your base Haven rating (pick one). If neither modifier precisely maps to what you have in mind, work out with your Storyteller when you can expect a two-dice bonus to occur. For example, a Haven close to Elysium might grant a two-dice bonus to Etiquette tests in Elysium and on tests to pick up on court gossip.
+
+</details>
+
+<details>
+
+<summary><strong>Luxury • (Core p.189)</strong></summary>
+
+High-definition flat screens, designer furniture, objets d’art, or other expensive details give you a two-dice bonus to Social tests dealing with mortal guests in your haven. If you don’t have at least three dots of [<mark style="color:purple;">Resources</mark>](https://wiki.capetownvtm.com/material-availability/advantages-and-flaws#resources), your décor was gained illegally.
 
 </details>
 
@@ -170,37 +202,65 @@ Vehicles are easy to trace, and their size makes them harder to hide. To ensure 
 
 <details>
 
-<summary>Postern • (Core p.189)</summary>
+<summary><strong>Postern • (Core p.189)</strong></summary>
 
-
-
-</details>
-
-<details>
-
-<summary>Security System • (Core p.189)</summary>
-
-
+Your Haven has a rear exit, secret tunnel, grating in the cellar leading into the sewers, or other unobtrusive way out. For each dot of this Merit, add one die to your dice pools to evade or escape surveillance near your haven.
 
 </details>
 
 <details>
 
-<summary>Surgery • (Core p.189)</summary>
+<summary><strong>Security System • (Core p.189)</strong></summary>
 
-
+Your haven has a better-than-average security system. For each dot of this Merit, add one die to your dice pool to resist (or alert you to) unauthorized entry into your haven.
 
 </details>
 
 <details>
 
-<summary>Warding • (Core p.189)</summary>
+<summary><mark style="color:purple;"><strong>Surgery • (Core p.189)</strong></mark></summary>
 
+**Prerequisite:** Haven 2+
 
+Your haven has one room equipped as a field surgery or better. Add two dice to relevant dice pools, generally Medicine, for tests performed in your haven. This Merit is not available in small havens.
 
 </details>
 
-Flaws
+<details>
+
+<summary><mark style="color:purple;"><strong>Warding • (Core p.189)</strong></mark></summary>
+
+**Prerequisite:** Occult 3+, [<mark style="color:purple;">Blood Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#blood-sorcery)
+
+Your haven possesses some kind of magical ward barring supernatural forces. You may not be able to deactivate it, but it allows you to pass. Discuss the limits of your ward with the Storyteller. Each dot of this Merit adds one to the dice pool to resist supernatural scrying, as well as whatever other entry the Storyteller allows it to prevent. The Storyteller may require you to possess Occult 3 or better, or Blood Sorcery, to buy this Merit.
+
+</details>
+
+## Flaws
+
+<details>
+
+<summary><strong>Compromised • (Core p.189)</strong></summary>
+
+Your haven has been raided once before, perhaps before it was yours. It probably appears on someone’s watchlist. Invaders or spies can add two dice to their pool to penetrate or surveil your haven. If you ever do get on the Inquisition’s radar, you should think about moving out.
+
+</details>
+
+<details>
+
+<summary><strong>Creepy • (Core p.189)</strong></summary>
+
+Your haven looks like the den of a serial killer, which in fairness is probably exactly what it is. Unknowing neighbors might phone in a tip to the cops or just talk about the creepy place they saw. Your dice pools on Social tests to seduce or otherwise put human guests at ease are at a two-dice penalty.
+
+</details>
+
+<details>
+
+<summary><strong>Haunted • (Core p.189)</strong></summary>
+
+Your haven has a supernatural manifestation in it that you do not control or really even understand. It might just have a ghost, but a Haunted haven could hold a dimensional portal, a cursed meteorite, or anything else you can’t get rid of. Obviously, someone who does understand the manifestation could use it to breach your haven’s security. The Storyteller defines any other effect of the haunting, imposing at least a one-die penalty to affected pools used in the haven per dot of Haunted taken as a Flaw.
+
+</details>
 
 <details>
 

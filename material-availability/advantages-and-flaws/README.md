@@ -528,7 +528,31 @@ The powers that be are very reluctant to punish you for even the most egregious 
 
 <summary><mark style="color:green;"><strong>Allies •-•••• (Core pp.184-185)</strong></mark></summary>
 
-Allies are mortals who support and help you: family, friends, or even a mortal organization that owes you some loyalty. Although Allies usually aid you willingly, without coaxing or coercion, they are not always available to offer assistance; they have their own concerns and can do only so much for the sake of your relationship. Usually, Allies appear about once per story. Allies will not use Reliability.
+Allies are mortals who support and help you: family, friends, or even a mortal organization that owes you some loyalty. Although Allies usually aid you willingly, without coaxing or coercion, they are not always available to offer assistance; they have their own concerns and can do only so much for the sake of your relationship. Usually, Allies appear about once per story. Allies do not use Reliability.
+
+• Weak mortal, likely useless in a violent or potentially violent situation.
+
+`■ Attributes: Two at 2, the rest at 1`\
+`■ Skills: Three at 2, five at 1`\
+`■ Advantages: None`
+
+•• Average mortal or a tight-knit group of Weak mortals (neighborhood kids who solve mysteries, church group, NGO chapter)
+
+`■ Attributes: Two at 3, three at 2, the rest at 1`\
+`■ Skills: Three at 3, four at 2, five at 1`\
+`■ Advantages: 3 points, 2 points of Flaws`
+
+••• Gifted mortal or a dangerous group of Average mortals (a street gang, a celebrity entourage, a blue-collar union local)
+
+`■ Attributes: One at 4, two at 3, two at 2, the rest at 1`\
+`■ Skills: Two at 4 (one with a Specialty), four at 3, four at 2, four at 1`\
+`■ Advantages: 10 points, 4 points of Flaws`
+
+•••• Deadly mortal, a Gifted mortal with magic or other supernatural powers, or a well-armed group of Gifted mortals (a private security squad , a lawyer contingent, a Russian Mafia bratva)
+
+`■ Attributes: Two at 5, two at 4, two at 3, the rest at 2`\
+`■ Skills: One at 5, three at 4, five at 3, six at 2; three Specialties`\
+`■ Advantages: 15 points, no Flaws`
 
 </details>
 
@@ -538,7 +562,13 @@ Allies are mortals who support and help you: family, friends, or even a mortal o
 
 <summary><mark style="color:green;"><strong>Contacts •-••• (Core pp.185-186)</strong></mark></summary>
 
-A Contact is someone in an excellent position to get information. They might be a police dispatcher, rather than a homicide lieutenant, or a congressional staffer, rather than a senator. Information brokers, gossip columnists, underworld fixers, and reporters make excellent Contacts.
+You know people – human people – from many different walks of life. Contacts primarily provide you with information in their areas of expertise, and they may want to exchange favors of various kinds. For different kinds of help, use your Influence (p. 187) in the mortal world, or call on your Allies (p. 184) or Mawla (p. 192). A Contact is someone in an excellent position to get information. They might be a police dispatcher, rather than a homicide lieutenant, or a congressional staffer, rather than a senator. Information brokers, gossip columnists, underworld fixers, and reporters make excellent Contacts.&#x20;
+
+• One Contact who can do or get something cheap or common for you (Resources 1). Examples: a weed dealer, a car salesman.
+
+•• One Contact who can do or get something useful for you (Resources 2). Examples: small-time gun dealer, veterinarian.
+
+••• One Contact who can do or get something expensive or hard for you (Resources 4). Examples: security systems expert; police lieutenant in homicide, narcotics, or other useful field.
 
 </details>
 
@@ -558,7 +588,13 @@ As an immensely beloved figure before your Embrace, you’ve learned that the be
 
 <summary><mark style="color:green;"><strong>Fame •-••••• (Core pp.186-187)</strong></mark></summary>
 
-Each level of Fame subtracts one from the Difficulty of Social tests against your fans and from many hunting tests, depending on your predation strategy – you have less trouble attracting prey. In some circumstances, the Storyteller may allow you to use Fame in a Social test dice pool instead of another Trait, especially to get into an otherwise exclusive venue or event. “Do you know who I am?” doesn’t work everywhere, but it does work.
+Mortals know your name and eagerly seek out news of your activities. You might be a movie star, rock star, or other celebrity. Fame grants pull in mass and social media; you have more ways than most to manipulate the thoughts of the populace. You likely have ways to mask the fact that you’re never seen during the day, such as a body double.
+
+In some circumstances, the Storyteller may allow you to use Fame in a Social test dice pool instead of another Trait, especially to get into an otherwise exclusive venue or event. “Do you know who I am?” doesn’t work everywhere, but it does work. Each level of Fame subtracts one from the Difficulty of Social tests against your fans and from many hunting tests, depending on your predation strategy – you have less trouble attracting prey.&#x20;
+
+Fame has its downside, of course – it’s harder for you to tail someone unobtrusively, for example, and who wants groupies hanging around the door to their haven all day tagging its location on Instagram? You should look into taking Disguise as a specialty.
+
+By default, Fame applies among mortals, but you can also buy Fame that applies among Kindred for the same cost. Some vampires, such as Dracula or Elizabeth Bathory, might have both! Vampires may admire, or at least be more interested in, a Kindred who was famous or infamous in life: Arthur Rimbaud, Crispus Attucks, Billy the Kid, and the like.
 
 </details>
 
@@ -588,7 +624,21 @@ People don’t just love you — they take your word as gospel. You write social
 
 <summary><mark style="color:green;"><strong>Influence •-••••• (Core pp.187-188)</strong></mark></summary>
 
-Influence applies most within one group or region of your city. Groups can be large, even diffuse: organized crime, media, religion, the police, city government, etc. The Storyteller may require you to use Influence in place of a Trait in some dice pools, particularly Social tests attempting to sway minor bureaucrats or the equivalent in your group. This Background helps you have an “abandoned” building demolished (or preserved), not start global wars.
+You have pull in the mortal community, whether through wealth, prestige, political office, blackmail, or supernatural manipulation. Kindred with high Influence can sway, and in rare cases even control, the politics and society of their city, especially the police and city bureaucracy.
+
+By default, Influence applies most within one group or region of your city. Groups can be large, even diffuse: organized crime, media, religion, the police, city government, etc. Regions should be larger than neighborhoods or all but the largest individual domains: Brooklyn, the Rive Gauche, the South Side, the Ginza, etc. Your Influence applies to the city as a whole at one dot less than it does within your group or region. Using local Influence in another city in the same area, state, or province might be possible at an additional one-dot penalty, and so on. So, a vampire might be Powerful (••••) in Hollywood, Entrenched (•••) everywhere in Los Angeles, merely Influential (••) in San Diego or San Francisco, and just Well-Connected (•) in Chicago or New York.
+
+The Storyteller may require you to use Influence in place of a Trait in some dice pools, particularly Social tests attempting to sway minor bureaucrats or the equivalent in your group. This Background helps you have an “abandoned” building demolished (or preserved), not start global wars.
+
+`• Well-connected: You’re guaranteed a respectful hearing.`
+
+`•• Influential: People want to do you favors.`
+
+`••• Entrenched: Mortal power-brokers and factions hesitate to oppose you.`
+
+`•••• Powerful: Without a good reason to do otherwise, functionaries and foot soldiers obey.`
+
+`••••• Dominant: Lesser figures try to figure out what you want and do it first.`
 
 </details>
 
@@ -677,6 +727,26 @@ You can take this Background a maximum of three times, with a different secret e
 #### Adversary
 
 #### Allies
+
+<details>
+
+<summary><mark style="color:green;"><strong>Enemies •-•• (Core pp.184-185)</strong></mark></summary>
+
+Enemies are the opposite of [<mark style="color:purple;">Allies</mark>](./#allies-core-pp.184-185) and are taken as Flaws.
+
+• Gifted mortal or a dangerous group of Average mortals (a street gang, a celebrity entourage, a blue-collar union local)
+
+`■ Attributes: One at 4, two at 3, two at 2, the rest at 1`\
+`■ Skills: Two at 4 (one with a Specialty), four at 3, four at 2, four at 1`\
+`■ Advantages: 10 points, 4 points of Flaws`
+
+•• Deadly mortal, a Gifted mortal with magic or other supernatural powers, or a well-armed group of Gifted mortals (a private security squad , a lawyer contingent, a Russian Mafia bratva)
+
+`■ Attributes: Two at 5, two at 4, two at 3, the rest at 2`\
+`■ Skills: One at 5, three at 4, five at 3, six at 2; three Specialties`\
+`■ Advantages: 15 points, no Flaws`
+
+</details>
 
 #### Archaic
 
@@ -870,6 +940,32 @@ You gain another clan’s bane in addition to your own. Tremere may select this 
 
 #### Fame
 
+<details>
+
+<summary><mark style="color:green;"><strong>Infamy •-••• (Core p.187)</strong></mark></summary>
+
+You are famous for something horrible. At the very least, the Difficulty of most reaction tests increases by the amount of the Flaw; at worst, the authorities attempt to kill or capture you whenever you appear.
+
+• Most people in the country know your name, at least.
+
+•• Everybody who even vaguely cares about social trends or your field knows something about you.
+
+••• Your Infamy reaches mass national or even global audiences. You are a major movie star, stadium-filling rock act, or former president.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Dark Secret •-••• (Core p.187)</strong></mark></summary>
+
+You can also take Dark Secret, a milder version of Infamy. The Dark Secret Flaw provides one fewer point than the equivalent Infamy, as your black deeds remain unknown to all but you and perhaps one or two very motivated enemies. The one-dot version of Infamy also provides one point as a Dark Secret, because it’s easier to uncover than a truly life-threatening secret.
+
+• You owe a big debt to bad people or have made yourself generally odious. Alternately, your spouse, lover, or close family member has Infamy ••.
+
+•• You are a Cleaver or serial breacher of the Masquerade, have been Blood Hunted out of another city, or have grievously offended this domain’s ruler.
+
+</details>
+
 #### Feeding
 
 <details>
@@ -947,6 +1043,22 @@ You find the act of feeding extremely personal and cannot take blood from mortal
 #### Herd
 
 #### Influence
+
+<details>
+
+<summary><mark style="color:green;"><strong>Disliked • (Core pp.187-188)</strong></mark></summary>
+
+Subtract one die from Social test dice pools involving any group in the city except your Contacts and Allies or other explicitly loyal supporters.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Despised •• (Core p.187)</strong></mark></summary>
+
+One group or region of the city lives only to thwart you and your faction. Subtract two dice from dice pools attempting to convince a neutral actor to support you politically or do you a favor. The Storyteller should take any opportunity to involve your haters in the story.
+
+</details>
 
 #### Looks
 
