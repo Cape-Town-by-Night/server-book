@@ -134,6 +134,8 @@ You owe several minor boons, or even a few major boons, to a high-Status vampire
 
 ## Thin-Blood
 
+These Merits and Flaws only apply to Thin-Blood characters. They have no dot value; each Flaw balances a Merit, and vice versa. They thus do not count against the maximum dots in Advantages and Flaws allowed to be selected during character creation or purchased through experience.
+
 ### Allowed Merits
 
 <details>
@@ -146,9 +148,57 @@ Something in your Blood makes other vampires unable to stomach it. Whether it is
 
 <details>
 
+<summary><mark style="color:red;"><strong>Anarch Comrades (Core p.184)</strong></mark></summary>
+
+You have befriended the members of an Anarch coterie who tolerate your presence or even affectionately treat you as their pet. They cumulatively act as a one-dot Anarch Mawla, as long as you don’t deviate from the party line. Write them on the Relationship Map.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Camarilla Contact (Core p.184)</strong></mark></summary>
+
+You have caught the eye of a Camarilla recruiter who has promised you admittance and a chance at becoming a real vampire. All you need to do is keep your eyes and ears open, report on your and your coterie’s activities, and be prepared to perform any task asked of you. You have the equivalent of a one-dot Camarilla Mawla who treats you badly.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Catenating Blood (Core p.184)</strong></mark></summary>
+
+You can create Blood Bonds and perform the Embrace as a regular vampire. Any vampire you create this way will be a thin-blood.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Day Drinker (Core pp.184-185)</strong></mark></summary>
+
+Sunlight halves your Health tracker (rounded up), but otherwise simply removes your vampiric abilities, including all Disciplines and Health benefits, and does no other damage. You still suffer from Hunger, however, and sooner or later you’ll need to sleep. If your health drops below your currently sustained damage levels as a result of this, you suffer the effects of Impairment or torpor (depending on type of damage) until you are clear of sunlight.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Discipline Affinity (Core p.185)</strong></mark></summary>
+
+You have an affinity for a certain Discipline, picked at character creation. You gain a dot in this Discipline and can learn and retain additional dots in it through experience expenditures, as if you were a normal vampire. (The experience point cost is the same as an out-of-clan Discipline.) Drinking blood with matching Resonance does not reward you with any extra dots in this Discipline, temporary or not.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Faith-Proof (Players Guide p.136)</strong></mark></summary>
 
 Whether you consider yourself an atheist or devoutly religious, you remain too close to mortality for True Faith to affect you.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Lifelike (Core p.185)</strong></mark></summary>
+
+You have a heartbeat, can eat food, and enjoy sexual activities like a mortal. All but the most advanced medical inspections reveal nothing out of the ordinary, assuming they happen at night.
 
 </details>
 
@@ -184,13 +234,81 @@ Maybe you were a phlebotomist in life, or just didn’t like mess. You sip delic
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>Thin-blood Alchemist (Core p.185)</strong></mark></summary>
+
+The Duskborn change as they feed. Thin-Blood Alchemy is the mastery of this process. Whether it is spontaneous or a skill learned by comparing notes with other blood-cookers, you have gained one dot and one formula (p. 282) in Thin-blood Alchemy. You can purchase additional dots and formulae through experience as usual.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Vampiric Resilience (Core p.185)</strong></mark></summary>
+
+You suffer damage as a regular vampire, treating regular puncture and slashing wounds as Superficial damage.
+
+</details>
+
 ### Allowed Flaws
+
+<details>
+
+<summary><mark style="color:red;"><strong>Baby Teeth (Core p.183)</strong></mark></summary>
+
+You never developed fangs, or the ones you’ve got are useless for feeding. You either need to cut your victims open, or you extract their blood with a syringe.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Bestial Temper (Core p.183)</strong></mark></summary>
+
+You are afflicted with the Beast equal to a full vampire. You need to test for frenzy as per the normal vampire rules.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Branded by the Camarilla (Core pp.183-184)</strong></mark></summary>
+
+In some cities, the rulers simply hunt down and destroy thin-bloods. In other cities, the merciful Sheriff merely brands them, forcibly and painfully, to remind them of their place. (Many are then hunted down and destroyed, often on perceived slights or simple whims.) You have such an unhealing brand, and the Camarilla makes sure to keep its eyes peeled for the moment you step out of line. You can take Camarilla Contact with this Flaw; the Camarilla thrives on double-dealing of this sort.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Clan Curse (Core p.184)</strong></mark></summary>
+
+Remnants of your sire’s Blood still flows through your veins, carrying traces of their ancient curse. You must pick a Clan Bane to suffer from, counting your Bane Severity as 1 for this purpose.
+
+You can only pick the Brujah or Gangrel Bane if you possess the [<mark style="color:purple;">Bestial Temper</mark>](thin-blood-caitiff-merits-and-flaws.md#bestial-temper-core-p.183) Flaw, and the Tremere Bane only if you have the [<mark style="color:purple;">Catenating Blood</mark>](thin-blood-caitiff-merits-and-flaws.md#catenating-blood-core-p.184) Merit.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Dead Flesh (Core p.184)</strong></mark></summary>
+
+Your Blood is not strong enough to completely sustain you, and as an effect, your flesh is in a constant state of putrefaction, with a greenish tint and faint stench of rot.
+
+Any medical inspection will immediately identify you as deceased, and you receive a one-die penalty to any face-to-face Social test with a mortal. You cannot take [<mark style="color:purple;">Lifelike</mark>](thin-blood-caitiff-merits-and-flaws.md#lifelike-core-p.185) if you take this Flaw.
+
+</details>
 
 <details>
 
 <summary><mark style="color:red;"><strong>Heliophobia (Players Guide p.135)</strong></mark></summary>
 
 An overly cautious Sire hammered the reminder to avoid sunlight into you a little too hard, or you saw someone catch fire in a sunrise early after your Embrace. Either way, you fear sunlight as though you were a full vampire. You are susceptible to Terror Frenzy from sunlight.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mortal Frailty (Core p.184)</strong></mark></summary>
+
+You cannot Rouse the Blood to mend, instead healing as a mortal (p. 126). You cannot take [<mark style="color:purple;">Vampiric Resilience</mark>](thin-blood-caitiff-merits-and-flaws.md#vampiric-resilience-core-p.185) if you take this Flaw.
 
 </details>
 
@@ -207,6 +325,14 @@ You sleep as usual, with no memory of any of the dreams you may have had during 
 <summary><mark style="color:red;"><strong>Plague Bearer (Players Guide p.135)</strong></mark></summary>
 
 You are still susceptible to mortal sickness: colds, flu, and other more severe infections. Every time you feed you must roll a die for each Hunger slaked, and if any come up a “1,” you’ve caught something nasty. (Effect is up to the Storyteller, but could range from die penalties to slow Health degradation.) Mortal medicine doesn’t cure you; only drinking a functioning immune system by slaking your Hunger to 0 does so. And of course, you run the risk of infecting anyone you feed on, using the same die roll as above.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Shunned by the Anarchs (Core p.184)</strong></mark></summary>
+
+You broke an unwritten rule or thought yourself equal among equals, where some turned out more equal than others. In whichever case, the Anarchs of the regnum know of you and shun you. They’d rather throw you to the Camarilla than listen to your pleas. You cannot take [<mark style="color:purple;">Anarch Comrades</mark>](thin-blood-caitiff-merits-and-flaws.md#anarch-comrades-core-p.184) if you take this Flaw.
 
 </details>
 
@@ -247,6 +373,16 @@ You make others uncomfortable around you. Most mortals don’t want to be around
 <summary><mark style="color:red;"><strong>Unending Hunger (Players Guide p.135)</strong></mark></summary>
 
 Your Beast always hungers for more, never finding sustenance with smaller sips. When feeding in a scene you sate one less Hunger than other thin-bloods. This applies only once per scene.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Vitae Dependency (Core p.184)</strong></mark></summary>
+
+Your Blood is unable to sustain vampiric powers by itself. Unless you drink enough vampire Blood to slake one Hunger each week you lose your ability to gain and use any Disciplines (including Thin-Blood Alchemy).&#x20;
+
+You regain your powers as soon as you slake at least one Hunger with vampire Blood.
 
 </details>
 

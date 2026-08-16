@@ -546,19 +546,19 @@ A Contact is someone in an excellent position to get information. They might be 
 
 <details>
 
-<summary><mark style="color:green;"><strong>Fame •-••••• (Core pp.186-187)</strong></mark></summary>
-
-Each level of Fame subtracts one from the Difficulty of Social tests against your fans and from many hunting tests, depending on your predation strategy – you have less trouble attracting prey. In some circumstances, the Storyteller may allow you to use Fame in a Social test dice pool instead of another Trait, especially to get into an otherwise exclusive venue or event. “Do you know who I am?” doesn’t work everywhere, but it does work.
-
-</details>
-
-<details>
-
 <summary><mark style="color:purple;"><strong>Enduring Fame • (Live From the Succubus Club p.25)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Fame •••+</mark>](./#fame-core-pp.186-187)
 
 As an immensely beloved figure before your Embrace, you’ve learned that the benefits — and drawbacks — of stardom remain after death. When you lose points of Fame during a story, they return to full value at the start of the next story with no effort necessary.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Fame •-••••• (Core pp.186-187)</strong></mark></summary>
+
+Each level of Fame subtracts one from the Difficulty of Social tests against your fans and from many hunting tests, depending on your predation strategy – you have less trouble attracting prey. In some circumstances, the Storyteller may allow you to use Fame in a Social test dice pool instead of another Trait, especially to get into an otherwise exclusive venue or event. “Do you know who I am?” doesn’t work everywhere, but it does work.
 
 </details>
 
@@ -572,16 +572,6 @@ People don’t just love you — they take your word as gospel. You write social
 
 </details>
 
-#### Influence
-
-<details>
-
-<summary><mark style="color:green;"><strong>Influence •-••••• (Core pp.187-188)</strong></mark></summary>
-
-Influence applies most within one group or region of your city. Groups can be large, even diffuse: organized crime, media, religion, the police, city government, etc. The Storyteller may require you to use Influence in place of a Trait in some dice pools, particularly Social tests attempting to sway minor bureaucrats or the equivalent in your group. This Background helps you have an “abandoned” building demolished (or preserved), not start global wars.
-
-</details>
-
 #### Herd
 
 <details>
@@ -592,11 +582,21 @@ Influence applies most within one group or region of your city. Groups can be la
 
 </details>
 
+#### Influence
+
+<details>
+
+<summary><mark style="color:green;"><strong>Influence •-••••• (Core pp.187-188)</strong></mark></summary>
+
+Influence applies most within one group or region of your city. Groups can be large, even diffuse: organized crime, media, religion, the police, city government, etc. The Storyteller may require you to use Influence in place of a Trait in some dice pools, particularly Social tests attempting to sway minor bureaucrats or the equivalent in your group. This Background helps you have an “abandoned” building demolished (or preserved), not start global wars.
+
+</details>
+
 #### Mask
 
 <details>
 
-<summary><mark style="color:green;"><strong>Mask •-•• (Core p.190)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Cobbler • (Core p.191)</strong></mark></summary>
 
 
 
@@ -604,7 +604,7 @@ Influence applies most within one group or region of your city. Groups can be la
 
 <details>
 
-<summary><mark style="color:green;"><strong>Cobbler • (Core p.191)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Mask •-•• (Core p.190)</strong></mark></summary>
 
 
 
@@ -652,14 +652,6 @@ Influence applies most within one group or region of your city. Groups can be la
 
 <details>
 
-<summary><mark style="color:green;"><strong>Status •-••••• (Core p.194)</strong></mark></summary>
-
-
-
-</details>
-
-<details>
-
 <summary><mark style="color:red;"><strong>City Secrets •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.118)</strong></mark> </summary>
 
 You have somehow acquired a damning secret about the city’s Kindred power structure, perhaps specifically about someone in it. Decide the exact nature of the information with the Storyteller. If the secret refers only to mortal business (“the Mayor is secretly fucking a Russian Mafiya soldier”), it’s just a way to explain your Influence.
@@ -672,85 +664,53 @@ You can take this Background a maximum of three times, with a different secret e
 
 </details>
 
+<details>
+
+<summary><mark style="color:green;"><strong>Status •-••••• (Core p.194)</strong></mark></summary>
+
+
+
+</details>
+
 ## <mark style="color:green;">Allowed Flaws</mark>
 
-#### Cultists
-
-<details>
-
-<summary><mark style="color:red;"><strong>Apocryphal Texts •</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.95)</strong></mark></summary>
-
-You possess the writings of one of your church’s founders or prominent figures. While they’re not official canon, the revelations within make you a sought-after expert. The texts aren’t merely apocryphal, they’re considered dangerous by your cult’s leaders. On social combat rolls involving the writings, increase the Willpower damage modifier by 1. You add one extra die to all appropriate Social dice pools.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Excommunicated •-••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.96)</strong></mark></summary>
-
-Once, you belonged. Something you did caused the leadership to cast you out and make you persona non grata among your peers. They’ve stripped your access to the cult’s support systems and resources. At one dot, subtract two dice from all rolls dealing with the cult or its members. At two dots, cultists actively try to destroy you: tanking your finances, undermining your reputation, and even calling a Blood Hunt if you dare enter their territory.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Faithless ••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.96)</strong></mark></summary>
-
-You don’t actually believe any of the cult’s doctrines. You’re only in it for the benefits, but true progress and power require a degree of commitment and you’re not willing to subject yourself to indoctrination. Keeping up appearances requires an exhausting degree of vigilance; it’s only a matter of time before someone asks you to prove your faith. Characters with this Flaw lose two dice on all Resolve and Composure rolls associated with acting for the cult and may learn no Rituals, Ceremonies, or purchase Loresheets associated with this cult higher than Level 2.
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Schism •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.97)</strong></mark></summary>
-
-**Prerequisite:** Must be a Church of Caine adherent, must be Lasombra
-
-One of your great-grandsires was among the members of the Night Clan participating in purging the Church of Caine several centuries ago. Others within the Crimson Curia eye you warily, lest you share your predecessor’s views in modern nights. Suffer a two dice penalty on Social rolls with other members of your cult.
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>False Alarms •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
-
-**Prerequisite:** Must be a Church of Set adherent
-
-The hairs on the back of your neck stand up. Your skin crawls. You feel the weight of unseen eyes upon you, even when you’re certain you’re alone. Your danger sense is not only always on, it’s in constant overdrive ... and it’s not always right. All failed Awareness rolls count as total failures (Vampire: The Masquerade, p. 122). The Storyteller may name up to three people or pieces of equipment in the scene the character believes is watching them. Any or all may be utterly benign.
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Empty •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
-
-**Prerequisite:** Must be a Cult of Shalim adherent
-
-You’ve carved away all of your fleeting, temporal joys. No bonds of love or lofty ambitions remain. While within the cult, hollowness is good, that emptiness radiates from you in a way that disturbs the uninitiated. People try to extricate themselves from your presence quickly, making it hard to have more than superficial conversations with them. Subtract two dice from Social rolls.
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Failed Initiate •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
-
-**Prerequisite:** Must be a Cult of Mithras adherent
-
-You faltered while taking one (or several) of the Seven Steps, and your Pater has assigned a guide to ensure your future success. While it reflects the cult’s investment in you, this vampire watches — and scrutinizes — your every move. They may interrupt your plans at a whim, offering instruction and demanding you prove yourself at inconvenient times.
-
-</details>
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Yearning •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
-
-**Prerequisite:** Must be Nephilim
-
-Your master is gone from your life. Perhaps she was Beckoned. Perhaps you broke off contact, or she did, or someone else came between you. No matter how much time has passed, you still wish you were at her side, pursuing her goals. When your plans come into conflict with those your master set down for you, spend two points of Willpower to work counter to her wishes. For extended actions, spend one point for each roll. If you have no Willpower points left to spend, your next action must be in pursuit of your master’s goals.
-
-</details>
-
 #### Adversary
+
+#### Allies
+
+#### Archaic
+
+<details>
+
+<summary><mark style="color:green;"><strong>Archaic •• (Core p.180)</strong></mark></summary>
+
+You haven’t been able to adapt to the present, or you have been long in torpor. You cannot use computers or cell phones, and your Technology rating is permanently 0. The Storyteller may penalize other dice pools involving very modern technology by one die.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Grief Phobia •</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.21)</strong></mark></summary>
+
+The traumatic loss of a Touchstone saddled you with a permanent phobia for something that reminds you of them, the way you lost them, or the Conviction they used to embody to you. You lose one die in all tests made while in the presence of your phobic stimulus (determine what this is when you take the Flaw). Examples could include a genre of music, a certain smell, or the Touchstone’s family members. You can take this Flaw once for each lost Touchstone in your past.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Living in the Past • (Core p.180)</strong></mark></summary>
+
+You haven’t grasped the modern mindset, or you just don’t want to. You have one or more seriously outdated Convictions, e.g. “The Pope’s word is law,” “Women are delicate flowers,” “Lower classes exist only to serve,” or “Burn your enemies’ baggage.” These archaic moralities maintain your Humanity but are odious to many; you lose one die from Social test dice pools involving such archaic beliefs except with vampires your age and older, who may admire your steadfast virtue.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Old Tricks •</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.21)</strong></mark></summary>
+
+You’ve never mastered the modern age: all your specialties must be Archaic specialties.
+
+</details>
 
 <details>
 
@@ -765,104 +725,6 @@ You did the thing other Kindred have trauma from — you created a childe and le
 <summary><mark style="color:red;"><strong>Touchstone Embraced By Your Enemies ••</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.20)</strong></mark></summary>
 
 This former Touchstone of yours didn’t simply die or change as a person — they were Embraced. Now they run with your enemies. This Adversary is a single neonate, but they have allies, and the mere confrontation with what they’ve become carries a risk of Stains.
-
-</details>
-
-#### Archaic
-
-<details>
-
-<summary><mark style="color:red;"><strong>Grief Phobia •</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.21)</strong></mark></summary>
-
-The traumatic loss of a Touchstone saddled you with a permanent phobia for something that reminds you of them, the way you lost them, or the Conviction they used to embody to you. You lose one die in all tests made while in the presence of your phobic stimulus (determine what this is when you take the Flaw). Examples could include a genre of music, a certain smell, or the Touchstone’s family members. You can take this Flaw once for each lost Touchstone in your past.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Old Tricks •</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.21)</strong></mark></summary>
-
-You’ve never mastered the modern age: all your specialties must be Archaic specialties.
-
-</details>
-
-#### Diablerie
-
-<details>
-
-<summary><mark style="color:red;"><strong>Blatant Diablerist •</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.45)</strong></mark></summary>
-
-The telltale signs of diablerie are always noticeable to those who have the ability to sense it. Discipline Powers or Merits that reveal past evidence of diablerie, such as Scry the Soul (Auspex 3) or A Taste for Blood (Blood Sorcery 1)always reveal diablerie, even if the test would otherwise fail or fail to reveal other information. You can only take this Flaw at character creation if your character has a history of having committed diablerie at least once.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Inherited Bane ••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.45)</strong></mark></summary>
-
-You gain another clan’s bane in addition to your own. Tremere may select this Flaw to gain the Salubri clan bane (Vampire Players Guide, p. 47) without having committed Diablerie.
-
-</details>
-
-#### Looks
-
-<details>
-
-<summary><mark style="color:green;"><strong>Ugly •</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
-
-You lose one die from all relevant Social dice pools.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Stench •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
-
-Your breath and body odor are supernaturally foul, redolent of open graves and rotting flesh. Even Nosferatu object to your stink. You can take minor steps to minimize the stench, such as splashing on plenty of cologne, but that causes other problems. Lose one die from seduction and similar Social dice pools, and lose two dice from Stealth pools against opponents who can smell, unless you are upwind.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Transparent •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
-
-For whatever reason, you aren’t a good liar, and it shows. You either have a terrible poker face or your parents instilled in you a strong urge to be truthful even when it hurts.
-
-Lose one die from any pools requiring Subterfuge. You cannot gain dots in Subterfuge.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Unblinking Visage •</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.45)</strong></mark></summary>
-
-Your dead body has forgotten the basics: blinking, breathing, and automatic reflexes You count your Humanity as two levels lower (To a minimum of zero) for the purpose of Blush of Life and similar life-mimicking activities, such as mortal intercourse or food consumption.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Repulsive ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
-
-You lose two dice from all relevant Social dice pools.
-
-</details>
-
-#### Substance Use
-
-<details>
-
-<summary><mark style="color:green;"><strong>Addiction •</strong></mark> <mark style="color:green;"><strong>(Core p.180)</strong></mark></summary>
-
-Lose one dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Hopeless Addiction ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
-
-Lose two dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
 
 </details>
 
@@ -892,23 +754,123 @@ Blood Bonds on you lose their Bond strength more slowly than normal, decreasing 
 
 </details>
 
+#### Contacts
+
+#### Contagion
+
+<details>
+
+<summary><mark style="color:red;"><strong>Disease Vector •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+The corrupt life energy of your vitae is fertile ground for the festering sicknesses of the kine. Whenever you feed from a sick mortal, you always contract that sickness and will pass it on to your next vessel.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Plaguebringer •-••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.87)</strong></mark></summary>
+
+You have a disease in your vitae that you cannot expunge and that manifests its symptoms on your body despite your undead state; even totally flushing all the blood from your body and drinking afresh does not rid you of it. It seems to well up from your corrupt soul. At one dot, the disease is minor but expresses visible traces such as a rash, sores, coughing or sneezing, or oozing mucus. At two dots, the disease is potentially severe if you leave it untreated, although it is not necessarily fatal. Furthermore, it does not need to leave visible symptoms upon you. In either case, mortal victims of your bite who are susceptible to the disease will contract it. The dice penalties stemming from this Flaw are situational, and more narrative penalties — such as having a sickly herd or weaker victims dying from subsequent illness — are advised.
+
+</details>
+
+#### Cultists
+
+<details>
+
+<summary><mark style="color:red;"><strong>Apocryphal Texts •</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.95)</strong></mark></summary>
+
+You possess the writings of one of your church’s founders or prominent figures. While they’re not official canon, the revelations within make you a sought-after expert. The texts aren’t merely apocryphal, they’re considered dangerous by your cult’s leaders. On social combat rolls involving the writings, increase the Willpower damage modifier by 1. You add one extra die to all appropriate Social dice pools.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Empty •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+
+**Prerequisite:** Must be a Cult of Shalim adherent
+
+You’ve carved away all of your fleeting, temporal joys. No bonds of love or lofty ambitions remain. While within the cult, hollowness is good, that emptiness radiates from you in a way that disturbs the uninitiated. People try to extricate themselves from your presence quickly, making it hard to have more than superficial conversations with them. Subtract two dice from Social rolls.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Excommunicated •-••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.96)</strong></mark></summary>
+
+Once, you belonged. Something you did caused the leadership to cast you out and make you persona non grata among your peers. They’ve stripped your access to the cult’s support systems and resources. At one dot, subtract two dice from all rolls dealing with the cult or its members. At two dots, cultists actively try to destroy you: tanking your finances, undermining your reputation, and even calling a Blood Hunt if you dare enter their territory.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Failed Initiate •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+
+**Prerequisite:** Must be a Cult of Mithras adherent
+
+You faltered while taking one (or several) of the Seven Steps, and your Pater has assigned a guide to ensure your future success. While it reflects the cult’s investment in you, this vampire watches — and scrutinizes — your every move. They may interrupt your plans at a whim, offering instruction and demanding you prove yourself at inconvenient times.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Faithless ••</strong></mark> <mark style="color:red;"><strong>(Children of the Blood p.96)</strong></mark></summary>
+
+You don’t actually believe any of the cult’s doctrines. You’re only in it for the benefits, but true progress and power require a degree of commitment and you’re not willing to subject yourself to indoctrination. Keeping up appearances requires an exhausting degree of vigilance; it’s only a matter of time before someone asks you to prove your faith. Characters with this Flaw lose two dice on all Resolve and Composure rolls associated with acting for the cult and may learn no Rituals, Ceremonies, or purchase Loresheets associated with this cult higher than Level 2.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>False Alarms •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+
+**Prerequisite:** Must be a Church of Set adherent
+
+The hairs on the back of your neck stand up. Your skin crawls. You feel the weight of unseen eyes upon you, even when you’re certain you’re alone. Your danger sense is not only always on, it’s in constant overdrive ... and it’s not always right. All failed Awareness rolls count as total failures (Vampire: The Masquerade, p. 122). The Storyteller may name up to three people or pieces of equipment in the scene the character believes is watching them. Any or all may be utterly benign.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Schism •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.97)</strong></mark></summary>
+
+**Prerequisite:** Must be a Church of Caine adherent, must be Lasombra
+
+One of your great-grandsires was among the members of the Night Clan participating in purging the Church of Caine several centuries ago. Others within the Crimson Curia eye you warily, lest you share your predecessor’s views in modern nights. Suffer a two dice penalty on Social rolls with other members of your cult.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Yearning •</strong></mark> <mark style="color:purple;"><strong>(Children of the Blood p.98)</strong></mark></summary>
+
+**Prerequisite:** Must be Nephilim
+
+Your master is gone from your life. Perhaps she was Beckoned. Perhaps you broke off contact, or she did, or someone else came between you. No matter how much time has passed, you still wish you were at her side, pursuing her goals. When your plans come into conflict with those your master set down for you, spend two points of Willpower to work counter to her wishes. For extended actions, spend one point for each roll. If you have no Willpower points left to spend, your next action must be in pursuit of your master’s goals.
+
+</details>
+
+#### Diablerie
+
+<details>
+
+<summary><mark style="color:red;"><strong>Blatant Diablerist •</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.45)</strong></mark></summary>
+
+The telltale signs of diablerie are always noticeable to those who have the ability to sense it. Discipline Powers or Merits that reveal past evidence of diablerie, such as Scry the Soul (Auspex 3) or A Taste for Blood (Blood Sorcery 1)always reveal diablerie, even if the test would otherwise fail or fail to reveal other information. You can only take this Flaw at character creation if your character has a history of having committed diablerie at least once.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Inherited Bane ••</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.45)</strong></mark></summary>
+
+You gain another clan’s bane in addition to your own. Tremere may select this Flaw to gain the Salubri clan bane (Vampire Players Guide, p. 47) without having committed Diablerie.
+
+</details>
+
+#### Fame
+
 #### Feeding
-
-<details>
-
-<summary><mark style="color:red;"><strong>Vein Tapper •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
-
-You find the act of feeding extremely personal and cannot take blood from mortals while being observed. This means you often feed from the unaware and go out of your way to find (or create) drugged or unconscious victims.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Outdated Preference ••</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.21)</strong></mark> </summary>
-
-This Flaw resembles the Ventrue Clan Bane, except your preferred mortal has become almost impossible to come by. Examples include castrato singers, quaalude addicts, footmen, phrenologists, milkmen, Redcoats, and wet nurses. You either have to capture and force mortals to fit with your preference, or you always spend 1 Willpower to feed.
-
-</details>
 
 <details>
 
@@ -920,9 +882,9 @@ You feed only on animal blood. You must spend two points of Willpower to drink h
 
 <details>
 
-<summary><mark style="color:green;"><strong>Prey Exclusion • (Core pp.181-182)</strong></mark></summary>
+<summary><mark style="color:green;"><strong>Methuselah's Thirst • (Core p.181)</strong></mark></summary>
 
-You refuse to hunt a certain class of prey: drug users, women, children, policemen, innocents, a given minority or ethnic group, etc. If you feed on such prey, you gain Stains as though you had violated a chronicle Tenet. Witnessing other Kindred feeding on the object of your exclusion without interfering might also give Stains, at the Storyteller’s discretion. Ventrue with this Flaw gain an additional restriction, making their choice of vessels extremely narrow.
+Your Hunger can only be fully slaked by the blood of supernatural creatures. (Alchemists may be able to thicken the Blood of thin-bloods enough to sate you.) Otherwise, it constantly remains at a minimum of 1. (Or higher, depending on Blood Potency (see p. 215).
 
 </details>
 
@@ -936,9 +898,17 @@ You can slake Hunger only by eating human flesh and organs, especially those ric
 
 <details>
 
-<summary><mark style="color:green;"><strong>Methuselah's Thirst • (Core p.181)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Outdated Preference ••</strong></mark> <mark style="color:red;"><strong>(In Memoriam p.21)</strong></mark> </summary>
 
-Your Hunger can only be fully slaked by the blood of supernatural creatures. (Alchemists may be able to thicken the Blood of thin-bloods enough to sate you.) Otherwise, it constantly remains at a minimum of 1. (Or higher, depending on Blood Potency (see p. 215).
+This Flaw resembles the Ventrue Clan Bane, except your preferred mortal has become almost impossible to come by. Examples include castrato singers, quaalude addicts, footmen, phrenologists, milkmen, Redcoats, and wet nurses. You either have to capture and force mortals to fit with your preference, or you always spend 1 Willpower to feed.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Prey Exclusion • (Core pp.181-182)</strong></mark></summary>
+
+You refuse to hunt a certain class of prey: drug users, women, children, policemen, innocents, a given minority or ethnic group, etc. If you feed on such prey, you gain Stains as though you had violated a chronicle Tenet. Witnessing other Kindred feeding on the object of your exclusion without interfering might also give Stains, at the Storyteller’s discretion. Ventrue with this Flaw gain an additional restriction, making their choice of vessels extremely narrow.
 
 </details>
 
@@ -966,7 +936,141 @@ Wherever you go, a telltale pattern of attacks follows, as your feeding style le
 
 </details>
 
+<details>
+
+<summary><mark style="color:red;"><strong>Vein Tapper •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+You find the act of feeding extremely personal and cannot take blood from mortals while being observed. This means you often feed from the unaware and go out of your way to find (or create) drugged or unconscious victims.
+
+</details>
+
+#### Herd
+
+#### Influence
+
+#### Looks
+
+<details>
+
+<summary><mark style="color:green;"><strong>Repulsive ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
+
+You lose two dice from all relevant Social dice pools.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Stench •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+Your breath and body odor are supernaturally foul, redolent of open graves and rotting flesh. Even Nosferatu object to your stink. You can take minor steps to minimize the stench, such as splashing on plenty of cologne, but that causes other problems. Lose one die from seduction and similar Social dice pools, and lose two dice from Stealth pools against opponents who can smell, unless you are upwind.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Transparent •</strong></mark> <mark style="color:red;"><strong>(Players Guide p.120)</strong></mark> </summary>
+
+For whatever reason, you aren’t a good liar, and it shows. You either have a terrible poker face or your parents instilled in you a strong urge to be truthful even when it hurts.
+
+Lose one die from any pools requiring Subterfuge. You cannot gain dots in Subterfuge.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Ugly •</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
+
+You lose one die from all relevant Social dice pools.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Unblinking Visage •</strong></mark> <mark style="color:red;"><strong>(Gehenna War p.45)</strong></mark></summary>
+
+Your dead body has forgotten the basics: blinking, breathing, and automatic reflexes You count your Humanity as two levels lower (To a minimum of zero) for the purpose of Blush of Life and similar life-mimicking activities, such as mortal intercourse or food consumption.
+
+</details>
+
+#### Mask
+
+#### Mawla
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Secret Master •</strong></mark> <mark style="color:purple;"><strong>(Gehenna War p.45)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mawla</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**•**</mark><mark style="color:purple;">+</mark>](./#mawla-core-pp.192-193)
+
+Your Mawla has a hold over you, and once per story requires you to do a minor task (equivalent to a minor boon) which cannot become public. If you fail to complete this task, next story it increases from the equivalent of a minor boon to a major boon. If the task is still left unresolved, this flaw is forfeited and should be replaced by 2 or more combined dots of other flaws, such as Shunned or an Adversary.
+
+</details>
+
+#### Substance Use
+
+<details>
+
+<summary><mark style="color:green;"><strong>Addiction •</strong></mark> <mark style="color:green;"><strong>(Core p.180)</strong></mark></summary>
+
+Lose one dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
+
+</details>
+
+<details>
+
+<summary><mark style="color:green;"><strong>Hopeless Addiction ••</strong></mark> <mark style="color:green;"><strong>(Core p.179)</strong></mark></summary>
+
+Lose two dice from all pools when the last person you fed from was not on your drug, except pools for actions that will immediately obtain your drug.
+
+</details>
+
 #### Mythic
+
+<details>
+
+<summary><mark style="color:red;"><strong>Corpse Flesh •••</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+
+Your body is truly and irrevocably dead, rendering you unable to use Blush of Life.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Folkloric Bane •</strong></mark> <mark style="color:red;"><strong>(</strong><strong>Core p.182</strong><strong>)</strong></mark></summary>
+
+You take Aggravated damage from a folkloric bane. Folkloric banes include:
+
+◻ Ultraviolet light (damage as direct sunlight)\
+◻ Silver or silver-plated weapons (damage as weapon damage: simply touching a silver coin or silverware does one point of Aggravated damage)\
+◻ Holy water (damage as fire)
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Folkloric Block •</strong></mark> <mark style="color:red;"><strong>(</strong><strong>Core p.182</strong><strong>)</strong></mark></summary>
+
+When faced with a folkloric block, you must shrink away from it or spend a Willpower point to push through it.
+
+Each folkloric block you take counts as a separate one-point Flaw. Folkloric blocks include:
+
+◻ Holy symbols presented by any believer (even without True Faith)\
+◻ Crossing visible running water (not recommended in certain cities, such as Amsterdam, Stockholm, or Venice)\
+◻ Crossing a threshold to a home uninvited by the owner\
+◻ White animal\
+◻ Garlic\
+◻ Wild roses\
+◻ Spilled seeds you haven’t counted
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Resistant Blush •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+
+Your dead flesh accepts the Blood in every way save for the pretense of mortality. Blush of Life doesn’t come as naturally to you as your peers, and sometimes it won’t work without further effort. When you make a Rouse Check to activate the Blush of Life, roll twice and take the lowest result.
+
+</details>
 
 <details>
 
@@ -980,6 +1084,14 @@ At any point in which your Hunger is 3 or higher your body shrivels and decays, 
 
 <details>
 
+<summary><mark style="color:red;"><strong>Stigmata •</strong></mark> <mark style="color:red;"><strong>(</strong><strong>Core p.182</strong><strong>)</strong></mark></summary>
+
+You begin to bleed from open wounds on your hands, feet, and forehead when you reach Hunger 4. This attracts attention, leaves traces, and may penalize some dice pools at the Storyteller’s discretion.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Twice-Cursed ••</strong></mark> <mark style="color:red;"><strong>(Players Guide p.121)</strong></mark> </summary>
 
 You are cursed with additional Bane, making you labor under additional weight borne out of your clan founder’s flawed nature.
@@ -988,19 +1100,51 @@ Take your clan’s variant Bane (see p. 56) in addition to your regular Bane. Th
 
 </details>
 
+#### Psychological
+
 <details>
 
-<summary><mark style="color:red;"><strong>Corpse Flesh •••</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Beacon of Profanity •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
 
-Your body is truly and irrevocably dead, rendering you unable to use Blush of Life.
+The dark power within you leaks out. Mortals with any amount of True Faith can sense your presence, not just those with True Faith 3 or higher.
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Resistant Blush •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+<summary><mark style="color:red;"><strong>Crisis of Faith •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
 
-Your dead flesh accepts the Blood in every way save for the pretense of mortality. Blush of Life doesn’t come as naturally to you as your peers, and sometimes it won’t work without further effort. When you make a Rouse Check to activate the Blush of Life, roll twice and take the lowest result.
+You are terrified of losing control, especially to the Beast that threatens to make a mockery of your faith. Whenever your actions result in a bestial failure, you suffer one point of superficial Willpower damage in addition to any other effects from the roll.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Groveling Worm ••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+You don’t get affirmation from scourging your own flesh; rather, your utter self-loathing and abject terror of offending some higher power demands that you perform such acts regularly just to function at all. You must find the time in a session to scourge yourself once per session, suffering two points of Superficial Health damage, or else you will suffer a point of Aggravated Willpower damage at the beginning of the next session. Characters with the Penitence Merit cannot take this Flaw.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Horrible Scars of Penitence •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
+
+Your devotion is writ large on your flesh in a mass of awful welts, the scarified marks of your faith, or the evidence of other tools of self-mortification emblazoned on your body. You are extremely distinctive in this respect, and anyone who looks at you can immediately recognize the signs of faith taken to an extreme — even if you cease to perform such physical acts of penitence. This Flaw is equivalent to the Repulsive Flaw (see Vampire: The Masquerade, p. 179), but only when you’re among vampires and mortals not from within your cult.
+
+</details>
+
+#### Resources
+
+#### Retainers
+
+#### Status
+
+<details>
+
+<summary><mark style="color:red;"><strong>Mortal Pretender •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
+
+While all right-minded Kindred do their best to blend in with mankind, you go above and beyond to the point where you might have decided to lead a mortal life despite your new diet. It unsettles your undead peers. You suffer a two-dice penalty for all Social tests involving vampires specifically dedicated to upholding the Masquerade, such as Vehme coteries, Sheriffs and their Hounds, Archons and Justicars.
 
 </details>
 
@@ -1051,96 +1195,6 @@ When confronted with a chance to indulge a risky temptation you haven’t done b
 You struggle to assert your own personality when confronted with the will of another. You may not necessarily be submissive; perhaps you feel more confident when following another person’s lead. You might be part of a vampire’s entourage or Herd, but you aren’t necessarily loyal to that vampire.
 
 Take a one-die penalty to Social pools against your leader or superior. Even when you’re aware of an attempt to sway you mentally or emotionally (such as with Dominate or Presence), you may not use the active resistance systems to avoid those effects.
-
-</details>
-
-#### Psychological
-
-<details>
-
-<summary><mark style="color:red;"><strong>Horrible Scars of Penitence •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-Your devotion is writ large on your flesh in a mass of awful welts, the scarified marks of your faith, or the evidence of other tools of self-mortification emblazoned on your body. You are extremely distinctive in this respect, and anyone who looks at you can immediately recognize the signs of faith taken to an extreme — even if you cease to perform such physical acts of penitence. This Flaw is equivalent to the Repulsive Flaw (see Vampire: The Masquerade, p. 179), but only when you’re among vampires and mortals not from within your cult.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Groveling Worm ••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-You don’t get affirmation from scourging your own flesh; rather, your utter self-loathing and abject terror of offending some higher power demands that you perform such acts regularly just to function at all. You must find the time in a session to scourge yourself once per session, suffering two points of Superficial Health damage, or else you will suffer a point of Aggravated Willpower damage at the beginning of the next session. Characters with the Penitence Merit cannot take this Flaw.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Beacon of Profanity •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-The dark power within you leaks out. Mortals with any amount of True Faith can sense your presence, not just those with True Faith 3 or higher.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Crisis of Faith •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-You are terrified of losing control, especially to the Beast that threatens to make a mockery of your faith. Whenever your actions result in a bestial failure, you suffer one point of superficial Willpower damage in addition to any other effects from the roll.
-
-</details>
-
-#### Contagion
-
-<details>
-
-<summary><mark style="color:red;"><strong>Disease Vector •</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.86)</strong></mark></summary>
-
-The corrupt life energy of your vitae is fertile ground for the festering sicknesses of the kine. Whenever you feed from a sick mortal, you always contract that sickness and will pass it on to your next vessel.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Plaguebringer •-••</strong></mark> <mark style="color:red;"><strong>(Forbidden Religions p.87)</strong></mark></summary>
-
-You have a disease in your vitae that you cannot expunge and that manifests its symptoms on your body despite your undead state; even totally flushing all the blood from your body and drinking afresh does not rid you of it. It seems to well up from your corrupt soul. At one dot, the disease is minor but expresses visible traces such as a rash, sores, coughing or sneezing, or oozing mucus. At two dots, the disease is potentially severe if you leave it untreated, although it is not necessarily fatal. Furthermore, it does not need to leave visible symptoms upon you. In either case, mortal victims of your bite who are susceptible to the disease will contract it. The dice penalties stemming from this Flaw are situational, and more narrative penalties — such as having a sickly herd or weaker victims dying from subsequent illness — are advised.
-
-</details>
-
-#### Allies
-
-#### Contacts
-
-#### Fame
-
-#### Influence
-
-#### Herd
-
-#### Mask
-
-#### Mawla
-
-<details>
-
-<summary><mark style="color:purple;"><strong>Secret Master •</strong></mark> <mark style="color:purple;"><strong>(Gehenna War p.45)</strong></mark></summary>
-
-**Prerequisite:** [<mark style="color:purple;">Mawla</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**•**</mark><mark style="color:purple;">+</mark>](./#mawla-core-pp.192-193)
-
-Your Mawla has a hold over you, and once per story requires you to do a minor task (equivalent to a minor boon) which cannot become public. If you fail to complete this task, next story it increases from the equivalent of a minor boon to a major boon. If the task is still left unresolved, this flaw is forfeited and should be replaced by 2 or more combined dots of other flaws, such as Shunned or an Adversary.
-
-</details>
-
-#### Resources
-
-#### Retainers
-
-#### Status
-
-<details>
-
-<summary><mark style="color:red;"><strong>Mortal Pretender •</strong></mark> <mark style="color:red;"><strong>(Live From the Succubus Club p.26)</strong></mark></summary>
-
-While all right-minded Kindred do their best to blend in with mankind, you go above and beyond to the point where you might have decided to lead a mortal life despite your new diet. It unsettles your undead peers. You suffer a two-dice penalty for all Social tests involving vampires specifically dedicated to upholding the Masquerade, such as Vehme coteries, Sheriffs and their Hounds, Archons and Justicars.
 
 </details>
 
@@ -1242,7 +1296,7 @@ The vampire’s static nature rebels against the forces of change. If the vampir
 
 ## Ghoul Merits and Flaws
 
-These Merits and Flaws are available for Retainer ghouls.
+These Merits and Flaws are exclusive to Retainer ghouls.
 
 ### Merits
 
@@ -1371,22 +1425,6 @@ You owe another Kindred (or two others) two minor boons. The debt-holder wields 
 You can absolutely take this Flaw alongside one or more Minor Boons (Vampire: The Masquerade, pp. 193 and 315) at character creation. You cannot take this Flaw owing another player’s character the boons in question.
 
 For more a more detailed breakdown of Prestation Debts and Boons as Backgrounds, see Boons and Debts, p. 115.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Living in the Past • </strong></mark><em><mark style="color:green;"><strong>Archaic</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(Core p.180)</strong></mark></summary>
-
-You haven’t grasped the modern mindset, or you just don’t want to. You have one or more seriously outdated Convictions, e.g. “The Pope’s word is law,” “Women are delicate flowers,” “Lower classes exist only to serve,” or “Burn your enemies’ baggage.” These archaic moralities maintain your Humanity but are odious to many; you lose one die from Social test dice pools involving such archaic beliefs except with vampires your age and older, who may admire your steadfast virtue.
-
-</details>
-
-<details>
-
-<summary><mark style="color:green;"><strong>Archaic •• </strong></mark><em><mark style="color:green;"><strong>Archaic</strong></mark></em><mark style="color:green;"><strong> </strong><strong>(Core p.180)</strong></mark></summary>
-
-You haven’t been able to adapt to the present, or you have been long in torpor. You cannot use computers or cell phones, and your Technology rating is permanently 0. The Storyteller may penalize other dice pools involving very modern technology by one die.
 
 </details>
 
