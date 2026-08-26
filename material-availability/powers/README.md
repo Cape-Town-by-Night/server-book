@@ -96,6 +96,26 @@ If the Rouse Checks made for this Power would drive you above 5 Hunger, you imme
 
 <details>
 
+<summary><mark style="color:red;"><strong>Tracing the Blood, Animalism 2 (Courts of the Damned p.214)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Resolve + Animalism
+
+**System:** The character Rouses the Blood and tests Resolve + Animalism (Difficulty 3). Results are based on the margin of success, and all targets must be within their sensory range. Success reveals the target’s general direction (forward, backward, sideways, etc.), whereas a critical win allows the user to know precisely which vampire triggered the effect.
+
+* Basic Win (Margin 0): The vampire can sense when Blood is Roused.
+* Margin 1: The vampire can sense whether the Rouse fueled a universal Kindred Trait such as Blood Surge and Blush of Life, or activated a Discipline (and which Discipline it was).
+* Margin 2+: The vampire senses exactly which Power was activated and roughly what it does.
+
+The Storyteller may call for a Wits + Occult test (Difficulty of a Discipline Power’s level + 2) to recognize rare and uncommon Discipline Powers or gain a clearer understanding of the effect.
+
+**Duration:** One scene
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Animal Succulence, Animalism 3 (Core p.246)</strong></mark></summary>
 
 **Cost:** Free
@@ -427,6 +447,36 @@ The user can recognize the surroundings of the target with an Intelligence + Str
 **System:** The vampire spends a turn examining the body of the recently dead or dying (they must have died within the scene), during which time they remove and scatter organs, stare into vacant eyes, and otherwise desecrate the corpse. Once complete, they Rouse the Blood and test Resolve + Auspex against Difficulty 3. Characters gain a one-die bonus if they killed the victim themselves, or two dice if they’re killed while undergoing the scrying process (such a torturous death likely grants Stains). If successful, the vampire can reroll every die in any single dice pool before the night’s end as the insight prepares them for such an eventuality. On a critical win, they may reroll up to three pools. When a pool is rerolled, the player may choose the most preferable result. This Power only works with mortal victims — vampires and animals provide no spark of insight.
 
 **Duration:** One night
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Read the Room, Auspex 3 (Courts of the Damned p.214)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Intelligence + Auspex
+
+**System:** The vampire activates the power and mentally poses a question they want answered, as though they were taking a poll, then tests Intelligence + Auspex. Difficulty starts at 5 for a crowd of 12 (mortals or Kindred) and decreases for each additional 12 individuals down to a minimum of Difficulty 2.
+
+Storytellers may decide that certain questions are too complex to answer, and while numbers are always vague (some, many, most, etc.), they otherwise summarize the crowd’s general sentiment. On a critical win, they detect how this sentiment changes from any actions taken during the scene.
+
+**Duration:** Instantaneous, or one scene on a critical
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Reveal the Invisible Leash</strong><strong>, Auspex 3 (Courts of the Damned p.214)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Intelligence + Auspex vs Composure + Resolve
+
+**System:** The vampire must be in physical contact with their target and test Intelligence + Auspex vs their target’s Composure + Resolve. On a win, the vampire senses who in the room the target considers their political superior (if any). If there are multiple such individuals, they only identify the most immediate present, such as a sire whose Blood Bound the target rather than the Prince. For every 2 points of the Margin, a secondary superior is identified, moving from the target’s most immediate to the most distant.
+
+**Duration:** For as long as the vampire is touching their target
 
 </details>
 
@@ -901,6 +951,22 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 **System:** The vampire must be able to make eye contact with the victim. They need no test to activate the Power against mortals; Kindred and other supernatural beings can resist with Resolve + Performance. Anyone affected by this Power finds it impossible to meaningfully communicate — their voice makes no sound, writing becomes illegible, their gestures or signs shudder spastically, and even banging against walls produces nothing but a dull thud as their limbs fail to exert force.
 
 **Duration:** One scene
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Chain of Command</strong><strong>, Dominate 3 (Courts of the Damned p.215)</strong></mark></summary>
+
+**Prerequisite:** [<mark style="color:purple;">Mesmerize</mark>](./#mesmerize-dominate-2-core-p.256)
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Intelligence + Auspex vs Composure + Resolve
+
+**System:** After delivering a Mesmerize command, the vampire can choose to invoke this power by immediately making another Rouse Check. Those affected become capable of executing slightly more complex tasks — even showing some degree of awareness — as they set about achieving their master’s goal, seeking out other suitable candidates to help them. The target of this power adds the vampire’s rating in Dominate to any Social tests they make when convincing others to assist them in their objective (and only those tasks), allowing them to better command underlings, delegate tasks, and spread the burden. Those so commanded aren’t operating under any supernatural compulsion and are free to object — the main benefit is making people in authority better equipped to order around those beneath them.
+
+**Duration:** Until the command is carried out or the scene ends, whichever comes first
 
 </details>
 
@@ -1881,6 +1947,20 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 <details>
 
+<summary><mark style="color:red;"><strong>Predator's Lure</strong><strong>, Presence 2 (Courts of the Damned p.215)</strong></mark></summary>
+
+**Cost:** One Rouse Check
+
+**Dice Pools:** Charisma + Leadership vs. Composure + Resolve
+
+**System:** The vampire makes a Rouse Check to target one victim. Mortals are automatically affected. Against supernatural creatures, the user must win a test of Charisma + Leadership vs. the victim’s Composure + Resolve. On a win, this Power compels an affected target to approach the user, whether or not the target knows or even is aware of the user. The victim won’t drop everything or risk their safety to approach the user, and the power is ineffective in any kind of violent altercation. They politely finish conversations, complete their transactions, cross streets with caution, and wait at a safe distance until the Power ends or the situation becomes safe. After using this power, the victim may recall an intense curiosity or an unexplainable compulsion to investigate or be near a person or location.
+
+**Duration:** One scene or until they are within 10 feet (3 meters) of the user.
+
+</details>
+
+<details>
+
 <summary><mark style="color:yellow;"><strong>Clear the Field, Presence 3 + Dominate 3 (Fall of London p.31)</strong></mark></summary>
 
 **Cost:** One Rouse Check
@@ -2526,6 +2606,16 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 **System:** The user makes the Rouse Check and tests Intelligence + Blood Sorcery against a Difficulty set by the Storyteller: anything from 2 for a single letter in a regular office up to 5 for encrypted information hidden in a vast library. If the information has been supernaturally concealed the Difficulty increases further. The time spent depends on the size of the area to be searched: A single room might be scoured in minutes, while a library requires hours, if not the whole night. Additionally, the power does not impart the ability to parse the information if it comes in an unknown language or in a cipher. If the knowledge sought is stored in non-written formats, such as painting, music, or on old floppy disks, the power works at the Storyteller’s discretion, though the Difficulty is likely higher.
 
 **Duration:** One night or until the information is found or the search comes up short, whichever comes first.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Vinculum Magnum</strong><strong>, Blood Sorcery 2 (Courts of the Damned pp.214-215)</strong></mark></summary>
+
+**Cost:** None
+
+**System:** The user concentrates their Blood’s bonding properties, and can force the Blood Bond on more Kindred than normal. Add the vampire’s Blood Sorcery rating to the number of Kindred they can Blood Bond. Vampires who cannot bond other vampires for any reason (such as the Tremere clan Bane or being thin-blooded) do not gain this benefit.
 
 </details>
 

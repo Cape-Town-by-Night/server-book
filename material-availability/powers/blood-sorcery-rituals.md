@@ -172,6 +172,20 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 
 <details>
 
+<summary><mark style="color:red;"><strong>Preservation (Courts of the Damned pp.215-216)</strong></mark></summary>
+
+**Ingredients:** A quill or fountain pen, one or more Rouse Checks’ worth of the caster’s vitae
+
+**Process:** The user inscribes arcane sigils on the item to be preserved.
+
+**System:** The item withstands damage from normal wear and tear and the passage of time. Mold and rot do not take, pages do not yellow with age, insects will not damage the item, nor will the sun fade it, so long as some modicum of protection is maintained. Intentional damage still affects the item as normal, but scuffs or scrapes resulting from transportation or minor accidents, such as a spill or a fall from a height of only a few feet, leave no trace.
+
+One Rouse Check of vitae is enough to ward an item about the size of a chair or guitar case, or a handful of small items such as chess pieces. The addition of a second Rouse Check during casting doubles the size of the item that can be warded.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Revealing the Crimson Trail (Gehenna War p.48)</strong></mark></summary>
 
 **Ingredients:** A needle with an eye.
@@ -179,6 +193,18 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 **Process:** The Kindred ritually prepares the needle by stabbing themselves in one eye with it, and must then peer through its eye.
 
 **System:** If the ritual is successful, the vampire can clearly see any spilled blood, dried or not, as long as they keep looking through the eye of the needle. Exceptionally old or minute traces can require a Resolve + Awareness or Investigation test to spot, as determined by the Storyteller. The ritual lasts for the rest of the scene.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Rite of Introduction (Courts of the Damned p.216)</strong></mark></summary>
+
+**Ingredients:** An iron pot or cauldron, a Rouse Check of the user’s vitae
+
+**Process:** The user brings the Blood to a boil and speaks a brief incantation while it boils.
+
+**System:** The ritualist sends an impression of their face, their name, and a short, one-sentence message to any master of a Foundation of the Chantry (see below) within the same city. The caster can choose to withhold any of these elements but not alter them. If no Foundation is within range, the caster is aware that their message was not received.
 
 </details>
 
@@ -1111,6 +1137,18 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 **Process:** The ritual takes three hours to cast. During this time, the caster must be embedding iron seals over every doorway, consecrating them with their own vitae, and carving sigils on the doors.
 
 **System:** Upon a successful Ritual roll, the Blood sorcerer stops any uses of Animalism, Auspex, Dominate, or Presence except by themselves. Any uses of the Disciplines within the building still cause any Rouse checks to occur, though the amount of Blood spent to perform the Ritual varies – from Rouse Check for an apartment up to five for a large manor. The Ritual lasts indefinitely but can be broken by the destruction of at least one seal.
+
+</details>
+
+<details>
+
+<summary><mark style="color:red;"><strong>Foundation of the Chantry</strong></mark><strong> </strong><mark style="color:red;"><strong>(Courts of the Damned pp.216-217)</strong></mark></summary>
+
+**Ingredients:** A polished sphere of amethyst, a white or albino mammal or bird indigenous to the region, and a human skull
+
+**Process:** The user brings the Blood to a boil and speaks a brief incantation while it boils.
+
+**System:** The gem and skull are bound to a spiritually significant location and become the Foundation of the Chantry. As long as the Foundation remains in place, the caster or their designee (who must be present to participate in the rite) can receive missives from the [<mark style="color:purple;">Rite of Introduction</mark>](blood-sorcery-rituals.md#rite-of-introduction-courts-of-the-damned-p.216). The caster knows whenever the Rite of Introduction is performed within the same city as the Foundation but must touch it to receive the introduction. Upon doing so, they may send a signal back to the caster of the Rite of Introduction, consisting of an impression of their name, face, the location of the chantry, and a single-sentence message. As with the Rite of Introduction, the caster can choose to withhold, but not obscure, any of the above. The Ritual lasts until the Foundation is disturbed.
 
 </details>
 
