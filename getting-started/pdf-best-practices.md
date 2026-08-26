@@ -27,11 +27,7 @@ Editing a PDF in your browser may look okay, but they frequently cause problems 
 
 ## Recommended editors
 
-The following editors are all free. A paid option often exists, but it is not necessary to purchase one. If a reader is marked as **recommended**, it has been tested with our custom PDFs and should not have any issues.
-
-{% hint style="warning" %}
-If any of these links are incorrect or if you are having issues with your PDF, please let us know!
-{% endhint %}
+The following editors are all free. A paid option often exists, but it is not necessary to purchase one.
 
 ### Windows
 
@@ -44,6 +40,11 @@ If any of these links are incorrect or if you are having issues with your PDF, p
 * [<mark style="color:red;">Foxit Reader</mark>](https://www.foxit.com/downloads/#Foxit-Reader/)
 * [<mark style="color:red;">PDF Viewer</mark>](https://apps.apple.com/us/app/pdf-viewer-annotation-expert/id1120099014)&#x20;
 * Preview (built-in; doesn't allow custom input in dropdowns)
+
+### Linux
+
+* [<mark style="color:red;">Okular</mark>](https://okular.kde.org/)
+* [<mark style="color:red;">Xournal++</mark>](https://xournalpp.github.io/)
 
 ### Android
 

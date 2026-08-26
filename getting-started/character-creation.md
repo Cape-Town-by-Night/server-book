@@ -2,7 +2,7 @@
 description: >-
   This page is not meant to replace the instructions in the Core book, but to
   enhance them. Please follow along with both of these resources for the best
-  chance of an expedient approval.
+  chance at an expedient approval.
 layout:
   width: default
   title:
@@ -47,15 +47,15 @@ If you are retiring a character, you may have a bank of retirement experience to
 
 ## Core Concepts
 
-Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Are you making a ghoul, mortal, or vampire? Are they old or young? Are they experienced, brand new, or oblivious to the "nightlife"? Note that since vampires are the main focus of this setting, most of these questions will only apply to them. If a question doesn't make sense for the type of character you are playing, skip it. Player characters must be local.
+Before putting stats on paper, you should remember the facets of Vampire that you want to explore. Is your character old or young? Are they experienced, brand new, or jaded? Player characters must be local.
 
 Your characters should also be _yours_. It's okay to use a character from popular media as a face claim (a reference image for what your character looks like), but it is not okay to make that character into a vampire so that you can play them. This isn't that kind of server.
 
 <details>
 
-<summary>A Note on Playing Mortals</summary>
+<summary>A Note on Playing Mortals and Ghouls</summary>
 
-We do not allow mortal characters. Mortals inhabit a niche sphere in the World of Darkness and often find themselves never even touching the more supernatural aspects of the setting. For this reason, it is also hard for mortals to teach new players how the game functions and it is even harder to have them interact with the game as a whole. If you are new to Vampire, we recommend making a fledgling character as they are expected to have less knowledge of the world around them, in general. If you want to play with the inherent power imbalance between Kindred and mortals, consider playing a ghoul or a thin-blood.
+We do not allow mortal or ghoul characters. Mortals inhabit a niche sphere in the World of Darkness and often find themselves never even touching the more supernatural aspects of the setting. For this reason, it is also hard for mortals to teach new players how the game functions and it is even harder to have them interact with the game as a whole. If you are new to Vampire, we recommend making a fledgling character as they are expected to have less knowledge of the world around them, in general. If you want to play with the inherent power imbalance between Kindred, consider playing a thin-blood.
 
 </details>
 
@@ -99,9 +99,9 @@ Your character's sire is an important facet of their being, regardless of whethe
 
 ### Choose Your Clan
 
-The clan you choose for your character determines a lot about them, from their bestial proclivities to their supernatural abilities. Whether you build something stereotypical or buck tradition is up to you, but be aware that stereotypes exist for a reason in this setting!
+The clan you choose for your character determines a lot about them, from their bestial proclivities to their supernatural abilities. Whether you build something stereotypical or buck tradition is up to you, but be aware that stereotypes exist for a reason!
 
-We do not use the original banes for all of our clans. The server character sheets have our choice of clan bane and compulsions written in, but they are also listed here for player reference. The Twice-Cursed flaw is available for players who want to interact with both banes.
+We do not use the original banes for clans. The server character sheets have our choice of clan bane and compulsions written in, but they are also listed here for player reference. The Twice-Cursed flaw is available for players who want to interact with both banes.
 
 <details>
 
@@ -156,7 +156,7 @@ Note that if you are playing a character who is pretending to be a clan that the
 
 </details>
 
-Additionally, Hecata characters may (but do not have to) the Shifts in the Blood options presented on page 202 of Cults of the Blood Gods. If you wish to take the replacement Discipline as a fourth in-clan, you may take the [Shifts in the Blood](https://wiki.capetownvtm.com/material-availability/advantages-and-flaws#shifts-in-the-blood-trails-of-ash-and-bone-p.202) merit. This must be taken at character creation.
+Additionally, Hecata characters may (but do not have to) the Shifts in the Blood options presented in Cults of the Blood Gods (p.202). If you wish to take the replacement Discipline as a fourth in-clan, you may take the [Shifts in the Blood](https://wiki.capetownvtm.com/material-availability/advantages-and-flaws#shifts-in-the-blood-trails-of-ash-and-bone-p.202) merit. This must be taken at character creation.
 
 ## Deciding on Convictions
 
@@ -166,7 +166,7 @@ Convictions are a set of beliefs that assist in defining a character’s worldvi
 
 The results of this are completely dependent on _how_ your character's Touchstone died. Catastrophic events and violent deaths damage and destroy Touchstones, which results in Stains (Core p.240).&#x20;
 
-Should your Touchstone die peacefully, you may attempt to transfer the Conviction with a DC 4 Humanity test while meeting with or observing the Touchstone.
+Should your Touchstone die peacefully, you may attempt to transfer the Conviction with a Difficulty 4 Humanity test while meeting with or observing the Touchstone.
 
 If a Touchstone is destroyed and the Conviction is not successfully transferred as detailed above, that Conviction is lost.
 

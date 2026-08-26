@@ -20,6 +20,7 @@ For regular Loresheets, see [<mark style="color:red;">Loresheets</mark>](https:/
 | [<mark style="color:purple;">In Memoriam</mark>](bloodlines.md#in-memoriam)                                                                       | pp.149-153  |
 | [<mark style="color:purple;">Tattered Facade</mark>](bloodlines.md#tattered-facade)                                                               |             |
 | [<mark style="color:purple;">Live From the Succubus Club</mark>](bloodlines.md#live-from-the-succubus-club)                                       | pp.158-161  |
+| <mark style="color:purple;">Courts of the Damned</mark>                                                                                           | pp.218-222  |
 
 ## Core
 
@@ -957,5 +958,159 @@ You possess a righteous anger and the right to do what must be done, whether in 
 **••••• Vengeful Eye:** _Allowed_
 
 Your gaze terrifies your enemies and helps your blade strike true. When you spend Willpower to re-roll dice in melee combat, you can reroll one additional die, which can be a Hunger die. Your third eye reveals itself to your adversary, which may violate the Masquerade or draw unwanted attention.
+
+</details>
+
+## Courts of the Damned
+
+<details>
+
+<summary><strong>Descendant of Count Jocalo, </strong><em><strong>Ministry Only</strong></em><strong> (p.218)</strong></summary>
+
+<sup>_Among the Kindred of Europe, one of the most infamous members of the Ministry is Count Jocalo, an Iberian noble turned spy for the Church of Set back when the Clan and Church were largely the same entity. Jocalo traveled between Europe, Africa, and Asia, visiting Court after Court to gather pawns and artifacts for the Hierophants of Set. Legend has it that he was even exiled from London for his role in the Great Fire._</sup>
+
+<sup>_Jocalo was very much the stereotypical tempter and schemer, and most of his descendants follow suit, using drugs, sex, religious beliefs, or occasionally plain burglary to obtain anything needed. His own religious convictions were dubious at best. His extensive travels and independence from the usual court system led Jocalo to sire many offspring across the world, and Ministers claiming him as an ancestor spread further still during the Ages of Sail and Steam._</sup>
+
+**• A Name You Can’t Refuse:**&#x20;
+
+Your reputation precedes you, providing the equivalent of one dot of Status with both the Anarchs and Camarilla—even autarks, the Hecata, and most blood cults won’t refuse you entry into their domains so long as you don’t overstay your welcome or cause obvious trouble. Most domains will also watch you like a hawk, with the fame of Jocalo’s schemes coloring your reputation.
+
+**•• Tools of the Trade:**&#x20;
+
+Jocalo’s Blood gives you an understanding of his methods. You gain a free specialty in your choice of three of the following Skills, or the first dot in the Skill if you don’t already possess one dot: Insight, Larceny, Persuasion, Streetwise, or Subterfuge. You are, however, known for inheriting Jocalo’s teachings, and local authorities or boon holders often come to you to get underhanded tasks done—or consider you a suspect.
+
+**••• A Taste So Sweet:**&#x20;
+
+Your Blood and Kiss are more potent when ensnaring others. You gain the Enduring Bond Merit (complete and partial Blood Bonds to you weaken every other month; see Gehenna War, p. 44), and gain a two-dice bonus to interact with any mortals during or immediately after feeding from them. Your Discipline powers relying on others drinking your Blood or receiving your Kiss (such as Lingering Kiss, Draught of Might, or using Scorpion’s Touch to affect the Blood in your own body) have their durations doubled.
+
+**•••• Relic Hound:**&#x20;
+
+Following in Jocalo’s footsteps, you’re a collector of lore and relics. You gain a two-dice bonus to all dice pools directly related to seeking out texts or items pertaining to Kindred history or sorcery (including Blood Sorcery, Oblivion, and Thin-Blood Alchemy), and you may turn a single 1 or 10 on a Hunger die (your choice) to a 2 for these tests.
+
+**••••• Rapid Entanglement:**&#x20;
+
+The Blood teaches you to shed connections and forge new ones. Once per story or month of game time (whichever is shorter), you can exchange all the dots invested in an Ally, Contact, Influence, or Retainer for another, whether the same category (such as Influence with local law enforcement for Influence within the local funeral industry) or another Background (such as Influence with local law enforcement for a Retainer).
+
+</details>
+
+<details>
+
+<summary><strong>Descendant of Marconius, </strong><em><strong>Lasombra Only</strong></em><strong> (p.219)</strong></summary>
+
+<sup>_Marconius was already old when he and a coterie of his fellow Lasombra experimented with fell Oblivion Ceremonies. He disappeared for a time, emerging around Strasbourg in the late Middle Ages. Impeccably polite and erudite, Marconius and his brood became powerful members of the city, vying with the Ventrue for influence in the region. During the Age of Steam, many of his brood nominally accepted membership in the Sabbat while others remained loners and autarkis. From the Second Sabbat Civil War through the Sect Wars of the 1990s, Sabbat purges of moderates and “the undevout” within their ranks, as well as the expansion of Kindred metropolitan domains to include smaller cities in their orbit, led many of Marconius’ brood to leverage their ancestor’s name to abandon the Black Hand quietly. Whether prescient or just pragmatic, many of Marconius’ childer rejected the Sabbat before the cost to leave skyrocketed._</sup>
+
+<sup>_Marconius’ brood has a reputation for politeness and suffers from common superstitions. Few cities have more than one weirdling, as they tend to eschew the company of their clanmates and shoo their childer away after a decade or two._</sup>
+
+**• Darkling Ward:**&#x20;
+
+You can master any ward or warding circle Blood Sorcery Ritual as though it were an Oblivion Ceremony with no power prerequisite. Your Wards deal Aggravated Willpower damage, rather than Health damage, and those affected by them lose all sense of direction and location until they wander away from the ward. The first time you learn a Warding Ceremony, you must also take a Folkloric Bane or Block Flaw.
+
+**•• Abyssal Scholar:**&#x20;
+
+Marconius’ Blood gives you a knack for Oblivion Ceremonies, gaining an Occult specialty for Ceremonies. You can learn Ceremonies without needing the prerequisite power; however, each time you learn a Ceremony without the prerequisite, take an additional Folkloric Bane or Block Flaw. If you later master the prerequisite Power, you may remove that Flaw. You must still possess the correct level of Oblivion to master Ceremonies.
+
+**••• Fey Beauty:**&#x20;
+
+You appear tall and lithe, with an odd, fey-like feature that makes you stand out in a crowd. You gain the Stunning Merit but suffer a two-dice penalty whenever attempting to disguise yourself, even supernaturally.
+
+**•••• Nightingale’s Song:**&#x20;
+
+Dominate ordinarily cannot be used to force someone to tell the truth, but Marconius’ Blood helps you steal secrets. Once per session, you can use Mesmerize to demand a target reveal a secret; however, without a cleverly worded order, the secret may be unpredictable. Revealing damning information counts as harm, so getting specific secrets may still be impossible. Should your attempt to compel a secret fail, you visibly shed one large, bloody tear for each point of the margin of failure (or seven tears if the Power otherwise fails). These tears cause a Rouse Check if shedding four or more, and risk provoking Hunger Frenzy in other Kindred or uncomfortable questions among mortals.
+
+**••••• The Grandest Trick:**&#x20;
+
+Marconius’ odd Blood embraces the light, if only for a moment. The effects of your Oblivion Powers or Ceremonies can survive three rounds of sunlight before they fade away. Whenever you are exposed to sunlight, you may choose to take Aggravated Willpower damage instead of Aggravated Health damage for up to three rounds. This is often enough for the weirdlings of Marconius to escape, though the damage to the Masquerade could be severe if they don’t escape the sun in time.
+
+</details>
+
+<details>
+
+<summary><strong>Descendant of Meerlinda, Tremere </strong><em><strong>Only</strong></em><strong> (p.220)</strong></summary>
+
+<sup>_Meerlinda was one of the first Tremere and a participant in the Ritual of Usurpation that founded the clan. Whenever a schism arose within her cabal, she deftly walked the line between the accuser and the accused, preserving allies and avoiding enemies as she worked to rehabilitate the clan’s image as usurpers and low-clan villains. Many say it was her intervention that allowed the Tremere a place in the Camarilla or that the Camarilla was a Tremere scheme to gain acceptance within Kindred society in the first place._</sup>
+
+<sup>_Her descendants tend to share her views, spinning neutrality to the benefit of everyone rather than scheming for their own gain. Now, in the era of a divided Clan Tremere, her descendants often bridge the gap between feuding houses and even work with solitarchs (autark chantries) or non-Tremere sorcerers._</sup>
+
+**• Strength of the Coven:**&#x20;
+
+Your sire taught you when to step back and let others take the reins. You can assist in any Blood Sorcery Ritual (see “Teamwork” in Vampire, p. 122) even if you don’t know the Ritual. If you’ve ever assisted another Blood Sorcerer in a Ritual, you gain a two-dice bonus to Persuasion tests to convince them to share a Ritual with you or use one on your behalf. The other sorcerer may still request a reasonable payment or other compensation.
+
+**•• Wealth of Boons:**&#x20;
+
+Your Blood compels you to exchange minor favors with other Kindred, often to your benefit. Once per story, you can treat one boon owed to you as one category higher or a boon you owe as one category lower. Trivial boons treated as lower are immediately satisfied: no recompense needed.
+
+**••• Sanguine Understanding:**&#x20;
+
+Meerlinda’s Blood whispers of politeness and politics. You gain a specialty related to Kindred or their factions for Etiquette and Politics, or the first dot in the Skill if you don’t have any. Furthermore, once per session, when dealing with Kindred, you can use your Etiquette or Politics (including specialties if relevant) instead of Insight, Persuasion, or Subterfuge in a dice pool.
+
+**•••• Meerlinda’s Heir:**&#x20;
+
+You emerge from Meerlinda’s shadow as a well-known force on your own. Increase your Status by 1 (to a maximum of 5). Once per session, you can demand to be treated by your faction as though your Status were one level higher (if adding your Status to a test, this can bring it above 5), or use your full Status even when far from home or dealing with another sect.
+
+**••••• Bestial Neutrality:**&#x20;
+
+You excel at negotiating with your own Beast. You gain a Conviction related to diplomacy or neutrality, such as “Peace among the Kindred is worth any cost,” which is not tied to a Touchstone and cannot be lost. Once per session when acting in line with this Conviction, you can change a single 1 or 10 on a single Hunger die result to a 2 (a simple failure) after seeing the results of the roll.
+
+</details>
+
+<details>
+
+<summary><strong>Descendant of Menele, </strong><em><strong>Brujah Characters Only</strong></em><strong> (p.221)</strong></summary>
+
+<sup>_Menele has walked the Earth since his breathing days as a philosopher-king in ancient Greece. His insatiable lust for enlightenment led him first to India, then to Carthage, a utopia purportedly built on the ideal of peaceful coexistence between Kindred and kine. A utopia reduced to ash by the treachery of Helena._</sup>
+
+<sup>_Apoplectic with rage, Menele razed Helena’s beloved Pompeii to a cinder, lighting the spark of their unending rivalry. Helena and Menele fought across the ages until they beat themselves into mutual torpor near present-day Chicago. Menele was on the verge of renewing his ancient grudge with Helena when he was called east by the Beckoning, freeing his childer from his vice-like mental grip._</sup>
+
+<sup>_Many of Menele’s descendants inherited his passion for philosophy, enlightenment, and greater ideals, while others became fearsome warriors selected for their ability to defend Menele from Helena’s agents. Both were needed to realize Menele’s weary dream of founding a new Carthage based on ancient Brujah ideals. Now, Menele’s descendants are free to choose their destiny for the first time in millennia. The question is: What will they do with it?_</sup>
+
+**• Symposium:**&#x20;
+
+Menele always liked a good argument and sired many childer after debating the mysteries of life for evenings on end. You gain the ability to reroll a single die on all of your Persuasion tests.
+
+**•• Carthago Delenda Est:**&#x20;
+
+Menele maintained an elaborate network of spies, informants, and retainers. His network fragmented upon his destruction, but you managed to claim a portion of it for your own. You have three dots to split between Retainers, Influence, Allies, and Resources, with the absolute certainty that Helena and her agents will attempt to take them from you.
+
+**••• Know Thyself:**&#x20;
+
+Menele believed the Brujah needed to return to their roots as thinkers and positive agents of change. You are trained to resist the pull of your Brujah fury. Once per session, you can spend a Willpower level to reroll a Frenzy affected by your Brujah Clan Bane.
+
+**•••• Knowledge is Power:**&#x20;
+
+Menele was impossibly old and held many secrets about the Kindred of Chicago and beyond. You were the steward of those secrets before the Beckoning drew him away. Once per story, you may request a single unspecified secret from the Storyteller about a clan or Kindred in Chicago or a similar domain that felt Menele’s influence (Storyteller’s discretion).
+
+**••••• The Greater Mysteries:**&#x20;
+
+Menele spent years learning the meditative practices necessary to perceive the astral plane in his quest for spiritual perfection. You inherited a portion of his ability and remain fully cognizant of your surroundings during your daily slumber. Reduce the difficulty of all Humanity tests to awaken during the day by two. You also have the ability to perceive fractured glimpses of events to come that may affect your character while you slumber. Once per session, you may roll Resolve + Occult to interpret your daytime visions. Each success brings the vision into greater focus, and the Storyteller may offer you one cryptic hint or fact relevant to your character.
+
+</details>
+
+<details>
+
+<summary><strong>Descendant of Rasalon, </strong><em><strong>Nosferatu Characters Only</strong></em><strong> (p.222)</strong></summary>
+
+<sup>_Rasalon believed in the unity of Clan Nosferatu; many of his descendants continue to maintain this belief: neither sectarian lines nor coteries should prevail over the unity of the Blood. A crusader who traveled in the Middle Ages, Rasalon established lines of communication between individual Nosferatu, and his name is still revered by many of the clan. As sectarian lines divided other clans, the legacy of Rasalon maintained lines of communication that benefited the Nosferatu for centuries. Many Nosferatu push for open lines of communication — even with their Sabbat brethren — out of fear of a mythical group of murderous elders, although Rasalon did his best to assuage those fears and focus more on clan unity._</sup>
+
+<sup>_Your ancestor’s name has opened doors for you that may be closed to others, and you find yourself becoming a fulcrum of knowledge for the clan._</sup>
+
+**• Whisper to the Brood:**&#x20;
+
+You communicate with the Nosferatu in the closest neighboring city, plus one additional city for each dot of Politics you possess. You speak through animal or mortal messengers, local cyphers and metaphors, and/or a hodgepodge of various languages, rendering the messages no threat to the Masquerade.
+
+**•• Shared Knowledge:**&#x20;
+
+Your clanmates reveal secrets that help you excel in Kindred society. You gain the first dot of Etiquette, Politics, or Occult (choose any two) or, if you already possess the first dot, a specialty related to Kindred. Many Nosferatu seek you out for your knowledge, which occasionally costs you time. Once per story, you may ask the Storyteller to reveal any secret you may have heard that is relevant to a current plot or event, though which plot or event it relates to may not always be clear.
+
+**••• Underground Support:**&#x20;
+
+Your reputation precedes you, at least among the sewer rats. You gain a four-dot Mawla representing all the Nosferatu neonates and ancillae in nearby cities. Once per story, you can petition a Nosferatu for shelter for one day (if it includes your coterie) or three (for just you), and at least one clanmate will offer refuge, though there may be a cost. Your connections often drag you into minor squabbles between clanmates.
+
+**•••• Clan of the Hidden:**&#x20;
+
+Your Blood resonates with other sewer rats. When activating Obfuscate Powers to hide or disguise yourself, you can extend that effect to include other Nosferatu (up to your Obfuscate + Blood Potency) so long as everyone maintains physical contact. Those losing physical contact become noticeable. With you, a group of Nosferatu can huddle under the effect of Silence of Death for secret conversations, be hidden with Cloak of Shadows, or thwart cameras through Ghost in the Machine.
+
+**••••• Hidden Primogen:**&#x20;
+
+All the Nosferatu in the region look to you. No Nosferatu other than explicit Adversaries reject reasonable boons from you. Nosferatu treat any boons involving you as one step in your favor: trivial boons you might owe are instantly expunged, a minor boon owed to you is treated as major, or a life boon you owe is treated as a major boon.
 
 </details>
