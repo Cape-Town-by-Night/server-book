@@ -274,6 +274,22 @@ A wraith can choose to assert its possession instead of acting as a passenger. I
 
 <details>
 
+<summary><mark style="color:purple;"><strong>Misfortune’s Hand</strong></mark><strong> </strong><mark style="color:purple;"><strong>(</strong><strong>Courts of the Damned p.217</strong><strong>)</strong></mark></summary>
+
+**Prerequisite Power:** [<mark style="color:purple;">Shadow Servant</mark>](https://wiki.capetownvtm.com/material-availability/powers#shadow-servant-oblivion-3--auspex-1-players-guide-p.89) or [<mark style="color:purple;">Touch of Oblivion</mark>](https://wiki.capetownvtm.com/material-availability/powers#touch-of-oblivion-oblivion-3-players-guide-p.89)
+
+**Ingredients:** Something related to the asset being affected (bank account details, hair or blood of a living target, voice recordings), lead, a heat source sufficient to melt the lead, and a glass of blood from someone considered to have bad luck
+
+**Process:** The caster drips blood into the lead as it melts while chanting the names of old gods, historic failures, and wishes of doom against the target. Once the blood is gone and the metal is molten, it’s poured over the remaining objects. Once cooled, it’s buried — tradition dictates a burial at sea, but anywhere will do.
+
+**System:** The caster prepares the ingredients, selects one Background of their chosen target, and makes the Ceremony test. On a success, the Background is temporarily reduced by one dot; however, if the margin equals or exceeds the Background’s rating, it decreases by two. Storytellers may prefer to make this roll if the rating should be kept secret.
+
+The changes to the Background are subtle at first, with a series of unfortunate events, coincidences, and setbacks temporarily limiting access to the victim’s assets. The change normally takes a few nights before it’s in full effect and lasts a week after that. On a critical success, the caster can choose to have the changes take effect immediately, as well as extend the impact for a full month. Backgrounds cannot be reduced below zero, and only one casting of this Ceremony can affect a given target at any one time, regardless of the source. All ratings return to their original level once this Ceremony expires.
+
+</details>
+
+<details>
+
 <summary><mark style="color:purple;"><strong>Name of the Father</strong></mark><strong> </strong><mark style="color:purple;"><strong>(</strong><strong>Cults of the Blood Gods p.94</strong><strong>)</strong></mark></summary>
 
 **Prerequisite Power:** [<mark style="color:purple;">Shadow Perspective</mark>](https://wiki.capetownvtm.com/material-availability/powers#shadow-perspective-oblivion-3-players-guide-p.89)
