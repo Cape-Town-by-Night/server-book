@@ -406,11 +406,33 @@ Your dead flesh is uniquely receptive to the Blood when it’s time to imitate l
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shifts in the Blood ••••</strong></mark> <mark style="color:red;"><strong>(Cults of the Blood Gods p.202)</strong></mark></summary>
+<summary><mark style="color:purple;"><strong>Shifts in the Blood ••••</strong></mark> <mark style="color:purple;"><strong>(Cults of the Blood Gods p.202)</strong></mark></summary>
+
+**Prerequisite:** Hecata
 
 The Hecata have long been interested in the malleability of the Blood, and how their favored Disciplines in these nights differ from those of their ancestors and their ancestors before them. While they speculate it may be due to the formation of the Hecata and destruction of many Giovanni elders in recent years, Necromancers still guess at why some Giovanni favor forceful Disciplines and the _nasyon san an_ prioritize subterfuge. Why the ability for heightened senses is the power so often lost, even the most accomplished Necromancers cannot say.
 
 When you purchase this merit, your character's bloodline replacement Discipline counts as a fourth in-clan Discipline. Giovanni have access to Dominate, _nasyon san an_ have access to Obfuscate, Lamiae have access to Potence, and Nagaraja have access to Dominate.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Protean Sorcerer •</strong></mark> <mark style="color:purple;"><strong>(Courts of the Damned p.166)</strong></mark></summary>
+
+**Prerequisite:** Gangrel, Ministry, Tzimisce
+
+You can learn and teach Blood Sorcery as though it were a Clan Discipline. This replaces Protean as a Clan Discipline for you.
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Oblivion’s Corruption •</strong></mark> <mark style="color:purple;"><strong>(Courts of the Damned p.166)</strong></mark></summary>
+
+**Prerequisite:** Ministry
+
+You can learn and teach Oblivion as though it were a Clan Discipline. This replaces Protean as a Clan Discipline for you. You cannot have both Oblivion’s Corruption and Protean Sorcerer.
 
 </details>
 
@@ -1620,6 +1642,18 @@ Revolt and the Convention of Thorns\
 ▪ Constantinople and the Trinity\
 ▪ The Revelations of the Dark Mother (heretical to most)\
 ▪ Antiquity and the War of Carthage
+
+</details>
+
+<details>
+
+<summary><mark style="color:purple;"><strong>Moral Dissident ••</strong></mark> <mark style="color:purple;"><strong>(Courts of the Damned p.144)</strong></mark></summary>
+
+**Prerequisite:** Autark
+
+Autarkis do not have to compromise their morals to belong to a sect or ideological faction and are often much more humane. But as the saying goes, no good deed goes unpunished. To reflect strength of will, spite, and fierce independence, choose two extra Convictions and Touchstones.
+
+The drawback is that the outsider can only take this Merit if they pay for it by buying appropriate Flaws. These represent enemies, fabricated sinister rumors, psychological scars, or even curses levied against them, or reflect a lonely life of someone judged too dangerous to be close to.
 
 </details>
 
