@@ -1951,7 +1951,7 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 **Cost:** One Rouse Check
 
-**Dice Pools:** Charisma + Leadership vs. Composure + Resolve
+**Dice Pools:** Charisma + Presence vs. Composure + Resolve
 
 **System:** The vampire makes a Rouse Check to target one victim. Mortals are automatically affected. Against supernatural creatures, the user must win a test of Charisma + Leadership vs. the victim’s Composure + Resolve. On a win, this Power compels an affected target to approach the user, whether or not the target knows or even is aware of the user. The victim won’t drop everything or risk their safety to approach the user, and the power is ineffective in any kind of violent altercation. They politely finish conversations, complete their transactions, cross streets with caution, and wait at a safe distance until the Power ends or the situation becomes safe. After using this power, the victim may recall an intense curiosity or an unexplainable compulsion to investigate or be near a person or location.
 
