@@ -21,6 +21,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Character Creation
@@ -228,6 +230,10 @@ We have removed Reliability from Allies. These background characters will simply
 ### Haven: Warding
 
 Your haven possesses some kind of magical ward, barring supernatural forces. Whenever you select this merit, choose between Blood Sorcery and Oblivion. While within your haven, each dot of this Merit adds one to the dice pool or DC to resist supernatural scrying and to resist the chosen Discipline and effects related to it, such as a Gargoyle's abilities for Blood Sorcery or a Ghost for Oblivion. You must possess Blood Sorcery, Oblivion, or Occult 3 or greater to buy this merit.
+
+### Linguistics
+
+Characters that are local may take an additional language for free, regardless of if they possess the Linguistics merit or not.
 
 ### Mawla
 

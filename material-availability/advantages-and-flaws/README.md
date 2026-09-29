@@ -508,7 +508,7 @@ You have easy access to an armory or cache of tools and hardware. None of these 
 
 <summary><mark style="color:green;"><strong>Linguistics •-••••• (Core p.179)</strong></mark></summary>
 
-Each dot in Linguistics allows the character to fluently speak, write, and read one additional language besides those two default languages. Characters who are local to South Africa may take an additional language for free.
+Each dot in Linguistics allows the character to fluently speak, write, and read one additional language besides those two default languages.
 
 Characters that are local may take an additional language for free, regardless of if they possess this Merit or not.
 
