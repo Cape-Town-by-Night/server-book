@@ -4,13 +4,13 @@ At character creation, a player can choose one Level 1 ritual if they have at le
 
 Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usually require additional ingredients, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
 
-Rituals that have prerequisite powers will be marked in <mark style="color:purple;">blue</mark> and will also link to the specific power itself.
+Rituals that have prerequisite powers will be marked in <mark style="color:violet;">purple</mark> and will also link to the specific power itself.
 
 ## Level 1
 
 <details>
 
-<summary><mark style="color:$info;"><strong>Astromancy (Blood Sigils pp.59-60)</strong></mark></summary>
+<summary><strong>Astromancy (Blood Sigils pp.59-60)</strong></summary>
 
 **Ingredients:** The night sky; a silver mirror or platter; the blood, hair, spit, or flesh of the target
 
@@ -110,7 +110,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Craft Bloodstone (Core pp.276-277)</strong></mark></summary>
+<summary><strong>Craft Bloodstone (Core pp.276-277)</strong></summary>
 
 **Ingredients:** A pebble of iron ore or a small magnet and a liter of blood from any source in a silver bowl.
 
@@ -122,7 +122,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Douse the Fear (Players Guide p.99)</strong></mark></summary>
+<summary><strong>Douse the Fear (Players Guide p.99)</strong></summary>
 
 **Ingredients:** A holy object such as a crucifix, Bible, or Qur’an.
 
@@ -134,7 +134,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Enrich the Blood (Forbidden Religions pp.76-77)</strong></mark></summary>
+<summary><strong>Enrich the Blood (Forbidden Religions pp.76-77)</strong></summary>
 
 **Ingredients:** A half-full vial of the target’s blood, five liters of unprocessed human blood no more than three hours old.
 
@@ -148,7 +148,7 @@ This Ritual makes the human’s blood thick and hypercoagulable, prone to numero
 
 <details>
 
-<summary><mark style="color:red;"><strong>Herd Ward - Minor (Let the Streets Run Red p.77)</strong></mark></summary>
+<summary><strong>Herd Ward - Minor (Let the Streets Run Red p.77)</strong></summary>
 
 **Ingredients:** Scorpion poison, sufficient vitae to provoke a Rouse Check.
 
@@ -162,7 +162,7 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 
 <details>
 
-<summary><mark style="color:red;"><strong>Letter Ward (Let the Streets Run Red p.77)</strong></mark></summary>
+<summary><strong>Letter Ward (Let the Streets Run Red p.77)</strong></summary>
 
 **Ingredients:** Pigeon blood, wax, dog blood.
 
@@ -174,7 +174,7 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 
 <details>
 
-<summary><mark style="color:red;"><strong>Preservation (Courts of the Damned pp.215-216)</strong></mark></summary>
+<summary><strong>Preservation (Courts of the Damned pp.215-216)</strong></summary>
 
 **Ingredients:** A quill or fountain pen, one or more Rouse Checks’ worth of the caster’s vitae
 
@@ -188,7 +188,7 @@ One Rouse Check of vitae is enough to ward an item about the size of a chair or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Revealing the Crimson Trail (Gehenna War p.48)</strong></mark></summary>
+<summary><strong>Revealing the Crimson Trail (Gehenna War p.48)</strong></summary>
 
 **Ingredients:** A needle with an eye.
 
@@ -200,7 +200,7 @@ One Rouse Check of vitae is enough to ward an item about the size of a chair or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Rite of Introduction (Courts of the Damned p.216)</strong></mark></summary>
+<summary><strong>Rite of Introduction (Courts of the Damned p.216)</strong></summary>
 
 **Ingredients:** An iron pot or cauldron, a Rouse Check of the user’s vitae
 
@@ -212,7 +212,7 @@ One Rouse Check of vitae is enough to ward an item about the size of a chair or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Sanguine Tidings (</strong><strong>Live From the Succubus Club p.29</strong><strong>)</strong></mark></summary>
+<summary><strong>Sanguine Tidings (Live From the Succubus Club p.29)</strong></summary>
 
 **Ingredients:** Mirror, sufficient human blood to write the message, lightless room.
 
@@ -224,7 +224,7 @@ One Rouse Check of vitae is enough to ward an item about the size of a chair or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seal the Brand (Players Guide p.99)</strong></mark></summary>
+<summary><strong>Seal the Brand (Players Guide p.99)</strong></summary>
 
 **Ingredients:** Molten silver poured over a tattoo, brand, or other body modification.
 
@@ -236,7 +236,7 @@ One Rouse Check of vitae is enough to ward an item about the size of a chair or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shared Memory (In Memoriam p.145)</strong></mark></summary>
+<summary><strong>Shared Memory (In Memoriam p.145)</strong></summary>
 
 **Ingredients:** One Rouse Check’s worth of vitae from the Kindred undergoing Memoriam for each additional participant in this Ritual, a wooden or stone chalice, and dried berries of deadly nightshade.
 
@@ -250,7 +250,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Unseen Underground (Fall of London p.31)</strong></mark></summary>
+<summary><strong>Unseen Underground (Fall of London p.31)</strong></summary>
 
 **Ingredients:** Rat’s blood and eyes.
 
@@ -262,7 +262,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Wake With Evening’s Freshness (Core p.277)</strong></mark></summary>
+<summary><strong>Wake With Evening’s Freshness (Core p.277)</strong></summary>
 
 **Ingredients:** The burnt bones and feathers of a rooster.
 
@@ -276,7 +276,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>As Fog on Water (Players Guide p.100)</strong></mark></summary>
+<summary><strong>As Fog on Water (Players Guide p.100)</strong></summary>
 
 **Ingredients:** A piece of wood from a ship, and water
 
@@ -288,7 +288,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Calix Secretus (Players Guide p.100)</strong></mark></summary>
+<summary><strong>Calix Secretus (Players Guide p.100)</strong></summary>
 
 **Ingredients:** An object that fits in the caster’s hand, and Blood of the user.
 
@@ -300,7 +300,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Calling the Aura's Remnants (The Chicago Folios p.171)</strong></mark></summary>
+<summary><strong>Calling the Aura's Remnants (The Chicago Folios p.171)</strong></summary>
 
 **Ingredients:** A human corpse or the corpse of a destroyed vampire.
 
@@ -312,7 +312,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Communicate With Kindred Sire (Core p.277)</strong></mark></summary>
+<summary><strong>Communicate With Kindred Sire (Core p.277)</strong></summary>
 
 **Ingredients:** An object previously possessed by the sire and a silver bowl filled with clear water.
 
@@ -324,7 +324,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Craftmaster (Blood Sigils p.62)</strong></mark></summary>
+<summary><strong>Craftmaster (Blood Sigils p.62)</strong></summary>
 
 **Ingredients:** Blood of a gifted subject, representative craft object such as a needle, page of a book, playing card, chisel, etc., vulture bones.
 
@@ -336,7 +336,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Depths of Nightmare (Blood Sigils p.62)</strong></mark></summary>
+<summary><strong>Depths of Nightmare (Blood Sigils p.62)</strong></summary>
 
 **Ingredients:** Target’s hair; melted wax; natron (soda ash)
 
@@ -348,7 +348,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Elemental Grasp (Blood Sigils p.62-63)</strong></mark></summary>
+<summary><mark style="color:violet;"><strong>Elemental Grasp (Blood Sigils p.62-63)</strong></mark></summary>
 
 **Prerequisite:** [Koldunic Sorcery](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
@@ -362,7 +362,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Enhance Dyscrasia (Forbidden Religions p.77)</strong></mark></summary>
+<summary><strong>Enhance Dyscrasia (Forbidden Religions p.77)</strong></summary>
 
 **Ingredients:** An object of significance to the target, appropriate to the Resonance of their Dyscrasia.
 
@@ -374,7 +374,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Eyes of Babel (Core p.277)</strong></mark></summary>
+<summary><strong>Eyes of Babel (Core p.277)</strong></summary>
 
 **Ingredients:** A fresh eye and tongue of a person
 
@@ -386,7 +386,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Illuminate The Trail Of Prey (Core p.277)</strong></mark></summary>
+<summary><strong>Illuminate The Trail Of Prey (Core p.277)</strong></summary>
 
 **Ingredients:** A white satin ribbon.
 
@@ -398,7 +398,7 @@ If used in conjunction with other Rituals or powers (such as Guided Memory), onl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Le Sang de l’Amour (Blood-Stained Love p.154)</strong></mark></summary>
+<summary><strong>Le Sang de l’Amour (Blood-Stained Love p.154)</strong></summary>
 
 **Ingredients:** Blood of the caster and their lover, two glass vials on chains.
 
@@ -412,7 +412,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shroud of Silence (Forbidden Religions pp.22-23)</strong></mark></summary>
+<summary><strong>Shroud of Silence (Forbidden Religions pp.22-23)</strong></summary>
 
 **Ingredients:** A length of woven cloth, often silk. A golden ring through which the cloth can pass. Kindred vitae acquired from a vampire with the Obfuscate Discipline.
 
@@ -424,7 +424,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Silentia Mortis (Blood Sigils p.64)</strong></mark></summary>
+<summary><strong>Silentia Mortis (Blood Sigils p.64)</strong></summary>
 
 **Ingredients:** Paw of a cat or other silent desert predator, blood from caster (and from holder, if different), corpse-wax candle (Blood Sigils, p.139), a white rose.
 
@@ -436,7 +436,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Soporific Touch (Players Guide p.100)</strong></mark></summary>
+<summary><strong>Soporific Touch (Players Guide p.100)</strong></summary>
 
 **Ingredients:** A small amount of hashish or other narcotic substance.
 
@@ -448,7 +448,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Stolen Memory (In Memoriam p.145)</strong></mark></summary>
+<summary><strong>Stolen Memory (In Memoriam p.145)</strong></summary>
 
 **Ingredients:** Your own vitae; a black scrying mirror or, in a pinch, a bowl of water; and something belonging to your sire.
 
@@ -460,7 +460,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Tiamat Glistens (Blood Sigils pp.64-65)</strong></mark></summary>
+<summary><strong>Tiamat Glistens (Blood Sigils pp.64-65)</strong></summary>
 
 **Ingredients:** A place of power such as a furcus, dust of a precious metal (which one depends on the magical valence of the site).
 
@@ -472,7 +472,7 @@ The ritual only remains effective as long as both wear their partner’s vial an
 
 <details>
 
-<summary><mark style="color:red;"><strong>Truth Of Blood (Core pp.277-278)</strong></mark></summary>
+<summary><strong>Truth Of Blood (Core pp.277-278)</strong></summary>
 
 **Ingredients:** One pint of blood from the subject.
 
@@ -486,7 +486,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Viscera Garden (Blood Sigils p.65)</strong></mark></summary>
+<summary><strong>Viscera Garden (Blood Sigils p.65)</strong></summary>
 
 **Ingredients:** A plot of land, a day-old human or animal corpse, the caster’s Blood (for upkeep).
 
@@ -500,7 +500,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Bladed Hands (The Chicago Folios p.174)</strong></mark></summary>
+<summary><strong>Bladed Hands (The Chicago Folios p.174)</strong></summary>
 
 **Ingredients:** A pair of razor blades, two drops of Kindred vitae.
 
@@ -512,7 +512,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Sigil (Blood Sigils p.66)</strong></mark></summary>
+<summary><strong>Blood Sigil (Blood Sigils p.66)</strong></summary>
 
 **Ingredients:** Tattoo ink or other substances that can stain skin, a written message on paper, a photograph, or a painting, a sharp object with a tip heated by candle flame.
 
@@ -524,7 +524,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Bloodless Feast (Forbidden Religions pp.66-67)</strong></mark></summary>
+<summary><strong>Bloodless Feast (Forbidden Religions pp.66-67)</strong></summary>
 
 **Ingredients:** An unconscious human, a flawless crystal chalice.
 
@@ -536,7 +536,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Communal Vigor (Sabbat: The Black Hand pp.50-51)</strong></mark></summary>
+<summary><strong>Communal Vigor (Sabbat: The Black Hand pp.50-51)</strong></summary>
 
 **Ingredients:** One fingernail of the Pack Priest
 
@@ -548,7 +548,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Dagon’s Call (Core p.278)</strong></mark></summary>
+<summary><strong>Dagon’s Call (Core p.278)</strong></summary>
 
 **Ingredients:** A gold inlaid ceremonial dagger.
 
@@ -560,7 +560,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Deflection Of Wooden Doom (Core pp.278-279)</strong></mark></summary>
+<summary><strong>Deflection Of Wooden Doom (Core pp.278-279)</strong></summary>
 
 **Ingredients:** Wood splinters or shavings.
 
@@ -572,7 +572,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Elemental Shelter (Blood Sigils p.66)</strong></mark></summary>
+<summary><mark style="color:violet;"><strong>Elemental Shelter (Blood Sigils p.66)</strong></mark></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Koldunic Sorcery</mark>](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
@@ -586,7 +586,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Essence Of Air (Core p.279)</strong></mark></summary>
+<summary><strong>Essence Of Air (Core p.279)</strong></summary>
 
 **Ingredients:** Leaves and berries of belladonna.
 
@@ -598,7 +598,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Eyes of the Past (The Chicago Folios p.172)</strong></mark></summary>
+<summary><strong>Eyes of the Past (The Chicago Folios p.172)</strong></summary>
 
 **Ingredients:** One drop of blood for each year the caster is trying to look backward in time (three or more drops requires a Rouse Check).
 
@@ -610,7 +610,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fire in the Blood (Players Guide pp.100-101)</strong></mark></summary>
+<summary><strong>Fire in the Blood (Players Guide pp.100-101)</strong></summary>
 
 **Ingredients:** A sample of the target’s blood, a visual depiction of the target such as a photo, painting, or video recording, and a candle made from red wax or a lighter made of iron.
 
@@ -622,7 +622,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Firewalker (Core p.279)</strong></mark></summary>
+<summary><strong>Firewalker (Core p.279)</strong></summary>
 
 **Ingredients:** A fingertip of the caster.
 
@@ -634,7 +634,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Galvanic Ruination (Sabbat: The Black Hand p.51)</strong></mark></summary>
+<summary><strong>Galvanic Ruination (Sabbat: The Black Hand p.51)</strong></summary>
 
 **Ingredients:** A copper coin
 
@@ -646,7 +646,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Gentle Mind (The Chicago Folios p.172)</strong></mark></summary>
+<summary><strong>Gentle Mind (The Chicago Folios p.172)</strong></summary>
 
 **Ingredients:** Crystal glass, Kindred vitae.
 
@@ -658,7 +658,7 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
-<summary><mark style="color:red;"><strong>Grim Chrysalis (Tattered Facade pp.93-94)</strong></mark></summary>
+<summary><strong>Grim Chrysalis (Tattered Facade pp.93-94)</strong></summary>
 
 **Ingredients:** 200g of human hair, a moth or butterfly. Old-school sorcerers insist on death’s-head moths and hair from a corpse; younger licks suggest that a store-bought bottle of keratin supplements and any random caterpillar works just as well.
 
@@ -676,7 +676,7 @@ The process of breaking out of the cocoon can be a disturbing sight. Vampires th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Haunted House (The Chicago Folios pp.174-175)</strong></mark></summary>
+<summary><strong>Haunted House (The Chicago Folios pp.174-175)</strong></summary>
 
 **Ingredients:** Kindred vitae
 
@@ -688,7 +688,7 @@ The process of breaking out of the cocoon can be a disturbing sight. Vampires th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Herd Ward - Major (Let the Streets Run Red p.77)</strong></mark></summary>
+<summary><strong>Herd Ward - Major (Let the Streets Run Red p.77)</strong></summary>
 
 **Ingredients:** Scorpion poison, sufficient vitae to provoke a Rouse Check.
 
@@ -702,7 +702,7 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 
 <details>
 
-<summary><mark style="color:red;"><strong>Illusion of Peaceful Death (The Chicago Folios p.172)</strong></mark></summary>
+<summary><strong>Illusion of Peaceful Death (The Chicago Folios p.172)</strong></summary>
 
 **Ingredients:** A white feather.
 
@@ -714,7 +714,7 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 
 <details>
 
-<summary><mark style="color:red;"><strong>Illusion of Perfection (The Chicago Folios p.174)</strong></mark></summary>
+<summary><strong>Illusion of Perfection (The Chicago Folios p.174)</strong></summary>
 
 **Ingredients:** A plain white mask.
 
@@ -726,7 +726,7 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 
 <details>
 
-<summary><mark style="color:red;"><strong>Nepenthe (Blood Sigils pp.66-67)</strong></mark></summary>
+<summary><strong>Nepenthe (Blood Sigils pp.66-67)</strong></summary>
 
 **Ingredients:** Poppy seeds, starflower, honey, the subject’s tears, the caster’s Blood.
 
@@ -738,7 +738,7 @@ Once the Herd Ward is triggered, a Kindred still trying to drink from the kine m
 
 <details>
 
-<summary><mark style="color:red;"><strong>One With the Blade (Players Guide p.101)</strong></mark></summary>
+<summary><strong>One With the Blade (Players Guide p.101)</strong></summary>
 
 **Ingredients:** A melee weapon and enough of the caster’s vitae to fully immerse it.
 
@@ -752,7 +752,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Sanguine Watcher (The Chicago Folios p.174)</strong></mark></summary>
+<summary><strong>Sanguine Watcher (The Chicago Folios p.174)</strong></summary>
 
 **Ingredients:** Kindred vitae, small quantities of alcohol, silver bowl.
 
@@ -764,7 +764,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seeing with the Sky’s Eyes (Blood Sigils p.67)</strong></mark></summary>
+<summary><strong>Seeing with the Sky’s Eyes (Blood Sigils p.67)</strong></summary>
 
 **Ingredients:** Euphoric mortal blood (usually from someone high on cannabis), incense, brazier, an effigy or photo of a target.
 
@@ -776,7 +776,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seeking Tiamat (Blood Sigils p.68)</strong></mark></summary>
+<summary><strong>Seeking Tiamat (Blood Sigils p.68)</strong></summary>
 
 **Ingredients:** A foot-long, sharpened piece of witch hazel or magnetized iron.
 
@@ -788,7 +788,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Sleep of Judas (Let the Streets Run Red p.77)</strong></mark></summary>
+<summary><strong>Sleep of Judas (Let the Streets Run Red p.77)</strong></summary>
 
 **Ingredients: "**&#x42;lood" from a mystical landmark, opium.
 
@@ -800,7 +800,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Soul of the Hemonculus (Blood Sigils p.68)</strong></mark></summary>
+<summary><strong>Soul of the Hemonculus (Blood Sigils p.68)</strong></summary>
 
 **Ingredients:** Glass bottle blown on the night before the new moon, semen, chalk, graveyard dirt, the caster’s Blood, a dead man’s thumb, and a dead pig.
 
@@ -812,7 +812,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Stone of the True Form (Blood Sigils p.68)</strong></mark></summary>
+<summary><strong>Stone of the True Form (Blood Sigils p.68)</strong></summary>
 
 **Ingredients:** A hunk of metamorphic rock, such as slate or marble.
 
@@ -824,7 +824,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Trespass (Blood Sigils p.69)</strong></mark></summary>
+<summary><strong>Trespass (Blood Sigils p.69)</strong></summary>
 
 **Ingredients:** Fragment of the desired location’s cornerstone or doorstep, the blood of a thief, thread.
 
@@ -836,7 +836,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Unseen Change (The Chicago Folios p.172)</strong></mark></summary>
+<summary><strong>The Unseen Change (The Chicago Folios p.172)</strong></summary>
 
 **Ingredients:** Wolf blood, Kindred vitae, a silver jug.
 
@@ -848,7 +848,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>Viral Haruspex (Blood Sigils p.69)</strong></mark></summary>
+<summary><strong>Viral Haruspex (Blood Sigils p.69)</strong></summary>
 
 **Ingredients:** Live rhinoviruses in caster’s Blood, a rat, a bowl or dish. Plague oracles love to use stainless steel surgical bowls for their rituals, but that’s not a hard requirement.
 
@@ -862,7 +862,7 @@ If used against its original owner it deals Aggravated damage but gains no addit
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Balm of Bathory (Tattered Facade p.94-95)</strong></mark></summary>
+<summary><strong>The Balm of Bathory (Tattered Facade p.94-95)</strong></summary>
 
 **Ingredients:** One cup of vitae from the sorcerer, one pint of blood from a youthful victim (or victims) of clear complexion (the needed amount doubles per brewing, see below), chamomile flowers, and shea butter or sheep’s fat; optional essential oils for scent
 
@@ -876,7 +876,7 @@ However, the use of the Balm of Bathory can be highly addictive and the amount o
 
 <details>
 
-<summary><mark style="color:red;"><strong>Compel the Inanimate (Blood Sigils pp.69-70)</strong></mark></summary>
+<summary><strong>Compel the Inanimate (Blood Sigils pp.69-70)</strong></summary>
 
 **Ingredients:** Any inanimate object.
 
@@ -892,15 +892,19 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Defense Of The Sacred Haven (Core pp.279-280)*</strong></mark></summary>
+<summary><strong>Defense Of The Sacred Haven (Core pp.279-280)</strong></summary>
 
+**Ingredients:** Nothing but the Blood of the caster.
 
+**Process:** The caster inscribes a number of sigils and glyphs on and around the area to be protected. They must take special care on windows and doorways, but may even ward an open doorway if the area is indoors. (The ritual wards gray or liminal areas, such as ruins, at the Storyteller’s discretion.)
+
+**System:** The process takes an hour or more, depending on the state or the area to be warded. The area can be no larger than a circle with a six-meter radius. The ritual automatically fails if the caster steps out of the area at any time after the warding is complete. The caster makes the Ritual roll once the sun rises. On a Win, shadow blankets the area, closing off any view of the outside but also preventing any sun damage to the vampires within. On a critical win, those inside can spy the outside world dimly. The Ritual lasts through an entire day unless ended by the caster stepping outside the area.
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Egregore Consultation (Blood Sigils p.70)</strong></mark></summary>
+<summary><strong>Egregore Consultation (Blood Sigils p.70)</strong></summary>
 
 **Ingredients:** Live influenza viruses in caster’s Blood,worms, flukes, or other parasites, a knife, a magnet.
 
@@ -912,7 +916,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Eyes Of The Nighthawk (Core p.280)</strong></mark></summary>
+<summary><strong>Eyes Of The Nighthawk (Core p.280)</strong></summary>
 
 **Ingredients:** The eyes of the bird used, taken at the conclusion of the Ritual.
 
@@ -924,7 +928,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Feast of Ashes (Players Guide p.101)</strong></mark></summary>
+<summary><strong>Feast of Ashes (Players Guide p.101)</strong></summary>
 
 **Ingredients:** A piece of parchment with the name of the target written on it and burned, and ashes from the burned scroll.
 
@@ -936,7 +940,7 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 
 <details>
 
-<summary><mark style="color:red;"><strong>Guided Memory (Players Guide p.102)</strong></mark></summary>
+<summary><strong>Guided Memory (Players Guide p.102)</strong></summary>
 
 
 
@@ -981,15 +985,19 @@ Walking through another Kindred’s memories is a particularly unnatural experie
 
 <details>
 
-<summary><mark style="color:red;"><strong>Incorporeal Passage (Core p.280)*</strong></mark></summary>
+<summary><strong>Incorporeal Passage (Core p.280)</strong></summary>
 
+**Ingredients:** A mirror.
 
+**Process:** The caster spills their Blood on the mirror, chanting, and then breaks it.
+
+**System:** Make a Ritual roll. If the roll is a win, the caster assumes an incorporeal form as long as they hold a shard of the broken mirror. While incorporeal, the caster remains immune to everything except fire, sunlight, and arcane weapons and rituals capable of damaging spirits. The caster can still be seen and heard but cannot interact physically with anything or anyone. They cannot Rouse the Blood while incorporeal. Incorporeal casters have no access to any spirit realm; the ritual does not make them wraiths or spirits. The caster can walk through walls and other objects but must do so in a straight line; they cannot change direction while inside solid matter. This Ritual lasts for one scene or until the caster drops the shard. Returning to the material while inside solid matter can result in anything from destruction to entombment to minor inconvenience (the ashtray is stuck halfway through the caster’s arm); the Storyteller decides the precise outcome.
 
 </details>
 
 <details>
 
-<summary><mark style="color:red;"><strong>Innocence of the Child's Heart (The Chicago Folios pp.172-173)</strong></mark></summary>
+<summary><strong>Innocence of the Child's Heart (The Chicago Folios pp.172-173)</strong></summary>
 
 **Ingredients:** A toy belonging to a mortal child.
 
@@ -1003,7 +1011,7 @@ Note that there is no recorded instance of Nicolai sharing this ritual with his 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Innocence’s Veil (Gehenna War pp.48-49)</strong></mark></summary>
+<summary><strong>Innocence’s Veil (Gehenna War pp.48-49)</strong></summary>
 
 **Ingredients:** A silver knife, a white candle, a mortal victim
 
@@ -1017,7 +1025,7 @@ Note that there is no recorded instance of Nicolai sharing this ritual with his 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Invisible Chains of Binding (Players Guide pp.101-102)</strong></mark></summary>
+<summary><strong>Invisible Chains of Binding (Players Guide pp.101-102)</strong></summary>
 
 **Ingredients:** A link of chain
 
@@ -1031,7 +1039,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Land’s Sustenance (Blood Sigils pp.70-71)</strong></mark></summary>
+<summary><strong>Land’s Sustenance (Blood Sigils pp.70-71)</strong></summary>
 
 **Ingredients:** A place of power such as a furcus, anything that demarcates a territory such as police tape, a sign post, an enclosed space, etc., a dagger.
 
@@ -1043,7 +1051,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Protean Curse (The Chicago Folios pp.173-174)</strong></mark></summary>
+<summary><strong>Protean Curse (The Chicago Folios pp.173-174)</strong></summary>
 
 **Ingredients:** A vial of rabid vampire bat blood, Kindred vitae.
 
@@ -1055,7 +1063,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Rending the Sweet Earth (The Chicago Folios p.173)</strong></mark></summary>
+<summary><strong>Rending the Sweet Earth (The Chicago Folios p.173)</strong></summary>
 
 **Ingredients:** A leather whip, Kindred vitae.
 
@@ -1067,7 +1075,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Riding the Earth’s Veins (Blood Sigils p.71)</strong></mark></summary>
+<summary><strong>Riding the Earth’s Veins (Blood Sigils p.71)</strong></summary>
 
 **Ingredients:** A furcus, a physical sign of entrance such as a ticket, key, or doorknob.
 
@@ -1079,7 +1087,7 @@ The chain link corrodes to dust at the end of the Ritual’s effect.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seek the Gathered Vitae (Live From the Succubus Club p.29)</strong></mark></summary>
+<summary><strong>Seek the Gathered Vitae (Live From the Succubus Club p.29)</strong></summary>
 
 **Ingredients:** A mixture of fine red ink and pomegranate juice, bright white paper or cloth, and a large top
 
@@ -1092,7 +1100,7 @@ At the Storyteller’s discretion, ghouls count as a quarter point of Blood Pote
 
 <details>
 
-<summary><mark style="color:red;"><strong>Web of Hunger (Fall of London p.31)</strong></mark></summary>
+<summary><strong>Web of Hunger (Fall of London p.31)</strong></summary>
 
 **Ingredients:** A weapon that has been used to kill at least a dozen mortals.
 
@@ -1106,7 +1114,7 @@ At the Storyteller’s discretion, ghouls count as a quarter point of Blood Pote
 
 <details>
 
-<summary><mark style="color:red;"><strong>Antebrachia Ignium</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide pp.102-103)</strong></mark></summary>
+<summary><strong>Antebrachia Ignium (Players Guide pp.102-103)</strong></summary>
 
 **Ingredients:** Sufficient vitae (from any vampire) to coat the caster’s arms up to the elbows, and a source of flame (such as a lighter).
 
@@ -1118,7 +1126,7 @@ At the Storyteller’s discretion, ghouls count as a quarter point of Blood Pote
 
 <details>
 
-<summary><mark style="color:red;"><strong>Atrocity's Release</strong></mark><strong> </strong><mark style="color:red;"><strong>(Gehenna War p.49)</strong></mark></summary>
+<summary><strong>Atrocity's Release (Gehenna War p.49)</strong></summary>
 
 **Ingredients:** Human reproductive organs thinly sliced, moss or a sea sponge, and scrapings of bezoar.
 
@@ -1132,7 +1140,7 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Dominion</strong></mark><strong> </strong><mark style="color:red;"><strong>(Players Guide p.103)</strong></mark></summary>
+<summary><strong>Dominion (Players Guide p.103)</strong></summary>
 
 **Ingredients:** Seal made of iron embedded over every doorway in the building.
 
@@ -1144,7 +1152,7 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Foundation of the Chantry</strong></mark><strong> </strong><mark style="color:red;"><strong>(Courts of the Damned pp.216-217)</strong></mark></summary>
+<summary><strong>Foundation of the Chantry (Courts of the Damned pp.216-217)</strong></summary>
 
 **Ingredients:** A polished sphere of amethyst, a white or albino mammal or bird indigenous to the region, and a human skull
 
@@ -1156,7 +1164,7 @@ Even if the ritual is successful, the spirit of the previous victim of the diabl
 
 <details>
 
-<summary><mark style="color:red;"><strong>Eden's Bounty</strong></mark><strong> </strong><mark style="color:red;"><strong>(Cults of the Blood Gods p.56)</strong></mark></summary>
+<summary><strong>Eden's Bounty (Cults of the Blood Gods p.56)</strong></summary>
 
 **Ingredients:** A dead body, a living tree, one fresh apple, one rotten apple.
 
@@ -1170,7 +1178,7 @@ A lot of blood is wasted with this Ritual, as all the mortals in the area lose a
 
 <details>
 
-<summary><mark style="color:purple;"><strong>Elemental Attack (Blood Sigils pp.71-72)</strong></mark></summary>
+<summary><mark style="color:violet;"><strong>Elemental Attack (Blood Sigils pp.71-72)</strong></mark></summary>
 
 **Prerequisite:** [Koldunic Sorcery](https://wiki.capetownvtm.com/material-availability/powers#koldunic-sorcery-level-1-blood-sigils-p.61)
 
@@ -1186,7 +1194,7 @@ A lot of blood is wasted with this Ritual, as all the mortals in the area lose a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Escape to True Sanctuary</strong></mark><strong> </strong><mark style="color:red;"><strong>(Core pp.279-280)</strong></mark></summary>
+<summary><strong>Escape to True Sanctuary (Core pp.279-280)</strong></summary>
 
 **Ingredients:** Two charred circles of approximately a meter in diameter.
 
@@ -1198,7 +1206,7 @@ A lot of blood is wasted with this Ritual, as all the mortals in the area lose a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fisher King</strong></mark><strong> </strong><mark style="color:red;"><strong>(Blood Sigils pp.72-73)</strong></mark></summary>
+<summary><strong>Fisher King (Blood Sigils pp.72-73)</strong></summary>
 
 **Ingredients:** A landmark representing a region, dirt from the region, a horse-hair paintbrush
 
@@ -1212,7 +1220,7 @@ A lot of blood is wasted with this Ritual, as all the mortals in the area lose a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Heart of Stone</strong></mark><strong> </strong><mark style="color:red;"><strong>(Core p.281)</strong></mark></summary>
+<summary><strong>Heart of Stone (Core p.281)</strong></summary>
 
 **Ingredients:** A stone slab and a wax candle drenched with the Blood of the caster.
 
@@ -1224,7 +1232,7 @@ A lot of blood is wasted with this Ritual, as all the mortals in the area lose a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Reawakened Vigor</strong></mark><strong> </strong><mark style="color:red;"><strong>(Gehenna War p.49)</strong></mark></summary>
+<summary><strong>Reawakened Vigor (Gehenna War p.49)</strong></summary>
 
 **Ingredients:** 5 or more Rouse Checks worth of the sorcerer’s vitae, a finely crafted ceramic receptacle, molten lead
 
@@ -1240,7 +1248,7 @@ A sorcerer can only have one active use of this ritual cast at a time, and it lo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shaft of Belated Dissolution</strong></mark><strong> </strong><mark style="color:red;"><strong>(Core pp.281-282)</strong></mark></summary>
+<summary><strong>Shaft of Belated Dissolution (Core pp.281-282)</strong></summary>
 
 **Ingredients:** A stake carved of rowan wood, inscribed with baneful runes.
 
@@ -1254,7 +1262,7 @@ A sorcerer can only have one active use of this ritual cast at a time, and it lo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Aapilu Awakening</strong></mark><strong> </strong><mark style="color:red;"><strong>(Tattered Facade p.92)</strong></mark></summary>
+<summary><strong>Aapilu Awakening (Tattered Facade p.92)</strong></summary>
 
 **Ingredients:** A pentagram or other sigil inscribed on the floor, a burning brazier, a wooden wand, lit candles at the points of the pentagram, the aapilu’s True Name
 
@@ -1280,7 +1288,7 @@ Do not make the Ritual roll until the first time the trespasser touches the Ward
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ward Against Ghouls, Level 1 (Core p.277)</strong></mark></summary>
+<summary><strong>Ward Against Ghouls, Level 1 (Core p.277)</strong></summary>
 
 **Ingredients:** Nothing apart from the caster’s Blood.
 
@@ -1294,7 +1302,7 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ward Against Spirits, Level 2 (Core p.278)</strong></mark></summary>
+<summary><strong>Ward Against Spirits, Level 2 (Core p.278)</strong></summary>
 
 **Ingredients:** A handful of salt (in some versions, a handful of brick dust) mixed with the Blood.
 
@@ -1324,7 +1332,7 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ward Against Lupines, Level 3 (Core p.279)</strong></mark></summary>
+<summary><strong>Ward Against Lupines, Level 3 (Core p.279)</strong></summary>
 
 **Ingredients:** A handful of silver dust mixed with the Blood.
 
@@ -1338,7 +1346,7 @@ Sense the Unseen (Auspex 1) can detect a Ward with a contest of Intelligence + A
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ward Against Cainites, Level 4 (Core p.280)</strong></mark></summary>
+<summary><strong>Ward Against Cainites, Level 4 (Core p.280)</strong></summary>
 
 **Ingredients:** Ash warm from a still-burning fire; casters risk terror frenzy, and cannot inscribe this Ward that night if they succumb to it.
 
@@ -1360,7 +1368,7 @@ When the trespasser attempts to cross the circle, roll a contest of Intelligence
 
 <details>
 
-<summary><mark style="color:red;"><strong>Warding Circle Against Ghouls, Level 2 (Core p.278)</strong></mark></summary>
+<summary><strong>Warding Circle Against Ghouls, Level 2 (Core p.278)</strong></summary>
 
 **Ingredients:** The caster draws the Warding circle with a human bone dipped in three Rouse Checks worth of Blood.
 
@@ -1372,7 +1380,7 @@ When the trespasser attempts to cross the circle, roll a contest of Intelligence
 
 <details>
 
-<summary><mark style="color:red;"><strong>Warding Circle Against Spirits, Level 3 (Core p.279)</strong></mark></summary>
+<summary><strong>Warding Circle Against Spirits, Level 3 (Core p.279)</strong></summary>
 
 **Ingredients:** The caster draws the Warding circle with an iron knife dipped in salt and Blood.
 
@@ -1398,7 +1406,7 @@ When the trespasser attempts to cross the circle, roll a contest of Intelligence
 
 <details>
 
-<summary><mark style="color:red;"><strong>Warding Circle Against Lupines, Level 4 (Core p.280)</strong></mark></summary>
+<summary><strong>Warding Circle Against Lupines, Level 4 (Core p.280)</strong></summary>
 
 **Ingredients:** The caster draws the Warding circle with a silver knife dipped in wolfsbane and Blood.
 
@@ -1410,7 +1418,7 @@ When the trespasser attempts to cross the circle, roll a contest of Intelligence
 
 <details>
 
-<summary><mark style="color:red;"><strong>Warding Circle Against Cainites, Level 5 (Core p.282)</strong></mark></summary>
+<summary><strong>Warding Circle Against Cainites, Level 5 (Core p.282)</strong></summary>
 
 **Ingredients:** The caster draws the Warding Circle with a rowan wand dipped in the mixture of ash from a still-burning fire and Blood.
 
