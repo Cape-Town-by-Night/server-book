@@ -29,11 +29,11 @@ layout:
 
 ## Art and Crediting
 
-Any art that you use must be credited to the actual artist with either their name (if easily searchable), online handle, or social media link. Real life models may be used but you must credit the model themselves by name along with the photographer. AI images are allowed if they were generated from licensed websites. A few sites that properly credit and compensate their artists are [<mark style="color:red;">Tess</mark>](https://www.tess.design/) and [<mark style="color:red;">Exactly</mark>](https://exactly.ai/). AI images from generators that do not source ethically are **not** allowed.
+Any art that you use must be credited to the actual artist with either their name (if easily searchable), online handle, or social media link. Real life models may be used but you must credit the model themselves by name along with the photographer. AI images are allowed if they were generated from licensed websites. A few sites that properly credit and compensate their artists are [<mark style="color:$danger;">Tess</mark>](https://www.tess.design/) and [<mark style="color:$danger;">Exactly</mark>](https://exactly.ai/). AI images from generators that do not source ethically are **not** allowed.
 
 ## Starting at the Top
 
-All character sheets can be found [<mark style="color:red;">here</mark>](https://drive.google.com/drive/folders/1IEZSBIUgkmafo7LxKQ-iRK0bJHnmlqOd?usp=sharing) and in the [<mark style="color:red;">#character-creation</mark>](https://discord.com/channels/1292865933525651466/1292865935073476625) channel on the server.
+All character sheets can be found [<mark style="color:$danger;">here</mark>](https://drive.google.com/drive/folders/1IEZSBIUgkmafo7LxKQ-iRK0bJHnmlqOd?usp=sharing) and in the [<mark style="color:$danger;">#character-creation</mark>](https://discord.com/channels/1292865933525651466/1292865935073476625) channel on the server.
 
 Please use the character creation rules starting on p.136 of the Core book. For more realistic or coherent characters, we recommend using the guided character creation process starting on p.144, titled "Your Human Life." This method emphasizes character building by focusing on characters' lives and assigning stats accordingly.
 
@@ -43,7 +43,7 @@ If you are making a fledgling character, please note that they do not start with
 
 <summary>Retiring a character?</summary>
 
-If you are retiring a character, you may have a bank of retirement experience to apply to your new character. You gain one experience point for every other reset (non-consecutive) that you were active, up to a maximum of 20 experience points. This retirement experience will not count towards your new character's [<mark style="color:red;">experience cap</mark>](https://wiki.capetownvtm.com/cape-town-reborn/getting-started/beginners-guide/server-specific-information#experience-caps). Ask staff how much you have banked, as we keep a record!
+If you are retiring a character, you may have a bank of retirement experience to apply to your new character. You gain one experience point for every other reset (non-consecutive) that you were active, up to a maximum of 20 experience points. This retirement experience will not count towards your new character's [<mark style="color:$danger;">experience cap</mark>](https://wiki.capetownvtm.com/cape-town-reborn/getting-started/beginners-guide/server-specific-information#experience-caps). Ask staff how much you have banked, as we keep a record!
 
 </details>
 
@@ -158,7 +158,7 @@ Note that if you are playing a character who is pretending to be a clan that the
 
 </details>
 
-Additionally, Hecata characters may (but do not have to) the Shifts in the Blood options presented in Cults of the Blood Gods (p.202). If you wish to take the replacement Discipline as a fourth in-clan, you may take the [Shifts in the Blood](https://wiki.capetownvtm.com/material-availability/advantages-and-flaws#shifts-in-the-blood-trails-of-ash-and-bone-p.202) merit. This must be taken at character creation.
+Additionally, Hecata characters may (but do not have to) the Shifts in the Blood options presented in Cults of the Blood Gods (p.202). If you wish to take the replacement Discipline as a fourth in-clan, you may take the [<mark style="color:$danger;">Shifts in the Blood</mark>](https://wiki.capetownvtm.com/material-availability/advantages-and-flaws#shifts-in-the-blood-trails-of-ash-and-bone-p.202) merit. This must be taken at character creation.
 
 ## Deciding on Convictions
 
@@ -186,9 +186,7 @@ These tenets are similar to convictions but apply to _all_ characters and are de
 
 ## Predator Types
 
-Predator types can be found in Core, Cults of the Blood Gods, Let the Streets Run Red, and the Players Guide. Should none of these Predator types suit your character, you may create your own using the following guidelines.\
-\
-By the rules as written, fledglings do not get Predator types, though you character may gain them in play. To justify this, your character must qualify for each Merit or Background either via projects or roleplay, whichever staff deems appropriate. Once you have earned all of the Advantages related to your character's prospective Predator type, you may ask to add it to your sheet. Adding a Predator Type does not cost experience. To gain the Predator type's Discipline, your character must either have tasted the Blood of someone who has it or they must already have it themselves. Thin-Bloods may choose a dot of Alchemy, though they do not need to.
+All predator types can be found [<mark style="color:$danger;">here</mark>](../material-availability/predator-types.md). Should none of the base predator types suit your character, you may propose a custom predator type, at staff discretion.
 
 <details>
 
@@ -216,6 +214,8 @@ When submitting a custom predator type, please use the following format:
 * **Pool:**
 
 </details>
+
+Fledglings do not get predator types on creation, though you character may earn them in play. To justify this, your character must qualify for each Merit or Background either via projects or roleplay, whichever staff deems appropriate. Once you have earned all of the Advantages related to your character's prospective predator type, you may ask to add the rest of the items to your sheet. Adding a predator type does not cost experience. To gain the predator type's Discipline, your character must either have tasted the Blood of someone who has it, if the Discipline is not in-clan for them. Thin-Bloods may choose either a dot of [<mark style="color:$danger;">Thin-Blood Alchemy</mark>](../material-availability/powers/thin-blood-alchemy.md) or the Discipline that is tied to their [<mark style="color:$danger;">Discipline Affinity</mark>](../material-availability/advantages-and-flaws/thin-blood-caitiff-merits-and-flaws.md#discipline-affinity-core-p.185), should they have it.
 
 ## Advantage Restrictions, Changes, and Clarifications
 

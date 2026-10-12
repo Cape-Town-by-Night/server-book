@@ -2,27 +2,37 @@
 
 <details>
 
-<summary><mark style="color:red;"><strong>Alleycat (Core pp.175-176)</strong></mark></summary>
+<summary><strong>Alleycat (Core pp.175-176)</strong></summary>
 
-■ Specialty Choices: Intimidation (_Stickups_) or Brawl (_Grappling_)\
-■ Discipline Choices: [<mark style="color:purple;">Celerity</mark>](powers/#celerity) or [<mark style="color:purple;">Potence</mark>](powers/#potence)\
-■ Advantages and Flaws: <mark style="color:green;">Three dots of criminal</mark> [<mark style="color:green;">Contacts</mark>](advantages-and-flaws/#contacts), <mark style="color:orange;">-1 Humanity</mark>
+<sup>_A combative assault-feeder, you stalk, overpower, and drink from whomever you can, when you can. You may or may not attempt to threaten or Dominate victims into silence or mask the feeding as a robbery. Think about how you arrived at this direct approach to feeding and what makes you comfortable with an unlife of stalking, attacking, feeding, and escaping. You could have been homeless, an SAS soldier, a cartel hit-man, or a big-game hunter._</sup>
 
-_Pool: Strength + Brawl or Wits + Streetwise_
+**Specialty:** Intimidation _(Stickups)_ or Brawl _(Grappling)_
+
+**Discipline Choice:** [<mark style="color:$danger;">Celerity</mark>](powers/#celerity) or [<mark style="color:$danger;">Potence</mark>](powers/#potence)
+
+**Merits:** Three dots of criminal [<mark style="color:$danger;">Contacts</mark>](advantages-and-flaws/#contacts)
+
+**Flaws:** Lose one dot of Humanity
+
+**Pool:** _Strength + Brawl or Wits + Streetwise_
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;"><strong>Bagger (Core p.176)</strong></mark></summary>
+<summary><strong>Bagger (Core p.176)</strong></summary>
 
-■ Add a specialty: Larceny (_Lockpicking_) or Streetwise (_Black Market_) \
-■ Gain one dot of [<mark style="color:purple;">Blood Sorcery</mark>](powers/#blood-sorcery) (_Tremere and Banu Haqim only_) or [<mark style="color:purple;">Obfuscate</mark>](powers/#obfuscate) \
-■ Gain: [Iron Gullet (•••)](advantages-and-flaws/#iron-gullet-core-p.182) , [Enemy (••)](advantages-and-flaws/#enemies-core-pp.184-185)
+<sub>_You steal, buy, or otherwise procure cold blood rather than hunt, relying on the black market or your skills as a burglar or ambulance chaser. Perhaps you still work the night shift at the hospital. Ventrue may not pick this Predator type._</sub>
 
-_Pool: Intelligence + Streetwise_&#x20;
+**Specialty:** Larceny _(Lockpicking)_ or Streetwise _(Black Market)_
 
-**Ventrue and those above BP 3 may not pick this Predator type.**
+**Discipline Choice:** [<mark style="color:$danger;">Blood Sorcery</mark>](powers/#blood-sorcery) _(Tremere, Banu Haqim, or Koldun only)_ or [<mark style="color:$danger;">Obfuscate</mark>](powers/#obfuscate)
+
+**Merits:** [<mark style="color:$danger;">Iron Gullet</mark>](advantages-and-flaws/#iron-gullet-core-p.182)
+
+**Flaws:** Two dots of [<mark style="color:$danger;">Enemies</mark>](advantages-and-flaws/#enemies-core-pp.184-185)
+
+**Pool:** _Intelligence + Streetwise_&#x20;
 
 </details>
 
