@@ -26,7 +26,7 @@ A mortal who has been fed on for 3 or more Hunger in a single feeding must make 
 
 Kindred inflict harmful drinks on mortals when they either slake more than 3 hunger in a single feeding or feed while in frenzy. This inflicts a number of Aggravated damage equal to Hunger slaked. The mortal must then make a Strength + Stamina test at a Difficulty equal to the number of slakes taken. If they fail this roll, the mortal dies. If they pass, they can be safely transported to a medical facility where they can heal properly. Their wounds can be healed if they survive, per p.127 in the core book.
 
-Mortals heal back slaked blood at a rate of 1 slake every 2 stories (8 in-character nights total). Ghouls, in line with their rapid recovery rates, heal back 1 slake every story (4 in-character nights). Should they be fed from and be missing at least 3 slakes at any time, they must make a Strength + Stamina roll equal to the number of slakes currently being taken. If they fail, they die. If they live, they take the number of slakes worth of Aggravated damage.
+Mortals heal back slaked blood at a rate of 1 slake every 2 stories (4 in-character nights total). Ghouls, in line with their rapid recovery rates, heal back 1 slake every story (2 in-character nights). Should they be fed from and be missing at least 3 slakes at any time, they must make a Strength + Stamina roll equal to the number of slakes currently being taken. If they fail, they die. If they live, they take the number of slakes worth of Aggravated damage.
 
 ## **How do I form a coterie?**
 

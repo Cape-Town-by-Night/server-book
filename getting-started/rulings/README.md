@@ -9,7 +9,7 @@
 
 ### Sharing Disciplines
 
-Vitae cannot transfer disciplines or be used to feed other kindred unless it is taken directly from the vein (as filling a vessel takes more than “a few seconds”). Vitae still retains all ghoul-sustaining and mortal-healing properties for a few days.
+Vitae cannot transfer disciplines or be used to bond other kindred unless it is taken directly from the vein (as filling a vessel takes more than “a few seconds”). Vitae still retains all ghoul-sustaining and mortal-healing properties for a few days.
 
 ### Auspex - _**Share the Senses**_
 

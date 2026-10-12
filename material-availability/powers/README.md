@@ -1,14 +1,14 @@
 # Powers
 
-Here, you will find all Powers, Rituals, Ceremonies, and Formulae that are allowed in play! Regular powers are marked in <mark style="color:red;">**red**</mark> while amalgams will be marked in <mark style="color:yellow;">**yellow**</mark>. Powers that have prerequisites will be marked in <mark style="color:purple;">purple</mark>.
+Here, you will find all Powers, Rituals, Ceremonies, and Formulae that are allowed in play! Regular powers are marked in **white** while amalgams will be marked in <mark style="color:yellow;">**yellow**</mark>. Powers that have prerequisites will be marked in <mark style="color:purple;">purple</mark>.
 
-If we have missed any errata or if there are any errors, please let us know in our [<mark style="color:red;">Server Suggestions Forum</mark>](https://discord.com/channels/1292865933525651466/1324638230263369798)!
+If we have missed any errata or if there are any errors, please let us know in our [Server Suggestions Forum](https://discord.com/channels/1292865933525651466/1324638230263369798)!
 
 ## Animalism
 
 <details>
 
-<summary><mark style="color:red;"><strong>Bond Famulus, Animalism 1 (Core p.245)</strong></mark></summary>
+<summary><strong>Bond Famulus, Animalism 1 (Core p.245)</strong></summary>
 
 **Dice Pools:** Charisma + Animal Ken
 
@@ -22,7 +22,7 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
-<summary><mark style="color:red;"><strong>Sense The Beast, Animalism 1 (Core p.245)</strong></mark></summary>
+<summary><strong>Sense The Beast, Animalism 1 (Core p.245)</strong></summary>
 
 **Cost:** Free
 
@@ -52,7 +52,7 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
-<summary><mark style="color:red;"><strong>Atavism, Animalism 2 (Winter's Teeth #3)</strong></mark></summary>
+<summary><strong>Atavism, Animalism 2 (Winter's Teeth #3)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -66,7 +66,7 @@ If we have missed any errata or if there are any errors, please let us know in o
 
 <details>
 
-<summary><mark style="color:red;"><strong>Feral Whispers, Animalism 2 (Core p.246)</strong></mark></summary>
+<summary><strong>Feral Whispers, Animalism 2 (Core p.246)</strong></summary>
 
 **Dice Pools:** Manipulation + Animalism, Charisma + Animalism
 
@@ -96,7 +96,7 @@ If the Rouse Checks made for this Power would drive you above 5 Hunger, you imme
 
 <details>
 
-<summary><mark style="color:red;"><strong>Tracing the Blood, Animalism 2 (Courts of the Damned p.214)</strong></mark></summary>
+<summary><strong>Tracing the Blood, Animalism 2 (Courts of the Damned p.214)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -116,7 +116,7 @@ The Storyteller may call for a Wits + Occult test (Difficulty of a Discipline Po
 
 <details>
 
-<summary><mark style="color:red;"><strong>Animal Succulence, Animalism 3 (Core p.246)</strong></mark></summary>
+<summary><strong>Animal Succulence, Animalism 3 (Core p.246)</strong></summary>
 
 **Cost:** Free
 
@@ -147,7 +147,7 @@ This experience terrifies the animals the vampire harnesses, and their terror sc
 
 <details>
 
-<summary><mark style="color:red;"><strong>Awaken the Parasite, Animalism 3 (Tattered Facade p.90)</strong></mark></summary>
+<summary><strong>Awaken the Parasite, Animalism 3 (Tattered Facade p.90)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -183,7 +183,7 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Plague of Beasts, Animalism 3 (Players Guide p.69)</strong></mark> </summary>
+<summary><strong>Plague of Beasts, Animalism 3 (Players Guide p.69)</strong> </summary>
 
 **Dice Pools:** Manipulation + Animalism vs Composure + Animal Ken
 
@@ -197,7 +197,7 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Quell The Beast, Animalism 3 (Core p.246)</strong></mark></summary>
+<summary><strong>Quell The Beast, Animalism 3 (Core p.246)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -211,7 +211,7 @@ If the vampire uses Awaken the Parasite on themselves, perhaps to intimidate or 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Scent Of Prey,</strong></mark><strong> </strong><mark style="color:red;"><strong>Animalism 3 (Sabbat: The Black Hand p.47)</strong></mark></summary>
+<summary><strong>Scent Of Prey, Animalism 3 (Sabbat: The Black Hand p.47)</strong></summary>
 
 **Dice Pools:** Resolve + Animalism
 
@@ -239,7 +239,7 @@ Swarms do little damage in combat. They have Health 5 and a pool of 8 dice to re
 
 <details>
 
-<summary><mark style="color:red;"><strong>Subsume The Spirit, Animalism 4 (Core p.247)</strong></mark></summary>
+<summary><strong>Subsume The Spirit, Animalism 4 (Core p.247)</strong></summary>
 
 **Cost:** One Rouse Check. Free if used on famulus.
 
@@ -255,7 +255,7 @@ Extending this possession into the daylight hours requires the vampire to stay a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Sway the Flock, Animalism 4 (Players Guide pp.69-70)</strong></mark> </summary>
+<summary><strong>Sway the Flock, Animalism 4 (Players Guide pp.69-70)</strong> </summary>
 
 **Dice Pools:** Composure + Animalism
 
@@ -269,7 +269,7 @@ Extending this possession into the daylight hours requires the vampire to stay a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Animal Dominion, Animalism 5 (Core p.247)</strong></mark></summary>
+<summary><strong>Animal Dominion, Animalism 5 (Core p.247)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -283,7 +283,7 @@ Extending this possession into the daylight hours requires the vampire to stay a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Coax the Bestial Temper, Animalism 5 (Players Guide p.70)</strong></mark></summary>
+<summary><strong>Coax the Bestial Temper, Animalism 5 (Players Guide p.70)</strong></summary>
 
 **Dice Pools:** Manipulation + Animalism
 
@@ -297,7 +297,7 @@ Extending this possession into the daylight hours requires the vampire to stay a
 
 <details>
 
-<summary><mark style="color:red;"><strong>Drawing Out The Beast, Animalism 5 (Core pp.247-248)</strong></mark></summary>
+<summary><strong>Drawing Out The Beast, Animalism 5 (Core pp.247-248)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -312,7 +312,7 @@ This power cannot transfer a hunger frenzy.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Spirit Walk, Animalism 5 (Gehenna War p.46)</strong></mark></summary>
+<summary><strong>Spirit Walk, Animalism 5 (Gehenna War p.46)</strong></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Subsume the Spirit</mark>](https://wiki.capetownvtm.com/material-availability/powers#subsume-the-spirit-animalism-4-core-p.247)
 
@@ -326,7 +326,7 @@ This power cannot transfer a hunger frenzy.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Heightened Senses, Auspex 1 (Core p.249)</strong></mark></summary>
+<summary><strong>Heightened Senses, Auspex 1 (Core p.249)</strong></summary>
 
 **Cost:** Free (but see below)
 
@@ -340,7 +340,7 @@ This power cannot transfer a hunger frenzy.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Sense The Unseen, Auspex 1 (Core p.249)</strong></mark></summary>
+<summary><strong>Sense The Unseen, Auspex 1 (Core p.249)</strong></summary>
 
 **Cost:** Free
 
@@ -376,7 +376,7 @@ If the user soothes more than one subject per night, the user suffers superficia
 
 <details>
 
-<summary><mark style="color:red;"><strong>Premonition, Auspex 2 (Core pp.249-250)</strong></mark></summary>
+<summary><strong>Premonition, Auspex 2 (Core pp.249-250)</strong></summary>
 
 **Cost:** Free or one Rouse Check
 
@@ -410,7 +410,7 @@ The user can recognize the surroundings of the target with an Intelligence + Str
 
 <details>
 
-<summary><mark style="color:red;"><strong>Reveal Temperament, Auspex 2 (Players Guide pp.70-71)</strong></mark></summary>
+<summary><strong>Reveal Temperament, Auspex 2 (Players Guide pp.70-71)</strong></summary>
 
 **Dice Pools:** Intelligence + Auspex vs Composure + Subterfuge
 
@@ -452,7 +452,7 @@ The user can recognize the surroundings of the target with an Intelligence + Str
 
 <details>
 
-<summary><mark style="color:red;"><strong>Read the Room, Auspex 3 (Courts of the Damned p.214)</strong></mark></summary>
+<summary><strong>Read the Room, Auspex 3 (Courts of the Damned p.214)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -468,7 +468,7 @@ Storytellers may decide that certain questions are too complex to answer, and wh
 
 <details>
 
-<summary><mark style="color:red;"><strong>Reveal the Invisible Leash</strong><strong>, Auspex 3 (Courts of the Damned p.214)</strong></mark></summary>
+<summary><strong>Reveal the Invisible Leash, Auspex 3 (Courts of the Damned p.214)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -482,7 +482,7 @@ Storytellers may decide that certain questions are too complex to answer, and wh
 
 <details>
 
-<summary><mark style="color:red;"><strong>Scry The Soul, Auspex 3 (Core p.250)</strong></mark></summary>
+<summary><strong>Scry The Soul, Auspex 3 (Core p.250)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -505,7 +505,7 @@ If scanning a crowd, roll versus a Difficulty determined by the size of the crow
 
 <details>
 
-<summary><mark style="color:red;"><strong>Share The Senses, Auspex 3 (Core p.250)</strong></mark></summary>
+<summary><strong>Share The Senses, Auspex 3 (Core p.250)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -533,7 +533,7 @@ If scanning a crowd, roll versus a Difficulty determined by the size of the crow
 
 <details>
 
-<summary><mark style="color:red;"><strong>Heart Laid Bare, Auspex 4 (Tattered Facade pp.91-92)</strong></mark></summary>
+<summary><strong>Heart Laid Bare, Auspex 4 (Tattered Facade pp.91-92)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -555,7 +555,7 @@ Add one success to the result if the object of desire or fear is present, and ad
 
 <details>
 
-<summary><mark style="color:red;"><strong>Spirit’s Touch, Auspex 4 (Core pp.250-251)</strong></mark></summary>
+<summary><strong>Spirit’s Touch, Auspex 4 (Core pp.250-251)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -569,7 +569,7 @@ Add one success to the result if the object of desire or fear is present, and ad
 
 <details>
 
-<summary><mark style="color:red;"><strong>Clairvoyance, Auspex 5 (Core p.251)</strong></mark></summary>
+<summary><strong>Clairvoyance, Auspex 5 (Core p.251)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -606,7 +606,7 @@ Finally, Possession violates the victim even more profoundly than a Blood Bond. 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Telepathy, Auspex 5 (Core p.252)</strong></mark></summary>
+<summary><strong>Telepathy, Auspex 5 (Core p.252)</strong></summary>
 
 **Cost:** One Rouse Check (plus one Willpower vs non-consenting vampires)
 
@@ -646,7 +646,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Cat’s Grace, Celerity 1 (Core pp.252-253)</strong></mark></summary>
+<summary><strong>Cat’s Grace, Celerity 1 (Core pp.252-253)</strong></summary>
 
 **Cost:** Free
 
@@ -658,7 +658,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fluent Swiftness, Celerity 1  (Gehenna War p.46)</strong></mark></summary>
+<summary><strong>Fluent Swiftness, Celerity 1  (Gehenna War p.46)</strong></summary>
 
 **Cost:** None
 
@@ -668,7 +668,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Rapid Reflexes, Celerity 1 (Core p.253)</strong></mark></summary>
+<summary><strong>Rapid Reflexes, Celerity 1 (Core p.253)</strong></summary>
 
 **Cost:** Free
 
@@ -680,7 +680,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fleetness, Celerity 2 (Core p.253)</strong></mark></summary>
+<summary><strong>Fleetness, Celerity 2 (Core p.253)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -692,7 +692,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Rush Job, Celerity 2 (Players Guide p.72)</strong></mark></summary>
+<summary><strong>Rush Job, Celerity 2 (Players Guide p.72)</strong></summary>
 
 **Dice Pools:** N/A
 
@@ -706,7 +706,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>A Thousand Cuts, Celerity 3 (Tattered Facade pp.95-96)</strong></mark></summary>
+<summary><strong>A Thousand Cuts, Celerity 3 (Tattered Facade pp.95-96)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -718,7 +718,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blink, Celerity 3 (Core pp.253-254)</strong></mark></summary>
+<summary><strong>Blink, Celerity 3 (Core pp.253-254)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -732,7 +732,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Traversal, Celerity 3 (Core pp.253-254)</strong></mark></summary>
+<summary><strong>Traversal, Celerity 3 (Core pp.253-254)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -746,7 +746,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Weaving, Celerity 3 (Players Guide p.72)</strong></mark></summary>
+<summary><strong>Weaving, Celerity 3 (Players Guide p.72)</strong></summary>
 
 **Prerequisite:** Rapid Reflexes
 
@@ -762,7 +762,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blurred Momentum, Celerity 4 (Players Guide p.72)</strong></mark></summary>
+<summary><strong>Blurred Momentum, Celerity 4 (Players Guide p.72)</strong></summary>
 
 **Dice Pools:** N/A
 
@@ -776,7 +776,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Draught Of Elegance, Celerity 4 (Core p.254)</strong></mark></summary>
+<summary><strong>Draught Of Elegance, Celerity 4 (Core p.254)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -830,7 +830,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Lightning Strike, Celerity 5 (Core p.254)</strong></mark></summary>
+<summary><strong>Lightning Strike, Celerity 5 (Core p.254)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -842,7 +842,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Split Second, Celerity 5 (Core pp.254-255)</strong></mark></summary>
+<summary><strong>Split Second, Celerity 5 (Core pp.254-255)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -856,7 +856,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Cloud Memory, Dominate 1 (Core p.256)</strong></mark></summary>
+<summary><strong>Cloud Memory, Dominate 1 (Core p.256)</strong></summary>
 
 **Cost:** Free
 
@@ -870,7 +870,7 @@ When the power expires, all psychological “shields” not used up are lost, th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Compel, Dominate 1 (Core p.256)</strong></mark></summary>
+<summary><strong>Compel, Dominate 1 (Core p.256)</strong></summary>
 
 **Cost:** Free
 
@@ -914,7 +914,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:red;"><strong>Domitor's Favor, Dominate 2 (Players Guide p.74)</strong></mark></summary>
+<summary><strong>Domitor's Favor, Dominate 2 (Players Guide p.74)</strong></summary>
 
 **Dice Pools:** N/A
 
@@ -928,7 +928,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mesmerize, Dominate 2 (Core p.256)</strong></mark></summary>
+<summary><strong>Mesmerize, Dominate 2 (Core p.256)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -942,7 +942,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Stolen Voice, Dominate 2  (Tattered Facade pp.96-97)</strong></mark></summary>
+<summary><strong>The Stolen Voice, Dominate 2  (Tattered Facade pp.96-97)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -962,7 +962,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 **Cost:** One Rouse Check
 
-**Dice Pools:** Intelligence + Auspex vs Composure + Resolve
+**Dice Pools:** Intelligence + Dominate vs Composure + Resolve
 
 **System:** After delivering a Mesmerize command, the vampire can choose to invoke this power by immediately making another Rouse Check. Those affected become capable of executing slightly more complex tasks — even showing some degree of awareness — as they set about achieving their master’s goal, seeking out other suitable candidates to help them. The target of this power adds the vampire’s rating in Dominate to any Social tests they make when convincing others to assist them in their objective (and only those tasks), allowing them to better command underlings, delegate tasks, and spread the burden. Those so commanded aren’t operating under any supernatural compulsion and are free to object — the main benefit is making people in authority better equipped to order around those beneath them.
 
@@ -986,7 +986,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Forgetful Mind, Dominate 3 (Core p.257)</strong></mark></summary>
+<summary><strong>The Forgetful Mind, Dominate 3 (Core p.257)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1030,7 +1030,7 @@ If the user wants to affect multiple victims, they need to make a separate Rouse
 
 <details>
 
-<summary><mark style="color:red;"><strong>Rationalize, Dominate 4 (Core p.257)</strong></mark></summary>
+<summary><strong>Rationalize, Dominate 4 (Core p.257)</strong></summary>
 
 **Cost:** No additional cost
 
@@ -1060,7 +1060,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mass Manipulation, Dominate 5 (Core p.257)</strong></mark></summary>
+<summary><strong>Mass Manipulation, Dominate 5 (Core p.257)</strong></summary>
 
 **Cost:** One Rouse Check in addition to the cost of the power amplified
 
@@ -1072,7 +1072,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Terminal Decree, Dominate 5 (Core pp.257-258)</strong></mark></summary>
+<summary><strong>Terminal Decree, Dominate 5 (Core pp.257-258)</strong></summary>
 
 **Cost:** No additional Hunger cost, but the Humanity cost is potentially severe
 
@@ -1086,7 +1086,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fluent Endurance, Fortitude 1 (Gehenna War p.46)</strong></mark></summary>
+<summary><strong>Fluent Endurance, Fortitude 1 (Gehenna War p.46)</strong></summary>
 
 **Cost:** None
 
@@ -1096,7 +1096,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Resilience, Fortitude 1 (Core p.258)</strong></mark></summary>
+<summary><strong>Resilience, Fortitude 1 (Core p.258)</strong></summary>
 
 **Cost:** Free
 
@@ -1108,7 +1108,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Unswayable Mind, Fortitude 1 (Core p.258)</strong></mark></summary>
+<summary><strong>Unswayable Mind, Fortitude 1 (Core p.258)</strong></summary>
 
 **Cost:** Free
 
@@ -1120,7 +1120,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Earth's Perseverance, Fortitude 2</strong></mark> <mark style="color:red;"><strong>(Players Guide pp.74-75)</strong></mark></summary>
+<summary><strong>Earth's Perseverance, Fortitude 2</strong> <strong>(Players Guide pp.74-75)</strong></summary>
 
 **Dice Pools:** N/A
 
@@ -1190,7 +1190,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Toughness, Fortitude 2 (Core pp.258-259)</strong></mark></summary>
+<summary><strong>Toughness, Fortitude 2 (Core pp.258-259)</strong></summary>
 
 **Cost:** One Rouse check
 
@@ -1202,7 +1202,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Calloused Soul, Fortitude 3 (Tattered Facade pp.97-98)</strong></mark></summary>
+<summary><strong>Calloused Soul, Fortitude 3 (Tattered Facade pp.97-98)</strong></summary>
 
 **Cost:** Two Stains
 
@@ -1216,7 +1216,7 @@ The user may choose to simply leave the target’s memory blank or leave the vic
 
 <details>
 
-<summary><mark style="color:red;"><strong>Defy Bane, Fortitude 3 (Core p.259)</strong></mark></summary>
+<summary><strong>Defy Bane, Fortitude 3 (Core p.259)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1232,7 +1232,7 @@ The user can renew this power once expired by making another Rouse Check. If end
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fortify The Inner Facade, Fortitude 3 (Core p.259)</strong></mark></summary>
+<summary><strong>Fortify The Inner Facade, Fortitude 3 (Core p.259)</strong></summary>
 
 **Cost:** Free
 
@@ -1244,7 +1244,7 @@ The user can renew this power once expired by making another Rouse Check. If end
 
 <details>
 
-<summary><mark style="color:red;"><strong>Seal the Beast's Maw, Fortitude 3 (Forbidden Religions p.44)</strong></mark></summary>
+<summary><strong>Seal the Beast's Maw, Fortitude 3 (Forbidden Religions p.44)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -1271,7 +1271,7 @@ Use of this power takes a whole turn. If the vampire spends an entire scene inst
 
 <details>
 
-<summary><mark style="color:red;"><strong>Draught Of Endurance, Fortitude 4 (Core pp.259-260)</strong></mark></summary>
+<summary><strong>Draught Of Endurance, Fortitude 4 (Core pp.259-260)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1283,7 +1283,7 @@ Use of this power takes a whole turn. If the vampire spends an entire scene inst
 
 <details>
 
-<summary><mark style="color:red;"><strong>Gorgon's Scales, Fortitude 4 (Players Guide pp.75-76)</strong></mark></summary>
+<summary><strong>Gorgon's Scales, Fortitude 4 (Players Guide pp.75-76)</strong></summary>
 
 **Dice Pools:** N/A
 
@@ -1318,7 +1318,7 @@ Use of this power takes a whole turn. If the vampire spends an entire scene inst
 
 <details>
 
-<summary><mark style="color:red;"><strong>Flesh Of Marble, Fortitude 5 (Core p.260)</strong></mark></summary>
+<summary><strong>Flesh Of Marble, Fortitude 5 (Core p.260)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -1330,7 +1330,7 @@ Use of this power takes a whole turn. If the vampire spends an entire scene inst
 
 <details>
 
-<summary><mark style="color:red;"><strong>Meat Shields, Fortitude 5 (Tattered Facade p.98)</strong></mark></summary>
+<summary><strong>Meat Shields, Fortitude 5 (Tattered Facade p.98)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1344,7 +1344,7 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Core, p.185) 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Prowess From Pain, Fortitude 5 (Core p.260)</strong></mark></summary>
+<summary><strong>Prowess From Pain, Fortitude 5 (Core p.260)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1358,7 +1358,7 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Core, p.185) 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Cloak Of Shadows, Obfuscate 1 (Core p.261)</strong></mark></summary>
+<summary><strong>Cloak Of Shadows, Obfuscate 1 (Core p.261)</strong></summary>
 
 **Cost:** Free
 
@@ -1370,7 +1370,7 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Core, p.185) 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ensconce, Obfuscate 1 (Gehenna War pp.46-47)</strong></mark></summary>
+<summary><strong>Ensconce, Obfuscate 1 (Gehenna War pp.46-47)</strong></summary>
 
 **Cost:** None
 
@@ -1382,7 +1382,7 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Core, p.185) 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mask of Ages, Obfuscate 1 (Live From the Succubus Club p.28)</strong></mark></summary>
+<summary><strong>Mask of Ages, Obfuscate 1 (Live From the Succubus Club p.28)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1394,7 +1394,7 @@ The Storyteller counts all bystanders categorized as Weak Mortals (Core, p.185) 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Silence Of Death, Obfuscate 1 (Core p.261)</strong></mark></summary>
+<summary><strong>Silence Of Death, Obfuscate 1 (Core p.261)</strong></summary>
 
 **Cost:** Free
 
@@ -1464,7 +1464,7 @@ Duration: One utterance.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Unseen Passage, Obfuscate 2 (Core pp.261-262)</strong></mark></summary>
+<summary><strong>Unseen Passage, Obfuscate 2 (Core pp.261-262)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1510,7 +1510,7 @@ These hallucinations can never be recorded or transmitted (such as by using Ghos
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ghost In The Machine, Obfuscate 3 (Core p.262)</strong></mark></summary>
+<summary><strong>Ghost In The Machine, Obfuscate 3 (Core p.262)</strong></summary>
 
 **Cost:** No additional cost
 
@@ -1538,7 +1538,7 @@ Sense the Unseen (Auspex 1) can pierce the mask as usual.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mask of a Thousand Faces, Obfuscate 3 (Core p.262)</strong></mark></summary>
+<summary><strong>Mask of a Thousand Faces, Obfuscate 3 (Core p.262)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1645,7 +1645,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Cloak The Gathering, Obfuscate 5 (Core p.263)</strong></mark></summary>
+<summary><strong>Cloak The Gathering, Obfuscate 5 (Core p.263)</strong></summary>
 
 **Cost:** One Rouse Check in addition to the cost of the power extended
 
@@ -1675,7 +1675,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fluent Strength, Potence 1 (Gehenna War p.47)</strong></mark></summary>
+<summary><strong>Fluent Strength, Potence 1 (Gehenna War p.47)</strong></summary>
 
 **Cost:** None
 
@@ -1685,7 +1685,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Lethal Body, Potence 1 (Core p.264)</strong></mark></summary>
+<summary><strong>Lethal Body, Potence 1 (Core p.264)</strong></summary>
 
 **Cost:** Free
 
@@ -1697,7 +1697,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Soaring Leap, Potence 1 (Core p.264)</strong></mark></summary>
+<summary><strong>Soaring Leap, Potence 1 (Core p.264)</strong></summary>
 
 **Cost:** Free
 
@@ -1709,7 +1709,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Prowess, Potence 2 (Core p.264)</strong></mark></summary>
+<summary><strong>Prowess, Potence 2 (Core p.264)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1721,7 +1721,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Relentless Grasp, Potence 2 (Players Guide p.79)</strong></mark></summary>
+<summary><strong>Relentless Grasp, Potence 2 (Players Guide p.79)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1733,7 +1733,7 @@ This power conceals anyone and anything inside the object (e.g., people in a car
 
 <details>
 
-<summary><mark style="color:red;"><strong>Brutal Feed, Potence 3 (Core pp.264-265)</strong></mark></summary>
+<summary><strong>Brutal Feed, Potence 3 (Core pp.264-265)</strong></summary>
 
 **Cost:** Free
 
@@ -1749,7 +1749,7 @@ Storytellers may decide such mutilation-killing warrants Stains (Core, p.239).
 
 <details>
 
-<summary><mark style="color:red;"><strong>Exuberance, Potence 3 (Tattered Facade p.103)</strong></mark></summary>
+<summary><strong>Exuberance, Potence 3 (Tattered Facade p.103)</strong></summary>
 
 **Cost:** Free
 
@@ -1775,7 +1775,7 @@ Storytellers may decide such mutilation-killing warrants Stains (Core, p.239).
 
 <details>
 
-<summary><mark style="color:red;"><strong>Uncanny Grip, Potence 3 (Core p.265)</strong></mark></summary>
+<summary><strong>Uncanny Grip, Potence 3 (Core p.265)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1819,7 +1819,7 @@ The climb or clinging leaves obvious tracks detectable by anyone with an Intelli
 
 <details>
 
-<summary><mark style="color:red;"><strong>Draught Of Might, Potence 4 (Core pp.265-266)</strong></mark></summary>
+<summary><strong>Draught Of Might, Potence 4 (Core pp.265-266)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1831,7 +1831,7 @@ The climb or clinging leaves obvious tracks detectable by anyone with an Intelli
 
 <details>
 
-<summary><mark style="color:red;"><strong>Earthshock, Potence 5 (Core pp.265-266)</strong></mark></summary>
+<summary><strong>Earthshock, Potence 5 (Core pp.265-266)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -1851,7 +1851,7 @@ This power causes significant collateral damage. If used on the ground, the eart
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fist Of Caine, Potence 5 (Core p.266)</strong></mark></summary>
+<summary><strong>Fist Of Caine, Potence 5 (Core p.266)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1863,7 +1863,7 @@ This power causes significant collateral damage. If used on the ground, the eart
 
 <details>
 
-<summary><mark style="color:red;"><strong>Subtle Hammer, Potence 5 (Players Guide pp.79-80)</strong></mark></summary>
+<summary><strong>Subtle Hammer, Potence 5 (Players Guide pp.79-80)</strong></summary>
 
 **Cost:** Free
 
@@ -1877,7 +1877,7 @@ This power causes significant collateral damage. If used on the ground, the eart
 
 <details>
 
-<summary><mark style="color:red;"><strong>Awe, Presence 1 (Core p.267)</strong></mark></summary>
+<summary><strong>Awe, Presence 1 (Core p.267)</strong></summary>
 
 **Cost:** Free
 
@@ -1891,7 +1891,7 @@ This power causes significant collateral damage. If used on the ground, the eart
 
 <details>
 
-<summary><mark style="color:red;"><strong>Daunt, Presence 1 (Core p.267)</strong></mark></summary>
+<summary><strong>Daunt, Presence 1 (Core p.267)</strong></summary>
 
 **Cost:** Free
 
@@ -1905,7 +1905,7 @@ Vampires cannot use Awe and Daunt simultaneously.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Eyes of the Serpent, Presence 1 + Protean 1 (Players Guide p.80)</strong></mark></summary>
+<summary><strong>Eyes of the Serpent, Presence 1 + Protean 1 (Players Guide p.80)</strong></summary>
 
 **Cost:** Free
 
@@ -1921,7 +1921,7 @@ In order to paralyze a vampire in the same way, the user must win a contest of C
 
 <details>
 
-<summary><mark style="color:red;"><strong>Lingering Kiss, Presence 2 (Core pp.267-268)</strong></mark></summary>
+<summary><strong>Lingering Kiss, Presence 2 (Core pp.267-268)</strong></summary>
 
 **Cost:** Free
 
@@ -1935,7 +1935,7 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 <details>
 
-<summary><mark style="color:red;"><strong>Melpominee, Presence 2 (Players Guide p.80)</strong></mark></summary>
+<summary><strong>Melpominee, Presence 2 (Players Guide p.80)</strong></summary>
 
 **Cost:** Free
 
@@ -1947,7 +1947,7 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 <details>
 
-<summary><mark style="color:red;"><strong>Predator's Lure</strong><strong>, Presence 2 (Courts of the Damned p.215)</strong></mark></summary>
+<summary><strong>Predator's Lure, Presence 2 (Courts of the Damned p.215)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1975,7 +1975,7 @@ This power cannot be used on other vampires by a user who is under the thrall of
 
 <details>
 
-<summary><mark style="color:red;"><strong>Dread Gaze, Presence 3 (Core p.268)</strong></mark></summary>
+<summary><strong>Dread Gaze, Presence 3 (Core p.268)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -1995,7 +1995,7 @@ _Critical Win:_ Mortals freeze or crumple into a fetal position. Vampires must m
 
 <details>
 
-<summary><mark style="color:red;"><strong>Entrancement, Presence 3 (Core p.268)</strong></mark></summary>
+<summary><strong>Entrancement, Presence 3 (Core p.268)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2116,7 +2116,7 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 
 <details>
 
-<summary><mark style="color:red;"><strong>Suffuse the Edifice, Presence 4 (Players Guide pp.80-81)</strong></mark></summary>
+<summary><strong>Suffuse the Edifice, Presence 4 (Players Guide pp.80-81)</strong></summary>
 
 **Cost:** N/A
 
@@ -2130,7 +2130,7 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 
 <details>
 
-<summary><mark style="color:red;"><strong>Summon, Presence 4 (Core pp.268-269)</strong></mark></summary>
+<summary><strong>Summon, Presence 4 (Core pp.268-269)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2144,7 +2144,7 @@ If the subject’s object of desire is up for bargaining, the user gains a four-
 
 <details>
 
-<summary><mark style="color:red;"><strong>Wingman, Presence 4 (Blood-Stained Love p.152)</strong></mark></summary>
+<summary><strong>Wingman, Presence 4 (Blood-Stained Love p.152)</strong></summary>
 
 **Cost:** One Rouse Check in addition to power used
 
@@ -2158,7 +2158,7 @@ If the subject also possesses Presence, use the higher of the bonuses but not bo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Majesty, Presence 5 (Core p.269)</strong></mark></summary>
+<summary><strong>Majesty, Presence 5 (Core p.269)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -2172,7 +2172,7 @@ If the subject also possesses Presence, use the higher of the bonuses but not bo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Star Magnetism, Presence 5 (Core p.269)</strong></mark></summary>
+<summary><strong>Star Magnetism, Presence 5 (Core p.269)</strong></summary>
 
 **Cost:** One additional Rouse Check
 
@@ -2186,7 +2186,7 @@ If the subject also possesses Presence, use the higher of the bonuses but not bo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Eyes Of The Beast, Protean 1 (Core p.270)</strong></mark></summary>
+<summary><strong>Eyes Of The Beast, Protean 1 (Core p.270)</strong></summary>
 
 **Cost:** Free &#x20;
 
@@ -2198,7 +2198,7 @@ If the subject also possesses Presence, use the higher of the bonuses but not bo
 
 <details>
 
-<summary><mark style="color:red;"><strong>Squirm, Protean 1 (Tattered Facade p.105)</strong></mark></summary>
+<summary><strong>Squirm, Protean 1 (Tattered Facade p.105)</strong></summary>
 
 **Cost:** Free or 1 Rouse Check
 
@@ -2210,7 +2210,7 @@ If the user has about five minutes, they can make a Rouse Check to force their b
 
 <details>
 
-<summary><mark style="color:red;"><strong>Weight Of The Feather, Protean 1 (Core p.270)</strong></mark></summary>
+<summary><strong>Weight Of The Feather, Protean 1 (Core p.270)</strong></summary>
 
 **Cost:** Free &#x20;
 
@@ -2224,7 +2224,7 @@ If the user has about five minutes, they can make a Rouse Check to force their b
 
 <details>
 
-<summary><mark style="color:red;"><strong>Feral Weapons, Protean 2 (Core pp.270-271)</strong></mark></summary>
+<summary><strong>Feral Weapons, Protean 2 (Core pp.270-271)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2236,7 +2236,7 @@ If the user has about five minutes, they can make a Rouse Check to force their b
 
 <details>
 
-<summary><mark style="color:red;"><strong>Serpent’s Kiss, Protean 2 (Blood-Stained Love p.153)</strong></mark></summary>
+<summary><strong>Serpent’s Kiss, Protean 2 (Blood-Stained Love p.153)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2290,7 +2290,7 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 <details>
 
-<summary><mark style="color:red;"><strong>Earth Meld, Protean 3 (Core p.271)</strong></mark></summary>
+<summary><strong>Earth Meld, Protean 3 (Core p.271)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2332,7 +2332,7 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shapechange, Protean 3 (Core p.271)</strong></mark></summary>
+<summary><strong>Shapechange, Protean 3 (Core p.271)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2344,7 +2344,7 @@ Changes can be mended as Aggravated damage, with each change equivalent to a sin
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Visceral Absorption,</strong></mark><strong> </strong><mark style="color:yellow;"><strong>Obfuscate 3 + Blood Sorcery 2 (Sabbat: The Black Hand p.49)</strong></mark></summary>
+<summary><mark style="color:yellow;"><strong>Visceral Absorption,</strong></mark><strong> </strong><mark style="color:yellow;"><strong>Protean 3 + Blood Sorcery 2 (Sabbat: The Black Hand p.49)</strong></mark></summary>
 
 **Dice Pools:** Strength + Protean
 
@@ -2374,7 +2374,7 @@ The user sates one Hunger per body affected, but cannot sate more Hunger per use
 
 <details>
 
-<summary><mark style="color:red;"><strong>Metamorphosis, Protean 4 (Core p.271)</strong></mark></summary>
+<summary><strong>Metamorphosis, Protean 4 (Core p.271)</strong></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Shapechange</mark>](https://wiki.capetownvtm.com/material-availability/powers#shapechange-protean-3-core-p.271)
 
@@ -2434,7 +2434,7 @@ All other limitations of Shapechange and Metamorphosis still apply.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Mist Form, Protean 5 (Core pp.271-272)</strong></mark></summary>
+<summary><strong>Mist Form, Protean 5 (Core pp.271-272)</strong></summary>
 
 **Cost:** One to three Rouse Checks
 
@@ -2466,7 +2466,7 @@ Rising from this state before nightfall the day after it has been entered requir
 
 <details>
 
-<summary><mark style="color:red;"><strong>Swarm, Protean 5 (Tattered Facade p.106)</strong></mark></summary>
+<summary><strong>Swarm, Protean 5 (Tattered Facade p.106)</strong></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Shapechange</mark>](https://wiki.capetownvtm.com/material-availability/powers#shapechange-protean-3-core-p.271)
 
@@ -2500,7 +2500,7 @@ If the heart is dealt Aggravated Health damage equal to or greater than the vamp
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Unfettered Heart, Protean 5 (Core p.272)</strong></mark></summary>
+<summary><strong>The Unfettered Heart, Protean 5 (Core p.272)</strong></summary>
 
 **Cost:** Free
 
@@ -2514,7 +2514,7 @@ If the heart is dealt Aggravated Health damage equal to or greater than the vamp
 
 <details>
 
-<summary><mark style="color:red;"><strong>A Taste For Blood, Blood Sorcery 1 (Core p.273)</strong></mark></summary>
+<summary><strong>A Taste For Blood, Blood Sorcery 1 (Core p.273)</strong></summary>
 
 **Cost:** Free
 
@@ -2528,7 +2528,7 @@ If the heart is dealt Aggravated Health damage equal to or greater than the vamp
 
 <details>
 
-<summary><mark style="color:red;"><strong>Corrosive Vitae, Blood Sorcery 1 (Core p.273)</strong></mark></summary>
+<summary><strong>Corrosive Vitae, Blood Sorcery 1 (Core p.273)</strong></summary>
 
 **Cost:** One or more Rouse Checks
 
@@ -2540,7 +2540,7 @@ If the heart is dealt Aggravated Health damage equal to or greater than the vamp
 
 <details>
 
-<summary><mark style="color:red;"><strong>Koldunic Sorcery, Level 1 (Blood Sigils p.61)</strong></mark></summary>
+<summary><strong>Koldunic Sorcery, Level 1 (Blood Sigils p.61)</strong></summary>
 
 **Cost:** One Rouse Check, and some Aggravated Health damage.
 
@@ -2557,7 +2557,7 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shape the Sanguine Sacrament, Blood Sorcery 1 (Tattered Facade p.92)</strong></mark></summary>
+<summary><strong>Shape the Sanguine Sacrament, Blood Sorcery 1 (Tattered Facade p.92)</strong></summary>
 
 **Cost:** Free (or one Rouse Check if using your own Blood)
 
@@ -2571,7 +2571,7 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood’s Curse, Blood Sorcery 2 (Gehenna War p.48)</strong></mark></summary>
+<summary><strong>Blood’s Curse, Blood Sorcery 2 (Gehenna War p.48)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2585,7 +2585,7 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 
 <details>
 
-<summary><mark style="color:red;"><strong>Extinguish Vitae, Blood Sorcery 2 (Core p.273)</strong></mark></summary>
+<summary><strong>Extinguish Vitae, Blood Sorcery 2 (Core p.273)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2599,7 +2599,7 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 
 <details>
 
-<summary><mark style="color:red;"><strong>Scour Secrets, Blood Sorcery 2 (The Book of Nod Apocrypha p.34)</strong></mark></summary>
+<summary><strong>Scour Secrets, Blood Sorcery 2 (The Book of Nod Apocrypha p.34)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2611,7 +2611,7 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 
 <details>
 
-<summary><mark style="color:red;"><strong>Vinculum Magnum</strong><strong>, Blood Sorcery 2 (Courts of the Damned pp.214-215)</strong></mark></summary>
+<summary><strong>Vinculum Magnum, Blood Sorcery 2 (Courts of the Damned pp.214-215)</strong></summary>
 
 **Cost:** None
 
@@ -2621,7 +2621,7 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Of Potency, Blood Sorcery 3 (Core pp.273-274)</strong></mark></summary>
+<summary><strong>Blood Of Potency, Blood Sorcery 3 (Core pp.273-274)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2635,7 +2635,7 @@ Their perceptions focus through their chosen element. For example, a fire-bonded
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ripples of the Heart, Blood Sorcery 3 (Blood-Stained Love p.153)</strong></mark></summary>
+<summary><strong>Ripples of the Heart, Blood Sorcery 3 (Blood-Stained Love p.153)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2647,7 +2647,7 @@ Alternatively, the user may augment or reduce the target’s blood Resonance. Th
 
 <details>
 
-<summary><mark style="color:red;"><strong>Scorpion’s Touch, Blood Sorcery 3 (Core p.274)</strong></mark></summary>
+<summary><strong>Scorpion’s Touch, Blood Sorcery 3 (Core p.274)</strong></summary>
 
 **Cost:** One or more Rouse Checks
 
@@ -2663,7 +2663,7 @@ If the poison hits, the user rolls a contest of Strength + Blood Sorcery vs Stam
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Aegis, Blood Sorcery 4 (Players Guide p.98)</strong></mark></summary>
+<summary><strong>Blood Aegis, Blood Sorcery 4 (Players Guide p.98)</strong></summary>
 
 **Cost:** One or more Rouse Checks
 
@@ -2675,7 +2675,7 @@ If the poison hits, the user rolls a contest of Strength + Blood Sorcery vs Stam
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Transitive Bond</strong></mark><strong> </strong><mark style="color:yellow;"><strong>(Sabbat: The Black Hand pp.49-50)</strong></mark></summary>
+<summary><strong>Transitive Bond, Blood Sorcery 3 (Sabbat: The Black Hand pp.49-50)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2687,7 +2687,7 @@ If the poison hits, the user rolls a contest of Strength + Blood Sorcery vs Stam
 
 <details>
 
-<summary><mark style="color:red;"><strong>Fulminating Vitae, Blood Sorcery 4 (Tattered Facade pp.92-93)</strong></mark></summary>
+<summary><strong>Fulminating Vitae, Blood Sorcery 4 (Tattered Facade pp.92-93)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -2703,7 +2703,7 @@ Anyone taking damage from this Power also is affected by the vitae as though the
 
 <details>
 
-<summary><mark style="color:red;"><strong>Marionette, Blood Sorcery 4 (Tattered Facade p.93)</strong></mark></summary>
+<summary><strong>Marionette, Blood Sorcery 4 (Tattered Facade p.93)</strong></summary>
 
 **Prerequisite:** [<mark style="color:purple;">Shape the Sanguine Sacrament</mark>](https://wiki.capetownvtm.com/~/changes/150/material-availability/powers#shape-the-sanguine-sacrament-blood-sorcery-1-tattered-facade-p.92)
 
@@ -2723,7 +2723,7 @@ During the process, the sorcerer must maintain concentration — simple movement
 
 <details>
 
-<summary><mark style="color:red;"><strong>Theft Of Vitae, Blood Sorcery 4 (Core p.274)</strong></mark></summary>
+<summary><strong>Theft Of Vitae, Blood Sorcery 4 (Core p.274)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2737,7 +2737,7 @@ During the process, the sorcerer must maintain concentration — simple movement
 
 <details>
 
-<summary><mark style="color:red;"><strong>Baal’s Caress, Blood Sorcery 5 (Core pp.274-275)</strong></mark></summary>
+<summary><strong>Baal’s Caress, Blood Sorcery 5 (Core pp.274-275)</strong></summary>
 
 **Cost:** One or more Rouse Checks
 
@@ -2755,7 +2755,7 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
-<summary><mark style="color:red;"><strong>Cauldron Of Blood, Blood Sorcery 5 (Core p.275)</strong></mark></summary>
+<summary><strong>Cauldron Of Blood, Blood Sorcery 5 (Core p.275)</strong></summary>
 
 **Cost:** One Rouse Check and gain one (or more) Stains
 
@@ -2769,7 +2769,7 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
-<summary><mark style="color:yellow;"><strong>Reclamation of Vitae</strong></mark><strong> </strong><mark style="color:yellow;"><strong>(Sabbat: The Black Hand p.50)</strong></mark></summary>
+<summary><strong>Reclamation of Vitae, Blood Sorcery 5 (Sabbat: The Black Hand p.50)</strong></summary>
 
 **Cost:** One or more Stains (when called to return)
 
@@ -2783,7 +2783,7 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
-<summary><mark style="color:red;"><strong>Ashes to Ashes, Oblivion 1 (Players Guide p.85)</strong></mark></summary>
+<summary><strong>Ashes to Ashes, Oblivion 1 (Players Guide p.85)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2797,7 +2797,7 @@ If a vampire target takes Aggravated damage from this poison, the user rolls the
 
 <details>
 
-<summary><mark style="color:red;"><strong>Oblivion's Sight, Oblivion 1 (Players Guide p.85)</strong></mark></summary>
+<summary><strong>Oblivion's Sight, Oblivion 1 (Players Guide p.85)</strong></summary>
 
 **Cost:** Free
 
@@ -2813,7 +2813,7 @@ This power does not grant the ability to make physical contact with ghosts, and 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shadow Cloak, Oblivion 1 (Players Guide pp.85-86)</strong></mark></summary>
+<summary><strong>Shadow Cloak, Oblivion 1 (Players Guide pp.85-86)</strong></summary>
 
 **Cost:** Free
 
@@ -2827,7 +2827,7 @@ This power does not grant the ability to make physical contact with ghosts, and 
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Binding Fetter, Oblivion 1 (Players Guide p.85)</strong></mark></summary>
+<summary><strong>The Binding Fetter, Oblivion 1 (Players Guide p.85)</strong></summary>
 
 **Cost:** Free
 
@@ -2889,7 +2889,7 @@ If anyone attempts to subvert the fate observed in this way, they find everythin
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shadow Cast, Oblivion 2 (Players Guide p.87)</strong></mark></summary>
+<summary><strong>Shadow Cast, Oblivion 2 (Players Guide p.87)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2901,7 +2901,7 @@ If anyone attempts to subvert the fate observed in this way, they find everythin
 
 <details>
 
-<summary><mark style="color:red;"><strong>Where the Veil Thins, Oblivion 2 (Players Guide pp.87-88)</strong></mark></summary>
+<summary><strong>Where the Veil Thins, Oblivion 2 (Players Guide pp.87-88)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2919,7 +2919,7 @@ Without use of this power, Oblivion users cannot benefit from a thinning of the 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Aura of Decay, Oblivion 3 (Players Guide p.88)</strong></mark></summary>
+<summary><strong>Aura of Decay, Oblivion 3 (Players Guide p.88)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2951,7 +2951,7 @@ The power is an aura that lasts for an entire scene before it fades away. Anyone
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shadow Perspective, Oblivion 3 (Players Guide p.89)</strong></mark></summary>
+<summary><strong>Shadow Perspective, Oblivion 3 (Players Guide p.89)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2963,7 +2963,7 @@ The power is an aura that lasts for an entire scene before it fades away. Anyone
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shadow Servant, Oblivion 3 + Auspex 1 (Players Guide p.89)</strong></mark></summary>
+<summary><strong>Shadow Servant, Oblivion 3 + Auspex 1 (Players Guide p.89)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2977,7 +2977,7 @@ The power is an aura that lasts for an entire scene before it fades away. Anyone
 
 <details>
 
-<summary><mark style="color:red;"><strong>Touch of Oblivion, Oblivion 3 (Players Guide p.89)</strong></mark></summary>
+<summary><strong>Touch of Oblivion, Oblivion 3 (Players Guide p.89)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -2993,7 +2993,7 @@ If this injury is inflicted to an arm or leg, the targeted limb is rendered crip
 
 <details>
 
-<summary><mark style="color:red;"><strong>Necrotic Plague, Oblivion 4 (Players Guide pp.89-90)</strong></mark></summary>
+<summary><strong>Necrotic Plague, Oblivion 4 (Players Guide pp.89-90)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -3013,7 +3013,7 @@ Use of this power warrants Stains, at the Storyteller’s discretion.
 
 <details>
 
-<summary><mark style="color:red;"><strong>Profane the Sanctified, Oblivion 4 (Tattered Facade p.100)</strong></mark></summary>
+<summary><strong>Profane the Sanctified, Oblivion 4 (Tattered Facade p.100)</strong></summary>
 
 **Prerequisite:** <mark style="color:purple;">Aura of Decay</mark> or <mark style="color:purple;">Touch of Oblivion</mark>
 
@@ -3031,7 +3031,7 @@ If the user has a religious Conviction with this attack, the use of this Power i
 
 <details>
 
-<summary><mark style="color:red;"><strong>Stygian Shroud, Oblivion 4 (Players Guide p.90)</strong></mark></summary>
+<summary><strong>Stygian Shroud, Oblivion 4 (Players Guide p.90)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -3045,7 +3045,7 @@ Anyone caught in the Stygian Shroud receives a three-dice penalty to all rolls, 
 
 <details>
 
-<summary><mark style="color:red;"><strong>Shadow Step, Oblivion 5 (Players Guide pp.90-91)</strong></mark></summary>
+<summary><strong>Shadow Step, Oblivion 5 (Players Guide pp.90-91)</strong></summary>
 
 **Cost:** One Rouse Check
 
@@ -3059,7 +3059,7 @@ It is possible to bring another through the passage, but unless that person is w
 
 <details>
 
-<summary><mark style="color:red;"><strong>Skuld Fulfilled, Oblivion 5 (Players Guide p.91)</strong></mark></summary>
+<summary><strong>Skuld Fulfilled, Oblivion 5 (Players Guide p.91)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -3073,7 +3073,7 @@ It is possible to bring another through the passage, but unless that person is w
 
 <details>
 
-<summary><mark style="color:red;"><strong>Tenebrous Avatar, Oblivion 5 (Players Guide p.91)</strong></mark></summary>
+<summary><strong>Tenebrous Avatar, Oblivion 5 (Players Guide p.91)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -3089,7 +3089,7 @@ Practitioners of this power take no damage from physical sources but can be harm
 
 <details>
 
-<summary><mark style="color:red;"><strong>The Darkness Within, Oblivion 5 (Tattered Facade pp.100-101)</strong></mark></summary>
+<summary><strong>The Darkness Within, Oblivion 5 (Tattered Facade pp.100-101)</strong></summary>
 
 **Cost:** Two Rouse Checks
 
@@ -3105,7 +3105,7 @@ The entity possesses the same Physical Attributes and Skills as its host, no Wil
 
 <details>
 
-<summary><mark style="color:red;"><strong>Withering Spirit, Oblivion 5 (Cults of the Blood Gods p.208)</strong></mark></summary>
+<summary><strong>Withering Spirit, Oblivion 5 (Cults of the Blood Gods p.208)</strong></summary>
 
 **Cost:** Two Rouse Checks, Stains (variable amount)
 

@@ -4,11 +4,13 @@ At character creation, a player can choose one Level 1 ritual if they have at le
 
 Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes per level to cast, and a winning Intelligence + Blood Sorcery test (Difficulty = Ritual level + 1). Rituals usually require additional ingredients, though some need only the uninterrupted concentration of the user, and often involve the mingling of Blood with ingredients chosen according to the principles of sympathetic magic or alchemy. Unless otherwise stated the caster can only perform beneficial rituals on themselves.&#x20;
 
+Rituals that have prerequisite powers will be marked in <mark style="color:purple;">blue</mark> and will also link to the specific power itself.
+
 ## Level 1
 
 <details>
 
-<summary><mark style="color:red;"><strong>Astromancy (Blood Sigils pp.59-60)</strong></mark></summary>
+<summary><mark style="color:$info;"><strong>Astromancy (Blood Sigils pp.59-60)</strong></mark></summary>
 
 **Ingredients:** The night sky; a silver mirror or platter; the blood, hair, spit, or flesh of the target
 
@@ -20,7 +22,7 @@ Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes
 
 <details>
 
-<summary><mark style="color:red;"><strong>Beelzebeatit (Sabbat: The Black Hand p.50)</strong></mark></summary>
+<summary><strong>Beelzebeatit (Sabbat: The Black Hand p.50)</strong></summary>
 
 **Ingredients:** Vinegar or alcohol
 
@@ -32,7 +34,7 @@ Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes
 
 <details>
 
-<summary><mark style="color:red;"><strong>Bind the Accusing Tongue (Blood Sigils pp.60-62)</strong></mark></summary>
+<summary><strong>Bind the Accusing Tongue (Blood Sigils pp.60-62)</strong></summary>
 
 **Ingredients:** A picture, effigy, or image of the target, a lock of the target’s hair, a black silken cord.
 
@@ -44,7 +46,7 @@ Unless otherwise noted, performing a ritual requires a Rouse Check, five minutes
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Missive (</strong><strong>Live From the Succubus Club p.29</strong><strong>)</strong></mark></summary>
+<summary><strong>Blood Missive (Live From the Succubus Club p.29)</strong></summary>
 
 **Ingredients:** A drop of mercury and one rouse check’s worth of Blood.
 
@@ -60,7 +62,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood to Water (Gehenna War p.48)</strong></mark></summary>
+<summary><strong>Blood to Water (Gehenna War p.48)</strong></summary>
 
 **Ingredients:** Pure water, whether from a natural spring or purified mechanically.
 
@@ -72,7 +74,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Blood Walk (Core p.276)</strong></mark></summary>
+<summary><strong>Blood Walk (Core p.276)</strong></summary>
 
 **IIngredients:** A silver cup filled with Blood from the subject. (One Rouse Check’s worth).
 
@@ -84,7 +86,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Clinging Of The Insect (Core p.276)</strong></mark></summary>
+<summary><strong>Clinging Of The Insect (Core p.276)</strong></summary>
 
 **Ingredients:** A living spider.
 
@@ -96,7 +98,7 @@ The first person to consume the ensorcelled Blood from the messenger automatical
 
 <details>
 
-<summary><mark style="color:red;"><strong>Coax the Garden (Cults of the Blood Gods p.55)</strong></mark></summary>
+<summary><strong>Coax the Garden (Cults of the Blood Gods p.55)</strong></summary>
 
 **Ingredients:** Human blood, poppy seeds.
 
@@ -632,6 +634,18 @@ This Ritual cannot pierce Cloud Memory, the Forgetful Mind, or other memory-wipi
 
 <details>
 
+<summary><mark style="color:red;"><strong>Galvanic Ruination (Sabbat: The Black Hand p.51)</strong></mark></summary>
+
+**Ingredients:** A copper coin
+
+**Process:** The caster smears their Blood on the coin, drops it to the ground and grinds their foot on it, as if they were extinguishing a cigarette. If the Ritual is successful, the coin shatters like porcelain as a Blood-borne current ravages the electrical systems of the surrounding area.
+
+**System:** The Ritual instantly wrecks wiring in the vicinity to the extent that all electrical equipment ceases to function. This includes isolated circuits such as cars on batteries and any backup generators running or starting up within a minute of the casting. The area affected is equivalent to a large warehouse or a three-story building, though it can be extended at casting by adding a level of Difficulty for each additional building or building-equivalent. On a critical win the outage is relatively discreet, but will otherwise cause at least one fire, together with random bursts of static electricity raising hell with speakers, car alarms, and other loud electrical objects.
+
+</details>
+
+<details>
+
 <summary><mark style="color:red;"><strong>Gentle Mind (The Chicago Folios p.172)</strong></mark></summary>
 
 **Ingredients:** Crystal glass, Kindred vitae.
@@ -917,18 +931,6 @@ Sense the Unseen (Auspex 1) can detect the caster with a contest of Wits + Auspe
 **Process:** The caster writes the name of their target on a piece of parchment and burns it. They collect the ashes and use their own Blood mixed with the ashes to write the sigils required to perform the Ritual.
 
 **System:** Make a Ritual roll versus the target’s Resolve + Willpower. On a successful roll, the target cannot consume blood for one night, vomiting it up as if it were mortal food and drink. Only ashes sate their Hunger and cannot bring it lower than 3, though few victims think of eating ashes unless told of the spell.
-
-</details>
-
-<details>
-
-<summary><mark style="color:red;"><strong>Galvanic Ruination (Sabbat: The Black Hand p.51)</strong></mark></summary>
-
-**Ingredients:** A copper coin
-
-**Process:** The caster smears their Blood on the coin, drops it to the ground and grinds their foot on it, as if they were extinguishing a cigarette. If the Ritual is successful, the coin shatters like porcelain as a Blood-borne current ravages the electrical systems of the surrounding area.
-
-**System:** The Ritual instantly wrecks wiring in the vicinity to the extent that all electrical equipment ceases to function. This includes isolated circuits such as cars on batteries and any backup generators running or starting up within a minute of the casting. The area affected is equivalent to a large warehouse or a three-story building, though it can be extended at casting by adding a level of Difficulty for each additional building or building-equivalent. On a critical win the outage is relatively discreet, but will otherwise cause at least one fire, together with random bursts of static electricity raising hell with speakers, car alarms, and other loud electrical objects.
 
 </details>
 

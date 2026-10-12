@@ -18,9 +18,9 @@ For regular Loresheets, see [<mark style="color:red;">Loresheets</mark>](https:/
 | [<mark style="color:purple;">Players Guide</mark>](bloodlines.md#players-guide)                                                                   | pp.223-229  |
 | [<mark style="color:purple;">Blood Sigils</mark>](bloodlines.md#blood-sigils)                                                                     | p.177       |
 | [<mark style="color:purple;">In Memoriam</mark>](bloodlines.md#in-memoriam)                                                                       | pp.149-153  |
-| [<mark style="color:purple;">Tattered Facade</mark>](bloodlines.md#tattered-facade)                                                               |             |
+| [<mark style="color:purple;">Tattered Facade</mark>](bloodlines.md#tattered-facade)                                                               | pp.171-174  |
 | [<mark style="color:purple;">Live From the Succubus Club</mark>](bloodlines.md#live-from-the-succubus-club)                                       | pp.158-161  |
-| <mark style="color:purple;">Courts of the Damned</mark>                                                                                           | pp.218-222  |
+| [<mark style="color:purple;">Courts of the Damned</mark>](bloodlines.md#courts-of-the-damned)                                                     | pp.218-222  |
 
 ## Core
 

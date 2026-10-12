@@ -25,6 +25,7 @@
 
 ## Material Availability
 
+* [Predator Types](material-availability/predator-types.md)
 * [Powers](material-availability/powers/README.md)
   * [Blood Sorcery Rituals](material-availability/powers/blood-sorcery-rituals.md)
   * [Oblivion Ceremonies](material-availability/powers/oblivion-ceremonies.md)
