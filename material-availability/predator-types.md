@@ -38,7 +38,7 @@
 
 <details>
 
-<summary><mark style="color:red;"><strong>Cleaver (Core pp.176-177)</strong></mark></summary>
+<summary><strong>Cleaver (Core pp.176-177)</strong></summary>
 
 _You feed covertly from your (or&#x20;someone’s) mortal family and&#x20;friends with whom you still maintain ties. The most extreme cleavers&#x20;adopt children, marry a human,&#x20;and try to maintain a family life&#x20;for as long as they can._
 
@@ -50,7 +50,7 @@ _Cleavers often go to great&#x20;lengths to keep the truth of their&#x20;condi
 
 **Merits:** Two dots of [Herd](advantages-and-flaws/#herd-core-pp.189-190)
 
-**Flaws:** Dark Secret, [Cleaver](advantages-and-flaws/#dark-secret-core-p.187)&#x20;
+**Flaws:** Dark Secret; [Cleaver](advantages-and-flaws/#dark-secret-core-p.187)&#x20;
 
 **Pool:** _Manipulation + Subterfuge_
 
@@ -58,13 +58,19 @@ _Cleavers often go to great&#x20;lengths to keep the truth of their&#x20;condi
 
 <details>
 
-<summary>consensualist Core p.177</summary>
+<summary><strong>Consensualist (Core p.177)</strong></summary>
 
-_Specialty:_ Persuasion (_Gaslighting_) or Subterfuge (_Coverups_)\
-_Discipline Choice:_ Dominate or Animalism \
-_Merits:_ Herd Advantage (••) \
-_Flaws:_ Dark Secret Flaw: (•)Cleaver \
-_Pool:Manipulation + Subterfuge_
+_You never feed against your victim’s free will. You masquerade as a representative of a charity blood drive, as&#x20;a blood-drinking kink-lord in the “real vampire community,” or by actually telling your victims what you&#x20;are and getting their permission to feed. The Camarilla&#x20;call that last method a Masquerade breach, but many&#x20;Anarch philosophers consider it an acceptable risk.&#x20;You could have been anything in life, but a sex-worker,&#x20;a political organizer, or a lawyer could all be wary of&#x20;feeding without consent._
+
+**Specialty**: Medicine _(Phlebotomy)_ or Persuasion _(Victims)_&#x20;
+
+**Discipline Choice:** [Auspex](powers/#auspex) or [Fortitude](powers/#fortitude)
+
+**Merits:** Gain one dot of Humanity
+
+**Flaws:** Dark Secret; [Masquerade&#x20;Breacher](advantages-and-flaws/#dark-secret-core-p.187), Feeding; [Prey Exclusion](advantages-and-flaws/#prey-exclusion-core-pp.181-182) (_non-consenting_)
+
+**Pool:** _Manipulation + Persuasion_&#x20;
 
 </details>
 
